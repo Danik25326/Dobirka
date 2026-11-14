@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T22:30:57+00:00",
+ "updated": "2026-11-14T22:40:38+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -281,6 +281,20 @@
   }
  ],
  "items": [
+  {
+   "t": "Захист пріоритетних підстанцій на Київщині готовий на 55% — міністр Калашник",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/energetics/zakhist-prioritetnikh-pidstantsij-na-kijivshchini-hotovij-na-55-ministr-kalashnik.html",
+   "x": "Виконання договорів і контролював його колишній заступник Руслан Олійник.",
+   "i": "https://zn.ua/img/article/7039/64_main.webp",
+   "d": "2026-11-14T22:30:32+00:00",
+   "c": [
+    "statti"
+   ],
+   "r": [
+    "kyivska"
+   ]
+  },
   {
    "t": "Різдвяний піст: які обмеження діють",
    "s": "ZN.UA",
@@ -586,17 +600,6 @@
    ]
   },
   {
-   "t": "Північна Ірландія — Україна: онлайн трансляція матчу Ліги націй з футболу",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/sport/1453041-pivnicna-irlandia-ukraina-onlajn-translacia-matcu-ligi-nacij/",
-   "x": "Північна Ірландія — Україна: стежте за текстовою онлайн-трансляцією матчу Ліги націй з футболу — рахунок, голи, небезпечні моменти та найважливіші події гри",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T21:01:34+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "У Києві вже будують понтонні переправи, на тунель під Дніпром треба 500 млн євро – міністр",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/14/8062901/",
@@ -859,21 +862,6 @@
    "d": "2026-11-14T20:02:04+00:00",
    "c": [
     "holovne"
-   ]
-  },
-  {
-   "t": "Поблизу Яготина загорілася вантажівка, яка перевозила газовий конденсат",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/kyiv/1453126-poblizu-agotina-zagorilasa-vantazivka-aka-perevozila-gazovij-kondensat/",
-   "x": "На трасі Київ — Харків поблизу Яготина перекинулася та загорілася вантажівка, що перевозила газовий конденсат. Рух на трасі перекрито в обох напрямках",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T20:00:10+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "kyiv",
-    "kharkiv"
    ]
   },
   {
@@ -1248,6 +1236,17 @@
    ]
   },
   {
+   "t": "Україна вдруге програла Північній Ірландії в Лізі націй: як це було",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sport/1453041-pivnicna-irlandia-ukraina-onlajn-translacia-matcu-ligi-nacij/",
+   "x": "Північна Ірландія — Україна: стежте за текстовою онлайн-трансляцією матчу Ліги націй з футболу — рахунок, голи, небезпечні моменти та найважливіші події гри",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-14T19:01:34+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "Північна Ірландія — Україна: час початку матчу Ліги націй, де дивитися трансляцію",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/SPORT/pivnichna-irlandija-ukrajina-chas-pochatku-matchu-lihi-natsij-de-divitisja-transljatsiju.html",
@@ -1269,17 +1268,6 @@
    ],
    "r": [
     "sumy"
-   ]
-  },
-  {
-   "t": "Щонайменше три удари по об'єкту інфраструктури: армія РФ атакувала Новгород-Сіверський",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/chernihiv/1453115-sonajmense-tri-udari-po-obektu-infrastrukturi-armia-rf-atakuvala-novgorod-siverskij/",
-   "x": "Російські війська ввечері 14 листопада атакували об'єкт цивільної інфраструктури у Новгороді-Сіверському щонайменше трьома безпілотниками",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T19:00:36+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
@@ -1727,6 +1715,21 @@
    ]
   },
   {
+   "t": "Поблизу Яготина загорілася вантажівка, яка перевозила газовий конденсат",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/kyiv/1453126-poblizu-agotina-zagorilasa-vantazivka-aka-perevozila-gazovij-kondensat/",
+   "x": "На трасі Київ — Харків поблизу Яготина перекинулася та загорілася вантажівка, що перевозила газовий конденсат. Рух на трасі перекрито в обох напрямках",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-14T18:00:10+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kyiv",
+    "kharkiv"
+   ]
+  },
+  {
    "t": "Якою буде погода в Одесі та області 15 листопада",
    "s": "Суспільне",
    "u": "https://suspilne.media/odesa/1453043-akou-bude-pogoda-v-odesi-ta-oblasti-15-listopada/",
@@ -1987,6 +1990,17 @@
    ]
   },
   {
+   "t": "Щонайменше три удари по об'єкту інфраструктури: армія РФ атакувала Новгород-Сіверський",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/chernihiv/1453115-sonajmense-tri-udari-po-obektu-infrastrukturi-armia-rf-atakuvala-novgorod-siverskij/",
+   "x": "Російські війська ввечері 14 листопада атакували об'єкт цивільної інфраструктури у Новгороді-Сіверському щонайменше трьома безпілотниками",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-14T17:00:36+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "Путін хоче переписати кордони України, а Трамп – зняти санкції: Україну можуть готувати до небезпечної угоди",
    "s": "24 Канал",
    "u": "https://24tv.ua/mirna-ugoda-ukrayini-rosiyi-chomu-putin-hoche-zabrati-5-oblastey_n3180336",
@@ -2006,17 +2020,6 @@
    "c": [
     "holovne",
     "polityka"
-   ]
-  },
-  {
-   "t": "Боєприпаси для F-16, дрони та підтримка енергетики: про що домовився Зеленський у Данії",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/POLITICS/bojepripasi-dlja-f-16-droni-ta-pidtrimka-enerhetiki-pro-shcho-domovivsja-zelenskij-u-daniji.html",
-   "x": "Президент розповів про результати переговорів із європейськими партнерами та назвав потреби України напередодні зими.",
-   "i": "https://zn.ua/img/article/7039/39_main.webp",
-   "d": "2026-11-14T16:34:00+00:00",
-   "c": [
-    "statti"
    ]
   },
   {
