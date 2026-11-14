@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T19:20:45+00:00",
+ "updated": "2026-11-14T19:30:57+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -176,14 +176,18 @@
      "u": "https://24tv.ua/economy/udar-droniv-po-obyektu-naftogazu-poltavshhini-shho-vidomo-pro_n3180481"
     }
    ],
-   "d": "2026-11-14T19:06:13+00:00"
+   "d": "2026-11-14T19:06:00+00:00"
   },
   {
-   "t": "Північна Ірландія — Україна: час початку матчу Ліги націй, де дивитися трансляцію",
-   "u": "https://zn.ua/ukr/SPORT/pivnichna-irlandija-ukrajina-chas-pochatku-matchu-lihi-natsij-de-divitisja-transljatsiju.html",
-   "i": "https://zn.ua/img/article/7038/63_main.webp",
+   "t": "Північна Ірландія — Україна: онлайн трансляція матчу Ліги націй з футболу",
+   "u": "https://suspilne.media/sport/1453041-pivnicna-irlandia-ukraina-onlajn-translacia-matcu-ligi-nacij/",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
    "n": 3,
    "l": [
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/sport/1453041-pivnicna-irlandia-ukraina-onlajn-translacia-matcu-ligi-nacij/"
+    },
     {
      "s": "ZN.UA",
      "u": "https://zn.ua/ukr/SPORT/pivnichna-irlandija-ukrajina-chas-pochatku-matchu-lihi-natsij-de-divitisja-transljatsiju.html"
@@ -191,13 +195,9 @@
     {
      "s": "24 Канал",
      "u": "https://24tv.ua/sporttopnews/pivnichna-irlandiya-ukrayina-onlayn-translyatsiya-matchu-ligi_n3176806"
-    },
-    {
-     "s": "Суспільне",
-     "u": "https://suspilne.media/sport/1453041-pivnicna-irlandia-ukraina-onlajn-translacia-matcu-ligi-nacij/"
     }
    ],
-   "d": "2026-11-14T19:01:00+00:00"
+   "d": "2026-11-14T19:27:27+00:00"
   },
   {
    "t": "В Італії оштрафували Meta на 805 млн євро через доступ до даних користувачів Facebook",
@@ -269,6 +269,45 @@
   }
  ],
  "items": [
+  {
+   "t": "У Боровій через російський удар загинув чоловік",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/kharkiv/1453119-u-borovij-cerez-rosijskij-udar-zaginuv-colovik/",
+   "x": "У Боровій Ізюмського району через російський удар вдень 14 листопада загинув 67-річний чоловік, повідомили у пресслужбі Харківської обласної прокуратури",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-14T19:27:50+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kharkiv"
+   ]
+  },
+  {
+   "t": "Північна Ірландія — Україна: онлайн трансляція матчу Ліги націй з футболу",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sport/1453041-pivnicna-irlandia-ukraina-onlajn-translacia-matcu-ligi-nacij/",
+   "x": "Північна Ірландія — Україна: стежте за текстовою онлайн-трансляцією матчу Ліги націй з футболу — рахунок, голи, небезпечні моменти та найважливіші події гри",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-14T19:27:27+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Сили оборони України спростували заяви РФ про «захоплення» Воскресенки Запорізької області — ЦПД",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/zaporizhzhia/1453106-sili-oboroni-ukraini-sprostuvali-zaavi-rf-pro-zahoplenna-voskresenki-zaporizkoi-oblasti-cpd/",
+   "x": "Воскресенка Запорізької області залишається під контролем Сил оборони: у ЦПД спростували заяви РФ про нібито захоплення населеного пункту",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-14T19:21:49+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "zaporizhzhia"
+   ]
+  },
   {
    "t": "Понад 100 000 людей знову вийшли на протести проти цін у Франції",
    "s": "24 Канал",
@@ -363,7 +402,7 @@
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/UKRAINE/rosijski-droni-vluchili-v-objekt-naftohazu-na-poltavshchini-spalakhnula-masshtabna-pozhezha.html",
    "i": "https://zn.ua/img/article/7039/49_main.webp",
-   "d": "2026-11-14T19:06:13+00:00",
+   "d": "2026-11-14T19:06:00+00:00",
    "c": [
     "statti"
    ],
@@ -538,10 +577,10 @@
    ]
   },
   {
-   "t": "“Автомагістраль-Південь” та “Автострада” будують дублюючі мостові переходи в Києві - Калашник",
+   "t": "“Автомагістраль-Південь” та “Автострада” будують дублювальні мостові переходи в Києві - Калашник",
    "s": "Інтерфакс-Україна",
    "u": "https://interfax.com.ua/news/general/1236642.html",
-   "x": "Два дублюючі мостові переходи згідно плану мають бути запущені в Києві вже взимку, роботи на них вже виконують “Автомагістраль-Південь” та “Автострада”, повідомив Міністр з відновлення, інфраструктури та транспорту…",
+   "x": "Два дублювальні мостові переходи згідно плану мають бути запущені в Києві вже взимку, роботи на них вже виконують “Автомагістраль-Південь” та “Автострада”, повідомив Міністр з відновлення, інфраструктури та транспорту…",
    "i": "https://media.interfax.com.ua/media/thumbs/images/2026/11/crnej/HzSVuL1lqfuE.jpg",
    "d": "2026-11-14T18:49:46+00:00",
    "c": [
@@ -634,21 +673,6 @@
    "d": "2026-11-14T18:42:00+00:00",
    "c": [
     "statti"
-   ]
-  },
-  {
-   "t": "Мінінфраструктури повідомило, коли можуть відновити рух Південним мостом",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/kyiv/1453107-mininfrastrukturi-povidomilo-koli-mozut-vidnoviti-ruh-pivdennim-mostom/",
-   "x": "Міністр інфраструктури Калашник заявив, що для відновлення руху Південним мостом у Києві необхідно 2–3 місяці. Також він повідомив, що понтонні переправи через річку Дніпро у Києві вже будують",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T18:40:19+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "kyiv",
-    "dnipro"
    ]
   },
   {
@@ -1031,6 +1055,17 @@
    ]
   },
   {
+   "t": "Північна Ірландія — Україна: анонс, де і коли дивитися матч Ліги націй",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/SPORT/pivnichna-irlandija-ukrajina-anons-de-i-koli-divitisja-match-lihi-natsij.html",
+   "x": "Українці продовжують боротьбу в турнірі УЄФА.",
+   "i": "https://zn.ua/img/article/7033/17_main.webp",
+   "d": "2026-11-14T17:48:00+00:00",
+   "c": [
+    "statti"
+   ]
+  },
+  {
    "t": "У Краматорську та Словʼянську поранення від обстрілів дістали двоє людей — прокуратура",
    "s": "Суспільне",
    "u": "https://suspilne.media/donbas/1453094-u-kramatorsku-ta-slovansku-poranenna-vid-obstriliv-distali-dvoe-ludej-prokuratura/",
@@ -1199,17 +1234,6 @@
    ]
   },
   {
-   "t": "Північна Ірландія — Україна: онлайн трансляція матчу Ліги націй з футболу",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/sport/1453041-pivnicna-irlandia-ukraina-onlajn-translacia-matcu-ligi-nacij/",
-   "x": "Північна Ірландія — Україна: стежте за текстовою онлайн-трансляцією матчу Ліги націй з футболу — рахунок, голи, небезпечні моменти та найважливіші події гри",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T17:30:52+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "Куба готується до можливого військового нападу США, – ЗМІ",
    "s": "24 Канал",
    "u": "https://24tv.ua/geopolitics/kuba-gotuyetsya-do-mozhlivoyi-agresiyi-ssha-zayava-diasa-kanelya_n3180584",
@@ -1300,20 +1324,6 @@
    ]
   },
   {
-   "t": "Втратив зір на фронті та чекає брата з полону: ветеран з Хмельниччини про реабілітацю і побут із собакою-поводирем",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/khmelnytskiy/1451989-vtrativ-zir-na-fronti-ta-cekae-brata-z-polonu-veteran-z-hmelniccini-pro-reabilitacu-i-pobut-iz-sobakou-povodirem/",
-   "x": "34-річний ветеран Сергій Лемешев із села Маниківці на Хмельниччині втратив зір на фронті, переніс понад десять операцій і пройшов тривалу реабілітацію. Нині він шукає способи повернути з російського полону старшого брата",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T17:14:20+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "khmelnytskyi"
-   ]
-  },
-  {
    "t": "Росіяни вдарили по об'єкту інфраструктури на Чернігівщині: є загиблі та поранений",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/14/8062888/",
@@ -1326,17 +1336,6 @@
    ],
    "r": [
     "chernihiv"
-   ]
-  },
-  {
-   "t": "«Більшість гинули, коли йшли по продукти»: історія чоловіка, який виїхав з Олешків (Відео)",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1453089-bilsist-ginuli-koli-jsli-po-produkti-istoria-colovika-akij-viihav-z-oleskiv-video/",
-   "x": "Олександр розповів про будні в окупованому місті, голод, який довелося пережити, та те, як загиблі люди лежали на дорогах. Що допомогло подружжю вижити в окупації та яким був їхній шлях до евакуації — в матеріалі…",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T17:12:55+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
@@ -1438,6 +1437,21 @@
    "d": "2026-11-14T16:41:00+00:00",
    "c": [
     "holovne"
+   ]
+  },
+  {
+   "t": "Мінінфраструктури повідомило, коли можуть відновити рух Південним мостом",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/kyiv/1453107-mininfrastrukturi-povidomilo-koli-mozut-vidnoviti-ruh-pivdennim-mostom/",
+   "x": "Міністр інфраструктури Калашник заявив, що для відновлення руху Південним мостом у Києві необхідно 2–3 місяці. Також він повідомив, що понтонні переправи через річку Дніпро у Києві вже будують",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-14T16:40:19+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kyiv",
+    "dnipro"
    ]
   },
   {
@@ -1602,15 +1616,6 @@
    ]
   },
   {
-   "t": "Сербія відкриває нафтові резерви, щоб врятувати свій єдиний НПЗ",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/svit/serbiya-vidkrivaye-naftovi-rezervi-dlya-poryatunku-yedinogo-npz-827651/",
-   "d": "2026-11-14T16:00:00+00:00",
-   "c": [
-    "ekonomika"
-   ]
-  },
-  {
    "t": "Дрон атакував комерційне судно під прапором Палау біля берегів Румунії",
    "s": "24 Канал",
    "u": "https://24tv.ua/ataka-drona-vantazhne-sudno-larissa-1-13-listopada-teritorialnih_n3180541",
@@ -1719,15 +1724,6 @@
    "d": "2026-11-14T15:26:37+00:00",
    "c": [
     "holovne"
-   ]
-  },
-  {
-   "t": "Хуанг приховував від керівництва Nvidia роман із імовірною шпигункою",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/svit/huang-prihovuvav-roman-vid-kerivnictva-nvidia-827650/",
-   "d": "2026-11-14T15:25:00+00:00",
-   "c": [
-    "ekonomika"
    ]
   },
   {
@@ -1890,15 +1886,6 @@
    ]
   },
   {
-   "t": "Компанії Трампа загрожує боргова криза на $1 мільярд на тлі падіння біткоїна",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/svit/kompaniya-trampa-mozhe-prodavati-bitkojini-dlya-pogashennya-borgu-827649/",
-   "d": "2026-11-14T14:40:00+00:00",
-   "c": [
-    "ekonomika"
-   ]
-  },
-  {
    "t": "Голови МЗС України та Єгипту обговорили питання морської безпеки та свободи судноплавства",
    "s": "Інтерфакс-Україна",
    "u": "https://interfax.com.ua/news/general/1236613.html",
@@ -1976,17 +1963,6 @@
    "d": "2026-11-14T14:11:00+00:00",
    "c": [
     "holovne"
-   ]
-  },
-  {
-   "t": "Північна Ірландія — Україна: анонс, де і коли дивитися матч Ліги націй",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/SPORT/pivnichna-irlandija-ukrajina-anons-de-i-koli-divitisja-match-lihi-natsij.html",
-   "x": "Українці продовжують боротьбу в турнірі УЄФА.",
-   "i": "https://zn.ua/img/article/7033/17_main.webp",
-   "d": "2026-11-14T14:06:00+00:00",
-   "c": [
-    "statti"
    ]
   },
   {
@@ -2171,15 +2147,6 @@
    ]
   },
   {
-   "t": "СБУ вдарила по ключовому вузлу підготовки нафти РФ на експорт",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/energetika/sbu-urazila-stanciyu-samara-de-gotuyut-eksportnu-naftu-urals-827647/",
-   "d": "2026-11-14T13:30:00+00:00",
-   "c": [
-    "ekonomika"
-   ]
-  },
-  {
    "t": "Зеленський: Ідея переглянути архітектуру безпеки в Європі небезпечна",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/14/8062863/",
@@ -2306,16 +2273,6 @@
    ],
    "r": [
     "zaporizhzhia"
-   ]
-  },
-  {
-   "t": "Зеленський підписав закон про покарання за передачу банківських карток шахраям",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/finances/zelenskiy-pidpisav-zakon-pro-kriminalnu-vidpovidalnist-za-drop-shemi-827646/",
-   "x": "Президент Володимир Зеленський підписав закон, який запроваджує кримінальну відповідальність за передачу банківських карток і доступу до рахунків для шахрайства та інших злочинів.",
-   "d": "2026-11-14T12:40:00+00:00",
-   "c": [
-    "ekonomika"
    ]
   },
   {
@@ -2485,15 +2442,6 @@
    ]
   },
   {
-   "t": "До 15% критичних підприємств ризикують втратити свій статус",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/biznes/do-15-kritichnih-pidpriyemstv-mozhut-vtratiti-status-827645/",
-   "d": "2026-11-14T11:35:00+00:00",
-   "c": [
-    "ekonomika"
-   ]
-  },
-  {
    "t": "Україна уразила нафтовий об'єкт у Самарській області та військовий аеродром у Липецьку – Генштаб",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/14/8062854/",
@@ -2525,15 +2473,6 @@
    "d": "2026-11-14T11:03:00+00:00",
    "c": [
     "sport"
-   ]
-  },
-  {
-   "t": "Хто допомагає готелям вистояти під час війни: в Україні назвали компанію року з управління готелями",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/biznes/hto-dopomagaye-gotelyam-vistoyati-pid-chas-viyni-v-ukrajini-nazvali-kompaniyu-roku-z-upravlinnya-gotelyami-827624/",
-   "d": "2026-11-14T11:00:00+00:00",
-   "c": [
-    "ekonomika"
    ]
   },
   {
@@ -2604,18 +2543,6 @@
    ],
    "r": [
     "kyiv"
-   ]
-  },
-  {
-   "t": "РФ знову вдарила по енергетиці Одещини й залишила без світла майже 50 тисяч родин",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/energetika/energetika-ukrajini-ataka-rf-zalishila-50-tis-rodin-bez-svitla-na-odeshchini-827644/",
-   "d": "2026-11-14T10:20:00+00:00",
-   "c": [
-    "ekonomika"
-   ],
-   "r": [
-    "odesa"
    ]
   },
   {
@@ -2770,15 +2697,6 @@
    "d": "2026-11-14T09:19:00+00:00",
    "c": [
     "vazhlyve"
-   ]
-  },
-  {
-   "t": "Росія пустила гроші відібраних західних компаній на війну проти України",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/svit/finansuvannya-viyni-rosiyski-pidrozdili-akzonobel-dkc-rockwool-metro-ta-ab-inbev-827643/",
-   "d": "2026-11-14T09:10:00+00:00",
-   "c": [
-    "ekonomika"
    ]
   },
   {
@@ -2945,8 +2863,7 @@
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/a/956776/5ae0e63e454ae8de34fc0c0fdf31f03c.jpeg",
    "d": "2026-11-14T05:20:00+00:00",
    "c": [
-    "vazhlyve",
-    "ekonomika"
+    "vazhlyve"
    ],
    "r": [
     "zaporizhzhia"
@@ -2994,16 +2911,6 @@
    "d": "2026-11-14T04:30:00+00:00",
    "c": [
     "sport"
-   ]
-  },
-  {
-   "t": "Удар нижче пояса: роман глави Nvidia з китаянкою став справою нацбезпеки США і коштував йому посади",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/svit/nvidia-naslidki-vidstavki-huanga-vpliv-na-kapitalizaciyu-ta-upravlinnya-827634/",
-   "x": "Коли роман Дженсена Хуанга з імовірною китайською шпигункою став публічним, рушій ШІ-буму залишився без свого ідеолога та його наступника. Скільки втратила корпорація і які виклики на неї чекають?",
-   "d": "2026-11-14T04:00:00+00:00",
-   "c": [
-    "ekonomika"
    ]
   },
   {
@@ -3170,42 +3077,12 @@
    ]
   },
   {
-   "t": "Новини 13 листопада: банк \"Нової пошти\", зупинка \"Королівського Смаку\"",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/finances/novini-13-listopada-bank-novoji-poshti-zupinka-korolivskogo-smaku-827641/",
-   "d": "2026-11-13T19:00:00+00:00",
-   "c": [
-    "ekonomika"
-   ]
-  },
-  {
-   "t": "ДТЕК пояснив, чому на Київщині досі вимикають світло",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/energetika/dtek-poyasniv-prichini-trivalih-vidklyuchen-svitla-na-kijivshchini-827636/",
-   "d": "2026-11-13T18:50:00+00:00",
-   "c": [
-    "ekonomika"
-   ],
-   "r": [
-    "kyivska"
-   ]
-  },
-  {
    "t": "Доплата за стаж зміниться: як зростуть виплати пенсіонерам у 2027 році",
    "s": "24 Канал",
    "u": "https://24tv.ua/economy/doplata-za-stazh-rozmir-viplati-yak-zminyatsya-rozmiri-pensiy_n3180002",
    "x": "Наступного року правила нарахування фінансових бонусів для літніх українців зазнають змін. Уряд планує переглянути базові соціальні показники, що безпосередньо вплине на розмір щомісячних надходжень.",
    "i": "https://24tv.ua/resources/photos/news/202611/3180002.jpg?v=1794581343000&q=100",
    "d": "2026-11-13T18:49:00+00:00",
-   "c": [
-    "ekonomika"
-   ]
-  },
-  {
-   "t": "Зеленський вилаяв чиновників за неправдиві звіти про ситуацію зі світлом",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/energetika/zelenskiy-rozkritikuvav-chinovnikiv-za-nepravdivi-zviti-pro-svitlo-827640/",
-   "d": "2026-11-13T18:40:00+00:00",
    "c": [
     "ekonomika"
    ]
