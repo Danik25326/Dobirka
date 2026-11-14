@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T17:41:10+00:00",
+ "updated": "2026-11-14T17:49:21+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -154,27 +154,6 @@
  ],
  "top": [
   {
-   "t": "Північна Ірландія — Україна: онлайн трансляція матчу Ліги націй з футболу",
-   "u": "https://suspilne.media/sport/1453041-pivnicna-irlandia-ukraina-onlajn-translacia-matcu-ligi-nacij/",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "n": 3,
-   "l": [
-    {
-     "s": "Суспільне",
-     "u": "https://suspilne.media/sport/1453041-pivnicna-irlandia-ukraina-onlajn-translacia-matcu-ligi-nacij/"
-    },
-    {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/sporttopnews/pivnichna-irlandiya-ukrayina-yak-podivitis-onlayn-pryamu-translyatsiyu_n3176800"
-    },
-    {
-     "s": "ZN.UA",
-     "u": "https://zn.ua/ukr/SPORT/pivnichna-irlandija-ukrajina-chas-pochatku-matchu-lihi-natsij-de-divitisja-transljatsiju.html"
-    }
-   ],
-   "d": "2026-11-14T17:30:52+00:00"
-  },
-  {
    "t": "Росіяни атакували об'єкт \"Нафтогазу\" на Полтавщині, виникла масштабна пожежа",
    "u": "https://www.pravda.com.ua/news/2026/11/14/8062885/",
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/9/957001/b9652f540b4e978a6df1dcdf12b05bfc.jpeg",
@@ -234,23 +213,6 @@
    "d": "2026-11-14T16:41:00+00:00"
   },
   {
-   "t": "Укренерго: 15 листопада в частині областей України вимикатимуть світло за графіками",
-   "u": "https://suspilne.media/1453069-ukrenergo-15-listopada-v-castini-oblastej-ukraini-vimikatimut-svitlo-za-grafikami/",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "n": 2,
-   "l": [
-    {
-     "s": "Суспільне",
-     "u": "https://suspilne.media/1453069-ukrenergo-15-listopada-v-castini-oblastej-ukraini-vimikatimut-svitlo-za-grafikami/"
-    },
-    {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/vid-1-do-2-cherg-ukrenergo-nazvali-grafiki-vidklyuchen-svitla_n3180560"
-    }
-   ],
-   "d": "2026-11-14T16:18:00+00:00"
-  },
-  {
    "t": "Китай і США обговорили зниження мит напередодні зустрічі Трампа та Сі Цзіньпіна",
    "u": "https://24tv.ua/geopolitics/zustrich-trampa-si-tszinpina-19-listopada-pro-shho-domovilisya_n3180548",
    "i": "https://24tv.ua/resources/photos/news/202611/3180548.jpg?v=1794672560000&q=100",
@@ -266,21 +228,52 @@
     }
    ],
    "d": "2026-11-14T16:15:00+00:00"
+  },
+  {
+   "t": "Північна Ірландія — Україна: час початку матчу Ліги націй, де дивитися трансляцію",
+   "u": "https://zn.ua/ukr/SPORT/pivnichna-irlandija-ukrajina-chas-pochatku-matchu-lihi-natsij-de-divitisja-transljatsiju.html",
+   "i": "https://zn.ua/img/article/7038/63_main.webp",
+   "n": 2,
+   "l": [
+    {
+     "s": "ZN.UA",
+     "u": "https://zn.ua/ukr/SPORT/pivnichna-irlandija-ukrajina-chas-pochatku-matchu-lihi-natsij-de-divitisja-transljatsiju.html"
+    },
+    {
+     "s": "24 Канал",
+     "u": "https://sportnews.24tv.ua/pivnichna-irlandiya-ukrayina-o-kotriy-godini-pochatok-matchu_n3176811"
+    }
+   ],
+   "d": "2026-11-14T16:00:00+00:00"
+  },
+  {
+   "t": "Reuters: Трамп готовий утриматися від нових ударів по Ірану за відсутності провокацій",
+   "u": "https://www.pravda.com.ua/news/2026/11/14/8062876/",
+   "i": "https://img.eurointegration.com.ua/images/doc/d/1/d1ce228--.jpg",
+   "n": 2,
+   "l": [
+    {
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/14/8062876/"
+    },
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/geopolitics/tramp-mozhe-ne-vidnovlyuvati-viynu-iranom-vid-chogo-zalezhit_n3180537"
+    }
+   ],
+   "d": "2026-11-14T15:42:00+00:00"
   }
  ],
  "items": [
   {
-   "t": "На Тернопільщині 15 листопада прогнозують до 7° тепла",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/ternopil/1369888-na-ternopilsini-15-listopada-prognozuut-do-7-tepla/",
-   "x": "На Тернопільщині у неділю, 15 листопада, буде хмарно з проясненнями. Опадів не прогнозують. Про це повідомили на фейсбук-сторінці Тернопільського обласного центру з гідрометеорології",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T17:37:00+00:00",
+   "t": "До 80 000 гривень за кермом: скільки насправді платять водіям Uklon та Bolt",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/business/skilki-zaroblyaye-vodiy-taksi-ukrayini-yaki-zarplati-uklon-bolt_n3178096",
+   "x": "Заробіток у таксі може суттєво відрізнятися від сум, зазначених у вакансіях. На підсумковий дохід впливають комісії сервісів, витрати на пальне, кількість замовлень і години роботи. В Україні водіям пропонують як…",
+   "i": "https://24tv.ua/resources/photos/news/202611/3178096.jpg?v=1794387019000&q=100",
+   "d": "2026-11-14T17:45:00+00:00",
    "c": [
     "holovne"
-   ],
-   "r": [
-    "ternopil"
    ]
   },
   {
@@ -301,31 +294,6 @@
    "x": "Українці можуть роками відкладати гроші та зберігати їх удома, не повідомляючи державу про кожну накопичену гривню. Навіть значні заощадження самі по собі не означають порушення закону.",
    "i": "https://24tv.ua/resources/photos/news/202611/3179249.jpg?v=1794497009000&q=100",
    "d": "2026-11-14T17:35:00+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
-   "t": "«Галичанка» розгромила суперниць у першому матчі 1/16 фіналу Кубка виклику з гандболу",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/sport/1453091-galicanka-rozgromila-supernic-u-persomu-matci-116-finalu-kubka-vikliku-z-gandbolu/",
-   "x": "Чинні чемпіонки України з гандболу львівська «Галичанка» провели перший матч у 1/16 фіналу Кубка виклику ЄГФ, у протистоянні українки обіграли «Х71» з Фарерських островів",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T17:34:50+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "lviv"
-   ]
-  },
-  {
-   "t": "Реактивна установка «Партизан». Як піхотинець 128 ОВМБр «Дике поле» створив власну бойову машину",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/dnipro/1453035-reaktivna-ustanovka-partizan-ak-pihotinec-128-ovmbr-dike-pole-stvoriv-vlasnu-bojovu-masinu/",
-   "x": "Військовий 128 ОВМБр «Дике поле» створив бойову машину. «Партизан» — компактна реактивна установка, яку самотужки зібрали з труб від підбитого російського «Града» та пікапа",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T17:33:59+00:00",
    "c": [
     "holovne"
    ]
@@ -357,17 +325,6 @@
    ]
   },
   {
-   "t": "Північна Ірландія — Україна: онлайн трансляція матчу Ліги націй з футболу",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/sport/1453041-pivnicna-irlandia-ukraina-onlajn-translacia-matcu-ligi-nacij/",
-   "x": "Північна Ірландія — Україна: стежте за текстовою онлайн-трансляцією матчу Ліги націй з футболу — рахунок, голи, небезпечні моменти та найважливіші події гри",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T17:30:52+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "Куба готується до можливого військового нападу США, – ЗМІ",
    "s": "24 Канал",
    "u": "https://24tv.ua/geopolitics/kuba-gotuyetsya-do-mozhlivoyi-agresiyi-ssha-zayava-diasa-kanelya_n3180584",
@@ -390,17 +347,14 @@
    ]
   },
   {
-   "t": "На Чернігівщині поховали воїнів Віталія Вінника, Івана Кузьменка, Максима Синявського, Ігоря Вараву та Андрія Лаврінця",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/chernihiv/1452965-na-cernigivsini-pohovali-voiniv-vitalia-vinnika-ivana-kuzmenka-maksima-sinavskogo-igora-varavu-ta-andria-lavrinca/",
-   "x": "На Чернігівщині 14 листопада в останню путь провели п'ятьох захисників України: Віталія Вінника, Івана Кузьменка, Максима Синявського, Ігоря Вараву та Андрія Лаврінця. Двох бійців вважали зниклими безвісти",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T17:27:05+00:00",
+   "t": "Посольство України побачило російський слід у провокації з написами \"Слава УПА\" у Польщі",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/14/7250005/",
+   "x": "Посольство України у Польща вважає, що поява напису \"Слава УПА\" на пам’ятнику Героям Варшавського гетто є проявом гібридної війни Росії.",
+   "i": "https://img.eurointegration.com.ua/images/doc/6/d/6d9e4bb--.jpg",
+   "d": "2026-11-14T17:28:00+00:00",
    "c": [
-    "holovne"
-   ],
-   "r": [
-    "chernihiv"
+    "polityka"
    ]
   },
   {
@@ -412,17 +366,6 @@
    "d": "2026-11-14T17:25:00+00:00",
    "c": [
     "statti"
-   ]
-  },
-  {
-   "t": "«Не знають, хлопець я чи дівчина». 18-річного боксера не допустили до юніорського ЧС через пропуск «тесту на стать»",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/sport/1453063-ne-znaut-hlopec-a-ci-divcina-18-ricnogo-boksera-ne-dopustili-do-uniorskogo-cs-cerez-propusk-testu-na-stat/",
-   "x": "18-річний англійський боксер Джордж Френсіс не зможе взяти участь у чемпіонаті світу U19 через те, що його команда не організувала «тест на стать»",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T17:24:29+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
@@ -460,20 +403,6 @@
    ]
   },
   {
-   "t": "Втратив зір на фронті та чекає брата з полону: ветеран з Хмельниччини про реабілітацю і побут із собакою-поводирем",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/khmelnytskiy/1451989-vtrativ-zir-na-fronti-ta-cekae-brata-z-polonu-veteran-z-hmelniccini-pro-reabilitacu-i-pobut-iz-sobakou-povodirem/",
-   "x": "34-річний ветеран Сергій Лемешев із села Маниківці на Хмельниччині втратив зір на фронті, переніс понад десять операцій і пройшов тривалу реабілітацію. Нині він шукає способи повернути з російського полону старшого брата",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T17:14:20+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "khmelnytskyi"
-   ]
-  },
-  {
    "t": "Росіяни вдарили по об'єкту інфраструктури на Чернігівщині: є загиблі та поранений",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/14/8062888/",
@@ -486,31 +415,6 @@
    ],
    "r": [
     "chernihiv"
-   ]
-  },
-  {
-   "t": "«Більшість гинули, коли йшли по продукти»: історія чоловіка, який виїхав з Олешків (Відео)",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1453089-bilsist-ginuli-koli-jsli-po-produkti-istoria-colovika-akij-viihav-z-oleskiv-video/",
-   "x": "Олександр розповів про будні в окупованому місті, голод, який довелося пережити, та те, як загиблі люди лежали на дорогах. Що допомогло подружжю вижити в окупації та яким був їхній шлях до евакуації — в матеріалі…",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T17:12:55+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
-   "t": "Погодинні відключення: як 15 листопада вимикатимуть світло на Харківщині",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/kharkiv/1453090-pogodinni-vidklucenna-ak-15-listopada-vimikatimut-svitlo-na-harkivsini/",
-   "x": "У неділю, 15 листопада, на Харківщині діятимуть погодинні відключення світла. Це пов'язано з складною ситуацією в об'єднаній енергосистемі, повідомили 14 листопада у пресслужбі «Харківобленерго»",
-   "i": "https://cdn4.suspilne.media/images/23dca5c79aa74f93.jpg",
-   "d": "2026-11-14T17:08:02+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "kharkiv"
    ]
   },
   {
@@ -585,20 +489,6 @@
    ]
   },
   {
-   "t": "У Луцьку попрощалися з воїном Богданом Лихачем, який понад два роки вважався зниклим безвісти",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/lutsk/1453077-u-lucku-poprosalisa-z-voinom-bogdanom-lihacem-akij-ponad-dva-roki-vvazavsa-zniklim-bezvisti/",
-   "x": "У Луцьку провели в останню дорогу військовослужбовця Богдана Лихача. Захисник загинув 25 вересня 2024 року під час виконання бойового завдання на Курщині, однак понад два роки його вважали зниклим безвісти",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T17:00:25+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "volyn"
-   ]
-  },
-  {
    "t": "Путін хоче переписати кордони України, а Трамп – зняти санкції: Україну можуть готувати до небезпечної угоди",
    "s": "24 Канал",
    "u": "https://24tv.ua/mirna-ugoda-ukrayini-rosiyi-chomu-putin-hoche-zabrati-5-oblastey_n3180336",
@@ -631,31 +521,6 @@
    "d": "2026-11-14T16:57:00+00:00",
    "c": [
     "polityka"
-   ]
-  },
-  {
-   "t": "Аляска обрала кандидата від Демократичної партії губернатором на проміжних виборах",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1453079-alaska-obrala-kandidata-vid-demokraticnoi-partii-gubernatorom-na-promiznih-viborah/",
-   "x": "Кандидат від Демократичної партії Джонатан Крайсс-Томкінс стане новим губернатором штату Аляска. Він буде губернатором-демократом Аляски вперше з 1998 року",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T16:52:53+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
-   "t": "Чотири райони Дніпропетровщини зазнали понад 30 атак РФ: одна людина загинула, 13 поранених",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/dnipro/1453075-cotiri-rajoni-dnipropetrovsini-zaznali-ponad-30-atak-rf-odna-ludina-zaginula-13-poranenih/",
-   "x": "Упродовж 14 листопада армія РФ понад 30 разів атакувала чотири райони Дніпропетровщини. Від ударів безпілотниками, артилерією й ракетою потерпали Павлоград, Нікопольщина, Синельниківщина та Криворіжжя. Одна людина…",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T16:49:56+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "dnipro"
    ]
   },
   {
@@ -715,20 +580,6 @@
    ]
   },
   {
-   "t": "Якою буде погода на Івано-Франківщині 15 листопада",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/ivano-frankivsk/1452873-akou-bude-pogoda-na-ivano-frankivsini-15-listopada-2/",
-   "x": "15 листопада 2026 року в Івано-Франківську та області синоптики прогнозують мінливу хмарність, без опадів. Вночі та вранці — слабкий туман",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T16:28:16+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "ivanofrankivsk"
-   ]
-  },
-  {
    "t": "В Запоріжжі внаслідок обстрілів травмовано 22 людини, серед них три дитини – ДСНС",
    "s": "Інтерфакс-Україна",
    "u": "https://interfax.com.ua/news/general/1236623.html",
@@ -743,20 +594,6 @@
    ]
   },
   {
-   "t": "75-річна жителька Житомирщини пече пиріжки та передає виручені гроші на ЗСУ",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/zhytomyr/1452463-75-ricna-zitelka-zitomirsini-pece-pirizki-ta-peredae-viruceni-grosi-na-zsu/",
-   "x": "75-річна жителька Малина Олена Оборська пече пиріжки на продаж, а виручені гроші передає військовим. Також вона купує для них необхідні речі та в'яже шкарпетки",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T16:23:14+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "zhytomyr"
-   ]
-  },
-  {
    "t": "Водії можуть навіть не помітити: на дорогах ще двох областей України запрацюють \"фантоми\"",
    "s": "24 Канал",
    "u": "https://24tv.ua/fantomi-zyavlyatsya-dorogah-dvoh-oblastey-16-listopada_n3180550",
@@ -765,84 +602,6 @@
    "d": "2026-11-14T16:21:58+00:00",
    "c": [
     "holovne"
-   ]
-  },
-  {
-   "t": "Україна U19 перемогла Італію і достроково вийшла у наступний раунд відбору Євро",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/sport/1453061-ukraina-u19-peremogla-italiu-i-zakripilasa-na-coli-tablici-u-drugomu-raundi-vidboru-evro-2027-z-futbolu/",
-   "x": "Збірна України U19 з футболу: Україна U19 - Італія U19 провели матч другого раунду відбору Євро-2027 з футболу, результат гри Україна - Італія",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T16:21:37+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
-   "t": "Укренерго: 15 листопада в частині областей України вимикатимуть світло за графіками",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1453069-ukrenergo-15-listopada-v-castini-oblastej-ukraini-vimikatimut-svitlo-za-grafikami/",
-   "x": "Графіки погодинних відключень для всіх категорій споживачів (обсягом від 1,5 до 2 черг), а також для промиловості діятимуть цілодобово",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T16:18:00+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
-   "t": "Планові графіки відключень на Миколаївщині 15 листопада",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/mykolaiv/1453059-planovi-grafiki-vidklucen-na-mikolaivsini-15-listopada/",
-   "x": "У Миколаївській області 15 листопада деякі вулиці залишаться без електропостачання — це пов'язано із поточними ремонтами та з підготовкою до осінньо-зимового періоду.",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T16:17:58+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "mykolaiv"
-   ]
-  },
-  {
-   "t": "Двоє чоловіків загинули, один перебуває у лікарні: росіяни атакували об'єкт критичної інфраструктури в Мені",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/chernihiv/1453067-dvoe-colovikiv-zaginuli-odin-perebuvae-u-likarni-rosiani-atakuvali-obekt-kriticnoi-infrastrukturi-v-meni/",
-   "x": "Російські війська 14 листопада близько 16-ї години вдарили безпілотником по об'єкту критичної інфраструктури в Мені, що на Чернігівщині. Внаслідок атаки двоє чоловіків 42 і 45 років загинули",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T16:17:09+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "chernihiv"
-   ]
-  },
-  {
-   "t": "Поїхала на ринок і потрапила під удар дрона: на Одещині попрощалися з Наталією Заєць",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/odesa/1452971-poihala-na-rinok-i-potrapila-pid-udar-drona-na-odesini-poprosalisa-z-natalieu-zaec/",
-   "x": "14 листопада у селі Молодіжне на Одещині попрощалися з Наталією Заєць, яка загинула під час атаки РФ на Чорноморськ 11 листопада. Жінка працювала у Великодолинській селищній раді",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T16:17:00+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "odesa"
-   ]
-  },
-  {
-   "t": "На дорогах Львівщини з 16 листопада патрулюватимуть автомобілі «фантоми»",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/lviv/1453055-na-dorogah-lvivsini-z-16-listopada-patruluvatimut-avtomobili-fantomi/",
-   "x": "З 16 листопада на дорогах Львівщини працюватимуть автомобілі-фантоми. Вони фіксуватимуть перевищення швидкості, проїзд на червоне світло та інші порушення ПДР",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T16:16:12+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "lviv"
    ]
   },
   {
@@ -881,59 +640,6 @@
    ]
   },
   {
-   "t": "Мохаммед Салах побив «вічний» рекорд Єгипту за голами в збірній: попередній належав екстренеру",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/sport/1453037-mohammed-salah-pobiv-vicnij-rekord-egiptu-za-golami-v-zbirnij-poperednij-nalezav-ekstreneru/",
-   "x": "Вінгер Мохаммед Салах розбив рекорд Єгипту за голами у матчах національної збірної — відтепер є лідером із 70 забитими м'ячами, сталося це в матчі відбору на Кубок африканських націй у третьому турі проти Малаві",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T16:12:05+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
-   "t": "«Мріємо, щоб більше ніколи не довелося в'язати сітки і закінчилась війна»: історія волонтерського осередку з Вінниччини",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/vinnytsia/1452467-mriemo-sob-bilse-nikoli-ne-dovelosa-vazati-sitki-i-zakincilas-vijna-istoria-volonterskogo-oseredku-z-vinniccini/",
-   "x": "У «Шовкопрядів» кожна має свою ділянку роботи. Хтось нарізає тканину, хтось вплітає її в основу. Євгенія Бабій часто допомагає вдома – нарізає матеріал, щоб у майстерні не гаяли часу",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T16:08:00+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "vinnytsia"
-   ]
-  },
-  {
-   "t": "У Дніпрі рятують котів після атаки Росії на житлові будинки (Відео)",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1453057-u-dnipri-ratuut-kotiv-pisla-ataki-rosii-na-zitlovi-budinki-video/",
-   "x": "З десяток котів загубилися у Дніпрі після ракетної атаки РФ по житлових будинках. Коти ховаються посеред зруйнованих квартир та під завалами. Місцеві жителі разом з власниками тварин та зооволонтерами щовечора…",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T16:07:03+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "dnipro"
-   ]
-  },
-  {
-   "t": "Експонувати, зберігати чи переплавити. Що робити з радянськими пам'ятниками в Дніпрі: думки фахівців та містян",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/dnipro/1453045-eksponuvati-zberigati-ci-pereplaviti-so-robiti-z-radanskimi-pamatnikami-v-dnipri-dumki-fahivciv-ta-mistan/",
-   "x": "Нині 13 демонтованих об'єктів радянського та імперського режимів зберігається просто неба на території одного з комунальних підприємств міста. Серед них — пам'ятники Ломоносову, Пушкіну, Комунарам. Що з ними робити",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T16:06:00+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "dnipro"
-   ]
-  },
-  {
    "t": "Обмеження прав водіїв за неявку до ТЦК: як діє механізм і для кого є винятки",
    "s": "24 Канал",
    "u": "https://24tv.ua/law/obmezhennya-vodiyskih-prav-cherez-ignoruvannya-ttsk-protsedura_n3176841",
@@ -946,35 +652,10 @@
    ]
   },
   {
-   "t": "Мирослав Лаюк став лавреатом премії імені Джозефа Конрада-Коженьовського",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/culture/1453051-miroslav-lauk-stav-lavreatom-premii-imeni-dzozefa-konrada-kozenovskogo/",
-   "x": "Літературну премію імені Джозефа Конрада-Коженьовського 2026 року отримав український письменник Мирослав Лаюк. Його було висунуто на премію за книжку «Бахмут»",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T16:02:15+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "donetsk"
-   ]
-  },
-  {
    "t": "Три бійці, пікап і кулемет: як мобільні вогневі групи полюють на російські дрони",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/14/8062881/",
    "d": "2026-11-14T16:02:00+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
-   "t": "Філіппіни перемогли на першому «Євробаченні Азія»",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/culture/1453031-filippini-peremogli-na-persomu-evrobacenni-azia/",
-   "x": "Кармель із піснею «Sobra-Sobra» здобула перемогу на першому «Євробаченні Азія» в Бангкоку. Представник Непалу закликав підтримати його країну",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T16:01:18+00:00",
    "c": [
     "holovne"
    ]
@@ -989,20 +670,6 @@
    "c": [
     "holovne",
     "vazhlyve"
-   ]
-  },
-  {
-   "t": "На кордоні Львівщини виявили незадекларовані «iPhone» на 900 тисяч гривень",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/lviv/1453047-na-kordoni-lvivsini-viavili-nezadeklarovani-iphone-na-900-tisac-griven/",
-   "x": "У пункті пропуску «Краковець — Корчова» митники виявили 10 нових iPhone моделей Pro та Pro Max. Смартфони вартістю 900 тисяч гривень намагався ввезти через «зелений коридор» житель Рівненщини",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T16:00:13+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "lviv"
    ]
   },
   {
@@ -1052,35 +719,6 @@
    ]
   },
   {
-   "t": "Загинув на Сумщині: на Кіровоградщині попрощалися з військовим Володимиром Коряком",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/kropyvnytskiy/1452841-zaginuv-na-sumsini-na-kirovogradsini-poprosalisa-z-vijskovim-volodimirom-korakom/",
-   "x": "14 листопада у селі Помічна Новоукраїнського району Кіровоградської області попрощалися із захисником Володимиром Коряком. Боєць загинув на Сумщині, йому було 47 років",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T15:55:32+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "sumy",
-    "kirovohrad"
-   ]
-  },
-  {
-   "t": "Фільм про окупацію Криму покажуть на міжнародному фестивалі про права людини у Відні",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/crimea/1452969-film-pro-okupaciu-krimu-pokazut-na-miznarodnomu-festivali-pro-prava-ludini-u-vidni/",
-   "x": "Документальний фільм «Закарбовано в пам'яті» про окупацію Криму увійшов до конкурсної програми фестивалю прав людини This Human World у Відні. Показ відбудеться 26 листопада",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T15:54:36+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "crimea"
-   ]
-  },
-  {
    "t": "Лубінець розповів, скільки українців можуть звільнити під час нового обміну полоненими",
    "s": "24 Канал",
    "u": "https://24tv.ua/obmin-polonenimi-lubinets-rozkriv-detali-domovlenostey-rosiyeyu_n3180529",
@@ -1102,20 +740,6 @@
    "c": [
     "holovne",
     "viyna"
-   ]
-  },
-  {
-   "t": "На Полтавщині проживає понад 190 тисяч ВПО: у яких громадах найбільше та яку допомогу отримують",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/poltava/1444671-na-poltavsini-prozivae-ponad-190-tisac-vpo-u-akih-gromadah-najbilse-ta-aku-dopomogu-otrimuut/",
-   "x": "На Полтавщині станом на листопад 2026 року проживає більше 190 тисяч внутрішньо переміщених осіб, зокрема, у Полтаві — понад 47 тисяч. В яких громадах найбільше ВПО та з яких областей перемістилися - у матеріалі",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T15:42:38+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "poltava"
    ]
   },
   {
@@ -1158,20 +782,6 @@
    "d": "2026-11-14T15:39:35+00:00",
    "c": [
     "holovne"
-   ]
-  },
-  {
-   "t": "Яким буде графік погодинних відключень світла на Миколаївщині 15 листопада",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/mykolaiv/1453095-akim-bude-grafik-pogodinnih-vidklucen-svitla-na-mikolaivsini-15-listopada/",
-   "x": "У Миколаївській області 15 листопада діятимуть графіки погодинних відключень електроенергії. Обмеження електропостачання триватимуть протягом доби.",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T15:38:09+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "mykolaiv"
    ]
   },
   {
@@ -1218,45 +828,6 @@
    ],
    "r": [
     "poltava"
-   ]
-  },
-  {
-   "t": "Загинув військовий доброволець зі Словʼянська Ілля Міщенко",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/donbas/1453007-zaginuv-vijskovij-dobrovolec-zi-slovanska-illa-misenko/",
-   "x": "Загинув військовий зі Словʼянська Ілля Міщенко. Чоловік добровільно долучився до війська у 2022 році та служив на Покровському та Лиманському напрямках. Йому був 31 рік. Про це повідомив очільник Словʼянської МВА Вадим…",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T15:31:02+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "donetsk"
-   ]
-  },
-  {
-   "t": "Переможця Caine Prize виправдали у звинуваченні щодо використання ШІ для написання оповідання",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/culture/1452967-peremozca-caine-prize-vipravdali-u-zvinuvacenni-sodo-vikoristanna-si-dla-napisanna-opovidanna/",
-   "x": "Після місячного розслідування було зроблено висновок, що оповідання Кундізези The Blue Fighter, яке отримало премію Caine Prize у розмірі 10 000 фунтів стерлінгів, було «написано людиною»",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T15:29:24+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
-   "t": "«Вчимося разом». Чи змінилося вживання української під час навчання й спілкування серед студентів харківських профтехів",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/kharkiv/1452579-vcimosa-razom-ci-zminilosa-vzivanna-ukrainskoi-pid-cas-navcanna-j-spilkuvanna-sered-studentiv-harkivskih-proftehiv/",
-   "x": "Лише половина студентів закладів професійної освіти Харківщини спілкується українською під час навчання, а поза заняттями — приблизно кожен четвертий. Результати дослідження Державної служби якості освіти",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T15:29:12+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "kharkiv"
    ]
   },
   {
@@ -1356,11 +927,9 @@
    "t": "Ченцов зустрівся з главою МЗС Угорщини в Будапешті",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/14/8062875/",
-   "i": "https://img.eurointegration.com.ua/images/doc/a/1/a10b6ea--.jpg",
    "d": "2026-11-14T15:15:00+00:00",
    "c": [
-    "holovne",
-    "polityka"
+    "holovne"
    ]
   },
   {
@@ -1391,31 +960,6 @@
    ],
    "r": [
     "dnipro"
-   ]
-  },
-  {
-   "t": "15 листопада на Полтавщині вимикатимуть світло: графіки",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/poltava/1453085-15-listopada-na-poltavsini-vimikatimut-svitlo-grafiki/",
-   "x": "15 листопада в Полатвській області планують вимикати світло. З графіками відключень та чергами можна ознайомитись на сайті Суспільне Полтава",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T15:07:35+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "poltava"
-   ]
-  },
-  {
-   "t": "«Їх висаджують за декілька кілометрів і вони йдуть пішки»: військовий 154 ОМБр про штурми РФ на Гуляйпільському напрямку",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/zaporizhzhia/1452739-ih-visadzuut-za-dekilka-kilometriv-i-voni-jdut-piski-vijskovij-154-ombr-pro-sturmi-rf-na-gulajpilskomu-napramku/",
-   "x": "Російські військові намагаються просуватися до позицій ЗСУ малими піхотними групами на Гуляйпільському напрямку: за кілька днів українські захисники знищили понад 30 окупантів, розповів військовий 154 ОМБр Артем «Крузак»",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T15:00:37+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
@@ -1517,17 +1061,6 @@
    ]
   },
   {
-   "t": "У Монреалі тисячі студентів вийшли на протест проти умов навчання в канадських ВНЗ",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1453039-u-monreali-tisaci-studentiv-vijsli-na-protest-proti-umov-navcanna-v-kanadskih-vnz/",
-   "x": "Студенти, присутні на демонстрації, заявляли, що надихнулися протестами здобувачів освіти у Франції протягом останніх тижнів, та стверджували, що міносвіти Квебеку вже роками недофінансовується, від чого страждають…",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T14:49:34+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "Не все золоте, що блищить: чим відрізняється медичне золото від справжнього",
    "s": "24 Канал",
    "u": "https://financy.24tv.ua/medichne-zoloto-yak-vidrizniti-vid-spravzhnogo-ne-stati-zhertvoyu_n3177763",
@@ -1593,17 +1126,6 @@
    "c": [
     "holovne",
     "vazhlyve"
-   ]
-  },
-  {
-   "t": "Культовий шутер повертається – MachineGames готує грандіозну фінальну Wolfenstein",
-   "s": "24 Канал",
-   "u": "https://games.24tv.ua/wolfenstein-3-ofitsiyno-rozrobtsi-machinegames-gotuye-prodovzhennya_n3180452",
-   "x": "Стало офіційно відомо, що легендарна серія шутерів Wolfenstein повернеться з повноцінною третьою частиною, яка стане завершенням новітньої франшизи.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3180452.jpg?v=1794665249000&q=100",
-   "d": "2026-11-14T14:37:00+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
@@ -1700,34 +1222,6 @@
    ]
   },
   {
-   "t": "Поліцейський з Херсонщини Максим Сидоров посмертно став Героєм України",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/kherson/1453053-policejskij-z-hersonsini-maksim-sidorov-posmertno-stav-geroem-ukraini/",
-   "x": "Президент посмертно присвоїв звання Героя України капітану поліції Максиму Сидорову «Гівру». Він працював оперуповноваженим у Херсоні, воював снайпером у полку «Цунамі» та загинув на Донеччині у 2025 році",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T14:04:40+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "kherson"
-   ]
-  },
-  {
-   "t": "«Я так не хочу, що не можу»: 83-річна жителька Донеччини про евакуацію з рідного дому",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/donbas/1450673-a-tak-ne-hocu-so-ne-mozu-83-ricna-zitelka-doneccini-pro-evakuaciu-z-ridnogo-domu/",
-   "x": "83-річна Людмила з Високопілля прожила у своєму будинку 50 років. Через обстріли та атаки дронів діти вмовляють її виїхати. Чому жінка вагається",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T14:04:07+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "donetsk"
-   ]
-  },
-  {
    "t": "Росія атакувала дронами, є пошкодження у Запоріжжі та Києві: де була загроза і які наслідки",
    "s": "24 Канал",
    "u": "https://24tv.ua/karta-trivog-ukrayini-14-listopada-2026-de-buli-vibuhi-shho-vidomo_n3180168",
@@ -1740,20 +1234,6 @@
    "r": [
     "zaporizhzhia",
     "kyiv"
-   ]
-  },
-  {
-   "t": "«Відчуття дому зовсім інше»: херсонці, які вперше за роки війни побували вдома, розповіли, чи планують повертатися",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/kherson/1450101-vidcutta-domu-zovsim-inse-hersonci-aki-vperse-za-roki-vijni-pobuvali-vdoma-rozpovili-ci-planuut-povertatisa/",
-   "x": "Під час режиму тиші наприкінці жовтня херсонці, які виїхали через війну, вперше за роки змогли побувати вдома. Вони розповіли, що забрали зі своїх осель і чи планують повертатися",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T14:02:42+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "kherson"
    ]
   },
   {
