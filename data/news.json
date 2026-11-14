@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T19:01:12+00:00",
+ "updated": "2026-11-14T19:10:41+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -154,11 +154,15 @@
  ],
  "top": [
   {
-   "t": "Росіяни атакували об'єкт \"Нафтогазу\" на Полтавщині, виникла масштабна пожежа",
-   "u": "https://www.pravda.com.ua/news/2026/11/14/8062885/",
-   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/9/957001/b9652f540b4e978a6df1dcdf12b05bfc.jpeg",
-   "n": 3,
+   "t": "Російські дрони влучили в об’єкт «Нафтогазу» на Полтавщині: спалахнула масштабна пожежа",
+   "u": "https://zn.ua/ukr/UKRAINE/rosijski-droni-vluchili-v-objekt-naftohazu-na-poltavshchini-spalakhnula-masshtabna-pozhezha.html",
+   "i": "https://zn.ua/img/article/7039/49_main.webp",
+   "n": 4,
    "l": [
+    {
+     "s": "ZN.UA",
+     "u": "https://zn.ua/ukr/UKRAINE/rosijski-droni-vluchili-v-objekt-naftohazu-na-poltavshchini-spalakhnula-masshtabna-pozhezha.html"
+    },
     {
      "s": "Українська правда",
      "u": "https://www.pravda.com.ua/news/2026/11/14/8062885/"
@@ -172,12 +176,46 @@
      "u": "https://24tv.ua/economy/udar-droniv-po-obyektu-naftogazu-poltavshhini-shho-vidomo-pro_n3180481"
     }
    ],
-   "d": "2026-11-14T17:02:00+00:00"
+   "d": "2026-11-14T19:06:13+00:00"
+  },
+  {
+   "t": "В Італії оштрафували Meta на 805 млн євро через доступ до даних користувачів Facebook",
+   "u": "https://www.pravda.com.ua/news/2026/11/14/8062895/",
+   "i": "https://zn.ua/img/article/7039/26_main.webp",
+   "n": 2,
+   "l": [
+    {
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/14/8062895/"
+    },
+    {
+     "s": "ZN.UA",
+     "u": "https://zn.ua/ukr/TECHNOLOGIES/italija-oshtrafuvala-meta-na-ponad-880-miljoniv-za-dostup-do-foto-koristuvachiv-android.html"
+    }
+   ],
+   "d": "2026-11-14T19:03:00+00:00"
+  },
+  {
+   "t": "Північна Ірландія — Україна: час початку матчу Ліги націй, де дивитися трансляцію",
+   "u": "https://zn.ua/ukr/SPORT/pivnichna-irlandija-ukrajina-chas-pochatku-matchu-lihi-natsij-de-divitisja-transljatsiju.html",
+   "i": "https://zn.ua/img/article/7038/63_main.webp",
+   "n": 2,
+   "l": [
+    {
+     "s": "ZN.UA",
+     "u": "https://zn.ua/ukr/SPORT/pivnichna-irlandija-ukrajina-chas-pochatku-matchu-lihi-natsij-de-divitisja-transljatsiju.html"
+    },
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/sporttopnews/pivnichna-irlandiya-ukrayina-onlayn-translyatsiya-matchu-ligi_n3176806"
+    }
+   ],
+   "d": "2026-11-14T19:01:00+00:00"
   },
   {
    "t": "Генерала СБУ Сергія Дуку викликають на засідання ТСК у справі «Карфаген»",
    "u": "https://zn.ua/ukr/POLITICS/-henerala-sbu-serhija-duku-viklikajut-na-zasidannja-tsk-u-spravi-karfahen.html",
-   "i": "https://zn.ua",
+   "i": "https://zn.ua/img/article/7039/47_main.webp",
    "n": 2,
    "l": [
     {
@@ -189,7 +227,7 @@
      "u": "https://www.pravda.com.ua/news/2026/11/14/8062892/"
     }
    ],
-   "d": "2026-11-14T18:57:11+00:00"
+   "d": "2026-11-14T18:57:00+00:00"
   },
   {
    "t": "У Варшаві на двох пам'ятниках написали \"Слава УПА\": у посольстві України відреагували",
@@ -209,23 +247,6 @@
    "d": "2026-11-14T18:36:14+00:00"
   },
   {
-   "t": "Збірна України оголосила склад на матч проти Північної Ірландії в Лізі націй",
-   "u": "https://zn.ua/ukr/SPORT/703943-zbirna-ukrajini-oholosila-sklad-na-match-proti-pivnichnoji-irlandiji-v-lizi-natsij.html",
-   "i": "https://zn.ua/img/article/7039/43_main.webp",
-   "n": 2,
-   "l": [
-    {
-     "s": "ZN.UA",
-     "u": "https://zn.ua/ukr/SPORT/703943-zbirna-ukrajini-oholosila-sklad-na-match-proti-pivnichnoji-irlandiji-v-lizi-natsij.html"
-    },
-    {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/sporttopnews/pivnichna-irlandiya-ukrayina-onlayn-translyatsiya-matchu-ligi_n3176806"
-    }
-   ],
-   "d": "2026-11-14T18:30:00+00:00"
-  },
-  {
    "t": "Росія вдарила дроном по об'єкту критичної інфраструктури на Чернігівщині, загинули 2 чоловіків",
    "u": "https://24tv.ua/udar-bpla-po-meni-14-listopada-dvoye-zagiblih-poraneniy_n3180597",
    "i": "https://24tv.ua/resources/photos/news/202611/3180597.jpg?v=1794680193000&q=100",
@@ -241,26 +262,53 @@
     }
    ],
    "d": "2026-11-14T18:13:00+00:00"
-  },
-  {
-   "t": "Дрон атакував комерційне судно у територіальних водах Румунії",
-   "u": "https://www.pravda.com.ua/news/2026/11/14/8062884/",
-   "i": "https://img.eurointegration.com.ua/images/doc/1/9/1983a13--.jpg",
-   "n": 2,
-   "l": [
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/14/8062884/"
-    },
-    {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/ataka-drona-vantazhne-sudno-larissa-1-13-listopada-teritorialnih_n3180541"
-    }
-   ],
-   "d": "2026-11-14T16:41:00+00:00"
   }
  ],
  "items": [
+  {
+   "t": "Російські дрони влучили в об’єкт «Нафтогазу» на Полтавщині: спалахнула масштабна пожежа",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/UKRAINE/rosijski-droni-vluchili-v-objekt-naftohazu-na-poltavshchini-spalakhnula-masshtabna-pozhezha.html",
+   "i": "https://zn.ua/img/article/7039/49_main.webp",
+   "d": "2026-11-14T19:06:13+00:00",
+   "c": [
+    "statti"
+   ],
+   "r": [
+    "poltava"
+   ]
+  },
+  {
+   "t": "У Німеччині ультраправі хочуть висунути чемпіона світу з футболу в президенти",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/europe/u-nimechchini-ultrapravi-khochut-visunuti-chempiona-svitu-z-futbolu-v-prezidenti.html",
+   "x": "Колишній захисник «Баварії» та збірної Німеччини може взяти участь у виборах президента.",
+   "i": "https://zn.ua/img/article/7039/46_main.webp",
+   "d": "2026-11-14T19:03:32+00:00",
+   "c": [
+    "statti"
+   ]
+  },
+  {
+   "t": "В Італії оштрафували Meta на 805 млн євро через доступ до даних користувачів Facebook",
+   "s": "Українська правда",
+   "u": "https://www.pravda.com.ua/news/2026/11/14/8062895/",
+   "d": "2026-11-14T19:03:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Північна Ірландія — Україна: час початку матчу Ліги націй, де дивитися трансляцію",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/SPORT/pivnichna-irlandija-ukrajina-chas-pochatku-matchu-lihi-natsij-de-divitisja-transljatsiju.html",
+   "x": "Команди зіграють матч п'ятого туру турніру.",
+   "i": "https://zn.ua/img/article/7038/63_main.webp",
+   "d": "2026-11-14T19:01:00+00:00",
+   "c": [
+    "statti"
+   ]
+  },
   {
    "t": "Внаслідок ударів БпЛА троє людей постраждали та виникли пожежі в трьох районах Сумської області – ДСНС",
    "s": "Інтерфакс-Україна",
@@ -297,20 +345,6 @@
    ]
   },
   {
-   "t": "Готово лише на 55%: Калашник пояснив уповільнення захисту енергетики Київщини",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/zahist-pidstantsiy-kiyivshhini-gotoviy-55-vidsotkiv-komentar_n3180605",
-   "x": "Будівництво захисних споруд на 26 підстанціях Київської області виконане на 55%. Через повільні темпи робіт Київська ОВА вирішила передати об'єкти Агентству відновлення, яке має завершити будівництво та перевірити…",
-   "i": "https://24tv.ua/resources/photos/news/202611/3180605.jpg?v=1794682556000&q=100",
-   "d": "2026-11-14T18:58:12+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "kyivska"
-   ]
-  },
-  {
    "t": "На Сумщині через атаки РФ постраждали троє людей, виникли пожежі",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/14/8062894/",
@@ -325,12 +359,26 @@
    ]
   },
   {
+   "t": "Готово лише на 55%: Калашник пояснив уповільнення захисту енергетики Київщини",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/zahist-pidstantsiy-kiyivshhini-gotoviy-55-vidsotkiv-komentar_n3180605",
+   "x": "Будівництво захисних споруд на 26 підстанціях Київської області виконане на 55%. Через повільні темпи робіт Київська ОВА вирішила передати об'єкти Агентству відновлення, яке має завершити будівництво та перевірити…",
+   "i": "https://24tv.ua/resources/photos/news/202611/3180605.jpg?v=1794682556000&q=100",
+   "d": "2026-11-14T18:58:00+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kyivska"
+   ]
+  },
+  {
    "t": "Генерала СБУ Сергія Дуку викликають на засідання ТСК у справі «Карфаген»",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/POLITICS/-henerala-sbu-serhija-duku-viklikajut-na-zasidannja-tsk-u-spravi-karfahen.html",
    "x": "Засідання заплановане на 18 листопада.",
-   "i": "https://zn.ua",
-   "d": "2026-11-14T18:57:11+00:00",
+   "i": "https://zn.ua/img/article/7039/47_main.webp",
+   "d": "2026-11-14T18:57:00+00:00",
    "c": [
     "statti"
    ]
@@ -375,11 +423,9 @@
    "t": "Міністри оборони України і Канади обговорили прискорення постачання боєприпасів для F-16",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/14/8062893/",
-   "i": "https://img.eurointegration.com.ua/images/doc/1/5/154a864-a.jpg",
    "d": "2026-11-14T18:42:00+00:00",
    "c": [
-    "holovne",
-    "polityka"
+    "holovne"
    ]
   },
   {
@@ -675,17 +721,6 @@
    ]
   },
   {
-   "t": "Посольство України побачило російський слід у провокації з написами \"Слава УПА\" у Польщі",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/14/7250005/",
-   "x": "Посольство України у Польща вважає, що поява напису \"Слава УПА\" на пам’ятнику Героям Варшавського гетто є проявом гібридної війни Росії.",
-   "i": "https://img.eurointegration.com.ua/images/doc/6/d/6d9e4bb--.jpg",
-   "d": "2026-11-14T17:28:00+00:00",
-   "c": [
-    "polityka"
-   ]
-  },
-  {
    "t": "«І наснилось мені»: у Молодому театрі відкрилася благодійна виставка на підтримку дронарів 3-ї ОШБр",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/CULTURE/i-nasnilos-meni-u-molodomu-teatri-vidkrilasja-blahodijna-vistavka-na-pidtrimku-dronariv-3-ji-oshbr.html",
@@ -723,11 +758,9 @@
    "t": "Сибіга подякував за рішучість Латвії, яка готує заборону транзиту російського зерна",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/14/8062889/",
-   "i": "https://img.eurointegration.com.ua/images/doc/2/f/2f11b74----.jpg",
    "d": "2026-11-14T17:21:00+00:00",
    "c": [
-    "holovne",
-    "polityka"
+    "holovne"
    ]
   },
   {
@@ -749,11 +782,9 @@
    "t": "У Варшаві невідомі залишили на двох пам‘ятниках написи \"Слава УПА\"",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/14/8062887/",
-   "i": "https://img.eurointegration.com.ua/images/doc/5/5/5513a75-5.jpg",
    "d": "2026-11-14T17:08:00+00:00",
    "c": [
-    "holovne",
-    "polityka"
+    "holovne"
    ]
   },
   {
@@ -840,25 +871,12 @@
    ]
   },
   {
-   "t": "Прем’єр Вірменії каже, що через 20 років бачить країну членом ЄС",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/14/7250004/",
-   "x": "Вірменський прем’єр-міністр Нікол Пашинян заявив, що бачить Вірменію у складі ЄС, відповідаючи на запитання про те, якою він уявляє країну через 20 років.",
-   "i": "https://img.eurointegration.com.ua/images/doc/1/5/1592453----.jpg",
-   "d": "2026-11-14T16:57:00+00:00",
-   "c": [
-    "polityka"
-   ]
-  },
-  {
    "t": "Дрон атакував комерційне судно у територіальних водах Румунії",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/14/8062884/",
-   "i": "https://img.eurointegration.com.ua/images/doc/1/9/1983a13--.jpg",
    "d": "2026-11-14T16:41:00+00:00",
    "c": [
-    "holovne",
-    "polityka"
+    "holovne"
    ]
   },
   {
@@ -1023,17 +1041,6 @@
    ]
   },
   {
-   "t": "Північна Ірландія — Україна: час початку матчу Ліги націй, де дивитися трансляцію",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/SPORT/pivnichna-irlandija-ukrajina-chas-pochatku-matchu-lihi-natsij-de-divitisja-transljatsiju.html",
-   "x": "Команди зіграють матч п'ятого туру турніру.",
-   "i": "https://zn.ua/img/article/7038/63_main.webp",
-   "d": "2026-11-14T16:00:00+00:00",
-   "c": [
-    "statti"
-   ]
-  },
-  {
    "t": "Дрон атакував комерційне судно під прапором Палау біля берегів Румунії",
    "s": "24 Канал",
    "u": "https://24tv.ua/ataka-drona-vantazhne-sudno-larissa-1-13-listopada-teritorialnih_n3180541",
@@ -1073,11 +1080,9 @@
    "t": "Reuters: Трамп готовий утриматися від нових ударів по Ірану за відсутності провокацій",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/14/8062876/",
-   "i": "https://img.eurointegration.com.ua/images/doc/d/1/d1ce228--.jpg",
    "d": "2026-11-14T15:42:00+00:00",
    "c": [
-    "holovne",
-    "polityka"
+    "holovne"
    ]
   },
   {
@@ -1109,17 +1114,6 @@
    "d": "2026-11-14T15:39:35+00:00",
    "c": [
     "holovne"
-   ]
-  },
-  {
-   "t": "В Кремлі назвали дату зустрічі Трампа, Сі та Путіна",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/14/7250002/",
-   "x": "Тристороння зустріч лідерів США, Китаю і Росії відбудеться 19 листопада у Шеньчжені.",
-   "i": "https://img.eurointegration.com.ua/images/doc/a/4/a4b8ba4--2.jpg",
-   "d": "2026-11-14T15:37:00+00:00",
-   "c": [
-    "polityka"
    ]
   },
   {
@@ -1178,17 +1172,6 @@
    "c": [
     "holovne",
     "sport"
-   ]
-  },
-  {
-   "t": "В Італії оштрафували Meta на 805 млн євро через доступ до даних користувачів Facebook",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/14/7250001/",
-   "x": "Італійський орган із захисту персональних даних оштрафував Meta, материнську компанію Facebook, на 805 млн євро за використання фотографій і відео з телефонів на Android без окремої згоди користувачів.",
-   "i": "https://img.eurointegration.com.ua/images/doc/e/6/e6d4a24--.jpg",
-   "d": "2026-11-14T15:19:00+00:00",
-   "c": [
-    "polityka"
    ]
   },
   {
@@ -1623,17 +1606,6 @@
    ]
   },
   {
-   "t": "Китай і США обговорили тарифи та торгівлю агропродукцією перед зустріччю Сі та Трампа",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/14/7249997/",
-   "x": "Китай і США обговорили зниження мит, торгівлю сільськогосподарською продукцією та інші питання під час першого засідання торговельної ради в п’ятницю, повідомило в суботу Міністерство торгівлі Китаю.",
-   "i": "https://img.eurointegration.com.ua/images/doc/2/c/2c75a58---.jpg",
-   "d": "2026-11-14T13:30:00+00:00",
-   "c": [
-    "polityka"
-   ]
-  },
-  {
    "t": "Зеленський: Ідея переглянути архітектуру безпеки в Європі небезпечна",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/14/8062863/",
@@ -1721,7 +1693,6 @@
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/8/956932/680c3a26d8a616f4b8347900f9b584bf.jpeg",
    "d": "2026-11-14T12:54:00+00:00",
    "c": [
-    "holovne",
     "vazhlyve"
    ],
    "r": [
@@ -1798,17 +1769,6 @@
    ]
   },
   {
-   "t": "Помер український голос Дамблдора у «Гаррі Поттері» Євген Шах",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/CULTURE/pomer-ukrajinskij-holos-dambldora-u-harri-potteri-jevhen-shakh.html",
-   "x": "Народний артист України 60 років працював у Театрі Франка.",
-   "i": "https://zn.ua/img/article/7039/14_main.webp",
-   "d": "2026-11-14T12:31:00+00:00",
-   "c": [
-    "statti"
-   ]
-  },
-  {
    "t": "Мирні переговори щодо війни в Україні: що зараз відомо",
    "s": "24 Канал",
    "u": "https://24tv.ua/mirni-peregovori-ukrayini-rosiyi-ostanni-zayavi-putina-trampa_n3170603",
@@ -1817,17 +1777,6 @@
    "d": "2026-11-14T12:25:00+00:00",
    "c": [
     "viyna"
-   ]
-  },
-  {
-   "t": "YouTube заблокував в Україні 16 російських каналів: серед них — Uma2rman та «Маша і Ведмідь»",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/war/youtube-zablokuvav-v-ukrajini-16-rosijskikh-kanaliv-sered-nikh-uma2rman-ta-masha-i-vedmid.html",
-   "x": "Відеохостинг YouTube заблокував на території України 16 пропагандистських каналів, які підтримували російську агресію проти нашої держави, включно з ресурсами артистів та популярними анімаційними проєктами.",
-   "i": "https://zn.ua/img/article/7039/18_main.webp",
-   "d": "2026-11-14T12:25:00+00:00",
-   "c": [
-    "statti"
    ]
   },
   {
