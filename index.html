@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Добірка Наживо — новини з усієї України</title>
+<meta name="description" content="Добірка новин з усієї України: головне, війна, політика, економіка, спорт і новини ваших областей. Заголовки та посилання на першоджерела.">
+<link rel="canonical" href="https://dobirka.pp.ua/">
+<link rel="icon" href="favicon.ico" sizes="48x48">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+<link rel="manifest" href="site.webmanifest">
+<meta name="theme-color" content="#13202C">
+<meta name="msapplication-TileColor" content="#13202C">
+<meta name="msapplication-config" content="browserconfig.xml">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Добірка Наживо">
+<meta property="og:locale" content="uk_UA">
+<meta property="og:title" content="Добірка Наживо — новини з усієї України">
+<meta property="og:description" content="Добірка новин з усієї України: головне, війна, політика, економіка, спорт і новини ваших областей. Заголовки та посилання на першоджерела.">
+<meta property="og:url" content="https://dobirka.pp.ua/">
+<meta property="og:image" content="https://dobirka.pp.ua/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Добірка Наживо — новини з усієї України">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Добірка Наживо — новини з усієї України">
+<meta name="twitter:description" content="Добірка новин з усієї України: головне, війна, політика, економіка, спорт і новини ваших областей. Заголовки та посилання на першоджерела.">
+<meta name="twitter:image" content="https://dobirka.pp.ua/og-image.png">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"Добірка Наживо","url":"https://dobirka.pp.ua/","inLanguage":"uk","description":"Добірка новин з усієї України: головне, війна, політика, економіка, спорт і новини ваших областей. Заголовки та посилання на першоджерела."}</script>
+<link rel="alternate" type="application/rss+xml" title="Добірка Наживо" href="feeds/all.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Onest:wght@400;500;700&family=Unbounded:wght@600;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header><div class="wrap">
+  <div class="top">
+    <a class="logo" href="./" aria-label="Добірка Наживо, на головну"><span class="mark" aria-hidden="true">Д<i></i></span>
+      <span class="name">Добірка Наживо<small>Новини з усієї України в одному місці</small></span></a>
+    <span class="acts">
+      <a class="ibtn live" href="live.html" aria-label="Прямі ефіри" title="Прямі ефіри"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="2"/><path d="M10 8.5v7l6-3.5z" fill="currentColor"/></svg></a>
+      <a class="ibtn" href="feeds/all.xml" aria-label="RSS-стрічка" title="RSS"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 11a8 8 0 0 1 8 8M5 5a14 14 0 0 1 14 14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><circle cx="6" cy="18" r="1.8" fill="currentColor"/></svg></a>
+      <button class="ibtn" id="theme" type="button" aria-label="Змінити тему" title="Тема"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8" fill="none" stroke="currentColor" stroke-width="2"/><path d="M12 4a8 8 0 0 1 0 16z" fill="currentColor"/></svg></button>
+    </span>
+  </div>
+  <div class="tools"><input id="q" type="search" placeholder="Пошук по заголовках" aria-label="Пошук"><select id="reg" aria-label="Область"><option value="">Уся Україна</option></select></div>
+  <nav class="chips" id="chips" aria-label="Теми"></nav>
+</div></header>
+
+<div class="wrap">
+  <p class="notice" id="demo" hidden>Показано демонстраційні дані. Справжні новини з’являться, коли запрацює збір стрічок (див. README).</p>
+  <main>
+    <section aria-label="Новини"><div id="top"></div><div id="list" aria-live="polite"></div><button class="btn more" id="more" type="button" hidden>Показати ще</button></section>
+    <div class="side"><div id="wgt"></div><aside class="feed" aria-label="Стрічка наживо"><h2><span class="dot" aria-hidden="true"></span>Наживо</h2><div id="live"></div></aside></div>
+  </main>
+</div>
+
+<footer><div class="wrap">
+  <div class="row"><a href="info.html#about">Про нас</a><a href="info.html#sources">Джерела</a><a href="info.html#rules">Правила використання</a><a href="info.html#privacy">Політика конфіденційності</a><a href="info.html#complaint">Подати скаргу</a></div>
+  <div class="row" id="rssLinks"></div>
+  <!--SECTIONS--><!--/SECTIONS-->
+  <div>© Добірка Наживо. Ми показуємо заголовок, короткий опис і посилання на першоджерело. Усі права на матеріали належать їхнім авторам.</div>
+</div></footer>
+
+<script>
+const mk=(n,t,s,c,r,m)=>({t:"Приклад заголовка новини №"+n,s,u:"#",x:"Приклад короткого опису. Тут буде перше речення з RSS-стрічки джерела.",d:new Date(Date.now()-m*60000).toISOString(),c:[c],r:r?[r]:[]});
+const DEMO={updated:new Date().toISOString(),
+topics:[{id:"holovne",name:"Головне"},{id:"ekonomika",name:"Економіка"},{id:"sport",name:"Спорт"}],
+regions:[{id:"kharkiv",name:"Харківщина"},{id:"lviv",name:"Львівщина"}],
+top:[{t:"Приклад: цю подію висвітлили одразу кілька видань",u:"#",n:3,d:new Date().toISOString(),l:[{s:"Суспільне",u:"#"},{s:"Українська правда",u:"#"},{s:"24 Канал",u:"#"}]}],
+items:[mk(1,0,"Суспільне","holovne","kharkiv",4),mk(2,0,"Українська правда","ekonomika","",25),mk(3,0,"24 Канал","sport","lviv",70),mk(4,0,"Суспільне","holovne","",130),mk(5,0,"24 Канал","ekonomika","",200),mk(6,0,"Інтерфакс-Україна","holovne","",300)]};
+const $=id=>document.getElementById(id);
+const esc=s=>String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const safe=u=>/^https?:\/\//.test(u)?u:"#";
+const PAGE=30;let data,topic=(location.hash||"").slice(1)||"all",reg="",query="",shown=PAGE;
+function ago(iso){const m=Math.round((Date.now()-new Date(iso))/6e4);
+  if(m<1)return"щойно";if(m<60)return m+" хв тому";if(m<1440)return Math.round(m/60)+" год тому";
+  return new Date(iso).toLocaleDateString("uk-UA",{day:"numeric",month:"long"});}
+const hm=iso=>new Date(iso).toLocaleTimeString("uk-UA",{hour:"2-digit",minute:"2-digit"});
+const thumb=u=>u?`<div class="thumb"><img src="${esc(u)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"></div>`:"";
+let W=null;
+const WX=c=>c===0?["☀️","ясно"]:c<=2?["🌤️","мінлива хмарність"]:c===3?["☁️","хмарно"]:(c===45||c===48)?["🌫️","туман"]:(c>=51&&c<=57)?["🌦️","мряка"]:(c>=61&&c<=67)?["🌧️","дощ"]:(c>=71&&c<=77)?["🌨️","сніг"]:(c>=80&&c<=82)?["🌦️","злива"]:(c===85||c===86)?["🌨️","снігопад"]:c>=95?["⛈️","гроза"]:["🌡️",""];
+const nf=v=>Number(v).toLocaleString("uk-UA",{minimumFractionDigits:2,maximumFractionDigits:2});
+function renderWidgets(){
+  if(!W||!data)return;let h="";
+  if(W.rates&&W.rates.items&&W.rates.items.length)h+=`<div class="wgt"><h2>Курс НБУ</h2><div class="rates">${W.rates.items.map(x=>`<div><span>${esc(x.cc)}</span><b>${nf(x.r)}</b></div>`).join("")}</div><div class="sub">Офіційний курс на ${esc(W.rates.date)}. Джерело: НБУ</div></div>`;
+  const id=reg||"kyiv",w=(W.weather||{})[id];
+  if(w){const rn=(data.regions||[]).find(r=>r.id===id);const [e,d]=WX(w.c);
+    h+=`<div class="wgt"><h2>Погода</h2><div class="wx"><span class="e">${e}</span><div><span class="t">${w.t>0?"+":""}${w.t}°</span><small>${esc(d)} · вітер ${w.w} м/с</small></div></div><div class="sub">${esc(rn?rn.name:"м. Київ")}. Дані: Open-Meteo.com</div></div>`}
+  $("wgt").innerHTML=h;
+}
+function setup(){
+  const t=[{id:"all",name:"Усі"},...data.topics];
+  if(!t.some(x=>x.id===topic))topic="all";
+  $("reg").innerHTML='<option value="">Уся Україна</option>'+[...data.regions||[]].sort((a,b)=>a.name.replace(/^(м\.|АР)\s*/,"").localeCompare(b.name.replace(/^(м\.|АР)\s*/,""),"uk")).map(r=>`<option value="${esc(r.id)}">${esc(r.name)}</option>`).join("");
+  $("rssLinks").innerHTML="<span>Наш RSS:</span>"+[`<a href="feeds/all.xml">усі новини</a>`,...data.topics.map(t=>`<a href="feeds/${esc(t.id)}.xml">${esc(t.name)}</a>`)].join("");
+}
+function render(){
+  const tn=Object.fromEntries(data.topics.map(t=>[t.id,t.name])),rn=Object.fromEntries((data.regions||[]).map(r=>[r.id,r.name]));
+  $("chips").innerHTML=[{id:"all",name:"Усі"},...data.topics].map(t=>`<button class="chip" type="button" aria-pressed="${t.id===topic}" data-t="${esc(t.id)}">${esc(t.name)}</button>`).join("");
+  const q=query.trim().toLowerCase();
+  const list=data.items.filter(i=>(topic==="all"||i.c.includes(topic))&&(!reg||(i.r||[]).includes(reg))&&(!q||i.t.toLowerCase().includes(q)));
+  const top=data.top||[];
+  $("top").innerHTML=(topic==="all"&&!reg&&!q&&top.length)?`<div class="topbox"><h2>Топ дня</h2><div class="toprow">${top.map(t=>`<article class="tcard">${thumb(t.i)}<div class="tb"><div class="n">Пишуть ${t.n} видання</div><a class="tt" href="${esc(safe(t.u))}" target="_blank" rel="noopener noreferrer">${esc(t.t)}</a><div class="src">${t.l.map(l=>`<a href="${esc(safe(l.u))}" target="_blank" rel="noopener noreferrer">${esc(l.s)}</a>`).join("")}</div></div></article>`).join("")}</div></div>`:"";
+  $("list").innerHTML=list.length?list.slice(0,shown).map((i,n)=>{
+    const meta=[`<b>${esc(i.s)}</b>`,esc(tn[i.c[0]]||""),...(i.r||[]).map(r=>esc(rn[r]||"")),ago(i.d)].filter(Boolean).join(" · ");
+    const fresh=Date.now()-new Date(i.d)<45*6e4?'<span class="new">нове</span>':"";
+    return `<a class="card${n?"":" first"}${i.i?" hasimg":""}" href="${esc(safe(i.u))}" target="_blank" rel="noopener noreferrer">${thumb(i.i)}<div class="meta">${meta}${fresh}</div><h3>${esc(i.t)}</h3>${i.x?`<p>${esc(i.x)}</p>`:""}<div class="meta">Читати на сайті ${esc(i.s)} →</div></a>`}).join(""):`<p class="empty">${reg?"Поки що немає новин із цього регіону. Ми шукаємо згадки області чи її міст у заголовках і описах.":"Нічого не знайдено."}</p>`;
+  $("more").hidden=list.length<=shown;
+  renderWidgets();
+  $("live").innerHTML=data.items.slice(0,12).map(i=>`<div class="item"><time>${hm(i.d)}</time><div><a href="${esc(safe(i.u))}" target="_blank" rel="noopener noreferrer">${esc(i.t)}</a><span>${esc(i.s)}</span></div></div>`).join("");
+}
+$("chips").addEventListener("click",e=>{const b=e.target.closest("[data-t]");if(b){topic=b.dataset.t;shown=PAGE;try{history.replaceState(null,"",topic==="all"?location.pathname+location.search:"#"+topic)}catch(_){}render()}});
+$("reg").addEventListener("change",e=>{reg=e.target.value;shown=PAGE;render()});
+$("q").addEventListener("input",e=>{query=e.target.value;shown=PAGE;render()});
+$("more").addEventListener("click",()=>{shown+=PAGE;render()});
+$("theme").addEventListener("click",()=>{const r=document.documentElement;const d=r.dataset.theme?r.dataset.theme==="dark":matchMedia("(prefers-color-scheme: dark)").matches;r.dataset.theme=d?"light":"dark"});
+document.addEventListener("error",e=>{const t=e.target;if(t&&t.tagName==="IMG"){const th=t.closest(".thumb");if(th){const c=th.closest(".card");if(c)c.classList.remove("hasimg");th.remove()}}},true);
+fetch("data/widgets.json",{cache:"no-store"}).then(r=>r.ok?r.json():null).then(j=>{W=j;renderWidgets()}).catch(()=>{});
+fetch("data/news.json",{cache:"no-store"}).then(r=>{if(!r.ok)throw 0;return r.json()}).then(d=>{if(!d.items||!d.items.length)throw 0;data=d}).catch(()=>{data=DEMO;$("demo").hidden=false}).then(()=>{setup();render()});
+setInterval(()=>{if(data)render()},60000);
+</script>
+</body>
+</html>

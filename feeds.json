@@ -1,0 +1,156 @@
+{
+  "site": {
+    "title": "Добірка Наживо",
+    "url": "https://dobirka.pp.ua/",
+    "description": "Добірка новин з відкритих українських джерел. Заголовок, короткий опис і посилання на оригінал.",
+    "telegram": ""
+  },
+  "topics": [
+    {
+      "id": "holovne",
+      "name": "Головне",
+      "feeds": [
+        {
+          "source": "Суспільне",
+          "url": "https://suspilne.media/rss/all.rss"
+        },
+        {
+          "source": "Українська правда",
+          "url": "https://www.pravda.com.ua/rss/view_news/"
+        },
+        {
+          "source": "Інтерфакс-Україна",
+          "url": "https://interfax.com.ua/news/last.rss"
+        },
+        {
+          "source": "24 Канал",
+          "url": "https://24tv.ua/rss/all.xml?googleFlg=true&tagId=1117"
+        }
+      ]
+    },
+    {
+      "id": "vazhlyve",
+      "name": "Найважливіше",
+      "feeds": [
+        {
+          "source": "Українська правда",
+          "url": "https://www.pravda.com.ua/rss/view_mainnews/"
+        },
+        {
+          "source": "24 Канал",
+          "url": "https://24tv.ua/rss/all.xml?googleFlg=true&tagId=1792"
+        }
+      ]
+    },
+    {
+      "id": "viyna",
+      "name": "Війна",
+      "feeds": [
+        {
+          "source": "24 Канал",
+          "url": "https://24tv.ua/rss/all.xml?googleFlg=true&tagId=9602"
+        }
+      ]
+    },
+    {
+      "id": "mobilizatsiya",
+      "name": "Мобілізація",
+      "feeds": [
+        {
+          "source": "24 Канал",
+          "url": "https://24tv.ua/rss/all.xml?googleFlg=true&tagId=4928"
+        }
+      ]
+    },
+    {
+      "id": "polityka",
+      "name": "Політика й ЄС",
+      "feeds": [
+        {
+          "source": "Європейська правда",
+          "url": "https://www.eurointegration.com.ua/rss/view_news/"
+        }
+      ]
+    },
+    {
+      "id": "ekonomika",
+      "name": "Економіка",
+      "feeds": [
+        {
+          "source": "24 Канал",
+          "url": "https://24tv.ua/rss/all.xml?googleFlg=true&tagId=4638"
+        },
+        {
+          "source": "Економічна правда",
+          "url": "https://www.epravda.com.ua/rss/"
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "name": "Спорт",
+      "feeds": [
+        {
+          "source": "24 Канал",
+          "url": "https://24tv.ua/rss/all.xml?googleFlg=true&tagId=11173"
+        },
+        {
+          "source": "24 Канал",
+          "url": "https://24tv.ua/rss/all.xml?googleFlg=true&tagId=11174"
+        },
+        {
+          "source": "24 Канал",
+          "url": "https://24tv.ua/rss/all.xml?googleFlg=true&tagId=11176"
+        }
+      ]
+    },
+    {
+      "id": "kino",
+      "name": "Кіно",
+      "feeds": [
+        {
+          "source": "24 Канал",
+          "url": "https://24tv.ua/rss/all.xml?googleFlg=true&tagId=8349"
+        }
+      ]
+    },
+    {
+      "id": "osvita",
+      "name": "Освіта",
+      "feeds": [
+        {
+          "source": "24 Канал",
+          "url": "https://24tv.ua/rss/all.xml?googleFlg=true&tagId=7092"
+        },
+        {
+          "source": "24 Канал",
+          "url": "https://24tv.ua/rss/all.xml?googleFlg=true&tagId=11857"
+        }
+      ]
+    },
+    {
+      "id": "zhyttia",
+      "name": "Життя",
+      "feeds": [
+        {
+          "source": "Українська правда. Життя",
+          "url": "https://life.pravda.com.ua/rss/"
+        }
+      ]
+    },
+    {
+      "id": "statti",
+      "name": "Статті й аналітика",
+      "feeds": [
+        {
+          "source": "Українська правда",
+          "url": "https://www.pravda.com.ua/rss/view_pubs/"
+        },
+        {
+          "source": "ZN.UA",
+          "url": "https://zn.ua/ukr/rss/full.rss"
+        }
+      ]
+    }
+  ]
+}
