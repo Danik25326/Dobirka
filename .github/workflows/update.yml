@@ -1,0 +1,36 @@
+name: Оновлення новин
+on:
+  schedule:
+    - cron: "7,27,47 * * * *"
+  workflow_dispatch:
+  push:
+    paths: ["feeds.json", "scripts/**", "index.html", "style.css"]
+permissions:
+  contents: write
+concurrency:
+  group: update-news
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python scripts/fetch.py
+      - run: python scripts/widgets.py
+        continue-on-error: true
+      - run: python scripts/build_pages.py
+      - name: Telegram
+        continue-on-error: true
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python scripts/telegram.py
+      - name: Зберегти зміни
+        run: |
+          git config user.name "dobirka-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add -A data feeds tema oblast sitemap.xml index.html
+          git diff --cached --quiet || (git commit -m "Оновлення новин" && git pull --rebase && git push)
