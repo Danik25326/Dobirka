@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T22:20:39+00:00",
+ "updated": "2026-11-14T22:30:57+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -282,6 +282,28 @@
  ],
  "items": [
   {
+   "t": "Різдвяний піст: які обмеження діють",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/UKRAINE/rizdvjanij-pist-jaki-obmezhennja-dijut.html",
+   "x": "Піст триватиме 40 днів.",
+   "i": "https://zn.ua/img/article/7033/52_main.webp",
+   "d": "2026-11-14T22:30:00+00:00",
+   "c": [
+    "statti"
+   ]
+  },
+  {
+   "t": "Куба готується відбити будь-яку спробу іноземної військової агресії — президент країни Діас-Канель",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1453133-kuba-gotuetsa-vidbiti-bud-aku-sprobu-inozemnoi-vijskovoi-agresii-prezident-kraini-dias-kanel/",
+   "x": "Діас-Канель вимагав від США скасувати ембарго та припинити, за його словами, геноцидну агресію. Він також заявив, що Куба не загрожує жодній країні світу",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-14T22:28:47+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "«Ми в глибокій сраці». Ілля Забарний емоційно прокоментував поразку України від Північної Ірландії",
    "s": "Суспільне",
    "u": "https://suspilne.media/sport/1453139-mi-v-glibokij-sraci-illa-zabarnij-emocijno-prokomentuvav-porazku-ukraini-vid-pivnicnoi-irlandii/",
@@ -512,9 +534,11 @@
    "t": "Прем’єр Вірменії каже, що через 20 років бачить країну членом ЄС",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/14/8062902/",
+   "i": "https://img.eurointegration.com.ua/images/doc/1/5/1592453----.jpg",
    "d": "2026-11-14T21:19:00+00:00",
    "c": [
-    "holovne"
+    "holovne",
+    "polityka"
    ]
   },
   {
@@ -1205,9 +1229,11 @@
    "t": "В Італії оштрафували Meta на 805 млн євро через доступ до даних користувачів Facebook",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/14/8062895/",
+   "i": "https://img.eurointegration.com.ua/images/doc/e/6/e6d4a24--.jpg",
    "d": "2026-11-14T19:03:00+00:00",
    "c": [
-    "holovne"
+    "holovne",
+    "polityka"
    ]
   },
   {
@@ -1438,7 +1464,8 @@
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/d/957084/7d608b63802a32df69a09beb4aca4912.jpeg",
    "d": "2026-11-14T18:42:00+00:00",
    "c": [
-    "holovne"
+    "holovne",
+    "polityka"
    ]
   },
   {
@@ -1736,17 +1763,6 @@
    ]
   },
   {
-   "t": "У США нагородили творців музики створенної за допомогою штучного інтелекту",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/culture/1453083-u-ssa-nagorodili-tvorciv-muziki-stvorennoi-za-dopomogou-stucnogo-intelektu/",
-   "x": "У США відбулася перша церемонія нагородження AI Music Awards, на якій відзначили людей, які створювали пісні частково за допомогою штучного інтелекту",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T17:57:42+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "Посольство України назвало написи \"Слава УПА\" в Польщі проявом гібридної війни РФ",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/14/8062891/",
@@ -1854,6 +1870,17 @@
    ]
   },
   {
+   "t": "Посольство України побачило російський слід у провокації з написами \"Слава УПА\" у Польщі",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/14/7250005/",
+   "x": "Посольство України у Польща вважає, що поява напису \"Слава УПА\" на пам’ятнику Героям Варшавського гетто є проявом гібридної війни Росії.",
+   "i": "https://img.eurointegration.com.ua/images/doc/6/d/6d9e4bb--.jpg",
+   "d": "2026-11-14T17:28:00+00:00",
+   "c": [
+    "polityka"
+   ]
+  },
+  {
    "t": "«І наснилось мені»: у Молодому театрі відкрилася благодійна виставка на підтримку дронарів 3-ї ОШБр",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/CULTURE/i-nasnilos-meni-u-molodomu-teatri-vidkrilasja-blahodijna-vistavka-na-pidtrimku-dronariv-3-ji-oshbr.html",
@@ -1879,9 +1906,11 @@
    "t": "Сибіга подякував за рішучість Латвії, яка готує заборону транзиту російського зерна",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/14/8062889/",
+   "i": "https://img.eurointegration.com.ua/images/doc/2/f/2f11b74----.jpg",
    "d": "2026-11-14T17:21:00+00:00",
    "c": [
-    "holovne"
+    "holovne",
+    "polityka"
    ]
   },
   {
@@ -1903,9 +1932,11 @@
    "t": "У Варшаві невідомі залишили на двох пам‘ятниках написи \"Слава УПА\"",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/14/8062887/",
+   "i": "https://img.eurointegration.com.ua/images/doc/5/5/5513a75-5.jpg",
    "d": "2026-11-14T17:08:00+00:00",
    "c": [
-    "holovne"
+    "holovne",
+    "polityka"
    ]
   },
   {
@@ -1970,9 +2001,11 @@
    "t": "Дрон атакував комерційне судно у територіальних водах Румунії",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/14/8062884/",
+   "i": "https://img.eurointegration.com.ua/images/doc/1/9/1983a13--.jpg",
    "d": "2026-11-14T16:41:00+00:00",
    "c": [
-    "holovne"
+    "holovne",
+    "polityka"
    ]
   },
   {
@@ -2114,9 +2147,11 @@
    "t": "Reuters: Трамп готовий утриматися від нових ударів по Ірану за відсутності провокацій",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/14/8062876/",
+   "i": "https://img.eurointegration.com.ua/images/doc/d/1/d1ce228--.jpg",
    "d": "2026-11-14T15:42:00+00:00",
    "c": [
-    "holovne"
+    "holovne",
+    "polityka"
    ]
   },
   {
@@ -2140,14 +2175,14 @@
    ]
   },
   {
-   "t": "\"Не можемо й не хочемо\": Пєсков прокоментував приєднання Європи до переговорів",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/POLITICS/ne-mozhemo-j-ne-khochemo-pjeskov-vidreahuvav-na-prijedannja-jevropi-do-perehovoriv-.html",
-   "x": "Він вважає, що Москві буде корисно поспілкуватися з цією переговорною командою.",
-   "i": "https://zn.ua/img/article/7039/36_main.webp",
-   "d": "2026-11-14T15:35:41+00:00",
+   "t": "В Кремлі назвали дату зустрічі Трампа, Сі та Путіна",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/14/7250002/",
+   "x": "Тристороння зустріч лідерів США, Китаю і Росії відбудеться 19 листопада у Шеньчжені.",
+   "i": "https://img.eurointegration.com.ua/images/doc/a/4/a4b8ba4--2.jpg",
+   "d": "2026-11-14T15:37:00+00:00",
    "c": [
-    "statti"
+    "polityka"
    ]
   },
   {
@@ -2410,6 +2445,17 @@
    "d": "2026-11-14T13:35:00+00:00",
    "c": [
     "vazhlyve"
+   ]
+  },
+  {
+   "t": "Китай і США обговорили тарифи та торгівлю агропродукцією перед зустріччю Сі та Трампа",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/14/7249997/",
+   "x": "Китай і США обговорили зниження мит, торгівлю сільськогосподарською продукцією та інші питання під час першого засідання торговельної ради в п’ятницю, повідомило в суботу Міністерство торгівлі Китаю.",
+   "i": "https://img.eurointegration.com.ua/images/doc/2/c/2c75a58---.jpg",
+   "d": "2026-11-14T13:30:00+00:00",
+   "c": [
+    "polityka"
    ]
   },
   {
