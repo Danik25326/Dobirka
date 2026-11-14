@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T18:20:42+00:00",
+ "updated": "2026-11-14T18:30:57+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -154,14 +154,14 @@
  ],
  "top": [
   {
-   "t": "Північна Ірландія – Україна: як подивитися матч онлайн",
-   "u": "https://24tv.ua/sporttopnews/pivnichna-irlandiya-ukrayina-yak-podivitisya-onlayn-match-14_n3176798",
-   "i": "https://24tv.ua/resources/photos/news/202611/3176798.jpg?v=1794229142000&q=100",
+   "t": "Північна Ірландія – Україна: онлайн-трансляція матчу Ліги націй",
+   "u": "https://24tv.ua/sporttopnews/pivnichna-irlandiya-ukrayina-onlayn-translyatsiya-matchu-ligi_n3176806",
+   "i": "https://24tv.ua/resources/photos/news/202611/3176806.jpg?v=1794394696000&q=100",
    "n": 3,
    "l": [
     {
      "s": "24 Канал",
-     "u": "https://24tv.ua/sporttopnews/pivnichna-irlandiya-ukrayina-yak-podivitisya-onlayn-match-14_n3176798"
+     "u": "https://24tv.ua/sporttopnews/pivnichna-irlandiya-ukrayina-onlayn-translyatsiya-matchu-ligi_n3176806"
     },
     {
      "s": "Суспільне",
@@ -172,7 +172,7 @@
      "u": "https://zn.ua/ukr/SPORT/pivnichna-irlandija-ukrajina-chas-pochatku-matchu-lihi-natsij-de-divitisja-transljatsiju.html"
     }
    ],
-   "d": "2026-11-14T18:12:00+00:00"
+   "d": "2026-11-14T18:28:00+00:00"
   },
   {
    "t": "Росіяни атакували об'єкт \"Нафтогазу\" на Полтавщині, виникла масштабна пожежа",
@@ -196,27 +196,6 @@
    "d": "2026-11-14T17:02:00+00:00"
   },
   {
-   "t": "У Кремлі підтвердили дату зустрічі Трампа, Сі та Путіна",
-   "u": "https://www.pravda.com.ua/news/2026/11/14/8062880/",
-   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/a/956962/0a20cae4dd5cce6bd40c6ea733e01616.jpeg",
-   "n": 3,
-   "l": [
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/14/8062880/"
-    },
-    {
-     "s": "Європейська правда",
-     "u": "https://www.eurointegration.com.ua/news/2026/11/14/7250002/"
-    },
-    {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/geopolitics/zustrich-trampa-putina-si-rosiyi-nazvali-mistse-datu_n3180531"
-    }
-   ],
-   "d": "2026-11-14T16:01:00+00:00"
-  },
-  {
    "t": "Росія вдарила дроном по об'єкту критичної інфраструктури на Чернігівщині, загинули 2 чоловіків",
    "u": "https://24tv.ua/udar-bpla-po-meni-14-listopada-dvoye-zagiblih-poraneniy_n3180597",
    "i": "https://24tv.ua/resources/photos/news/202611/3180597.jpg?v=1794680193000&q=100",
@@ -234,26 +213,26 @@
    "d": "2026-11-14T18:13:00+00:00"
   },
   {
-   "t": "Погодинні відключення світла у Запорізькій області: графік на 15 листопада",
-   "u": "https://suspilne.media/zaporizhzhia/1453097-pogodinni-vidklucenna-svitla-u-zaporizkij-oblasti-grafik-na-15-listopada-2/",
+   "t": "Яким буде графік погодинних відключень світла на Миколаївщині 15 листопада",
+   "u": "https://suspilne.media/mykolaiv/1453095-akim-bude-grafik-pogodinnih-vidklucen-svitla-na-mikolaivsini-15-listopada/",
    "i": "https://cdn4.suspilne.media/images/default.jpg",
    "n": 2,
    "l": [
     {
      "s": "Суспільне",
-     "u": "https://suspilne.media/zaporizhzhia/1453097-pogodinni-vidklucenna-svitla-u-zaporizkij-oblasti-grafik-na-15-listopada-2/"
+     "u": "https://suspilne.media/mykolaiv/1453095-akim-bude-grafik-pogodinnih-vidklucen-svitla-na-mikolaivsini-15-listopada/"
     },
     {
      "s": "24 Канал",
      "u": "https://24tv.ua/vid-1-do-2-cherg-ukrenergo-nazvali-grafiki-vidklyuchen-svitla_n3180560"
     }
    ],
-   "d": "2026-11-14T17:41:38+00:00"
+   "d": "2026-11-14T17:38:09+00:00"
   },
   {
    "t": "Дрон атакував комерційне судно у територіальних водах Румунії",
    "u": "https://www.pravda.com.ua/news/2026/11/14/8062884/",
-   "i": "https://img.eurointegration.com.ua/images/doc/1/9/1983a13--.jpg",
+   "i": "https://24tv.ua/resources/photos/news/202611/3180541.jpg?v=1794671116000&q=100",
    "n": 2,
    "l": [
     {
@@ -266,9 +245,84 @@
     }
    ],
    "d": "2026-11-14T16:41:00+00:00"
+  },
+  {
+   "t": "У Кремлі підтвердили дату зустрічі Трампа, Сі та Путіна",
+   "u": "https://www.pravda.com.ua/news/2026/11/14/8062880/",
+   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/a/956962/0a20cae4dd5cce6bd40c6ea733e01616.jpeg",
+   "n": 2,
+   "l": [
+    {
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/14/8062880/"
+    },
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/geopolitics/zustrich-trampa-putina-si-rosiyi-nazvali-mistse-datu_n3180531"
+    }
+   ],
+   "d": "2026-11-14T16:01:00+00:00"
   }
  ],
  "items": [
+  {
+   "t": "Намагалася обдурити Ryanair: блогерка стала жертвою власного \"лайфхаку\" для подорожей",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/zakordon24/blogerka-stala-zhertvoyu-svogo-layfhaku-dlya-polotiv-shho-vona_n3180569",
+   "x": "У мережі останнім часом почав набувати популярності незвичний тренд під назвою Check in Chicken. Суть його полягає в тому, аби до останнього відкладати реєстрацію на рейс.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3180569.jpg?v=1794674679000&q=100",
+   "d": "2026-11-14T18:28:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Північна Ірландія – Україна: онлайн-трансляція матчу Ліги націй",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/sporttopnews/pivnichna-irlandiya-ukrayina-onlayn-translyatsiya-matchu-ligi_n3176806",
+   "x": "Збірна України з футболу у суботу, 14 листопада, зіграє проти Північної Ірландії. Команди зійдуться у межах 5-го туру Ліги націй УЄФА сезону 2026/2027.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3176806.jpg?v=1794394696000&q=100",
+   "d": "2026-11-14T18:28:00+00:00",
+   "c": [
+    "holovne",
+    "statti"
+   ]
+  },
+  {
+   "t": "«Іншої батьківщини не буде»: житель Великої Писарівки розповів про життя під обстрілами, знищені музеї та поранення",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sumy/1450427-insoi-batkivsini-ne-bude-zitel-velikoi-pisarivki-rozpoviv-pro-zitta-pid-obstrilami-zniseni-muzei-ta-poranenna/",
+   "x": "Олексій Скоркін із Великої Писарівки пережив удар FPV-дрона, втратив будинок і створені ним музеї. Як живе прикордонне селище та чи планує чоловік повернутися — в інтерв'ю Суспільному.",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-14T18:24:07+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "На Чернігівщині близько 8 тисяч абонентів залишилися без світла через російську атаку",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/chernihiv/1453108-na-cernigivsini-blizko-8-tisac-abonentiv-zalisilisa-bez-svitla-cerez-rosijsku-ataku/",
+   "x": "Внаслідок російської атаки на об'єкт електропостачання 14 листопада знеструмлено близько 8 тисяч абонентів у Новгород-Сіверському районі Чернігівської області",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-14T18:23:42+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "chernihiv"
+   ]
+  },
+  {
+   "t": "Ще кілька місяців тому він співав на сцені. Тепер \"Артист\" збирає на пікап для побратимів",
+   "s": "Інтерфакс-Україна",
+   "u": "https://interfax.com.ua/news/press-release/1236641.html",
+   "x": "Ще кілька місяців тому Кирило Воронцов виходив на сцену з мікрофоном у руках.",
+   "d": "2026-11-14T18:22:18+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
   {
    "t": "Міноборони США скоротить менше військових у Європі ніж планувало",
    "s": "Суспільне",
@@ -311,7 +365,8 @@
    "i": "https://24tv.ua/resources/photos/news/202611/3180597.jpg?v=1794680193000&q=100",
    "d": "2026-11-14T18:13:00+00:00",
    "c": [
-    "holovne"
+    "holovne",
+    "vazhlyve"
    ],
    "r": [
     "chernihiv"
@@ -326,21 +381,6 @@
    "d": "2026-11-14T18:12:00+00:00",
    "c": [
     "holovne"
-   ]
-  },
-  {
-   "t": "Хмарно, прохолодно: прогноз погоди на 15 листопада для Донецької та Луганської областей",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/donbas/1452939-hmarno-proholodno-prognoz-pogodi-na-15-listopada-dla-doneckoi-ta-luganskoi-oblastej/",
-   "x": "У неділю, 15 листопада, у Донецькій і Луганській областях температура стрімко знизиться. Буде хмарно з проясненнями, без опадів. Про це йдеться на сайті Українського гідрометеорологічного центру 14 листопада",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T18:09:30+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "donetsk",
-    "luhansk"
    ]
   },
   {
@@ -454,7 +494,7 @@
    "s": "Інтерфакс-Україна",
    "u": "https://interfax.com.ua/news/general/1236635.html",
    "x": "Будівельна готовність другого рівня інженерного захисту на Київщині становить 55%, проєкти готуються для передачі Агентству відновлення, повідомив Міністр з відновлення, інфраструктури та транспорту Микола Калашник під…",
-   "i": "https://media.interfax.com.ua/media/thumbs/images/2026/09/rvwsg/Y6YCZBwlHyt8.jpg",
+   "i": "https://media.interfax.com.ua/media/thumbs/images/2026/11/sfhgg/7oxZwF4PRYpK.jpg",
    "d": "2026-11-14T17:52:40+00:00",
    "c": [
     "holovne"
@@ -503,20 +543,6 @@
    ]
   },
   {
-   "t": "У Краматорську та Словʼянську поранення від обстрілів дістали двоє людей — прокуратура",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/donbas/1453094-u-kramatorsku-ta-slovansku-poranenna-vid-obstriliv-distali-dvoe-ludej-prokuratura/",
-   "x": "У Краматорську та Словʼянську внаслідок російських ударів поранення дістали двоє людей. Про це Суспільне Донбас повідомила речниця обласної прокуратури Анастасія Мєдвєдєва",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T17:46:00+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "donetsk"
-   ]
-  },
-  {
    "t": "На Черкащині 15 листопада вимикатимуть світло: в обленерго оприлюднили графіки",
    "s": "Суспільне",
    "u": "https://suspilne.media/cherkasy/1452787-na-cerkasini-15-listopada-vimikatimut-svitlo-v-oblenergo-opriludnili-grafiki/",
@@ -553,20 +579,6 @@
    ],
    "r": [
     "rivne"
-   ]
-  },
-  {
-   "t": "Погодинні відключення світла у Запорізькій області: графік на 15 листопада",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/zaporizhzhia/1453097-pogodinni-vidklucenna-svitla-u-zaporizkij-oblasti-grafik-na-15-listopada-2/",
-   "x": "15 листопада у Запоріжжі та області діятимуть графіки погодинних відключень світла для 11 підчерг, також упродовж доби застосовуватимуть обмеження потужності",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T17:41:38+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "zaporizhzhia"
    ]
   },
   {
@@ -766,11 +778,9 @@
    "t": "Сибіга подякував за рішучість Латвії, яка готує заборону транзиту російського зерна",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/14/8062889/",
-   "i": "https://img.eurointegration.com.ua/images/doc/2/f/2f11b74----.jpg",
    "d": "2026-11-14T17:21:00+00:00",
    "c": [
-    "holovne",
-    "polityka"
+    "holovne"
    ]
   },
   {
@@ -800,6 +810,17 @@
    ],
    "r": [
     "chernihiv"
+   ]
+  },
+  {
+   "t": "«Більшість гинули, коли йшли по продукти»: історія чоловіка, який виїхав з Олешків (Відео)",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1453089-bilsist-ginuli-koli-jsli-po-produkti-istoria-colovika-akij-viihav-z-oleskiv-video/",
+   "x": "Олександр розповів про будні в окупованому місті, голод, який довелося пережити, та те, як загиблі люди лежали на дорогах. Що допомогло подружжю вижити в окупації та яким був їхній шлях до евакуації — в матеріалі…",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-14T17:12:55+00:00",
+   "c": [
+    "holovne"
    ]
   },
   {
@@ -933,7 +954,6 @@
    "d": "2026-11-14T17:00:00+00:00",
    "c": [
     "holovne",
-    "vazhlyve",
     "viyna"
    ]
   },
@@ -988,11 +1008,9 @@
    "t": "Дрон атакував комерційне судно у територіальних водах Румунії",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/14/8062884/",
-   "i": "https://img.eurointegration.com.ua/images/doc/1/9/1983a13--.jpg",
    "d": "2026-11-14T16:41:00+00:00",
    "c": [
-    "holovne",
-    "polityka"
+    "holovne"
    ]
   },
   {
@@ -1218,31 +1236,18 @@
    ]
   },
   {
-   "t": "«Мріємо, щоб більше ніколи не довелося в'язати сітки і закінчилась війна»: історія волонтерського осередку з Вінниччини",
+   "t": "Хмарно, прохолодно: прогноз погоди на 15 листопада для Донецької та Луганської областей",
    "s": "Суспільне",
-   "u": "https://suspilne.media/vinnytsia/1452467-mriemo-sob-bilse-nikoli-ne-dovelosa-vazati-sitki-i-zakincilas-vijna-istoria-volonterskogo-oseredku-z-vinniccini/",
-   "x": "У «Шовкопрядів» кожна має свою ділянку роботи. Хтось нарізає тканину, хтось вплітає її в основу. Євгенія Бабій часто допомагає вдома – нарізає матеріал, щоб у майстерні не гаяли часу",
+   "u": "https://suspilne.media/donbas/1452939-hmarno-proholodno-prognoz-pogodi-na-15-listopada-dla-doneckoi-ta-luganskoi-oblastej/",
+   "x": "У неділю, 15 листопада, у Донецькій і Луганській областях температура стрімко знизиться. Буде хмарно з проясненнями, без опадів. Про це йдеться на сайті Українського гідрометеорологічного центру 14 листопада",
    "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T16:08:00+00:00",
+   "d": "2026-11-14T16:09:30+00:00",
    "c": [
     "holovne"
    ],
    "r": [
-    "vinnytsia"
-   ]
-  },
-  {
-   "t": "У Дніпрі рятують котів після атаки Росії на житлові будинки (Відео)",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1453057-u-dnipri-ratuut-kotiv-pisla-ataki-rosii-na-zitlovi-budinki-video/",
-   "x": "З десяток котів загубилися у Дніпрі після ракетної атаки РФ по житлових будинках. Коти ховаються посеред зруйнованих квартир та під завалами. Місцеві жителі разом з власниками тварин та зооволонтерами щовечора…",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T16:07:03+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "dnipro"
+    "donetsk",
+    "luhansk"
    ]
   },
   {
@@ -1349,14 +1354,26 @@
    ]
   },
   {
+   "t": "У Краматорську та Словʼянську поранення від обстрілів дістали двоє людей — прокуратура",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/donbas/1453094-u-kramatorsku-ta-slovansku-poranenna-vid-obstriliv-distali-dvoe-ludej-prokuratura/",
+   "x": "У Краматорську та Словʼянську внаслідок російських ударів поранення дістали двоє людей. Про це Суспільне Донбас повідомила речниця обласної прокуратури Анастасія Мєдвєдєва",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-14T15:46:00+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "donetsk"
+   ]
+  },
+  {
    "t": "Reuters: Трамп готовий утриматися від нових ударів по Ірану за відсутності провокацій",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/14/8062876/",
-   "i": "https://img.eurointegration.com.ua/images/doc/d/1/d1ce228--.jpg",
    "d": "2026-11-14T15:42:00+00:00",
    "c": [
-    "holovne",
-    "polityka"
+    "holovne"
    ]
   },
   {
@@ -1367,6 +1384,20 @@
    "d": "2026-11-14T15:42:00+00:00",
    "c": [
     "zhyttia"
+   ]
+  },
+  {
+   "t": "Погодинні відключення світла у Запорізькій області: графік на 15 листопада",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/zaporizhzhia/1453097-pogodinni-vidklucenna-svitla-u-zaporizkij-oblasti-grafik-na-15-listopada-2/",
+   "x": "15 листопада у Запоріжжі та області діятимуть графіки погодинних відключень світла для 11 підчерг, також упродовж доби застосовуватимуть обмеження потужності",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-14T15:41:38+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "zaporizhzhia"
    ]
   },
   {
@@ -1388,16 +1419,6 @@
    "d": "2026-11-14T15:39:35+00:00",
    "c": [
     "holovne"
-   ]
-  },
-  {
-   "t": "В Кремлі назвали дату зустрічі Трампа, Сі та Путіна",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/14/7250002/",
-   "x": "Тристороння зустріч лідерів США, Китаю і Росії відбудеться 19 листопада у Шеньчжені.",
-   "d": "2026-11-14T15:37:00+00:00",
-   "c": [
-    "polityka"
    ]
   },
   {
@@ -1456,17 +1477,6 @@
    "c": [
     "holovne",
     "sport"
-   ]
-  },
-  {
-   "t": "В Італії оштрафували Meta на 805 млн євро через доступ до даних користувачів Facebook",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/14/7250001/",
-   "x": "Італійський орган із захисту персональних даних оштрафував Meta, материнську компанію Facebook, на 805 млн євро за використання фотографій і відео з телефонів на Android без окремої згоди користувачів.",
-   "i": "https://img.eurointegration.com.ua/images/doc/e/6/e6d4a24--.jpg",
-   "d": "2026-11-14T15:19:00+00:00",
-   "c": [
-    "polityka"
    ]
   },
   {
@@ -1532,31 +1542,7 @@
    "t": "Ченцов зустрівся з главою МЗС Угорщини в Будапешті",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/14/8062875/",
-   "i": "https://img.eurointegration.com.ua/images/doc/a/1/a10b6ea--.jpg",
    "d": "2026-11-14T15:15:00+00:00",
-   "c": [
-    "holovne",
-    "polityka"
-   ]
-  },
-  {
-   "t": "Північна Ірландія — Україна: онлайн-трансляція матчу Ліги націй",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/SPORT/pivnichna-irlandija-ukrajina-onlajn-transljatsija-matchu-lihi-natsij.html",
-   "x": "Команди проведуть друге очне протистояння в цьому розіграші турніру.",
-   "i": "https://zn.ua/img/article/7033/14_main.webp",
-   "d": "2026-11-14T15:14:00+00:00",
-   "c": [
-    "statti"
-   ]
-  },
-  {
-   "t": "«Більшість гинули, коли йшли по продукти»: історія чоловіка, який виїхав з Олешків (Відео)",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1453089-bilsist-ginuli-koli-jsli-po-produkti-istoria-colovika-akij-viihav-z-oleskiv-video/",
-   "x": "Олександр розповів про будні в окупованому місті, голод, який довелося пережити, та те, як загиблі люди лежали на дорогах. Що допомогло подружжю вижити в окупації та яким був їхній шлях до евакуації — в матеріалі…",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-14T15:12:55+00:00",
    "c": [
     "holovne"
    ]
@@ -1644,7 +1630,6 @@
    "i": "https://24tv.ua/resources/photos/news/202611/3180522.jpg?v=1794668109000&q=100",
    "d": "2026-11-14T14:52:00+00:00",
    "c": [
-    "holovne",
     "viyna"
    ],
    "r": [
@@ -1670,7 +1655,6 @@
    "i": "https://24tv.ua/resources/photos/news/202611/3180512.jpg?v=1794667575000&q=100",
    "d": "2026-11-14T14:50:22+00:00",
    "c": [
-    "holovne",
     "viyna"
    ],
    "r": [
@@ -1774,11 +1758,9 @@
    "t": "\"Вражений твоєю креативністю\": Туск висміяв Орбана на тлі скандалів з його оточенням",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/14/8062867/",
-   "i": "https://img.eurointegration.com.ua/images/doc/8/f/8fcf145-edw.jpg",
    "d": "2026-11-14T14:11:00+00:00",
    "c": [
-    "holovne",
-    "polityka"
+    "holovne"
    ]
   },
   {
@@ -1974,17 +1956,6 @@
    ]
   },
   {
-   "t": "Китай і США обговорили тарифи та торгівлю агропродукцією перед зустріччю Сі та Трампа",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/14/7249997/",
-   "x": "Китай і США обговорили зниження мит, торгівлю сільськогосподарською продукцією та інші питання під час першого засідання торговельної ради в п’ятницю, повідомило в суботу Міністерство торгівлі Китаю.",
-   "i": "https://img.eurointegration.com.ua/images/doc/2/c/2c75a58---.jpg",
-   "d": "2026-11-14T13:30:00+00:00",
-   "c": [
-    "polityka"
-   ]
-  },
-  {
    "t": "Зеленський: Ідея переглянути архітектуру безпеки в Європі небезпечна",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/14/8062863/",
@@ -2125,17 +2096,6 @@
    ]
   },
   {
-   "t": "\"АдН\" хоче висунути кандидатом у президенти Німеччини відомого колишнього футболіста",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/14/7249996/",
-   "x": "Ультраправа партія \"Альтернатива для Німеччини\" (\"АдН\") планує висунути колишнього футболіста збірної Німеччини Томаса Бертольда кандидатом на посаду федерального президента.",
-   "i": "https://img.eurointegration.com.ua/images/doc/3/9/39bb150---.jpg",
-   "d": "2026-11-14T12:34:00+00:00",
-   "c": [
-    "polityka"
-   ]
-  },
-  {
    "t": "Демократи із Сенату США звернулися до Маска щодо роботи Starlink в Україні",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/usa/demokrati-zvernulisja-do-maska-shchodo-roboti-starlink-v-ukrajini.html",
@@ -2209,7 +2169,7 @@
    "u": "https://sportnews.24tv.ua/ukrayina-pivnichna-irlandiya-pobachimo-kistyak-zbirnoyi-vid-malderi_n3180434",
    "x": "Збірна України під керівництвом Андреа Мальдери проведе свій 5 офіційний матч проти Північної Ірландії. Експерт Євген Левченко вважає, що тренер ще досі перебуває в пошуку гравців.",
    "i": "https://24tv.ua/resources/photos/news/202611/3180434.jpg?v=1794658810000&q=100",
-   "d": "2026-11-14T12:22:44+00:00",
+   "d": "2026-11-14T12:22:00+00:00",
    "c": [
     "sport"
    ]
@@ -2339,17 +2299,6 @@
    ]
   },
   {
-   "t": "Україна просить партнерів про додаткові літаки F-16",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/14/7249994/",
-   "x": "Україні потрібно у 2,5 раза збільшити кількість винищувачів, які одночасно перебувають у небі, оскільки наявні літаки часто проходять реновацію, заявив президент Володимир Зеленський.",
-   "i": "https://img.eurointegration.com.ua/images/doc/8/8/886fe12-dwe.jpg",
-   "d": "2026-11-14T11:50:00+00:00",
-   "c": [
-    "polityka"
-   ]
-  },
-  {
    "t": "Події у Петропавлівській Борщагівці — це підготовлена історія — Зеленський",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/war/podiji-u-petropavlivskij-borshchahivtsi-tse-pidhotovlena-istorija-zelenskij.html",
@@ -2447,19 +2396,6 @@
    "d": "2026-11-14T11:08:00+00:00",
    "c": [
     "statti"
-   ]
-  },
-  {
-   "t": "У Києві зафіксовано падіння уламків БпЛА, у тому числі на території державного медзакладу",
-   "s": "Інтерфакс-Україна",
-   "u": "https://interfax.com.ua/news/general/1236573.html",
-   "x": "У Києві внаслідок ворожої атаки у суботу зафіксовано падіння уламків БпЛА.",
-   "d": "2026-11-14T11:05:33+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "kyiv"
    ]
   },
   {
