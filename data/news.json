@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T06:40:39+00:00",
+ "updated": "2026-11-15T06:50:41+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -154,29 +154,25 @@
  ],
  "top": [
   {
-   "t": "Кушнер про мирні переговори: з’явилися нові ідеї, які можуть привести до прориву",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/15/7250007/",
-   "i": "https://img.eurointegration.com.ua/images/doc/9/9/99d6009---------------.jpg",
-   "n": 4,
+   "t": "Світоліна розгромила Носкову і вийшла до фіналу Підсумкового турніру WTA",
+   "u": "https://sportnews.24tv.ua/elina-svitolina-ukrayinska-tenisistka-viyshla-final-pidsumkovogo_n3180690",
+   "i": "https://24tv.ua/resources/photos/news/202611/3180690.jpg?v=1794724748000&q=100",
+   "n": 3,
    "l": [
     {
-     "s": "Європейська правда",
-     "u": "https://www.eurointegration.com.ua/news/2026/11/15/7250007/"
+     "s": "24 Канал",
+     "u": "https://sportnews.24tv.ua/elina-svitolina-ukrayinska-tenisistka-viyshla-final-pidsumkovogo_n3180690"
     },
     {
      "s": "ZN.UA",
-     "u": "https://zn.ua/ukr/usa/kushner-zajaviv-pro-novi-ideji-shchodo-zavershennja-vijni-v-ukrajini-dejaki-mozhut-privesti-do-prorivu.html"
+     "u": "https://zn.ua/ukr/SPORT/svitolina-vpevneno-vijshla-u-final-pidsumkovoho-turniru-wta.html"
     },
     {
      "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/15/8062904/"
-    },
-    {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/mirni-peregovori-ukrayini-rosiyi-kushner-zayaviv-pro-novi-ideyi_n3180629"
+     "u": "https://www.pravda.com.ua/news/2026/11/15/8062906/"
     }
    ],
-   "d": "2026-11-15T06:21:00+00:00"
+   "d": "2026-11-15T06:46:00+00:00"
   },
   {
    "t": "\"Це рецепт для наступної війни\": Макрон застеріг від обмеження допомоги Україні",
@@ -221,6 +217,27 @@
    "d": "2026-11-15T05:51:00+00:00"
   },
   {
+   "t": "Кушнер заявив про нові ідеї щодо завершення війни в Україні: деякі можуть привести до прориву",
+   "u": "https://zn.ua/ukr/usa/kushner-zajaviv-pro-novi-ideji-shchodo-zavershennja-vijni-v-ukrajini-dejaki-mozhut-privesti-do-prorivu.html",
+   "i": "https://zn.ua/img/article/7039/60_main.webp",
+   "n": 3,
+   "l": [
+    {
+     "s": "ZN.UA",
+     "u": "https://zn.ua/ukr/usa/kushner-zajaviv-pro-novi-ideji-shchodo-zavershennja-vijni-v-ukrajini-dejaki-mozhut-privesti-do-prorivu.html"
+    },
+    {
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/15/8062904/"
+    },
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/mirni-peregovori-ukrayini-rosiyi-kushner-zayaviv-pro-novi-ideyi_n3180629"
+    }
+   ],
+   "d": "2026-11-14T22:13:00+00:00"
+  },
+  {
    "t": "Ізраїль заявив про ліквідацію двох командирів бригад ХАМАС у секторі Гази",
    "u": "https://24tv.ua/geopolitics/izrayil-likviduvav-dvoh-komandiriv-hamas-sektori-gazi-shho-vidomo_n3180684",
    "i": "https://24tv.ua/resources/photos/news/202611/3180684.jpg?v=1794723355000&q=100",
@@ -253,26 +270,37 @@
     }
    ],
    "d": "2026-11-15T06:06:00+00:00"
-  },
-  {
-   "t": "15 листопада: Яке сьогодні свято, все про цей день",
-   "u": "https://interfax.com.ua/news/general/1236677.html",
-   "i": "https://media.interfax.com.ua/media/thumbs/images/2021/10/kLkGxw_x5ye6.jpg",
-   "n": 2,
-   "l": [
-    {
-     "s": "Інтерфакс-Україна",
-     "u": "https://interfax.com.ua/news/general/1236677.html"
-    },
-    {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/traditions24/svyato-15-listopada-yake-sogodni-tserkovne-svyato-kogo-imenini_n3180300"
-    }
-   ],
-   "d": "2026-11-15T05:13:40+00:00"
   }
  ],
  "items": [
+  {
+   "t": "Світоліна розгромила Носкову і вийшла до фіналу Підсумкового турніру WTA",
+   "s": "24 Канал",
+   "u": "https://sportnews.24tv.ua/elina-svitolina-ukrayinska-tenisistka-viyshla-final-pidsumkovogo_n3180690",
+   "x": "Еліна Світоліна пробилася до фіналу Підсумкового турніру WTA, не залишивши шансів Лінді Носковій. У вирішальному матчі українка побореться за престижний титул з \"нейтральною\" росіянкою Міррою Андрєєвою.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3180690.jpg?v=1794724748000&q=100",
+   "d": "2026-11-15T06:46:00+00:00",
+   "c": [
+    "holovne",
+    "sport"
+   ]
+  },
+  {
+   "t": "Пастка для захоплення двох міст: в ISW розкрили справжню мету \"перемир'я\" Кремля в Костянтинівці",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/pastka-dlya-zahoplennya-dvoh-mist-isw-rozkrili-metu-peremirya_n3180687",
+   "x": "Кремль запропонував оголосити в Костянтинівці Донецької області тимчасове локальне \"перемир'я\" нібито з гуманітарною метою. Втім, припинення вогню покликане створити умови для захоплення росіянами Костянтинівки та…",
+   "i": "https://24tv.ua/resources/photos/news/202611/3180687.jpg?v=1794723926000&q=100",
+   "d": "2026-11-15T06:43:00+00:00",
+   "c": [
+    "holovne",
+    "vazhlyve",
+    "viyna"
+   ],
+   "r": [
+    "donetsk"
+   ]
+  },
   {
    "t": "Кривава тінь Першої світової: як Порта винищувала вірмен і чому Туреччина заперечує геноцид",
    "s": "24 Канал",
@@ -333,17 +361,6 @@
    ],
    "r": [
     "kyiv"
-   ]
-  },
-  {
-   "t": "Кушнер про мирні переговори: з’явилися нові ідеї, які можуть привести до прориву",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/15/7250007/",
-   "x": "Спецпредставник президента США Дональда Трампа Джаред Кушнер заявив, що під час підготовки до нового раунду тристоронніх переговорів з'явилося кілька новин ідей, які можуть або привести до прориву, або перерости в нові…",
-   "i": "https://img.eurointegration.com.ua/images/doc/9/9/99d6009---------------.jpg",
-   "d": "2026-11-15T06:21:00+00:00",
-   "c": [
-    "polityka"
    ]
   },
   {
@@ -1347,7 +1364,6 @@
    "i": "https://24tv.ua/resources/photos/news/202611/3180633.jpg?v=1794690549000&q=100",
    "d": "2026-11-14T21:11:46+00:00",
    "c": [
-    "holovne",
     "viyna"
    ]
   },
@@ -1374,17 +1390,6 @@
    ],
    "r": [
     "kyiv"
-   ]
-  },
-  {
-   "t": "\"Вхоплюся обома руками\": британський боксер зацікавлений у двобої з Усиком",
-   "s": "24 Канал",
-   "u": "https://fight.24tv.ua/oleksandr-usik-potentsiyniy-supernik-viddala-rayli-kruzerveyti_n3180601",
-   "x": "Непереможний британський боксер у крузервейті Віддал Райлі наближається до великих чемпіонських поєдинків і вже виглядає собі суперників. Найбільш бажаним у цьому списку, очевидно, є Олександр Усик.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3180601.jpg?v=1794680501000&q=100",
-   "d": "2026-11-14T21:00:00+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
@@ -2186,6 +2191,17 @@
    ]
   },
   {
+   "t": "Китай і США обговорили тарифи та торгівлю агропродукцією перед зустріччю Сі та Трампа",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/14/7249997/",
+   "x": "Китай і США обговорили зниження мит, торгівлю сільськогосподарською продукцією та інші питання під час першого засідання торговельної ради в п’ятницю, повідомило в суботу Міністерство торгівлі Китаю.",
+   "i": "https://img.eurointegration.com.ua/images/doc/2/c/2c75a58---.jpg",
+   "d": "2026-11-14T13:30:00+00:00",
+   "c": [
+    "polityka"
+   ]
+  },
+  {
    "t": "Сили оборони уразили три РЛС біля Усть-Луги: як це вплине на можливості ворога",
    "s": "24 Канал",
    "u": "https://24tv.ua/vibuhi-rosiyi-sili-oboroni-urazili-3-rosiyski-rls_n3180435",
@@ -2430,20 +2446,6 @@
    "d": "2026-11-14T10:55:00+00:00",
    "c": [
     "viyna"
-   ]
-  },
-  {
-   "t": "Данія допоможе вирішити питання постачання 800 тисяч боєприпасів до F-16, – Зеленський",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/military/paket-dopomogi-vid-daniyi-zelenskiy-rozkriv-detali_n3180403",
-   "x": "Данія виділяє Україні масштабний пакет військової підтримки на 645 мільйонів євро. Фінансування охоплює виробництво дронів, енергетичну допомогу Херсонщині та критично важливу амуніцію для винищувачів F-16.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3180403.jpg?v=1794652192000&q=100",
-   "d": "2026-11-14T10:34:37+00:00",
-   "c": [
-    "viyna"
-   ],
-   "r": [
-    "kherson"
    ]
   },
   {
@@ -3449,17 +3451,6 @@
    "d": "2026-11-13T08:23:00+00:00",
    "c": [
     "sport"
-   ]
-  },
-  {
-   "t": "У Москві підірвали речника експрем'єра України Азарова, – ЗМІ",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/moskvi-pidirvali-sekretarya-ekspremyera-ukrayini-mikoli-azarova_n3179566",
-   "x": "Вранці 13 листопада у Москві вибухнуло авто. Водій отримав поранення – його госпіталізували.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3179566.jpg?v=1794558135000&q=100",
-   "d": "2026-11-13T08:03:00+00:00",
-   "c": [
-    "vazhlyve"
    ]
   },
   {
