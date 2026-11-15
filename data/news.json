@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T05:30:55+00:00",
+ "updated": "2026-11-15T05:40:39+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -175,6 +175,27 @@
    "d": "2026-11-14T22:13:00+00:00"
   },
   {
+   "t": "Збірна України повторно програла Північній Ірландії в Лізі націй",
+   "u": "https://zn.ua/ukr/SPORT/zbirna-ukrajini-vkotre-postupilasja-pivnichnij-irlandiji-v-lizi-natsij.html",
+   "i": "https://zn.ua/img/article/7039/59_main.webp",
+   "n": 3,
+   "l": [
+    {
+     "s": "ZN.UA",
+     "u": "https://zn.ua/ukr/SPORT/zbirna-ukrajini-vkotre-postupilasja-pivnichnij-irlandiji-v-lizi-natsij.html"
+    },
+    {
+     "s": "24 Канал",
+     "u": "https://sportnews.24tv.ua/pivnichna-irlandiya-ukrayina-rezultat-matchu-oglyad-gri-14-listopada_n3176819"
+    },
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/sport/1453134-ukraina-prograla-pivnicnij-irlandii-ta-vtratila-sansi-na-pidvisenna-u-klasi-u-lizi-nacij-z-futbolu/"
+    }
+   ],
+   "d": "2026-11-14T21:50:00+00:00"
+  },
+  {
    "t": "15 листопада: Яке сьогодні свято, все про цей день",
    "u": "https://interfax.com.ua/news/general/1236677.html",
    "i": "https://media.interfax.com.ua/media/thumbs/images/2021/10/kLkGxw_x5ye6.jpg",
@@ -209,6 +230,23 @@
    "d": "2026-11-15T04:54:00+00:00"
   },
   {
+   "t": "«Це дух поразки. Це рецепт наступної війни»: Макрон розкритикував прагнення обмежити Україну в ресурсах",
+   "u": "https://suspilne.media/1453158-ce-duh-porazki-ce-recept-nastupnoi-vijni-makron-rozkritikuvav-pragnenna-obmeziti-ukrainu-v-resursah/",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "n": 2,
+   "l": [
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/1453158-ce-duh-porazki-ce-recept-nastupnoi-vijni-makron-rozkritikuvav-pragnenna-obmeziti-ukrainu-v-resursah/"
+    },
+    {
+     "s": "Інтерфакс-Україна",
+     "u": "https://interfax.com.ua/news/general/1236669.html"
+    }
+   ],
+   "d": "2026-11-15T04:00:08+00:00"
+  },
+  {
    "t": "Збірна України в Лізі націй: розклад та результати всіх матчів, турнірна таблиця",
    "u": "https://zn.ua/ukr/SPORT/zbirna-ukrajini-v-lizi-natsij-rozklad-usikh-matchiv-turnirna-tablitsja.html",
    "i": "https://zn.ua/img/article/6964/71_main.webp",
@@ -224,43 +262,62 @@
     }
    ],
    "d": "2026-11-15T00:15:00+00:00"
-  },
-  {
-   "t": "Збірна України повторно програла Північній Ірландії в Лізі націй",
-   "u": "https://zn.ua/ukr/SPORT/zbirna-ukrajini-vkotre-postupilasja-pivnichnij-irlandiji-v-lizi-natsij.html",
-   "i": "https://zn.ua/img/article/7039/59_main.webp",
-   "n": 2,
-   "l": [
-    {
-     "s": "ZN.UA",
-     "u": "https://zn.ua/ukr/SPORT/zbirna-ukrajini-vkotre-postupilasja-pivnichnij-irlandiji-v-lizi-natsij.html"
-    },
-    {
-     "s": "24 Канал",
-     "u": "https://sportnews.24tv.ua/pivnichna-irlandiya-ukrayina-rezultat-matchu-oglyad-gri-14-listopada_n3176819"
-    }
-   ],
-   "d": "2026-11-14T21:50:00+00:00"
-  },
-  {
-   "t": "Росія вдарила дроном по об'єкту критичної інфраструктури на Чернігівщині, загинули 2 чоловіків",
-   "u": "https://24tv.ua/udar-bpla-po-meni-14-listopada-dvoye-zagiblih-poraneniy_n3180597",
-   "i": "https://24tv.ua/resources/photos/news/202611/3180597.jpg?v=1794680193000&q=100",
-   "n": 2,
-   "l": [
-    {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/udar-bpla-po-meni-14-listopada-dvoye-zagiblih-poraneniy_n3180597"
-    },
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/14/8062888/"
-    }
-   ],
-   "d": "2026-11-14T18:13:00+00:00"
   }
  ],
  "items": [
+  {
+   "t": "Обмеження в роботі Starshield ускладнюють перехоплення реактивних БпЛА РФ поблизу фронту – ЗМІ",
+   "s": "Інтерфакс-Україна",
+   "u": "https://interfax.com.ua/news/general/1236679.html",
+   "x": "Масштабні обмеження в роботі системи супутникового зв'язку Starshield компанії SpaceX зберігаються впродовж п'яти днів та ускладнюють українським військовим перехоплення російських реактивних ударних безпілотних…",
+   "i": "https://media.interfax.com.ua/media/thumbs/images/2021/05/oyYCdLV4yZSy.jpg",
+   "d": "2026-11-15T05:37:23+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "На Київщині пролунали вибухи: область атакують ворожі дрони, працює ППО",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/kiyivshhini-prolunali-vibuhi-oblast-atakuyut-vorozhi-droni-pratsyuye_n3180679",
+   "x": "Вранці 15 листопада на Київщині пролунали вибухи на тлі атаки російських безпілотників. У регіоні працюють сили протиповітряної оборони, а жителів закликають залишатися в укриттях.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3180679.jpg?v=1794720904000&q=100",
+   "d": "2026-11-15T05:36:00+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kyivska"
+   ]
+  },
+  {
+   "t": "У Миколаєві внаслідок обстрілу пошкоджено будівлю підприємства",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/mykolaiv/1453165-u-mikolaevi-vnaslidok-obstrilu-poskodzeno-budivlu-pidpriemstva/",
+   "x": "Армія РФ 14 листопада атакувала Миколаїв дронами, внаслідок чого будівлю одного з підприємств було пошкоджено. Також під ударом опинилися енергетична і промислова інфраструктури в регіоні",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-15T05:34:30+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "mykolaiv"
+   ]
+  },
+  {
+   "t": "Головні новини Дніпра та області 15 листопада",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/dnipro/1453166-golovni-novini-dnipra-ta-oblasti-15-listopada-2/",
+   "x": "Оперативні новини Дніпра та Дніпропетровської області за 15 листопада 2026 року читайте в хроніці подій від редакції Суспільне Дніпро",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-15T05:32:13+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "dnipro"
+   ]
+  },
   {
    "t": "Росія наступає на український фортечний пояс з 4 напрямків: огляд фронту від ISW",
    "s": "24 Канал",
@@ -288,6 +345,20 @@
    ]
   },
   {
+   "t": "Армія РФ за минулу добу завдала понад 870 ударів по території 48 населених пунктів на Запоріжжі: 32 людини поранені",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/zaporizhzhia/1453161-armia-rf-za-minulu-dobu-zavdala-ponad-870-udariv-po-teritorii-48-naselenih-punktiv-na-zaporizzi-32-ludini-poraneni/",
+   "x": "14 листопада, російські військові завдали 877 ударів по території 48 населених пунктів Запорізької області. Внаслідок атак 32 людини, серед яких четверо дітей, дістали поранень",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-15T05:22:28+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "zaporizhzhia"
+   ]
+  },
+  {
    "t": "«Джеймс Вебб» зафіксував «заборонений сигнал», якого раніше не спостерігали у Всесвіті",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/TECHNOLOGIES/dzhejms-vebb-zafiksuvav-zaboronenij-sihnal-jakoho-nikoli-ranishe-ne-sposterihali-u-vsesviti.html",
@@ -310,7 +381,21 @@
    ]
   },
   {
-   "t": "Упродовж доби росіяни поранили більше 30 людей на Запоріжжі, зокрема 4 дитини",
+   "t": "На Дніпропетровщині 15 листопада діятимуть погодинні вимкнення світла: графіки",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/dnipro/1453125-na-dnipropetrovsini-15-listopada-diatimut-pogodinni-vimknenna-svitla-grafiki/",
+   "x": "На Дніпропетровщині та у частині регіонів України 15 листопада діятимуть обмеження споживання електроенергії. Графіки для всіх категорій споживачів застосовують протягом доби",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-15T05:04:24+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "dnipro"
+   ]
+  },
+  {
+   "t": "Росіяни прогтягом доби поранили більше 30 людей на Запоріжжі, зокрема 4 дитини",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/15/8062913/",
    "x": "Протягом доби російські війська здійснили 877 ударів по 48 населених пунктах Запорізької області. Пошкоджено житло та інфраструктуру.",
@@ -321,6 +406,31 @@
    ],
    "r": [
     "zaporizhzhia"
+   ]
+  },
+  {
+   "t": "Якою буде погода в Миколаєві та області 15 листопада",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/mykolaiv/1452541-akou-bude-pogoda-v-mikolaevi-ta-oblasti-15-listopada/",
+   "x": "Погода на Миколаївщині 15 листопада буде мінливо хмарною, без істотних опадів удень. Температура повітря становитиме +6…+11°С, вітер — північно-західний, 5–10 м/с",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-15T05:00:00+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "mykolaiv"
+   ]
+  },
+  {
+   "t": "«Ми дуже розчаровані і злі». Андреа Мальдера розповів про настрій у команді після програшу від Північної Ірландії",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sport/1453148-mi-duze-rozcarovani-i-zli-andrea-maldera-rozpoviv-pro-nastrij-u-komandi-pisla-prograsu-vid-pivnicnoi-irlandii/",
+   "x": "Андреа Мальдера: головний тренер збірної України прокоментував програш від Північної Ірландії у п'ятому турі Ліги націй з футболу: що сказав про результат гри «синьо-жовтих»",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-15T05:00:00+00:00",
+   "c": [
+    "holovne"
    ]
   },
   {
@@ -344,6 +454,20 @@
    "d": "2026-11-15T04:47:00+00:00",
    "c": [
     "statti"
+   ]
+  },
+  {
+   "t": "У Харкові за колабораціонізм заочно судили паспортистку з Куп'янська: вирок",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/kharkiv/1453131-u-harkovi-za-kolaboracionizm-zaocno-sudili-pasportistku-z-kupanska-virok/",
+   "x": "У Харкові заочно винесли вирок Оксані Д., яка, за даними слідства, під час окупації Куп'янська добровільно погодилася співпрацювати з росіянами та видавала паспорти РФ. Її визнали винною в колабораціонізмі",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-15T04:45:00+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kharkiv"
    ]
   },
   {
@@ -378,6 +502,17 @@
    "d": "2026-11-15T04:40:00+00:00",
    "c": [
     "statti"
+   ]
+  },
+  {
+   "t": "SpaceX уперше спіймала верхній ступінь ракети Starship, який повернувся з орбіти",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1453159-spacex-uperse-spijmala-verhnij-stupin-raketi-starship-akij-povernuvsa-z-orbiti/",
+   "x": "Starship зробив 14 обертів навколо Землі, хоча його нижній ступінь повернути не вдалося. Під час 15-го польоту корабель також вивів на орбіту 26 супутників Starlink",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-15T04:38:53+00:00",
+   "c": [
+    "holovne"
    ]
   },
   {
@@ -417,6 +552,21 @@
    ]
   },
   {
+   "t": "Головні новини Донецької та Луганської областей 15 листопада 2026 року",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/donbas/1453114-golovni-novini-doneckoi-ta-luganskoi-oblastej-15-listopada-2026-roku/",
+   "x": "Новини Донбасу: події в Донецькій області 15 листопада 2026 року, ситуація в Луганській області. Обстріли, загиблі, інформація з окупації. Краматорськ, Слов'янськ, Костянтинівка, Дружківка, Добропілля 15.11.2026 —…",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-15T04:20:00+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "donetsk",
+    "luhansk"
+   ]
+  },
+  {
    "t": "3 найбагатші боксери з України, які стали гривневими мільярдерами",
    "s": "24 Канал",
    "u": "https://fight.24tv.ua/naybagatshi-bokseri-ukrayini-hto-voni-skilki-voni-mayut-groshey_n3050985",
@@ -447,6 +597,17 @@
    "d": "2026-11-15T04:04:00+00:00",
    "c": [
     "statti"
+   ]
+  },
+  {
+   "t": "«Це дух поразки. Це рецепт наступної війни»: Макрон розкритикував прагнення обмежити Україну в ресурсах",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1453158-ce-duh-porazki-ce-recept-nastupnoi-vijni-makron-rozkritikuvav-pragnenna-obmeziti-ukrainu-v-resursah/",
+   "x": "Макрон переконаний, що Україні є місце в НАТО. За його словами, російська армія не просувається, а навіть відступає й зазнає значних втрат",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-15T04:00:08+00:00",
+   "c": [
+    "holovne"
    ]
   },
   {
@@ -595,10 +756,21 @@
    ]
   },
   {
-   "t": "У російському Таганрозі БпЛА атакували енергетику – OSINT-канали",
+   "t": "Міністр транспорту США просить у Конгресу 50 мільярдів на модернізацію системи управління повітряним рухом",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1453157-ministr-transportu-ssa-prosit-u-kongresu-50-milardiv-na-modernizaciu-sistemi-upravlinna-povitranim-ruhom/",
+   "x": "Міністр внутрішньої безпеки США заявив, що доказів кібератаки як причини збою поки немає. Законодавці вже вимагають від FAA відповідей",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-15T02:24:35+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "У російському Таганрозі безпілотники пошкодили електропідстанції",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/15/8062910/",
-   "x": "У ніч на 15 листопада у Таганрозі Росії дрони атакували енергетичні об'єкти. Ймовірно пошкоджено ПС \"Т-10\", що живить промзону і підприємства міста.",
+   "x": "Внаслідок атаки дронами 15 листопада в Таганрозі пошкоджено дві електропідстанції, призупинено рух поїздів через знеструмлення лінії.",
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/3/957160/53cd4c042e4130495e380c46c473122d.jpeg",
    "d": "2026-11-15T01:55:00+00:00",
    "c": [
@@ -639,6 +811,17 @@
    ]
   },
   {
+   "t": "Сибіга знову закликав агентства ООН зробити пріоритетом допомоги відновлення енерго- й теплопостачання в Україні",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1453155-sibiga-znovu-zaklikav-agentstva-oon-zrobiti-prioritetom-dopomogi-vidnovlenna-energo-j-teplopostacanna-v-ukraini/",
+   "x": "За словами глави МЗС, Росія атакує конвої ООН і склади ВООЗ та інших агентств організації. Він вважає, що захистити цивільних може лише стале припинення вогню",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-15T01:17:25+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "Над Таганрогом лунають потужні вибухи: під атакою, ймовірно, опинився стратегічний авіазавод",
    "s": "24 Канал",
    "u": "https://24tv.ua/aviazavod-beriyeva-rostovskiy-oblasti-vibuhi-shho-vidomo-pro_n3180657",
@@ -660,6 +843,17 @@
    "c": [
     "holovne",
     "vazhlyve"
+   ]
+  },
+  {
+   "t": "Американський лайнер SS United States затопили біля узбережжя Флориди: він стане найбільшим штучним рифом у світі",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1453144-amerikanskij-lajner-ss-united-states-zatopili-bila-uzberezza-floridi-vin-stane-najbilsim-stucnim-rifom-u-sviti/",
+   "x": "Лайнер кілька годин занурювався в Мексиканській затоці біля Флориди. На глибині близько 55 метрів він має приваблювати дайверів і рибалок",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-15T00:34:27+00:00",
+   "c": [
+    "holovne"
    ]
   },
   {
@@ -836,6 +1030,17 @@
    ]
   },
   {
+   "t": "«Справу ще не закінчено». Перші слова Еліни Світоліної після виходу у фінал Підсумкового турніру-2026",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sport/1453152-spravu-se-ne-zakinceno-persi-slova-elini-svitolinoi-pisla-vihodu-u-final-pidsumkovogo-turniru-2026/",
+   "x": "Підсумковий турнір-2026 WTA: Еліна Світоліна вперше за сім років вийшла до фіналу Підсумкового турніру, перші слова і емоції Еліни Світоліної після перемоги у півфіналі",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-14T23:29:51+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "Зеленський попередив про ризики перегляду системи безпеки Європи до завершення війни",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/POLITICS/zelenskij-poperediv-pro-riziki-zaproponovanoji-ssha-sistemi-bezpeki-v-jevropi-ap.html",
@@ -864,6 +1069,28 @@
    ]
   },
   {
+   "t": "Еліна Світоліна розгромила чешку Носкову у півфіналі WTA Finals-2026: як це було",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sport/1453122-svitolina-noskova-onlajn-translacia-pivfinalu-wta-finals-2026/",
+   "x": "Еліна Світоліна зіграє проти Лінди Носкової: дивіться текстову онлайн-трансляцію матчу: рахунок за сетами, ключові моменти та результат поєдинку",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-14T23:17:43+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Еліна Світоліна вперше за сім років вийшла у фінал Підсумкового турніру з тенісу",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sport/1453150-elina-svitolina-vperse-za-sim-rokiv-vijsla-u-final-pidsumkovogo-turniru-z-tenisu/",
+   "x": "WTA Finals-2026: Еліна Світоліна вперше за сім років вийшла у фінал Підсумкового турніру з тенісу, результат матчу Еліна Світоліна - Лінда Носкова",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-14T23:08:19+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "З’явився перший коментар Мальдери після третьої поспіль поразки в Лізі націй",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/SPORT/zjavivsja-pershij-komentar-malderi-pislja-tretoji-pospil-porazki-v-lizi-natsij.html",
@@ -872,6 +1099,20 @@
    "d": "2026-11-14T23:08:00+00:00",
    "c": [
     "statti"
+   ]
+  },
+  {
+   "t": "На Київщині сповільнилось будівництво захисту енергообʼєктів, США готують порядок денний переговорів. 1726 день війни",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1453145-na-kiivsini-spovilnilos-budivnictvo-zahistu-energoobektiv-ssa-gotuut-poradok-dennij-peregovoriv-1726-den-vijni/",
+   "x": "РФ вдарила по Запоріжжю, США готують порядок денний переговорів між Україною та Росією, на Київщині сповільнилось будівництво захисту енергообʼєктів",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-14T23:06:54+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kyivska"
    ]
   },
   {
@@ -886,6 +1127,17 @@
    ],
    "r": [
     "zaporizhzhia"
+   ]
+  },
+  {
+   "t": "«Це неприпустимо». Віталій Миколенко прокоментував третю поспіль поразку України у сезоні Ліги націй з футболу",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sport/1453142-ce-nepripustimo-vitalij-mikolenko-prokomentuvav-tretu-pospil-porazku-ukraini-u-sezoni-ligi-nacij-z-futbolu/",
+   "x": "Український захисник Віталій Миколенко пояснив програш «синьо-жовтих» у матчі Ліги націй від Північної Ірландії (0:1): коментар гравця",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-14T22:56:26+00:00",
+   "c": [
+    "holovne"
    ]
   },
   {
@@ -952,6 +1204,17 @@
    "d": "2026-11-14T22:30:00+00:00",
    "c": [
     "statti"
+   ]
+  },
+  {
+   "t": "Куба готується відбити будь-яку спробу іноземної військової агресії — президент країни Діас-Канель",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1453133-kuba-gotuetsa-vidbiti-bud-aku-sprobu-inozemnoi-vijskovoi-agresii-prezident-kraini-dias-kanel/",
+   "x": "Діас-Канель вимагав від США скасувати ембарго та припинити, за його словами, геноцидну агресію. Він також заявив, що Куба не загрожує жодній країні світу",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-14T22:28:47+00:00",
+   "c": [
+    "holovne"
    ]
   },
   {
@@ -1072,6 +1335,17 @@
    ]
   },
   {
+   "t": "Україна програла Північній Ірландії та втратила шанси на підвищення у класі у Лізі націй з футболу",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sport/1453134-ukraina-prograla-pivnicnij-irlandii-ta-vtratila-sansi-na-pidvisenna-u-klasi-u-lizi-nacij-z-futbolu/",
+   "x": "Збірна України з футболу зазнала поразки у матчі п'ятого туру Ліги націй проти Північної Ірландії, гра між командами завершилася мінімальною поразкою українців з рахунком 0:1",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-14T21:37:55+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "Росіяни заявили про захоплення Воскресенки на Запоріжжі: у ЗСУ відповіли промовистим відео",
    "s": "24 Канал",
    "u": "https://24tv.ua/voskresenka-zaporizhzhi-perebuvaye-pid-kontrolem-zsu-tspd-sprostuvav_n3180637",
@@ -1112,12 +1386,25 @@
    ]
   },
   {
+   "t": "«Гарний подарунок на день народження». Німецька гірськолижниця виграла перший старт у слаломі сезону Кубка світу",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sport/1453128-garnij-podarunok-na-den-narodzenna-nimecka-girskoliznica-zdobula-persu-peremogu-u-sezoni-kubka-svitu-v-slalomi/",
+   "x": "Німецька гірськолижниця Емма Айхер здобула першу в кар'єрі перемогу на етапі Кубка світу зі слалому у фінському Леві та перервала 12-річну переможну серію двох суперниць на цьому етапі",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-14T21:20:55+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "Прем’єр Вірменії каже, що через 20 років бачить країну членом ЄС",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/14/8062902/",
+   "i": "https://img.eurointegration.com.ua/images/doc/1/5/1592453----.jpg",
    "d": "2026-11-14T21:19:00+00:00",
    "c": [
-    "holovne"
+    "holovne",
+    "polityka"
    ]
   },
   {
@@ -1138,6 +1425,17 @@
    "u": "https://interfax.com.ua/news/general/1236664.html",
    "x": "Проєкт тунелю під Дніпром у столиці може вартувати від EUR500 млн, повідомив міністр з відновлення, інфраструктури та транспорту Микола Калашник під час зустрічі з журналістами у суботу.",
    "d": "2026-11-14T21:01:36+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Україна вдруге програла Північній Ірландії в Лізі націй: як це було",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sport/1453041-pivnicna-irlandia-ukraina-onlajn-translacia-matcu-ligi-nacij/",
+   "x": "Північна Ірландія — Україна: стежте за текстовою онлайн-трансляцією матчу Ліги націй з футболу — рахунок, голи, небезпечні моменти та найважливіші події гри",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-14T21:01:34+00:00",
    "c": [
     "holovne"
    ]
@@ -1207,6 +1505,28 @@
    ]
   },
   {
+   "t": "Зять Трампа Кушнер заявив про підготовку порядку денного наступного раунду переговорів між Україною, США та Росією",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1453130-zat-trampa-kusner-zaaviv-pro-pidgotovku-poradku-dennogo-nastupnogo-raundu-peregovoriv-miz-ukrainou-ssa-ta-rosieu/",
+   "x": "Зять Трампа Кушнер заявив про підготовку порядку денного наступного раунду переговорів між Україною, США та Росією та роботу над «сприянням прямій взаємодії» між Росією та європейськими партнерами",
+   "i": "https://cdn4.suspilne.media/images/23dca5c79aa74f93.jpg",
+   "d": "2026-11-14T20:42:02+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Генерал-майор СБУ Сергій Дука звернувся до Зеленського з проханням «зупинити ворожу спецоперацію НАБУ»",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1453127-general-major-sbu-sergij-duka-zvernuvsa-do-zelenskogo-z-prohannam-zupiniti-vorozu-specoperaciu-nabu/",
+   "x": "СБУ Сергій Дука, який фігурує у справі НАБУ та САП «Карфаген», звернувся до президента Зеленського з проханням «зупинити ворожу спецоперацію», до якої нібито залучені посадові особи НАБУ та САП",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-14T20:39:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "На фронті відбулося 54 зіткнення за день – Генштаб",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/14/8062900/",
@@ -1244,6 +1564,17 @@
    ]
   },
   {
+   "t": "Український дзюдоїст Свідрак виграв першу медаль етапу Гран-прі у сезоні-2026",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sport/1453121-ukrainskij-dzudoist-svidrak-vigrav-persu-medal-etapu-gran-pri-u-sezoni-2026/",
+   "x": "Український дзюдоїст Михайло Свідрак здобув «бронзу» на етапі Гран-прі в хорватському Загребі, у ваговій категорії до 81 кг спортсмен здолав представника Франції Арно Арегбу в боротьбі за «бронзу»: результат",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-14T20:23:19+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "США виведуть з Європи в рази менше своїх військових, ніж планували раніше – ЗМІ",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/14/8062899/",
@@ -1253,6 +1584,17 @@
    "c": [
     "holovne",
     "vazhlyve"
+   ]
+  },
+  {
+   "t": "«Ми в глибокій сраці». Ілля Забарний емоційно прокоментував поразку України від Північної Ірландії",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sport/1453139-mi-v-glibokij-sraci-illa-zabarnij-emocijno-prokomentuvav-porazku-ukraini-vid-pivnicnoi-irlandii/",
+   "x": "Український захисник Ілля Забарний відреагував на поразку України від Північної Ірландії у матчі п'ятого туру Ліги націй, «синьо-жовті» втратила шанси вийти у дивізіон А Ліги націй",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-14T20:15:58+00:00",
+   "c": [
+    "holovne"
    ]
   },
   {
@@ -1291,6 +1633,20 @@
    ]
   },
   {
+   "t": "Удар по Павлограду, жертви атак РФ, третій рекорд дніпрянина. Головні новини Дніпра та області 14 листопада",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/dnipro/1452679-golovni-novini-dnipra-ta-oblasti-14-listopada/",
+   "x": "Оперативні новини Дніпра та Дніпропетровської області за 14 листопада 2026 року читайте в хроніці подій від редакції Суспільне Дніпро",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-14T20:03:33+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "dnipro"
+   ]
+  },
+  {
    "t": "Сибіга подякував Естонії за відмову допускати спортсменів із РФ і Білорусі та закликав партнерів до аналогічних заходів",
    "s": "Інтерфакс-Україна",
    "u": "https://interfax.com.ua/news/political/1236656.html",
@@ -1310,6 +1666,21 @@
    "d": "2026-11-14T20:02:04+00:00",
    "c": [
     "holovne"
+   ]
+  },
+  {
+   "t": "Поблизу Яготина загорілася вантажівка, яка перевозила газовий конденсат",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/kyiv/1453126-poblizu-agotina-zagorilasa-vantazivka-aka-perevozila-gazovij-kondensat/",
+   "x": "На трасі Київ — Харків поблизу Яготина перекинулася та загорілася вантажівка, що перевозила газовий конденсат. Рух на трасі перекрито в обох напрямках",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-14T20:00:10+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kyiv",
+    "kharkiv"
    ]
   },
   {
@@ -1335,6 +1706,20 @@
    ]
   },
   {
+   "t": "Села Андріївка та Кліщіївка офіційно визнано тимчасово окупованими — ОДА",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/donbas/1453124-sela-andriivka-ta-klisiivka-oficijno-viznano-timcasovo-okupovanimi-oda/",
+   "x": "Мінрозвитку внесла до переліку тимчасово окупованих територій, ще два села Бахмутської громади. Про це повідомляє Департамент агропромислового розвитку та земельних відносин Донецької ОДА",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-14T19:55:19+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "donetsk"
+   ]
+  },
+  {
    "t": "Сибіга обговорив із кандидаткою на посаду генсека ООН Нуссейбех повернення депортованих дітей і полонених",
    "s": "Інтерфакс-Україна",
    "u": "https://interfax.com.ua/news/general/1236652.html",
@@ -1346,6 +1731,20 @@
    ]
   },
   {
+   "t": "Двічі за день росіяни атакували Златопіль на Харківщині: які наслідки (фото)",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/kharkiv/1453123-dvici-za-den-rosiani-atakuvali-zlatopil-na-harkivsini-aki-naslidki-foto/",
+   "x": "Протягом 14 листопада росіяни двічі атакували Златопіль на Харківщині. Вранці вони вдарили безпілотником по підприємству, а вдень «Бандеролями» атакували приватний сектор",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-14T19:48:19+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kharkiv"
+   ]
+  },
+  {
    "t": "Північна Ірландія – Україна: де безкоштовно дивитися матч",
    "s": "24 Канал",
    "u": "https://sportnews.24tv.ua/pivnichna-irlandiya-ukrayina-de-divitis-onlayn-match-14-listopada_n3176817",
@@ -1353,7 +1752,6 @@
    "i": "https://24tv.ua/resources/photos/news/202611/3176817.jpg?v=1794229743000&q=100",
    "d": "2026-11-14T19:40:00+00:00",
    "c": [
-    "holovne",
     "sport"
    ]
   },
@@ -1381,6 +1779,31 @@
    ],
    "r": [
     "kharkiv"
+   ]
+  },
+  {
+   "t": "Окупанти під Добропіллям намагаються прорвати лінію оборони в туман на мотоциклах — військовий",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/donbas/1453116-okupanti-pid-dobropilla-namagautsa-prorvati-liniu-oboroni-v-tuman-na-motociklah-vijskovij/",
+   "x": "Російські війська намагаються під покривом тума намагаюся прорвати лінію оборони на мотоциклах в напрямку Добропілля. Про це в етері Суспільне Студія розповів командир роти бригади «Буревій» В'ячеслав Деменський",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-14T19:36:28+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Колишнього очільника Чернігівської обласної ВЛК Віктора Лугіна засудили за оформлення фіктивних непридатностей до служби",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/chernihiv/1453071-kolisnogo-ocilnika-cernigivskoi-oblasnoi-vlk-viktora-lugina-zasudili-za-oformlenna-fiktivnih-nepridatnostej-do-sluzbi/",
+   "x": "Деснянський районний суд Чернігова засудив до 2 років та 9 місяців позбавлення волі колишнього очільника Чернігівської обласної військово-лікарської комісії Віктора Лугіна",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-14T19:35:09+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "chernihiv"
    ]
   },
   {
@@ -1441,12 +1864,98 @@
    ]
   },
   {
+   "t": "У Боровій через російський удар загинув чоловік",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/kharkiv/1453119-u-borovij-cerez-rosijskij-udar-zaginuv-colovik/",
+   "x": "У Боровій Ізюмського району через російський удар вдень 14 листопада загинув 67-річний чоловік, повідомили у пресслужбі Харківської обласної прокуратури",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-14T19:27:50+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kharkiv"
+   ]
+  },
+  {
+   "t": "Сили оборони України спростували заяви РФ про «захоплення» Воскресенки Запорізької області — ЦПД",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/zaporizhzhia/1453106-sili-oboroni-ukraini-sprostuvali-zaavi-rf-pro-zahoplenna-voskresenki-zaporizkoi-oblasti-cpd/",
+   "x": "Воскресенка Запорізької області залишається під контролем Сил оборони: у ЦПД спростували заяви РФ про нібито захоплення населеного пункту",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-14T19:21:49+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "zaporizhzhia"
+   ]
+  },
+  {
+   "t": "Міністр інфраструктури Калашник розповів про стан будівництва захисних споруд на обʼєктах енергетики на Київщині",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/kyiv/1453117-ministr-infrastrukturi-kalasnik-rozpoviv-pro-stan-budivnictva-zahisnih-sporud-na-obektah-energetiki-na-kiivsini/",
+   "x": "Микола Калашник заявив, що після його переходу з Київської ОВА до Мінінфраструктури будівництво захисних споруд на енергетичних обʼєктах на Київщині сповільнилося та що за це відповідав Руслан олійник",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-14T19:18:40+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kyivska"
+   ]
+  },
+  {
+   "t": "У Кропивницькому російські війська атакували об'єкт промислової інфраструктури",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/kropyvnytskiy/1453118-poperedzali-pro-dron-u-kropivnickomu-bulo-cuti-zvuk-vibuhu/",
+   "x": "14 листопада у Кропивницькому під час повітряної тривоги пролунав звук вибуху. Його було чути о 21:10, повідомили кореспонденти Суспільного. Перед цим о 21:03 Повітряні сили України попередили про БпЛА курсом на…",
+   "i": "https://cdn4.suspilne.media/images/23dca5c79aa74f93.jpg",
+   "d": "2026-11-14T19:17:16+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kirovohrad"
+   ]
+  },
+  {
+   "t": "У Ковелі прощатимуться з загиблим воїном Олександром Єлізаровим",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/lutsk/1453100-u-koveli-prosatimutsa-z-zagiblim-voinom-oleksandrom-elizarovim/",
+   "x": "У Ковелі 15 листопада відбудеться прощання загиблим 54-річним військовослужбовцем Олександром Єлізаровим. Боєць загинув 7 листопада 2026 року поблизу населеного пункту Зелена Долина Дніпропетровської області",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-14T19:14:46+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "dnipro"
+   ]
+  },
+  {
+   "t": "В Івано-Франківську презентували дослідницьку книгу «Квітки. Велика книга про хатні розписи»",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/ivano-frankivsk/1453113-v-ivano-frankivsku-prezentuvali-doslidnicku-knigu-kvitki-velika-kniga-pro-hatni-rozpisi/",
+   "x": "В Івано-Франківську відбулася презентація книги «Квітки. Велика книга про хатні розписи» від творчого колективу «Old khata project» Світлани Ославської та Анни Ільченко",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-14T19:08:30+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "ivanofrankivsk"
+   ]
+  },
+  {
    "t": "В Італії оштрафували Meta на 805 млн євро через доступ до даних користувачів Facebook",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/14/8062895/",
+   "i": "https://img.eurointegration.com.ua/images/doc/e/6/e6d4a24--.jpg",
    "d": "2026-11-14T19:03:00+00:00",
    "c": [
-    "holovne"
+    "holovne",
+    "polityka"
    ]
   },
   {
@@ -1463,6 +1972,17 @@
    ]
   },
   {
+   "t": "Щонайменше три удари по об'єкту інфраструктури: армія РФ атакувала Новгород-Сіверський",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/chernihiv/1453115-sonajmense-tri-udari-po-obektu-infrastrukturi-armia-rf-atakuvala-novgorod-siverskij/",
+   "x": "Російські війська ввечері 14 листопада атакували об'єкт цивільної інфраструктури у Новгороді-Сіверському щонайменше трьома безпілотниками",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-14T19:00:36+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "На Сумщині через атаки РФ постраждали троє людей, виникли пожежі",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/14/8062894/",
@@ -1474,6 +1994,20 @@
    ],
    "r": [
     "sumy"
+   ]
+  },
+  {
+   "t": "На Кіровоградщині 15 листопада застосовуватимуть графік відключення електрики",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/kropyvnytskiy/1452911-na-kirovogradsini-15-listopada-zastosovuvatimut-grafik-vidklucenna-elektriki/",
+   "x": "15 листопада у Кіровоградській області за розпорядженням Укренерго застосовуватимуть діятиме графік погодинних відключень електроенергії. Про це повідомили на офіційному сайті Кіровоградобленерго",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-14T18:56:31+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kirovohrad"
    ]
   },
   {
@@ -1508,7 +2042,8 @@
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/d/957084/7d608b63802a32df69a09beb4aca4912.jpeg",
    "d": "2026-11-14T18:42:00+00:00",
    "c": [
-    "holovne"
+    "holovne",
+    "polityka"
    ]
   },
   {
@@ -1623,6 +2158,17 @@
    ]
   },
   {
+   "t": "Посольство України побачило російський слід у провокації з написами \"Слава УПА\" у Польщі",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/14/7250005/",
+   "x": "Посольство України у Польща вважає, що поява напису \"Слава УПА\" на пам’ятнику Героям Варшавського гетто є проявом гібридної війни Росії.",
+   "i": "https://img.eurointegration.com.ua/images/doc/6/d/6d9e4bb--.jpg",
+   "d": "2026-11-14T17:28:00+00:00",
+   "c": [
+    "polityka"
+   ]
+  },
+  {
    "t": "Не пройдуть перевірку – втратять виплати: хто із чоловіків втратить пенсію по інвалідності",
    "s": "24 Канал",
    "u": "https://24tv.ua/economy/pensiya-po-invalidnosti-cholovikam-komu-cholovikiv-zablokuyut_n3179205",
@@ -1637,9 +2183,11 @@
    "t": "Сибіга подякував за рішучість Латвії, яка готує заборону транзиту російського зерна",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/14/8062889/",
+   "i": "https://img.eurointegration.com.ua/images/doc/2/f/2f11b74----.jpg",
    "d": "2026-11-14T17:21:00+00:00",
    "c": [
-    "holovne"
+    "holovne",
+    "polityka"
    ]
   },
   {
@@ -1668,17 +2216,6 @@
    ]
   },
   {
-   "t": "Голови Міноборони України та Канади обговорили посилення ППО та далекобійних спроможностей України",
-   "s": "Інтерфакс-Україна",
-   "u": "https://interfax.com.ua/news/general/1236625.html",
-   "x": "Міністр оборони України Євгеній Хмара провів розмову з Міністром оборони Канади Девідом Макгінті, повідомляє пресслужба Міноборони України в суботу.",
-   "i": "https://media.interfax.com.ua/media/thumbs/images/2026/08/qnbke/gfJANqVun2Ga.jpg",
-   "d": "2026-11-14T17:04:14+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "У школах тривають перевірки дитячого харчування: які недоліки виявили",
    "s": "24 Канал",
    "u": "https://24tv.ua/education/bezkoshtovne-harchuvannya-shkolah-ukrayini-yaki-nedoilki-viyavlyayut_n3180078",
@@ -1698,6 +2235,17 @@
    "d": "2026-11-14T17:00:00+00:00",
    "c": [
     "viyna"
+   ]
+  },
+  {
+   "t": "У Варшаві невідомі залишили на двох пам‘ятниках написи \"Слава УПА\"",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/14/7250003/",
+   "x": "У Варшаві невідомі написали червоною фарбою на двох пам’ятниках гасло \"Слава УПА\".",
+   "i": "https://img.eurointegration.com.ua/images/doc/5/5/5513a75-5.jpg",
+   "d": "2026-11-14T16:35:00+00:00",
+   "c": [
+    "polityka"
    ]
   },
   {
@@ -1797,6 +2345,17 @@
    "d": "2026-11-14T15:42:00+00:00",
    "c": [
     "zhyttia"
+   ]
+  },
+  {
+   "t": "В Кремлі назвали дату зустрічі Трампа, Сі та Путіна",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/14/7250002/",
+   "x": "Тристороння зустріч лідерів США, Китаю і Росії відбудеться 19 листопада у Шеньчжені.",
+   "i": "https://img.eurointegration.com.ua/images/doc/a/4/a4b8ba4--2.jpg",
+   "d": "2026-11-14T15:37:00+00:00",
+   "c": [
+    "polityka"
    ]
   },
   {
@@ -1900,6 +2459,17 @@
    ]
   },
   {
+   "t": "Дрон атакував комерційне судно у територіальних водах Румунії",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/14/7250000/",
+   "x": "Безпілотник влучив у судно під прапором Палау в територіальних водах Румунії, приблизно за 12 кілометрів на північ від міста Сфинту-Георге.",
+   "i": "https://img.eurointegration.com.ua/images/doc/1/9/1983a13--.jpg",
+   "d": "2026-11-14T14:32:00+00:00",
+   "c": [
+    "polityka"
+   ]
+  },
+  {
    "t": "\"Випадок не з одного вишу\": студенти-юристи масово скаржаться на ймовірне списування на ЄДКІ",
    "s": "Українська правда. Життя",
    "u": "https://life.pravda.com.ua/society/studenti-masovo-skarzhatsya-na-spisuvannya-na-yedki-319074/",
@@ -1986,6 +2556,17 @@
    ]
   },
   {
+   "t": "Reuters: Трамп готовий утриматися від нових ударів по Ірану за відсутності провокацій",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/14/7249998/",
+   "x": "Президент США Дональд Трамп останніми днями заявив високопосадовцям своєї адміністрації, що може утриматися від ударів по Ірану, якщо з боку Тегерана або підтримуваних Іраном єменських хуситів не буде нових провокацій.",
+   "i": "https://img.eurointegration.com.ua/images/doc/d/1/d1ce228--.jpg",
+   "d": "2026-11-14T13:50:00+00:00",
+   "c": [
+    "polityka"
+   ]
+  },
+  {
    "t": "Росія атакувала дронами об'єкт \"Нафтогазу\" на Полтавщині: спалахнула масштабна пожежа",
    "s": "24 Канал",
    "u": "https://24tv.ua/economy/udar-droniv-po-obyektu-naftogazu-poltavshhini-shho-vidomo-pro_n3180481",
@@ -2009,6 +2590,17 @@
    "d": "2026-11-14T13:35:00+00:00",
    "c": [
     "vazhlyve"
+   ]
+  },
+  {
+   "t": "Китай і США обговорили тарифи та торгівлю агропродукцією перед зустріччю Сі та Трампа",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/14/7249997/",
+   "x": "Китай і США обговорили зниження мит, торгівлю сільськогосподарською продукцією та інші питання під час першого засідання торговельної ради в п’ятницю, повідомило в суботу Міністерство торгівлі Китаю.",
+   "i": "https://img.eurointegration.com.ua/images/doc/2/c/2c75a58---.jpg",
+   "d": "2026-11-14T13:30:00+00:00",
+   "c": [
+    "polityka"
    ]
   },
   {
