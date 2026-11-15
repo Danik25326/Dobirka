@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T15:01:14+00:00",
+ "updated": "2026-11-15T15:10:40+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -196,27 +196,6 @@
    "d": "2026-11-15T10:27:00+00:00"
   },
   {
-   "t": "Букмекери оцінили шанси Світоліної проти росіянки у фіналі Підсумкового турніру WTA",
-   "u": "https://zn.ua/ukr/SPORT/bukmekeri-otsinili-shansi-svitolinoji-u-matchi-proti-rosijanki-u-finali-pidsumkovoho-turniru-wta.html",
-   "i": "https://zn.ua/img/article/7039/91_main.webp",
-   "n": 3,
-   "l": [
-    {
-     "s": "ZN.UA",
-     "u": "https://zn.ua/ukr/SPORT/bukmekeri-otsinili-shansi-svitolinoji-u-matchi-proti-rosijanki-u-finali-pidsumkovoho-turniru-wta.html"
-    },
-    {
-     "s": "24 Канал",
-     "u": "https://sportnews.24tv.ua/elina-svitolina-ukrayinska-tenisistka-viyshla-final-pidsumkovogo_n3180690"
-    },
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/15/8062906/"
-    }
-   ],
-   "d": "2026-11-15T09:09:00+00:00"
-  },
-  {
    "t": "Прем’єр Румунії засудив атаку РФ на три комерційні судна у Чорному морі",
    "u": "https://www.pravda.com.ua/news/2026/11/15/8062967/",
    "i": "https://img.eurointegration.com.ua/images/doc/8/a/8a2fef4-romania-flag-resize.png",
@@ -266,9 +245,132 @@
     }
    ],
    "d": "2026-11-15T14:24:00+00:00"
+  },
+  {
+   "t": "Окупанти атакували пожежно-рятувальну частину в Краматорську, без постраждалих – ДСНС",
+   "u": "https://interfax.com.ua/news/general/1236740.html",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "n": 2,
+   "l": [
+    {
+     "s": "Інтерфакс-Україна",
+     "u": "https://interfax.com.ua/news/general/1236740.html"
+    },
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/donbas/1453276-armia-rf-atakuvala-bezpilotnikami-pozeznu-castinu-u-kramatorsku-so-vidomo/"
+    }
+   ],
+   "d": "2026-11-15T13:56:37+00:00"
   }
  ],
  "items": [
+  {
+   "t": "Земельний податок відмінили: хто може законно уникнути платіжок",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/economy/zemelniy-podatok-dlya-pensioneriv-vidminili-yaki-limiti-ploshhi_n3180634",
+   "x": "Щороку квитанції за нерухомість та землю витягують левову частку доходів українців поважного віку. Проте існує цілком легальний механізм, який дозволяє назавжди викреслити одну з найнеприємніших граф у чеку.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3180634.jpg?v=1794690602000&q=100",
+   "d": "2026-11-15T15:10:00+00:00",
+   "c": [
+    "holovne",
+    "ekonomika"
+   ]
+  },
+  {
+   "t": "Дроновий удар 15 листопада: у Кропивницькій міській раді нарахували 17 пошкоджених будинків",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/kropyvnytskiy/1453317-dronovij-udar-15-listopada-u-kropivnickij-miskij-radi-narahuvali-17-poskodzenih-budinkiv/",
+   "x": "У Кропивницькому, на місці влучання російського дрона у приватний житловий будинок, яке сталось 15 листопада, працює штаб, куди власники будинків можуть звернутися щодо обстеження житла. Усього зафіксували пошкодження…",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-15T15:09:22+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kirovohrad"
+   ]
+  },
+  {
+   "t": "Байден стверджує, що завадив Трампу і Путіну домовитися про капітуляцію України",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/bayden-ne-dozvoliv-komandi-trampa-provoditi-peregovori-putinim_n3180892",
+   "x": "Колишній президент США Джо Байден заявив у своїх нових мемуарах, що не дозволив представникам команди Дональда Трампа вести прямі переговори з російським диктатором Володимиром Путіним до офіційного вступу Трампа на…",
+   "i": "https://24tv.ua/resources/photos/news/202611/3180892.jpg?v=1794754924000&q=100",
+   "d": "2026-11-15T15:04:06+00:00",
+   "c": [
+    "holovne",
+    "viyna"
+   ]
+  },
+  {
+   "t": "У Чернівецькій області оновили графіки відключення електрики на 15 листопада — обленерго",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/chernivtsi/1453110-u-cerniveckij-oblasti-15-listopada-diatimut-grafiki-vidklucenna-elektriki-oblenergo/",
+   "x": "Попередньо в Чернівецькій області 15 листопада діятимуть графіки відключення електрики від обленерго. Водночас графік відключень може змінюватись упродовж доби",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-15T15:03:08+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Принц Гаррі: іноземці вчаться в українських медиків",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/UKRAINE/prints-harri-inozemtsi-vchatsja-v-ukrajinskikh-medikiv.html",
+   "x": "Герцог Сассекський приїхав до Львова на першу міжнародну конференцію з лікування бойових травм.",
+   "i": "https://zn.ua/img/article/7040/14_main.webp",
+   "d": "2026-11-15T15:02:04+00:00",
+   "c": [
+    "statti"
+   ],
+   "r": [
+    "lviv"
+   ]
+  },
+  {
+   "t": "На Львівщині арборист із Польщі провів догляд за 800-річною липою Богдана Хмельницького",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/lviv/1452919-na-lvivsini-arborist-iz-polsi-proviv-doglad-za-800-ricnou-lipou-bogdana-hmelnickogo/",
+   "x": "У селі Сасів на Львівщині провели роботи з догляду за 800-річною липою Богдана Хмельницького. Арборист очистив дерево від омели та відремонтував опорні конструкції, які підтримують його ослаблені частини",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-15T15:01:56+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "lviv",
+    "khmelnytskyi"
+   ]
+  },
+  {
+   "t": "«Найголовніше — щоб вдома не сиділи». Як евакуйована з Куп'янщини футбольна команда знайшла залу для тренувань у Харкові",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/kharkiv/1440763-najgolovnise-sob-vdoma-ne-sidili-ak-evakujovana-z-kupansini-futbolna-komanda-znajsla-zalu-dla-trenuvan-u-harkovi/",
+   "x": "Евакуйована з Купʼянщини дитяча футбольна команда «Альфа» два місяці шукала в Харкові місце для занять. Тренер Володимир Колій не має відповідної освіти, тому йому відмовляли. Орендувати зал на рік допоміг БФ «Єдність…",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-15T15:01:00+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kharkiv"
+   ]
+  },
+  {
+   "t": "Україна попередила Ізраїль про ризик легітимізації політики РФ через хокейний матч за участі підсанкційних депутатів",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/WORLD/ukrajina-poperedila-izrajil-pro-rizik-lehitimizatsiji-politiki-rf-cherez-khokejnij-match-za-uchasti-pidsanktsijnikh-deputativ.html",
+   "x": "Київ не вимагає скасування гри, але наполягає на перевірці учасників.",
+   "i": "https://zn.ua/img/article/7040/15_main.webp",
+   "d": "2026-11-15T15:01:00+00:00",
+   "c": [
+    "statti"
+   ],
+   "r": [
+    "kyiv"
+   ]
+  },
   {
    "t": "«І зараз питають, коли відкриєтесь»: історія та перспективи атракціонного містечка та Літнього театру у Чернігові",
    "s": "Суспільне",
@@ -281,6 +383,16 @@
    ],
    "r": [
     "chernihiv"
+   ]
+  },
+  {
+   "t": "Що насправді означає повсякденний стрес і чого він не означає",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/UKRAINE/shcho-naspravdi-oznachaje-povsjakdennij-stres-i-choho-vin-ne-oznachaje.html",
+   "i": "https://zn.ua/img/article/7040/7_main.webp",
+   "d": "2026-11-15T15:00:00+00:00",
+   "c": [
+    "statti"
    ]
   },
   {
@@ -411,6 +523,17 @@
    ]
   },
   {
+   "t": "У Туреччині суд знову відмовився звільнити дисидента Османа Кавалу попри вимогу ЄСПЛ",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/15/7250027/",
+   "x": "Турецький суд відхилив апеляцію з вимогою звільнення та перегляду справи дисидента Османа Кавали, попри обов’язкове до виконання рішення Європейського суду з прав людини (ЄСПЛ).",
+   "i": "https://img.eurointegration.com.ua/images/doc/3/5/351f3e8-kavala.png",
+   "d": "2026-11-15T14:35:00+00:00",
+   "c": [
+    "polityka"
+   ]
+  },
+  {
    "t": "Удар РФ по енергооб'єкту: у двох областях запровадили аварійні відключення світла",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/energetics/udar-rf-po-enerhoobjektu-u-dvokh-oblastjakh-zaprovadili-avarijni-vidkljuchennja-svitla.html",
@@ -490,20 +613,6 @@
    ],
    "r": [
     "kyiv"
-   ]
-  },
-  {
-   "t": "Дощі, мокрий сніг та потепління: прогноз погоди на Сумщині на 16–18 листопада",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/sumy/1453309-dosi-mokrij-snig-ta-poteplinna-prognoz-pogodi-na-sumsini-na-16-18-listopada/",
-   "x": "Прогноз погоди на Сумщині 16–18 листопада: початок тижня без опадів, далі — дощі, мокрий сніг, пориви вітру до 20 м/с та потепління до +10°",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-15T14:29:11+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "sumy"
    ]
   },
   {
@@ -637,6 +746,17 @@
    ],
    "r": [
     "ivanofrankivsk"
+   ]
+  },
+  {
+   "t": "У Чехії десятки тисяч протестувальників мітингують проти плану уряду скоротити фінансування ЗМІ",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/15/7250026/",
+   "x": "У неділю в столиці Чехії Празі десятки тисяч чехів вийшли на протест проти плану уряду скоротити плату за користування суспільними ЗМІ та перенаправити фінансування до державного бюджету.",
+   "i": "https://img.eurointegration.com.ua/images/doc/2/7/277d4a3-czechia-protests.png",
+   "d": "2026-11-15T14:12:00+00:00",
+   "c": [
+    "polityka"
    ]
   },
   {
@@ -954,14 +1074,14 @@
    ]
   },
   {
-   "t": "У Чернівецькій області оновили графіки відключення електрики на 15 листопада — обленерго",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/chernivtsi/1453110-u-cerniveckij-oblasti-15-listopada-diatimut-grafiki-vidklucenna-elektriki-oblenergo/",
-   "x": "Попередньо в Чернівецькій області 15 листопада діятимуть графіки відключення електрики від обленерго. Водночас графік відключень може змінюватись упродовж доби",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-15T13:45:57+00:00",
+   "t": "В Естонії на замовлення РФ здійснили спробу підпалу на оборонному підприємстві",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/15/7250025/",
+   "x": "В Естонії на оборонному підприємстві Threod Systems здійснили невдалу спробу влаштувати диверсію – в МЗС країни звинуватили в цьому Росію.",
+   "i": "https://img.eurointegration.com.ua/images/doc/6/4/6482987-estonia-resize.png",
+   "d": "2026-11-15T13:48:00+00:00",
    "c": [
-    "holovne"
+    "polityka"
    ]
   },
   {
@@ -1316,20 +1436,6 @@
    ]
   },
   {
-   "t": "Окупанти у Севастополі продали історичну будівлю ЦКБ «Чорноморець» московській компанії",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/crimea/1453268-okupanti-u-sevastopoli-prodali-istoricnu-budivlu-ckb-cornomorec-moskovskij-kompanii/",
-   "x": "У Севастополі окупанти продали історичну будівлю ЦКБ «Чорноморець» московській компанії за 424 млн рублів. Покупець був єдиним учасником торгів",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-15T12:55:13+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "crimea"
-   ]
-  },
-  {
    "t": "Плюс 3600 гривень до пенсії: кому держава додасть грошей без заяв",
    "s": "24 Канал",
    "u": "https://24tv.ua/economy/nadbavka-do-pensiyi-pislya-70-rokiv-hto-otrimaye-dodatkovi-viplati_n3180611",
@@ -1382,34 +1488,6 @@
    "d": "2026-11-15T12:48:00+00:00",
    "c": [
     "polityka"
-   ]
-  },
-  {
-   "t": "Як на Полтавщині працює послуга «Муніципальна няня» та хто може її отримати: історія переселенки",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/poltava/1444805-ak-na-poltavsini-pracue-posluga-municipalna-nana-ta-hto-moze-ii-otrimati-istoria-pereselenki/",
-   "x": "У Полтавській громаді діє послуга «Муніципальна няня». Що це за послуга, як працює та хто може скористатися допомогою на відшкодування оплати праці няні - у сюжеті",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-15T12:46:46+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "poltava"
-   ]
-  },
-  {
-   "t": "В Одесі попрощалися з Тетяною Морозовою, яка загинула внаслідок атаки РФ",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/odesa/1453206-v-odesi-poprosalisa-z-tetanou-morozovou-aka-zaginula-vnaslidok-ataki-rf/",
-   "x": "В Одесі 15 листопада попрощалися з 44-річною Тетяною Морозовою, яка загинула під час російської атаки 13 листопада. У жінки залишилися двоє дітей",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-15T12:46:00+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "odesa"
    ]
   },
   {
@@ -1503,14 +1581,26 @@
    ]
   },
   {
+   "t": "Дощі, мокрий сніг та потепління: прогноз погоди на Сумщині на 16–18 листопада",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sumy/1453309-dosi-mokrij-snig-ta-poteplinna-prognoz-pogodi-na-sumsini-na-16-18-listopada/",
+   "x": "Прогноз погоди на Сумщині 16–18 листопада: початок тижня без опадів, далі — дощі, мокрий сніг, пориви вітру до 20 м/с та потепління до +10°",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-15T12:29:11+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "sumy"
+   ]
+  },
+  {
    "t": "Іспанія зафіксувала найбільший за шість років наплив мігрантів на Канарські острови",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/15/8062954/",
-   "i": "https://img.eurointegration.com.ua/images/doc/c/a/ca71081---------------.jpg",
    "d": "2026-11-15T12:26:00+00:00",
    "c": [
-    "holovne",
-    "polityka"
+    "holovne"
    ]
   },
   {
@@ -1621,24 +1711,8 @@
    "i": "https://24tv.ua/resources/photos/news/202611/3180835.jpg?v=1794752038000&q=100",
    "d": "2026-11-15T12:07:00+00:00",
    "c": [
-    "holovne",
     "vazhlyve",
     "viyna"
-   ]
-  },
-  {
-   "t": "Росіяни атакували енергетичну інфраструктуру двох областей: частина населених пунктів без світла",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/ataka-dnipropetrovshhinu-zaporizhzhya-15-listopada-oblastyah_n3180833",
-   "x": "Унаслідок російських атак частина населених пунктів Запорізької та Дніпропетровської областей залишилася без електропостачання. У Запоріжжі також виникли перебої з водо– та теплопостачанням після удару по критичній…",
-   "i": "https://24tv.ua/resources/photos/news/202611/3180833.jpg?v=1794743671000&q=100",
-   "d": "2026-11-15T12:03:45+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "zaporizhzhia",
-    "dnipro"
    ]
   },
   {
@@ -1748,11 +1822,9 @@
    "t": "У Франції тимчасово заборонили продаж феєрверків через насильство під час протестів",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/15/8062948/",
-   "i": "https://img.eurointegration.com.ua/images/doc/b/d/bd9eaed-----------------.jpg",
    "d": "2026-11-15T11:30:00+00:00",
    "c": [
-    "holovne",
-    "polityka"
+    "holovne"
    ]
   },
   {
@@ -2078,11 +2150,9 @@
    "t": "Опитування: лише 14% французів позитивно оцінюють діяльність Макрона",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/15/8062939/",
-   "i": "https://img.eurointegration.com.ua/images/doc/8/2/82972fa------------------2.jpg",
    "d": "2026-11-15T09:47:00+00:00",
    "c": [
-    "holovne",
-    "polityka"
+    "holovne"
    ]
   },
   {
@@ -2241,17 +2311,6 @@
    ]
   },
   {
-   "t": "Букмекери оцінили шанси Світоліної проти росіянки у фіналі Підсумкового турніру WTA",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/SPORT/bukmekeri-otsinili-shansi-svitolinoji-u-matchi-proti-rosijanki-u-finali-pidsumkovoho-turniru-wta.html",
-   "x": "Українка спробує виграти турнір удруге за свою кар’єру.",
-   "i": "https://zn.ua/img/article/7039/91_main.webp",
-   "d": "2026-11-15T09:09:00+00:00",
-   "c": [
-    "statti"
-   ]
-  },
-  {
    "t": "\"Путін мріє про Ялту 1945 року\": Сибіга відповів на ідеї Росії щодо безпеки Європи",
    "s": "24 Канал",
    "u": "https://24tv.ua/sibiga-vidpoviv-putinu-shhodo-novoyi-arhitekturi-bezpeki-yevropi_n3180742",
@@ -2351,17 +2410,6 @@
    ]
   },
   {
-   "t": "Дрони атакували російський військовий аеродром \"Ахтубінськ\": пролунало 30 вибухів",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/war/droni-atakuvali-rosijskij-vijskovij-aerodrom-akhtubinsk-prolunalo-30-vibukhiv.html",
-   "x": "Які об'єкти пошкоджено.",
-   "i": "https://zn.ua/img/article/7039/84_main.webp",
-   "d": "2026-11-15T08:44:00+00:00",
-   "c": [
-    "statti"
-   ]
-  },
-  {
    "t": "Припинення допомоги Україні в разі перемоги Ле Пен на виборах ізолює Францію в Європі – Макрон",
    "s": "Інтерфакс-Україна",
    "u": "https://interfax.com.ua/news/political/1236691.html",
@@ -2408,17 +2456,6 @@
    "d": "2026-11-15T08:37:02+00:00",
    "c": [
     "holovne"
-   ]
-  },
-  {
-   "t": "Авіасполучення в США внормують до кінця неділі — FAA",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/usa/aviaspoluchennja-v-ssha-vnormujut-do-kintsja-nedili-faa.html",
-   "x": "За два дні скасували понад 15 тисяч авіарейсів.",
-   "i": "https://zn.ua/img/article/7039/85_main.webp",
-   "d": "2026-11-15T08:36:00+00:00",
-   "c": [
-    "statti"
    ]
   },
   {
@@ -2823,17 +2860,6 @@
    ],
    "r": [
     "zaporizhzhia"
-   ]
-  },
-  {
-   "t": "Путін запропонував США поділити Європу як за часів холодної війни, – NYT",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/putin-zaproponuvav-ssha-podiliti-yevropu-sferi-vplive_n3180633",
-   "x": "Під час переговорів в Абу-Дабі російські представники запропонували США повернутися до принципів відносин, які існували між СРСР та Заходом під час холодної війни. Зокрема, Москва хоче поділити Європу на сфери впливу та…",
-   "i": "https://24tv.ua/resources/photos/news/202611/3180633.jpg?v=1794690549000&q=100",
-   "d": "2026-11-14T21:11:46+00:00",
-   "c": [
-    "viyna"
    ]
   },
   {
@@ -4009,17 +4035,6 @@
    "x": "Ворог здійснив чергову спробу занурити українські міста у суцільну темряву, прицільно б'ючи по критичній інфраструктурі. Цього разу головною мішенню окупантів стали високовольтні підстанції.",
    "i": "https://24tv.ua/resources/photos/news/202611/3179686.jpg?v=1794564100000&q=100",
    "d": "2026-11-13T10:06:00+00:00",
-   "c": [
-    "ekonomika"
-   ]
-  },
-  {
-   "t": "Путін знайшов нове джерело грошей на війну: Bloomberg розкрило схему Кремля",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/economy/inozemni-brendi-rosiyi-chomu-zahopleni-kompaniyi-finansuyut-armiyu_n3179596",
-   "x": "Кремлівська влада знайшла спосіб поповнювати військовий бюджет за рахунок компаній, які раніше належали міжнародним корпораціям. Після так званої \"націоналізації\" вони перетворилися на потужне джерело для забезпечення…",
-   "i": "https://24tv.ua/resources/photos/news/202611/3179596.jpg?v=1794558326000&q=100",
-   "d": "2026-11-13T10:03:00+00:00",
    "c": [
     "ekonomika"
    ]
