@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T08:20:40+00:00",
+ "updated": "2026-11-15T08:31:02+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -155,13 +155,13 @@
  "top": [
   {
    "t": "Світоліна розгромила Носкову і вийшла до фіналу Підсумкового турніру WTA",
-   "u": "https://sportnews.24tv.ua/elina-svitolina-ukrayinska-tenisistka-viyshla-final-pidsumkovogo_n3180690",
+   "u": "https://sportnews.24tv.ua/ru/jelina-svitolina-ukrainskaja-tennisistka-vyshla-final-itogovogo_n3180693",
    "i": "https://24tv.ua/resources/photos/news/202611/3180690.jpg?v=1794724748000&q=100",
    "n": 3,
    "l": [
     {
      "s": "24 Канал",
-     "u": "https://sportnews.24tv.ua/elina-svitolina-ukrayinska-tenisistka-viyshla-final-pidsumkovogo_n3180690"
+     "u": "https://sportnews.24tv.ua/ru/jelina-svitolina-ukrainskaja-tennisistka-vyshla-final-itogovogo_n3180693"
     },
     {
      "s": "ZN.UA",
@@ -197,13 +197,13 @@
   },
   {
    "t": "\"Це рецепт для наступної війни\": Макрон застеріг від обмеження допомоги Україні",
-   "u": "https://24tv.ua/makron-zayaviv-pro-nebezpeku-postupok-rosiyi-nazvav-zsu-naysilnishimi_n3180681",
+   "u": "https://24tv.ua/ru/makron-zajavil-ob-opasnosti-ustupok-rossii-i-nazval-vsu-samymi-silnymi_n3180683",
    "i": "https://24tv.ua/resources/photos/news/202611/3180681.jpg?v=1794722721000&q=100",
    "n": 3,
    "l": [
     {
      "s": "24 Канал",
-     "u": "https://24tv.ua/makron-zayaviv-pro-nebezpeku-postupok-rosiyi-nazvav-zsu-naysilnishimi_n3180681"
+     "u": "https://24tv.ua/ru/makron-zajavil-ob-opasnosti-ustupok-rossii-i-nazval-vsu-samymi-silnymi_n3180683"
     },
     {
      "s": "ZN.UA",
@@ -228,7 +228,7 @@
     },
     {
      "s": "24 Канал",
-     "u": "https://24tv.ua/ataka-nizhnokamskneftehim-tatarstani-15-listopada-zavodi-spalahnula_n3180670"
+     "u": "https://24tv.ua/ru/ataka-na-nizhnekamskneftehim-v-tatarstane-15-nojabrja-na-zavode-vspyhnul-pozhar_n3180672"
     },
     {
      "s": "ZN.UA",
@@ -274,14 +274,29 @@
  ],
  "items": [
   {
-   "t": "У Кропивницькому ворожий дрон влучив у житловий будинок",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/kropivnitskomu-vorozhiy-dron-vluchiv-zhitloviy-budinok_n3180725",
-   "x": "Російські війська продовжують тероризувати Україну ударними безпілотниками. Під ударом 15 листопада опинився, зокрема, Кропивницький.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3180725.jpg?v=1794730739000&q=100",
-   "d": "2026-11-15T08:20:14+00:00",
+   "t": "Чотирнадцять людей, у тому числі діти, постраждали внаслідок обстрілів Харківської області протягом доби – ОВА",
+   "s": "Інтерфакс-Україна",
+   "u": "https://interfax.com.ua/news/general/1236686.html",
+   "x": "Протягом минулої доби ЗС РФ завдали ударів по Харкову і 13 населених пунктах області, 14 людей, у тому числі діти, постраждали, повідомив начальник обласної військової адміністрації Олег Синєгубов.",
+   "i": "https://media.interfax.com.ua/media/thumbs/images/2025/08/alazl/E9CZ4fOEj8lP.jpg",
+   "d": "2026-11-15T08:27:20+00:00",
    "c": [
     "holovne"
+   ],
+   "r": [
+    "kharkiv"
+   ]
+  },
+  {
+   "t": "У Кропивницькому ворожий дрон влучив у житловий будинок",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/ru/v-kropivnickom-vrazheskij-dron-popal-v-zhiloj-dom_n3180726",
+   "x": "Російські війська продовжують тероризувати Україну ударними безпілотниками. Під ударом 15 листопада опинився, зокрема, Кропивницький.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3180725.jpg?v=1794731226000&q=100",
+   "d": "2026-11-15T08:20:00+00:00",
+   "c": [
+    "holovne",
+    "viyna"
    ],
    "r": [
     "kirovohrad"
@@ -327,7 +342,7 @@
   {
    "t": "Росія вночі атакувала Чорноморськ: є постраждалі, місто залишилося без світла",
    "s": "24 Канал",
-   "u": "https://24tv.ua/ataka-chornomorsk-15-listopada-shestero-poranenih-misto-bez-svitla_n3180714",
+   "u": "https://24tv.ua/ru/ataka-na-chernomorsk-15-nojabrja-shestero-ranenyh-gorod-ostalsja-bez-sveta_n3180722",
    "x": "У ніч проти 15 листопада російські війська атакували Чорноморськ на Одещині. Внаслідок удару травмувалися шестеро людей.",
    "i": "https://24tv.ua/resources/photos/news/202611/3180714.jpg?v=1794729292000&q=100",
    "d": "2026-11-15T08:06:00+00:00",
@@ -352,7 +367,7 @@
   {
    "t": "Збірна України зіграє останній матч у 2026 році: хто суперник і коли відбудеться гра",
    "s": "24 Канал",
-   "u": "https://sportnews.24tv.ua/koli-nastupniy-match-zbirnoyi-ukrayini-hto-supernik-zbirnoyi_n3176822",
+   "u": "https://sportnews.24tv.ua/ru/kogda-sostoitsja-sledujushhij-match-sbornoj-ukrainy-kto-budet_n3180718",
    "x": "Збірна України з футболу, у вівторок, 17 листопада, зіграє останній матч у календарному 2026 році. \"Синьо-жовті\" вийдуть на футбольне поле у межах 6-го туру Ліги націй.",
    "i": "https://24tv.ua/resources/photos/news/202611/3176822.jpg?v=1794230052000&q=100",
    "d": "2026-11-15T08:04:00+00:00",
@@ -364,7 +379,7 @@
   {
    "t": "Росія вдарила авіабомбами по Запоріжжю: серед постраждалих – 2-річна дитина",
    "s": "24 Канал",
-   "u": "https://24tv.ua/aviaudari-po-zaporizhzhyu-14-listopada-2026-postrazhdali-6-lyudey_n3180710",
+   "u": "https://24tv.ua/ru/aviaudary-po-zaporozhju-14-nojabrja-2026-goda-postradali-6-chelovek_n3180717",
    "x": "Пізно ввечері 14 листопада російські війська завдали авіаударів по Запоріжжю. Внаслідок атаки постраждали шестеро людей, серед яких маленька дитина. У місті пошкоджені житлові будинки та десятки автомобілів.",
    "i": "https://24tv.ua/resources/photos/news/202611/3180710.jpg?v=1794729640000&q=100",
    "d": "2026-11-15T08:02:00+00:00",
@@ -379,7 +394,7 @@
   {
    "t": "Не лише \"Дивергент\": 4 захопливі фільми з Шейлін Вудлі, які варто подивитися кожному",
    "s": "24 Канал",
-   "u": "https://kino.24tv.ua/sheylin-vudli-filmi-populyarnoyu-aktorkoyu-shhob-podivitis-vvecheri_n3179224",
+   "u": "https://kino.24tv.ua/ru/shejlin-vudli-filmy-uchastiem-jetoj-populjarnoj-aktrisy-kotorye_n3179227",
    "x": "15 листопада голлівудська акторка Шейлін Вудлі відзначає свій 35-й день народження. Вона швидко підкорила серця мільйонів глядачів завдяки своїй безпосередності, природній чарівності та вмінню проживати кожну роль.",
    "i": "https://24tv.ua/resources/photos/news/202611/3179224.jpg?v=1794494517000&q=100",
    "d": "2026-11-15T08:00:00+00:00",
@@ -390,7 +405,7 @@
   {
    "t": "Чим урізноманітнити зимовий гардероб: Андре Тан назвав 5 кольорів замість чорного",
    "s": "24 Канал",
-   "u": "https://24tv.ua/lady24/5-koloriv-yaki-zaminyat-chorniy-zimovomu-garderobi-shho-skazav_n3180707",
+   "u": "https://24tv.ua/lady24/ru/5-cvetov-kotorye-zamenjat-chernyj-v-zimnem-garderobe-chto-skazal-andre-tan-foto_n3180716",
    "x": "Узимку в гардеробі багатьох людей переважає чорний одяг. Однак це не єдиний колір, який можна обирати для холодної пори року. Урізноманітнити образи допоможуть інші відтінки, які так само легко поєднувати між собою.",
    "i": "https://24tv.ua/resources/photos/news/202611/3180707.jpg?v=1794729249000&q=100",
    "d": "2026-11-15T07:56:00+00:00",
@@ -401,7 +416,7 @@
   {
    "t": "\"Ты пальцем на этих черных укажи\": у ГУР розкрили, як росіяни підставляють африканців",
    "s": "24 Канал",
-   "u": "https://24tv.ua/gur-vikrili-pidstavu-rosiyan-proti-afrikantsiv-perehoplennya_n3180711",
+   "u": "https://24tv.ua/ru/v-gur-razoblachili-provokaciju-rossijan-protiv-afrikancev-perehvat-razgovora_n3180715",
    "x": "Російські окупанти використовують найманців з Африки, щоб відводити удари українських безпілотників від власних позицій. Командир загарбників наказав показувати пальцем на іноземців, аби дрони летіли в їхнє укриття.",
    "i": "https://24tv.ua/resources/photos/news/202611/3180711.jpg?v=1794729127000&q=100",
    "d": "2026-11-15T07:55:56+00:00",
@@ -413,7 +428,7 @@
   {
    "t": "Польща хоче отримати секретну антидронову технологію України в обмін на МіГ-29",
    "s": "24 Канал",
-   "u": "https://24tv.ua/military/polshha-hoche-ukrayinsku-antidronovu-sistemu-zvook-obmin-mig_n3180706",
+   "u": "https://24tv.ua/military/ru/polsha-hochet-priobresti-ukrainskuju-sistemu-protivodejstvija-dronam-zvook-v-obmen-na-mig-29_n3180713",
    "x": "Польща зацікавлена в українських безпілотних та антидронових розробках і може отримати доступ до них в обмін на передачу Україні двох винищувачів МіГ-29. Особливу увагу Варшави привернула акустична система Zvook, яка…",
    "i": "https://24tv.ua/resources/photos/news/202611/3180706.jpg?v=1794727876000&q=100",
    "d": "2026-11-15T07:49:54+00:00",
@@ -424,7 +439,7 @@
   {
    "t": "Один із подружжя хоче продати квартиру без згоди іншого: чи дозволяє це закон",
    "s": "24 Канал",
-   "u": "https://24tv.ua/realestate24/prodazh-spilnoyi-kvartiri-bez-zgodi-cholovika-druzhini-yaki-pravila_n3178366",
+   "u": "https://24tv.ua/realestate24/ru/prodazha-sovmestnoj-kvartiry-bez-soglasija-muzha-ili-zheny-kakie-pravila-dejstvujut-v-ukraine_n3178371",
    "x": "Квартира, придбана у шлюбі, може бути спільною власністю навіть тоді, коли оформлена лише на одного з партнерів. Тому продати таке житло без згоди чоловіка чи дружини за загальним правилом не можна. Водночас розлучення…",
    "i": "https://24tv.ua/resources/photos/news/202611/3178366.jpg?v=1794401690000&q=100",
    "d": "2026-11-15T07:45:00+00:00",
@@ -444,9 +459,20 @@
    ]
   },
   {
+   "t": "У Гагаузії стартували вибори башкана та депутатів Народних зборів",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/15/7250011/",
+   "x": "У неділю, 15 листопада, в автономному молдовському регіоні Гагаузія розпочалося голосування на виборах голови (башкана) та депутатів Народних зборів.",
+   "i": "https://img.eurointegration.com.ua/images/doc/3/1/31a9670-------------------------.jpg",
+   "d": "2026-11-15T07:37:00+00:00",
+   "c": [
+    "polityka"
+   ]
+  },
+  {
    "t": "Незабаром долар може встановити нові рекорди, однак українцям радять не панікувати",
    "s": "24 Канал",
-   "u": "https://financy.24tv.ua/prognoz-kursu-dolara-skilki-koshtuvatime-valyuta-naprikintsi_n3179089",
+   "u": "https://financy.24tv.ua/ru/prognoz-kursa-dollara-skolko-budet-stoit-valjuta-konce-nojabrja_n3179161",
    "x": "Упродовж наступного тижня, протягом 16 – 22 листопада, валютний ринок України залишатиметься мінливим на тлі невизначеності та нових економічних викликів. У цей період можливі чергові курсові рекорди \"на кілька…",
    "i": "https://24tv.ua/resources/photos/news/202611/3179089.jpg?v=1794486825000&q=100",
    "d": "2026-11-15T07:35:00+00:00",
@@ -457,7 +483,7 @@
   {
    "t": "Не афішують своїх обранців: українські зірки, які приховують особисте життя",
    "s": "24 Канал",
-   "u": "https://24tv.ua/show24/ukrayinski-zirki-yaki-prihovuyut-svoyih-obrantsiv-ne-afishuyut_n3179349",
+   "u": "https://24tv.ua/show24/ru/ukrainskie-zvezdy-kotorye-skryvajut-svoih-izbrannikov-i-ne-afishirujut-otnoshenija_n3179387",
    "x": "Вони можуть збирати стадіони, зніматися в кіно та щодня з'являтися в соцмережах, але про найважливіше воліють мовчати. Деякі українські знаменитості ретельно оберігають свої стосунки від сторонніх очей і не поспішають…",
    "i": "https://24tv.ua/resources/photos/news/202611/3179349.jpg?v=1794505827000&q=100",
    "d": "2026-11-15T07:30:00+00:00",
@@ -479,7 +505,7 @@
   {
    "t": "Військову пенсію можуть перерахувати: що слід перевірити пенсіонерам",
    "s": "24 Канал",
-   "u": "https://24tv.ua/economy/pererahunok-viyskovoyi-pensiyi-yak-pereviriti-pravilnist-narahuvan_n3180048",
+   "u": "https://24tv.ua/economy/ru/pereraschet-voennoj-pensii-kak-proverit-pravilnost-nachislenij-v-2026-godu_n3180538",
    "x": "Навіть після масштабного підвищення виплат багато українців продовжують втрачати власні гроші через непомітні бюрократичні неточності. Щоб відновити справедливість, достатньо ретельно перевірити вміст своєї пенсійної…",
    "i": "https://24tv.ua/resources/photos/news/202611/3180048.jpg?v=1794583710000&q=100",
    "d": "2026-11-15T07:28:00+00:00",
@@ -502,7 +528,7 @@
   {
    "t": "Ростуть втрати й бракує грошей на виплати: у росіян поступово зникає бажання воювати в Україні",
    "s": "24 Канал",
-   "u": "https://24tv.ua/defitsit-byudzhetu-zmusiv-rosiyu-urizati-viplati-viyskovim-za_n3180701",
+   "u": "https://24tv.ua/ru/deficit-bjudzheta-vynudil-rossiju-sokratit-vyplaty-voennosluzhashhim-za-ranenija_n3180708",
    "x": "Влада Росії скоротила виплати військовим за поранення через рекордні щоденні втрати. У розвідці Британії пов'язали такий крок зі зростанням дефіциту держбюджету Кремля.",
    "i": "https://24tv.ua/resources/photos/news/202611/3180701.jpg?v=1794727404000&q=100",
    "d": "2026-11-15T07:23:51+00:00",
@@ -514,7 +540,7 @@
   {
    "t": "Оформлення майна й довіреностей за кордоном: консульства України запровадили нові правила",
    "s": "24 Канал",
-   "u": "https://24tv.ua/law/novi-pravila-notariatu-za-kordonom-yak-oformiti-mayno-dovirenist_n3177629",
+   "u": "https://24tv.ua/law/ru/pravila-notariata-za-rubezhom-oformit-imushhestvo-doverennost_n3177650",
    "x": "Українські консульства суттєво змінили порядок посвідчення нотаріальних документів та операцій з майном для громадян за кордоном. Відтепер дипломати ретельніше перевірятимуть представників через держреєстри та…",
    "i": "https://24tv.ua/resources/photos/news/202611/3177629.jpg?v=1794318405000&q=100",
    "d": "2026-11-15T07:12:00+00:00",
@@ -525,7 +551,7 @@
   {
    "t": "\"Ми в глибокій с*аці\": Забарний не стримався після матчу з Північною Ірландією",
    "s": "24 Канал",
-   "u": "https://24tv.ua/sporttopnews/illya-zabarniy-futbolist-zbirnoyi-ukrayini-zirvavsya-pislya-matchu_n3180700",
+   "u": "https://24tv.ua/sporttopnews/ru/ilja-zabarnyj-futbolist-sbornoj-ukrainy-poterjal-samoobladanie_n3180704",
    "x": "Захисник збірної України Ілля Забарний емоційно прокоментував поразку від Північної Ірландії у Лізі націй. Футболіст визнав провину та закликав партнерів разом виправляти ситуацію.",
    "i": "https://24tv.ua/resources/photos/news/202611/3180700.jpg?v=1794726277000&q=100",
    "d": "2026-11-15T07:11:00+00:00",
@@ -545,7 +571,7 @@
   {
    "t": "В аеропорту Маямі зіткнулися два літаки: є постраждалі",
    "s": "24 Канал",
-   "u": "https://24tv.ua/zitknennya-dvoh-litakiv-boeing-aeroportu-mayami-14-listopada_n3180696",
+   "u": "https://24tv.ua/ru/stolknovenie-dvuh-samoletov-boeing-v-ajeroportu-majami-14-nojabrja-podrobnosti-incidenta_n3180705",
    "x": "У міжнародному аеропорту Маямі вантажний літак UPS зіткнувся з пасажирським Boeing 737 авіакомпанії Copa Airlines. Інцидент стався на руліжній доріжці ввечері 14 листопада, двоє людей отримали незначні травми.",
    "i": "https://24tv.ua/resources/photos/news/202611/3180696.jpg?v=1794726243000&q=100",
    "d": "2026-11-15T07:01:00+00:00",
@@ -556,7 +582,7 @@
   {
    "t": "Прописка в одному місті, квартира в іншому: чи дадуть єОселю на купівлю такого житла",
    "s": "24 Канал",
-   "u": "https://24tv.ua/realestate24/umovi-yeoseli-dozvoleno-pridbati-kvartiru-inshomu-misti-ukrayini_n3179989",
+   "u": "https://24tv.ua/realestate24/ru/uslovija-e-oseli-razresheno-li-priobresti-kvartiru-v-drugom-gorode-ukrainy_n3180005",
    "x": "Державна програма єОселя дозволяє українцям придбати житло в іпотеку на пільгових умовах, причому місце реєстрації покупця не обов'язково має збігатися з містом, де розташована квартира. Водночас під час вибору…",
    "i": "https://24tv.ua/resources/photos/news/202611/3179989.jpg?v=1794581291000&q=100",
    "d": "2026-11-15T07:00:00+00:00",
@@ -577,7 +603,7 @@
   {
    "t": "Із заводу відразу на пам'ятник: як Росія втратила стратегічні бомбардувальники Ту-22М3",
    "s": "24 Канал",
-   "u": "https://24tv.ua/military/yak-rosiya-zanedbala-tu-22m3-noviy-bombarduvalnik-stav-pamyatnikom_n3180694",
+   "u": "https://24tv.ua/military/ru/kak-rossija-zabrosila-tu-22m3-novyj-bombardirovshhik-prevratilsja-v-pamjatnik_n3180699",
    "x": "Росія отримала у спадок від СРСР 170 бомбардувальників Ту-22М3, проте більшість із них пішла на брухт. Один із останніх літаків 1993 року військові навіть не забрали зі складу, зробивши з нового борту пам'ятник.",
    "i": "https://24tv.ua/resources/photos/news/202611/3180694.jpg?v=1794725933000&q=100",
    "d": "2026-11-15T06:59:39+00:00",
@@ -588,7 +614,7 @@
   {
    "t": "У Києві пролунали вибухи: місто атакують реактивні безпілотники",
    "s": "24 Канал",
-   "u": "https://24tv.ua/kiyevi-prolunali-vibuhi-oblast-atakuyut-reaktivni-bezpilotniki_n3180697",
+   "u": "https://24tv.ua/ru/v-kieve-razdalis-vzryvy-oblast-podvergaetsja-atake-reaktivnyh-bespilotnikov_n3180698",
    "x": "Уранці 15 листопада у Києві пролунали вибухи. У цей час російські реактивні безпілотники рухалися територією Київської області.",
    "i": "https://24tv.ua/resources/photos/news/202611/3180697.jpg?v=1794726757000&q=100",
    "d": "2026-11-15T06:58:00+00:00",
@@ -627,7 +653,7 @@
   {
    "t": "Іран потай накопичив тисячі ракет, а Росія допомогла йому посилити атаки, – WSJ",
    "s": "24 Канал",
-   "u": "https://24tv.ua/iran-nakopichiv-do-2500-raket-yak-rosiya-dopomagaye-tegeranu_n3180689",
+   "u": "https://24tv.ua/ru/iran-nakopil-do-2500-raket-kak-rossija-pomogaet-tegeranu_n3180695",
    "x": "Іран має у своєму арсеналі від 1500 до 2500 ракет, попри заяви Дональда Трампа про майже повне знищення військового потенціалу країни. Тегеран поступово відновлює запаси, використовуючи компоненти, накопичені до початку…",
    "i": "https://24tv.ua/resources/photos/news/202611/3180689.jpg?v=1794724564000&q=100",
    "d": "2026-11-15T06:54:53+00:00",
@@ -648,7 +674,7 @@
   {
    "t": "Світоліна розгромила Носкову і вийшла до фіналу Підсумкового турніру WTA",
    "s": "24 Канал",
-   "u": "https://sportnews.24tv.ua/elina-svitolina-ukrayinska-tenisistka-viyshla-final-pidsumkovogo_n3180690",
+   "u": "https://sportnews.24tv.ua/ru/jelina-svitolina-ukrainskaja-tennisistka-vyshla-final-itogovogo_n3180693",
    "x": "Еліна Світоліна пробилася до фіналу Підсумкового турніру WTA, не залишивши шансів Лінді Носковій. У вирішальному матчі українка побореться за престижний титул з \"нейтральною\" росіянкою Міррою Андрєєвою.",
    "i": "https://24tv.ua/resources/photos/news/202611/3180690.jpg?v=1794724748000&q=100",
    "d": "2026-11-15T06:46:00+00:00",
@@ -660,7 +686,7 @@
   {
    "t": "Пастка для захоплення двох міст: в ISW розкрили справжню мету \"перемир'я\" Кремля в Костянтинівці",
    "s": "24 Канал",
-   "u": "https://24tv.ua/pastka-dlya-zahoplennya-dvoh-mist-isw-rozkrili-metu-peremirya_n3180687",
+   "u": "https://24tv.ua/ru/lovushka-dlja-zahvata-dvuh-gorodov-v-isw-raskryli-cel-peremirija-v-konstantinovke_n3180691",
    "x": "Кремль запропонував оголосити в Костянтинівці Донецької області тимчасове локальне \"перемир'я\" нібито з гуманітарною метою. Втім, припинення вогню покликане створити умови для захоплення росіянами Костянтинівки та…",
    "i": "https://24tv.ua/resources/photos/news/202611/3180687.jpg?v=1794723926000&q=100",
    "d": "2026-11-15T06:43:00+00:00",
@@ -687,7 +713,7 @@
   {
    "t": "Кривава тінь Першої світової: як Порта винищувала вірмен і чому Туреччина заперечує геноцид",
    "s": "24 Канал",
-   "u": "https://24tv.ua/history/shho-stalosya-virmenami-1915-chomu-turechchina-zaperechuye-genotsid_n3180653",
+   "u": "https://24tv.ua/history/ru/chto-proizoshlo-armjanami-1915-pochemu-turcija-otricaet-genocid_n3180654",
    "x": "У густому затінку глобальної бійні Першої світової війни розгорнулася одна з найстрашніших трагедій людства, яка відчутно змінила демографічну карту Близького Сходу. Під прикриттям воєнного стану уряд молодотурків…",
    "i": "https://24tv.ua/resources/photos/news/202611/3180653.jpg?v=1794695804000&q=100",
    "d": "2026-11-15T06:36:00+00:00",
@@ -713,7 +739,7 @@
   {
    "t": "Ізраїль заявив про ліквідацію двох командирів бригад ХАМАС у секторі Гази",
    "s": "24 Канал",
-   "u": "https://24tv.ua/geopolitics/izrayil-likviduvav-dvoh-komandiriv-hamas-sektori-gazi-shho-vidomo_n3180684",
+   "u": "https://24tv.ua/geopolitics/ru/izrail-unichtozhil-dvuh-komandirov-hamas-v-sektore-gaza-chto-izvestno_n3180688",
    "x": "Армія оборони Ізраїлю заявила про ліквідацію командира бригади Хан-Юніс Мухаммеда Абу Ісмаїла внаслідок удару по медичному комплексу Насер. Тим часом ХАМАС підтвердив загибель ще одного високопоставленого командира –…",
    "i": "https://24tv.ua/resources/photos/news/202611/3180684.jpg?v=1794723355000&q=100",
    "d": "2026-11-15T06:31:20+00:00",
@@ -732,18 +758,15 @@
    ]
   },
   {
-   "t": "Росія запустила нові групи БпЛА, тривога дісталася до Києва: які регіони під атакою",
+   "t": "Росія запустила нові групи БпЛА: які регіони під атакою",
    "s": "24 Канал",
-   "u": "https://24tv.ua/ataka-dronami-15-listopada-kudi-letyat-shahedi-karta-trivog-novini_n3180577",
+   "u": "https://24tv.ua/ru/ataka-dronov-15-nojabrja-kuda-letjat-shahedy-karta-trevog-novosti-ukrainy_n3180599",
    "x": "У суботу, 14 листопада, росіяни запустили нові групи ударних та реактивних безпілотників у напрямку України. У зв'язку з цим у частині областей оголосили повітряну тривогу.",
    "i": "https://24tv.ua/resources/photos/news/202611/3180577.jpg?v=1794674763000&q=100",
    "d": "2026-11-15T06:27:00+00:00",
    "c": [
     "holovne",
     "viyna"
-   ],
-   "r": [
-    "kyiv"
    ]
   },
   {
@@ -760,7 +783,7 @@
   {
    "t": "Є влучання на 20 локаціях: у Повітряних силах розповіли деталі нічної атаки",
    "s": "24 Канал",
-   "u": "https://24tv.ua/ataka-ukrayinu-15-listopada-2026-ppo-zbila-106-droniv-ye-vluchannya_n3180685",
+   "u": "https://24tv.ua/ru/ataka-ukrainu-15-nojabrja-2026-goda-pvo-sbila-106-dronov-zafiksirovany_n3180686",
    "x": "У ніч проти 15 листопада Росія здійснила атаку безпілотниками по Україні. Значну частину запущених дронів становили реактивні \"Шахеди\", а наслідки ударів зафіксували одразу на 20 локаціях.",
    "i": "https://24tv.ua/resources/photos/news/202611/3180685.jpg?v=1794723487000&q=100",
    "d": "2026-11-15T06:20:00+00:00",
@@ -772,7 +795,7 @@
   {
    "t": "Нові КВЕД у 2027 році: що доведеться зробити ФОП і власникам ТОВ",
    "s": "24 Канал",
-   "u": "https://24tv.ua/business/kvedi-dlya-fop-tov-yak-zminiti-pidgotuvatisya-do-perehodu-2027_n3176887",
+   "u": "https://24tv.ua/business/ru/kvjedy-dlja-flp-i-ooo-kak-vnesti-izmenenija-i-podgotovitsja-k-perehodu-v-2027-godu_n3176894",
    "x": "У 2027 році українському бізнесу доведеться перейти на оновлену класифікацію видів економічної діяльності. Для одних підприємців зміни будуть суто формальними, а іншим потрібно буде підібрати нові коди й оновити одразу…",
    "i": "https://24tv.ua/resources/photos/news/202611/3176887.jpg?v=1794233785000&q=100",
    "d": "2026-11-15T06:14:00+00:00",
@@ -794,7 +817,7 @@
   {
    "t": "\"Це рецепт для наступної війни\": Макрон застеріг від обмеження допомоги Україні",
    "s": "24 Канал",
-   "u": "https://24tv.ua/makron-zayaviv-pro-nebezpeku-postupok-rosiyi-nazvav-zsu-naysilnishimi_n3180681",
+   "u": "https://24tv.ua/ru/makron-zajavil-ob-opasnosti-ustupok-rossii-i-nazval-vsu-samymi-silnymi_n3180683",
    "x": "Президент Франції Еммануель Макрон 14 листопада застеріг союзників від примушування України до компромісів із Кремлем. Політик назвав спроби урізати військову підтримку Києва шляхом до нової великої війни на континенті.",
    "i": "https://24tv.ua/resources/photos/news/202611/3180681.jpg?v=1794722721000&q=100",
    "d": "2026-11-15T06:09:00+00:00",
@@ -809,7 +832,7 @@
   {
    "t": "Моссад попередив США про плани Ірану вбити Трампа вибуховими дронами, – ЗМІ",
    "s": "24 Канал",
-   "u": "https://24tv.ua/geopolitics/iran-planuvav-ubiti-trampa-dronami-dani-mossadu-zminili-pozitsiyu_n3180675",
+   "u": "https://24tv.ua/geopolitics/ru/iran-planiroval-ubit-trampa-s-pomoshhju-dronov-dannye-mossada-izmenili-poziciju-ssha_n3180682",
    "x": "Ізраїльська розвідка передала ЦРУ інформацію про наміри Ірану атакувати президента США Дональда Трампа та інших високопосадовців його адміністрації. Тегеран міг планувати, зокрема, удари безпілотниками з вибухівкою.",
    "i": "https://24tv.ua/resources/photos/news/202611/3180675.jpg?v=1794721212000&q=100",
    "d": "2026-11-15T06:06:00+00:00",
@@ -821,7 +844,7 @@
   {
    "t": "Залийте це в нірки капустянки: простий розчин змусить шкідника вилізти",
    "s": "24 Канал",
-   "u": "https://24tv.ua/lifehacks24/yak-pozbutisya-kapustyanki-voseni-prostiy-zasib-iz-girchitsi_n3180615",
+   "u": "https://24tv.ua/lifehacks24/ru/kak-izbavitsja-ot-kuznechikov-osenju-prostoe-sredstvo-iz-gorchicy-protiv-vreditelja_n3180616",
    "x": "З настанням холодів капустянка нікуди не зникає з городу, а ховається в ґрунті та продовжує підгризати коріння рослин. Виманити небезпечного підземного шкідника на поверхню перед зимою допоможе простий розчин із двох…",
    "i": "https://24tv.ua/resources/photos/news/202611/3180615.jpg?v=1794683539000&q=100",
    "d": "2026-11-15T06:04:00+00:00",
@@ -832,7 +855,7 @@
   {
    "t": "З нічними морозами та мокрим снігом: як зміниться погода в Україні найближчими днями",
    "s": "24 Канал",
-   "u": "https://24tv.ua/pogoda-ukrayini-1517-listopada-sinoptiki-poperedili-pro-moroz_n3180624",
+   "u": "https://24tv.ua/ru/pogoda-ukraine-1517-nojabrja-sinoptiki-predupredili-o-moroze_n3180626",
    "x": "В Україні найближчими днями очікується мінлива погода з періодичними опадами. Очікуються температурні коливання та подекуди чергова порція переважно зимових явищ.",
    "i": "https://24tv.ua/resources/photos/news/202611/3180624.jpg?v=1794686677000&q=100",
    "d": "2026-11-15T06:00:00+00:00",
@@ -916,7 +939,7 @@
   {
    "t": "На Київщині пролунали вибухи: область атакують ворожі дрони, працює ППО",
    "s": "24 Канал",
-   "u": "https://24tv.ua/kiyivshhini-prolunali-vibuhi-oblast-atakuyut-vorozhi-droni-pratsyuye_n3180679",
+   "u": "https://24tv.ua/ru/vzryvy-v-kievskoj-oblasti-15-nojabrja-chto-izvestno_n3180680",
    "x": "Вранці 15 листопада на Київщині пролунали вибухи на тлі атаки російських безпілотників. У регіоні працюють сили протиповітряної оборони, а жителів закликають залишатися в укриттях.",
    "i": "https://24tv.ua/resources/photos/news/202611/3180679.jpg?v=1794720904000&q=100",
    "d": "2026-11-15T05:36:00+00:00",
@@ -930,7 +953,7 @@
   {
    "t": "Росія наступає на український фортечний пояс з 4 напрямків: огляд фронту від ISW",
    "s": "24 Канал",
-   "u": "https://24tv.ua/situatsiya-fronti-sogodni-15-listopada-rosiya-namagayetsya-otochiti_n3180673",
+   "u": "https://24tv.ua/ru/situacija-na-fronte-segodnja-15-nojabrja-rossija-pytaetsja-okruzhit-krepostnoj-pojas-doneckoj-oblasti_n3180674",
    "x": "Російські війська продовжують намагатися захопити український фортечний пояс у Донецькій області, наступаючи з півночі, сходу, півдня та південного заходу. Водночас на окремих ділянках фронту окупанти не мають просувань.",
    "i": "https://24tv.ua/resources/photos/news/202611/3180673.jpg?v=1794718952000&q=100",
    "d": "2026-11-15T05:26:00+00:00",
@@ -945,7 +968,7 @@
   {
    "t": "Втрата статусу УБД та виплат: за які помилки ветеранів позбавлять пільг",
    "s": "24 Канал",
-   "u": "https://financy.24tv.ua/vtrata-statusu-ubd-viplat-za-shho-veteraniv-mozhut-pozbaviti_n3180161",
+   "u": "https://financy.24tv.ua/ru/poterja-statusa-ubd-i-vyplat-pochemu-veteranov-mogut-lishit-lgot-i-pensii_n3180224",
    "x": "Держава суттєво посилила перевірки отримувачів соціальної допомоги та пільг серед військовослужбовців. Будь-яке зволікання з документами тепер загрожує захисникам серйозними фінансовими збитками.",
    "i": "https://24tv.ua/resources/photos/news/202611/3180161.jpg?v=1794594394000&q=100",
    "d": "2026-11-15T05:26:00+00:00",
@@ -992,7 +1015,7 @@
   {
    "t": "У Татарстані атакували один із найбільших нафтохімічних заводів Росії: спалахнула пожежа",
    "s": "24 Канал",
-   "u": "https://24tv.ua/ataka-nizhnokamskneftehim-tatarstani-15-listopada-zavodi-spalahnula_n3180670",
+   "u": "https://24tv.ua/ru/ataka-na-nizhnekamskneftehim-v-tatarstane-15-nojabrja-na-zavode-vspyhnul-pozhar_n3180672",
    "x": "У російському Нижньокамську, що в Татарстані, 15 листопада безпілотники атакували нафтохімічний завод \"Нижнекамскнефтехим\". Під ударом опинилося підприємство, яке входить до холдингу \"Сибур\".",
    "i": "https://24tv.ua/resources/photos/news/202611/3180670.jpg?v=1794716886000&q=100",
    "d": "2026-11-15T04:54:00+00:00",
@@ -1015,7 +1038,7 @@
   {
    "t": "Сили оборони \"відмінусували\" понад 2 тисячі окупантів за добу: які втрати Росії на 15 листопада",
    "s": "24 Канал",
-   "u": "https://24tv.ua/vtrati-rosiyi-15-listopada-2026-roku-genshtab-nazvav-kilkist_n3180669",
+   "u": "https://24tv.ua/ru/poteri-rossii-po-sostojaniju-na-15-nojabrja-2026-goda-genshtab-nazval-kolichestvo-unichtozhennyh-okkupantov-i-tehniki_n3180671",
    "x": "Українські військові продовжують завдавати втрат російській армії на фронті. Лише за минулу добу, станом на 15 листопада 2026 року, Росія втратила ще 2230 військових і сотні одиниць техніки.",
    "i": "https://24tv.ua/resources/photos/news/202611/3180669.jpg?v=1794715623000&q=100",
    "d": "2026-11-15T04:41:00+00:00",
@@ -1049,7 +1072,7 @@
   {
    "t": "З тавром \"народу-зрадника\": як радянська машина брехні виправдала терор проти кримських татар",
    "s": "24 Канал",
-   "u": "https://24tv.ua/history/krimski-tatari-drugiy-svitoviy-yak-stalin-vigadav-mif-pro-zradu_n3180261",
+   "u": "https://24tv.ua/history/ru/krymskie-tatary-vtoroj-mirovoj-stalin-pridumal-mif-o-predatelstve_n3180262",
    "x": "У травні 1944 року сотні тисяч людей прокинулися від стукоту у двері, щоб назавжди втратити свою батьківщину та звичне життя. Радянська влада безжально завантажила кримських татар у переповнені товарні вагони…",
    "i": "https://24tv.ua/resources/photos/news/202611/3180261.jpg?v=1794627383000&q=100",
    "d": "2026-11-15T04:36:00+00:00",
@@ -1063,7 +1086,7 @@
   {
    "t": "15 листопада – яке церковне свято: хто сьогодні відзначає День ангела",
    "s": "24 Канал",
-   "u": "https://24tv.ua/traditions24/svyato-15-listopada-yake-sogodni-tserkovne-svyato-kogo-imenini_n3180300",
+   "u": "https://24tv.ua/traditions24/ru/prazdnik-15-nojabrja-kakoj-segodnja-cerkovnyj-prazdnik-u-kogo_n3180303",
    "x": "15 листопада віряни вшановують пам'ять святих мучеників Гурія, Самона й Авіва. Також сьогодні розпочався Різдвяний піст.",
    "i": "https://24tv.ua/resources/photos/news/202611/3180300.jpg?v=1794640974000&q=100",
    "d": "2026-11-15T04:30:00+00:00",
@@ -1074,7 +1097,7 @@
   {
    "t": "Не лише хіти: Ріанна, Бейонсе та інші співачки, які побудували власні бізнес-імперії",
    "s": "24 Канал",
-   "u": "https://24tv.ua/show24/rianna-beyonse-inshi-spivachki-yaki-stvorili-vlasni-biznes-imperiyi_n3179128",
+   "u": "https://24tv.ua/show24/ru/rianna-bejonse-i-drugie-pevicy-sozdavshie-sobstvennye-biznes-imperii_n3179347",
    "x": "Їхні імена знають у всьому світі, а продукцію купують навіть ті, хто ніколи не слухав їхніх пісень. Деякі зірки зуміли перетворити популярність на бізнес, який став не менш відомим за їхню музику.",
    "i": "https://24tv.ua/resources/photos/news/202611/3179128.jpg?v=1794489831000&q=100",
    "d": "2026-11-15T04:30:00+00:00",
@@ -1085,7 +1108,7 @@
   {
    "t": "3 найбагатші боксери з України, які стали гривневими мільярдерами",
    "s": "24 Канал",
-   "u": "https://fight.24tv.ua/naybagatshi-bokseri-ukrayini-hto-voni-skilki-voni-mayut-groshey_n3050985",
+   "u": "https://fight.24tv.ua/ru/samye-bogatye-boksery-ukrainy-kto-oni-skolko-u-nih-deneg_n3051053",
    "x": "Професійні боксери отримують величезні гонорари та призові за свої бої. Зокрема, українські боксери входять у різноманітні топи навіть найбагатших представників цього виду спорту у світі.",
    "i": "https://24tv.ua/resources/photos/news/202604/3050985.jpg?v=1776431531000&q=100",
    "d": "2026-11-15T04:14:00+00:00",
@@ -1843,16 +1866,6 @@
    ]
   },
   {
-   "t": "Ще кілька місяців тому він співав на сцені. Тепер \"Артист\" збирає на пікап для побратимів",
-   "s": "Інтерфакс-Україна",
-   "u": "https://interfax.com.ua/news/press-release/1236641.html",
-   "x": "Ще кілька місяців тому Кирило Воронцов виходив на сцену з мікрофоном у руках.",
-   "d": "2026-11-14T18:22:18+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "Росія вдарила дроном по об'єкту критичної інфраструктури на Чернігівщині, загинули 2 чоловіків",
    "s": "24 Канал",
    "u": "https://24tv.ua/udar-bpla-po-meni-14-listopada-dvoye-zagiblih-poraneniy_n3180597",
@@ -2098,17 +2111,6 @@
    "d": "2026-11-14T15:22:00+00:00",
    "c": [
     "sport"
-   ]
-  },
-  {
-   "t": "В Італії оштрафували Meta на 805 млн євро через доступ до даних користувачів Facebook",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/14/7250001/",
-   "x": "Італійський орган із захисту персональних даних оштрафував Meta, материнську компанію Facebook, на 805 млн євро за використання фотографій і відео з телефонів на Android без окремої згоди користувачів.",
-   "i": "https://img.eurointegration.com.ua/images/doc/e/6/e6d4a24--.jpg",
-   "d": "2026-11-14T15:19:00+00:00",
-   "c": [
-    "polityka"
    ]
   },
   {
@@ -2470,17 +2472,6 @@
    "d": "2026-11-14T11:59:00+00:00",
    "c": [
     "vazhlyve"
-   ]
-  },
-  {
-   "t": "Бойова частина на 130 кілограмів: Росія адаптувала ракету \"Дань-Т\" для пусків із землі",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/military/rosiya-pristosuvala-raketu-dan-t-dlya-puskiv-iz-zemli-shho-vidomo_n3180430",
-   "x": "Російські окупанти адаптували нову малу крилату ракету \"Дань-Т\" для застосування з наземних установок. Раніше її запускали лише з гелікоптерів.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3180430.jpg?v=1794657273000&q=100",
-   "d": "2026-11-14T11:56:52+00:00",
-   "c": [
-    "viyna"
    ]
   },
   {
