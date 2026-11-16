@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T23:10:40+00:00",
+ "updated": "2026-11-16T23:20:42+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -158,11 +158,15 @@
  ],
  "top": [
   {
-   "t": "У Комишувасі завершили пошукові роботи після російського авіаудару: 72 загиблих, четверо зниклих безвісти",
-   "u": "https://zn.ua/ukr/war/u-komishuvasi-zavershili-poshukovi-roboti-pislja-rosijskoho-aviaudaru-72-zahiblikh-chetvero-zniklikh-bezvisti.html",
-   "i": "https://zn.ua/img/article/7042/13_main.webp",
+   "t": "72 загиблих та четверо зниклих безвісти: у Комишувасі завершили пошуково-рятувальні роботи після авіаударів 2 листопада",
+   "u": "https://suspilne.media/zaporizhzhia/1453821-72-zagiblih-ta-cetvero-zniklih-bezvisti-u-komisuvasi-zaversili-posukovo-ratuvalni-roboti-pisla-aviaudariv-2-listopada/",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
    "n": 5,
    "l": [
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/zaporizhzhia/1453821-72-zagiblih-ta-cetvero-zniklih-bezvisti-u-komisuvasi-zaversili-posukovo-ratuvalni-roboti-pisla-aviaudariv-2-listopada/"
+    },
     {
      "s": "ZN.UA",
      "u": "https://zn.ua/ukr/war/u-komishuvasi-zavershili-poshukovi-roboti-pislja-rosijskoho-aviaudaru-72-zahiblikh-chetvero-zniklikh-bezvisti.html"
@@ -178,13 +182,9 @@
     {
      "s": "24 Канал",
      "u": "https://24tv.ua/rosiyani-vdarili-po-komishuvatiy-2-listopada-ye-zherti-postrazhdali_n3172534"
-    },
-    {
-     "s": "Суспільне",
-     "u": "https://suspilne.media/zaporizhzhia/1453821-72-zagiblih-ta-cetvero-zniklih-bezvisti-u-komisuvasi-zaversili-posukovo-ratuvalni-roboti-pisla-aviaudariv-2-listopada/"
     }
    ],
-   "d": "2026-11-16T19:15:00+00:00"
+   "d": "2026-11-16T20:27:01+00:00"
   },
   {
    "t": "Росія атакувала мости Києва балістичними ракетами",
@@ -366,6 +366,47 @@
  ],
  "items": [
   {
+   "t": "Кримський міст знову під повітряним ударом: рух транспорту повністю зупинили",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/povtorna-ataka-krimskiy-mist-stalasya-17-listopada-shho-vidomo_n3181766",
+   "x": "Уночі 17 листопада 2026 року Кримський міст зазнав повторного повітряного удару – вдруге за добу, через що окупанти повністю перекрили рух. Атака відбулася на тлі масованого нальоту безпілотників та загрози ракет.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3181766.jpg?v=1794870489000&q=100",
+   "d": "2026-11-16T23:20:22+00:00",
+   "c": [
+    "holovne",
+    "vazhlyve",
+    "viyna"
+   ],
+   "r": [
+    "crimea"
+   ]
+  },
+  {
+   "t": "МВФ наблизився до угоди з Україною на $1,6 млрд: що для цього потрібно",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/ECONOMICS/mvf-nablizivsja-do-uhodi-z-ukrajinoju-na-1-6-mlrd-shcho-dlja-tsoho-potribno.html",
+   "x": "МВФ назвав потреби України у фінансуванні на 2027 і 2028 роки.",
+   "i": "https://zn.ua/img/article/7042/31_main.webp",
+   "d": "2026-11-16T23:13:23+00:00",
+   "c": [
+    "statti"
+   ]
+  },
+  {
+   "t": "Аксьонов заявив про нову атаку на Кримський міст",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1453858-aksonov-zaaviv-pro-novu-ataku-na-krimskij-mist/",
+   "x": "Аксьонов написав, що рух транспорту призупинено, і попросив утриматися від поїздок у напрямку мосту. Про попередній удар він заявляв 16 листопада",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-16T23:13:13+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "crimea"
+   ]
+  },
+  {
    "t": "Україна – Грузія: онлайн-трансляція матчу Ліги націй",
    "s": "24 Канал",
    "u": "https://sportnews.24tv.ua/ukrayina-gruziya-divitis-onlayn-pryama-translyatsiya-matchu-17_n3181146",
@@ -419,7 +460,7 @@
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/17/8063184/",
    "x": "У ніч на 17 листопада Кримський міст зазнав повторного удару.",
-   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/d/958244/5decbd7ee56837aa9f6f179455c29533.jpeg",
+   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/9/958245/c9f73bb8bc70ec192d3088976403fc26.jpeg",
    "d": "2026-11-16T22:44:00+00:00",
    "c": [
     "holovne",
@@ -1371,6 +1412,17 @@
    ]
   },
   {
+   "t": "72 загиблих та четверо зниклих безвісти: у Комишувасі завершили пошуково-рятувальні роботи після авіаударів 2 листопада",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/zaporizhzhia/1453821-72-zagiblih-ta-cetvero-zniklih-bezvisti-u-komisuvasi-zaversili-posukovo-ratuvalni-roboti-pisla-aviaudariv-2-listopada/",
+   "x": "Після авіаударів РФ по підземній школі в Комишувасі завершили пошуково-рятувальні роботи: загинули 72 людини, четверо досі вважаються зниклими безвісти",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-16T20:27:01+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "Губернатор Каліфорнії Гевін Ньюсом відвідав Львів і оголосив про нову гуманітарну допомогу Україні",
    "s": "Суспільне",
    "u": "https://suspilne.media/lviv/1453829-gubernator-kalifornii-gevin-nusom-vidvidav-lviv-i-ogolosiv-pro-novu-gumanitarnu-dopomogu-ukraini/",
@@ -1841,6 +1893,20 @@
    ]
   },
   {
+   "t": "Синоптики прогнозують дощ 17 листопада на Херсонщині",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/kherson/1453786-sinoptiki-prognozuut-dos-17-listopada-na-hersonsini/",
+   "x": "За прогнозами обласного гідрометцентру, на Херсонщині 17 листопада буде хмарна з проясненнями погода. Вдень пройде дощ, вночі опадів не передбачається",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-16T19:35:27+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kherson"
+   ]
+  },
+  {
    "t": "🔥Этот РАЗГРОМ Крымского моста ВОЙДЁТ В ИСТОРИЮ! Путина ТРЯСЁТ: срочное СОВЕЩАНИЕ Кремля. ТИЗЕНГАУЗЕН",
    "s": "24 Канал · відео",
    "u": "https://www.youtube.com/watch?v=wR2HmrymbxI",
@@ -1928,17 +1994,6 @@
    ]
   },
   {
-   "t": "Формально на війні: вбивці Нємцова вийшли з колоній та осіли в Чечні",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/vbivtsi-borisa-nyemtsova-dostrokovo-viyshli-volyu-de-voni-zaraz_n3181712",
-   "x": "Засуджені за вбивство Бориса Нємцова Заур Дадаєв, а також брати Анзор і Шадід Губашеви достроково вийшли на волю в Росії. Замість участі у війні під прикриттям контрактів вони оселилися на території Чечні.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3181712.jpg?v=1794856415000&q=100",
-   "d": "2026-11-16T19:29:00+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "⚡Ось вам і ВСЯ ПРАВДА про УДАР ПО КРИМСЬКОМУ МОСТУ – ви НЕ ПОВІРИТЕ, що відбувається ПРЯМО ЗАРАЗ",
    "s": "24 Канал · відео",
    "u": "https://www.youtube.com/watch?v=BeP7vkLjWfE",
@@ -2002,20 +2057,6 @@
    "d": "2026-11-16T19:20:05+00:00",
    "c": [
     "holovne"
-   ]
-  },
-  {
-   "t": "На війні загинув молодший сержант Олексій Булименко з Марківки на Луганщині",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/donbas/1453808-na-vijni-zaginuv-molodsij-serzant-oleksij-bulimenko-z-markivki-na-lugansini/",
-   "x": "1 листопада на Харківщині загинув молодший сержант Олексій Булименко з Марківки. Він воював у складі батальйону «Айдар» та 33-ї ОМБр",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-16T19:17:03+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "luhansk"
    ]
   },
   {
@@ -2541,17 +2582,6 @@
    ]
   },
   {
-   "t": "72 загиблих та четверо зниклих безвісти: у Комишувасі завершили пошуково-рятувальні роботи після авіаударів 2 листопада",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/zaporizhzhia/1453821-72-zagiblih-ta-cetvero-zniklih-bezvisti-u-komisuvasi-zaversili-posukovo-ratuvalni-roboti-pisla-aviaudariv-2-listopada/",
-   "x": "Після авіаударів РФ по підземній школі в Комишувасі завершили пошуково-рятувальні роботи: загинули 72 людини, четверо досі вважаються зниклими безвісти",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-16T18:27:01+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "У Франції на протесті затримали 12-річну дівчинку",
    "s": "Європейська правда",
    "u": "https://www.eurointegration.com.ua/news/2026/11/16/7250126/",
@@ -2766,17 +2796,6 @@
    ]
   },
   {
-   "t": "Трамп заявив, що йому нічого не відомо про обмеження швидкості роботи системи Starshield в Україні",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/usa/tramp-zajaviv-shcho-jomu-nichoho-ne-vidomo-pro-obmezhennja-shvidkosti-roboti-sistemi-starshield-v-ukrajini.html",
-   "x": "Перебої тривають уже сьомий день.",
-   "i": "https://zn.ua/img/article/7042/4_main.webp",
-   "d": "2026-11-16T17:41:00+00:00",
-   "c": [
-    "statti"
-   ]
-  },
-  {
    "t": "Це була велика пауза: Харлан оголосила про повернення у фехтування",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/16/8063153/",
@@ -2798,20 +2817,6 @@
    ],
    "r": [
     "kyivska"
-   ]
-  },
-  {
-   "t": "Синоптики прогнозують дощ 17 листопада на Херсонщині",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/kherson/1453786-sinoptiki-prognozuut-dos-17-listopada-na-hersonsini/",
-   "x": "За прогнозами обласного гідрометцентру, на Херсонщині 17 листопада буде хмарна з проясненнями погода. Вдень пройде дощ, вночі опадів не передбачається",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-16T17:35:27+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "kherson"
    ]
   },
   {
@@ -3415,17 +3420,6 @@
    "x": "Регулятори ядерної безпеки 38 країн 16 листопада закликали Росію припинити удари по енергосистемі України. Фахівці попередили про зростання ризику ядерної аварії, яка може одночасно зачепити 9 реакторів.",
    "i": "https://24tv.ua/resources/photos/news/202611/3181491.jpg?v=1794839845000&q=100",
    "d": "2026-11-16T14:39:00+00:00",
-   "c": [
-    "viyna"
-   ]
-  },
-  {
-   "t": "Сили оборони могли уразити Іл-76 в Новгородській області: з'явилися супутникові знімки",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/urazheno-rosiyskiy-litak-il-76-suputnikovi-znimki-aviazavodu_n3181451",
-   "x": "Сили оборони України 10 листопада атакували аеродром у Новгородській області Росії. Супутниковий знімок зафіксував імовірне ураження важкого військово-транспортного літака Іл-76.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3181451.jpg?v=1794839437000&q=100",
-   "d": "2026-11-16T14:31:00+00:00",
    "c": [
     "viyna"
    ]
