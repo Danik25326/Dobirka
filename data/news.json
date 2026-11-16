@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T06:30:58+00:00",
+ "updated": "2026-11-16T06:40:42+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -158,27 +158,6 @@
  ],
  "top": [
   {
-   "t": "Фон дер Ляєн розкрила формат участі Європи у переговорах між Україною і Росією",
-   "u": "https://24tv.ua/uchast-yevropi-mirnih-peregovorah-fon-der-lyayen-nazvala-format_n3181031",
-   "i": "https://24tv.ua/resources/photos/news/202611/3181031.jpg?v=1794807313000&q=100",
-   "n": 3,
-   "l": [
-    {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/uchast-yevropi-mirnih-peregovorah-fon-der-lyayen-nazvala-format_n3181031"
-    },
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/15/8063001/"
-    },
-    {
-     "s": "Інтерфакс-Україна",
-     "u": "https://interfax.com.ua/news/general/1236787.html"
-    }
-   ],
-   "d": "2026-11-16T05:36:00+00:00"
-  },
-  {
    "t": "Супутникові знімки показали наслідки удару по порту Усть-Луга: вигоріло щонайменше п’ять резервуарів",
    "u": "https://zn.ua/ukr/war/704120-suputnikovi-znimki-pokazali-naslidki-udaru-po-portu-ust-luha-vihorilo-shchonajmenshe-pjat-rezervuariv-z-palnim.html",
    "i": "https://zn.ua/img/article/7041/20_main.webp",
@@ -198,6 +177,57 @@
     }
    ],
    "d": "2026-11-16T03:47:00+00:00"
+  },
+  {
+   "t": "Аксьонов заявив, що Україна вдарила по Кримському мосту",
+   "u": "https://zn.ua/ukr/war/aksonov-zajaviv-shcho-ukrajina-vdarila-po-krimskomu-mostu.html",
+   "i": "https://zn.ua/img/article/7041/28_main.webp",
+   "n": 2,
+   "l": [
+    {
+     "s": "ZN.UA",
+     "u": "https://zn.ua/ukr/war/aksonov-zajaviv-shcho-ukrajina-vdarila-po-krimskomu-mostu.html"
+    },
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/udar-po-krimskomu-mostu-okupanti-zayavili-pro-perekrittya-ruhu_n3181052"
+    }
+   ],
+   "d": "2026-11-16T06:35:13+00:00"
+  },
+  {
+   "t": "Росіяни знову атакували Дніпро: загинула людина, ще троє поранені, палають автівки",
+   "u": "https://www.pravda.com.ua/news/2026/11/16/8063033/",
+   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/e/957721/6e6cabec64cde106c881a164ad3ac7e3.jpeg",
+   "n": 2,
+   "l": [
+    {
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/16/8063033/"
+    },
+    {
+     "s": "Інтерфакс-Україна",
+     "u": "https://interfax.com.ua/news/general/1236844.html"
+    }
+   ],
+   "d": "2026-11-16T06:34:00+00:00"
+  },
+  {
+   "t": "Фон дер Ляєн розкрила формат участі Європи у переговорах між Україною і Росією",
+   "u": "https://24tv.ua/uchast-yevropi-mirnih-peregovorah-fon-der-lyayen-nazvala-format_n3181031",
+   "i": "https://24tv.ua/resources/photos/news/202611/3181031.jpg?v=1794807313000&q=100",
+   "n": 2,
+   "l": [
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/uchast-yevropi-mirnih-peregovorah-fon-der-lyayen-nazvala-format_n3181031"
+    },
+    {
+     "s": "Інтерфакс-Україна",
+     "u": "https://interfax.com.ua/news/general/1236787.html"
+    }
+   ],
+   "d": "2026-11-16T05:36:00+00:00"
   },
   {
    "t": "В Азові після атаки горить нафтобаза",
@@ -300,43 +330,69 @@
     }
    ],
    "d": "2026-11-15T23:09:00+00:00"
-  },
-  {
-   "t": "На Вінниччині внаслідок атаки РФ є влучання в об'єкт критичної промисловості – ОВА",
-   "u": "https://interfax.com.ua/news/general/1236791.html",
-   "i": "https://24tv.ua/resources/photos/news/202611/3181012.jpg?v=1794781474000&q=100",
-   "n": 2,
-   "l": [
-    {
-     "s": "Інтерфакс-Україна",
-     "u": "https://interfax.com.ua/news/general/1236791.html"
-    },
-    {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/ataka-rosiyi-vinnichchinu-16-listopada-shho-vidomo-pro-naslidki_n3181012"
-    }
-   ],
-   "d": "2026-11-15T22:40:32+00:00"
-  },
-  {
-   "t": "Рік не бачили хліба та вперше обійняли онука: щемлива історія подружжя, що врятувалося з Олешків",
-   "u": "https://24tv.ua/evakuatsiya-oleshkiv-podruzhzhya-rozpovilo-pro-golod-okupatsiyi_n3180843",
-   "i": "https://24tv.ua/resources/photos/news/202611/3180843.jpg?v=1794746234000&q=100",
-   "n": 2,
-   "l": [
-    {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/evakuatsiya-oleshkiv-podruzhzhya-rozpovilo-pro-golod-okupatsiyi_n3180843"
-    },
-    {
-     "s": "Українська правда. Життя",
-     "u": "https://life.pravda.com.ua/society/podruzhzhya-z-oleshkiv-upershe-pobachilo-onuka-video-319080/"
-    }
-   ],
-   "d": "2026-11-15T12:43:00+00:00"
   }
  ],
  "items": [
+  {
+   "t": "Двоє у владі. Як Буданов і Арахамія ділять вплив у владі Зеленського",
+   "s": "Українська правда",
+   "u": "https://www.pravda.com.ua/news/2026/11/16/8062994/",
+   "d": "2026-11-16T06:40:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Аксьонов заявив, що Україна вдарила по Кримському мосту",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/war/aksonov-zajaviv-shcho-ukrajina-vdarila-po-krimskomu-mostu.html",
+   "i": "https://zn.ua/img/article/7041/28_main.webp",
+   "d": "2026-11-16T06:35:13+00:00",
+   "c": [
+    "statti"
+   ],
+   "r": [
+    "crimea"
+   ]
+  },
+  {
+   "t": "Росіяни знову атакували Дніпро: загинула людина, ще троє поранені, палають автівки",
+   "s": "Українська правда",
+   "u": "https://www.pravda.com.ua/news/2026/11/16/8063033/",
+   "x": "Зранку 16 листопада росіяни завдали нового удару по Дніпру: загинула одна людина, ще троє дістали поранень.",
+   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/e/957721/6e6cabec64cde106c881a164ad3ac7e3.jpeg",
+   "d": "2026-11-16T06:34:00+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "dnipro"
+   ]
+  },
+  {
+   "t": "Дев'ятеро людей постраждали внаслідок обстрілів Харківської області протягом доби",
+   "s": "Інтерфакс-Україна",
+   "u": "https://interfax.com.ua/news/general/1236854.html",
+   "x": "Протягом минулої доби ЗС РФ завдали ударів по Харкову і 11 населених пунктах області, 9 людей постраждали, повідомив начальник обласної військової адміністрації Олег Синєгубов.",
+   "i": "https://media.interfax.com.ua/media/thumbs/images/2026/04/eaufr/RiC8T4IZZ2Nu.jpg",
+   "d": "2026-11-16T06:33:46+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kharkiv"
+   ]
+  },
+  {
+   "t": "Чого очікувати від демократів Америці, Трампу та Україні",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/usa/choho-ochikuvati-vid-demokrativ-ameritsi-trampu-ta-ukrajini.html",
+   "i": "https://zn.ua/img/article/7041/26_main.webp",
+   "d": "2026-11-16T06:30:00+00:00",
+   "c": [
+    "statti"
+   ]
+  },
   {
    "t": "Внаслідок нового удару РФ по Дніпру загинула людина, ще троє поранені – ОВА",
    "s": "Інтерфакс-Україна",
@@ -352,15 +408,31 @@
    ]
   },
   {
-   "t": "Україна вдарила по Кримському мосту",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/udar-po-krimskomu-mostu-okupanti-zayavili-pro-perekrittya-ruhu_n3181052",
-   "x": "Вранці 16 листопада Кримський міст зазнав чергової атаки. Рух автотранспорту переправою обмежили орієнтовно до середини дня.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3181052.jpg?v=1794810496000&q=100",
+   "t": "Окупанти заявили про удар по Кримському мосту: розгорнули оперативний штаб",
+   "s": "Українська правда",
+   "u": "https://www.pravda.com.ua/news/2026/11/16/8063032/",
+   "x": "За заявою Сергія Аксьонова, через удар по Кримському мосту обмежено рух транспорту. У Керчі працюють служби та розгорнуто оперативний штаб.",
+   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/5/957720/254f1e883119666bafee7096845b1415.jpeg",
    "d": "2026-11-16T06:28:00+00:00",
    "c": [
     "holovne",
     "vazhlyve"
+   ],
+   "r": [
+    "crimea"
+   ]
+  },
+  {
+   "t": "Україна вдарила по Кримському мосту",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/udar-po-krimskomu-mostu-okupanti-zayavili-pro-perekrittya-ruhu_n3181052",
+   "x": "Вранці 16 листопада Кримський міст зазнав чергової атаки. Рух автотранспорту переправою обмежили орієнтовно до середини дня.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3181052.jpg?v=1794811059000&q=100",
+   "d": "2026-11-16T06:28:00+00:00",
+   "c": [
+    "holovne",
+    "vazhlyve",
+    "viyna"
    ],
    "r": [
     "crimea"
@@ -1367,17 +1439,6 @@
    ]
   },
   {
-   "t": "Президентка Єврокомісії: Європа братиме активну участь у переговорах і тиснутиме на РФ",
-   "s": "Українська правда",
-   "u": "https://www.pravda.com.ua/news/2026/11/15/8063001/",
-   "x": "Урсула фон дер Ляєн підтвердила активну роль Євросоюзу та формату E5 у майбутніх переговорах між Україною та Росією.",
-   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/7/957616/f73dcbf7d4906dd98577b51127108038.jpeg",
-   "d": "2026-11-15T21:46:00+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "Розриває серце: Ірина Федишин випустила кліп після втрати доньки, в якому не стримує свого болю",
    "s": "24 Канал",
    "u": "https://24tv.ua/show24/rozrivaye-sertse-irina-fedishin-vipustila-klip-pislya-vtrati_n3180995",
@@ -1446,20 +1507,6 @@
    ]
   },
   {
-   "t": "Російські дрони атакували багатоповерхівку й дитячий навчальний заклад у Харкові",
-   "s": "Українська правда",
-   "u": "https://www.pravda.com.ua/news/2026/11/15/8063000/",
-   "x": "У Шевченківському та Слобідському районах Харкова зафіксовано удари дронами, постраждали житловий будинок і дитячий навчальний заклад.",
-   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/2/957592/6261f9316dccdf73c38c3e51a88982a6.jpeg",
-   "d": "2026-11-15T21:14:00+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "kharkiv"
-   ]
-  },
-  {
    "t": "Кишинів відповів Москві на ідею федералізувати Молдову",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/POLITICS/kishiniv-vidpoviv-moskvi-na-ideju-federalizuvati-moldovu.html",
@@ -1484,15 +1531,6 @@
    ],
    "r": [
     "chernivtsi"
-   ]
-  },
-  {
-   "t": "У Бельгії стався вибух на різдвяному ярмарку, п’ятеро людей поранені",
-   "s": "Українська правда",
-   "u": "https://www.pravda.com.ua/news/2026/11/15/8062999/",
-   "d": "2026-11-15T20:40:00+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
@@ -1531,17 +1569,6 @@
    ]
   },
   {
-   "t": "Легендарний футболіст Роналдінью у віці 46 років зіграв в офіційному матчі чемпіонату Італії",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/SPORT/lehendarnij-futbolist-ronaldino-u-vitsi-46-rokiv-zihrav-v-ofitsijnomu-matchi-chempionatu-italiji.html",
-   "x": "Бразилець офіційно повернувся на поле.",
-   "i": "https://zn.ua/img/article/7040/34_main.webp",
-   "d": "2026-11-15T20:25:00+00:00",
-   "c": [
-    "statti"
-   ]
-  },
-  {
    "t": "Українцям автоматично підвищать виплати: хто отримає щомісячну надбавку",
    "s": "24 Канал",
    "u": "https://24tv.ua/economy/pensiya-doplatoyu-2026-yak-otrimati-ponad-1000-griven-doplati_n3180638",
@@ -1550,17 +1577,6 @@
    "d": "2026-11-15T20:13:00+00:00",
    "c": [
     "ekonomika"
-   ]
-  },
-  {
-   "t": "Україна хоче виконати ключові вимоги ЄС до середини 2027 року",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/POLITICS/ukrajina-khoche-vikonati-kljuchovi-vimohi-jes-do-seredini-2027-roku.html",
-   "x": "Прем'єр-міністр Сергій Корецький пояснив, без чого переговори про вступ не зрушать далі.",
-   "i": "https://zn.ua/img/article/7040/32_main.webp",
-   "d": "2026-11-15T20:10:48+00:00",
-   "c": [
-    "statti"
    ]
   },
   {
@@ -1796,20 +1812,6 @@
    "d": "2026-11-15T17:35:07+00:00",
    "c": [
     "holovne"
-   ]
-  },
-  {
-   "t": "У Запорізькій області відновили електропостачання після атаки РФ – ОВА",
-   "s": "Інтерфакс-Україна",
-   "u": "https://interfax.com.ua/news/general/1236767.html",
-   "x": "У Запорізькій області відновили електропостачання після російської атаки, повідомив очільник Запорізької ОВА Михайло Семікін.",
-   "i": "https://media.interfax.com.ua/media/thumbs/images/2018/08/sOwLSK8FLk-j.jpg",
-   "d": "2026-11-15T17:29:11+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "zaporizhzhia"
    ]
   },
   {
@@ -2173,20 +2175,6 @@
    ]
   },
   {
-   "t": "Була єдиною жінкою в підрозділі: на війні загинула операторка БпЛА Раяна",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/viyni-zaginula-odesitka-rayana-yedina-zhinka-batalyonu-sheyha_n3180841",
-   "x": "На фронті загинула операторка БпЛА Чеченського добровольчого батальйону імені Шейха Мансура одеситка Раяна. Вона була єдиною жінкою в цьому підрозділі та виконувала завдання на найгарячіших ділянках.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3180841.jpg?v=1794746168000&q=100",
-   "d": "2026-11-15T12:42:00+00:00",
-   "c": [
-    "viyna"
-   ],
-   "r": [
-    "odesa"
-   ]
-  },
-  {
    "t": "Генштаб також заявив про ураження аеродрому \"Ахтубінськ\" у Росії та місця запуску дронів",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/15/8062953/",
@@ -2389,17 +2377,6 @@
    "x": "У ніч проти 15 листопада в Астраханській області Росії зазнав атаки військовий аеродром Ахтубінськ. На території стратегічного об'єкта пролунало щонайменше 30 вибухів із подальшою детонацією боєприпасів.",
    "i": "https://24tv.ua/resources/photos/news/202611/3180741.jpg?v=1794733055000&q=100",
    "d": "2026-11-15T09:11:00+00:00",
-   "c": [
-    "vazhlyve"
-   ]
-  },
-  {
-   "t": "Росіяни атакували Чорноморськ: шестеро постраждалих, пошкоджена енергетика",
-   "s": "Українська правда",
-   "u": "https://www.pravda.com.ua/news/2026/11/15/8062931/",
-   "x": "Унаслідок удару по Чорноморську 15 листопада пошкоджені енергетичні об'єкти та житлові будинки, постраждали шестеро людей. Роботу проводить МВС України.",
-   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/5/957205/6532a1fbc8a922335cc8a600ab43afa3.jpeg",
-   "d": "2026-11-15T08:10:00+00:00",
    "c": [
     "vazhlyve"
    ]
