@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T20:01:11+00:00",
+ "updated": "2026-11-16T20:10:42+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -183,31 +183,6 @@
    "d": "2026-11-16T19:15:00+00:00"
   },
   {
-   "t": "Зеленський попередив, що Росія готує новий ракетний удар",
-   "u": "https://www.pravda.com.ua/news/2026/11/16/8063158/",
-   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/9/958167/99c76fc803b0a436492ea4e9a656ca1a.jpeg",
-   "n": 4,
-   "l": [
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/16/8063158/"
-    },
-    {
-     "s": "Інтерфакс-Україна",
-     "u": "https://interfax.com.ua/news/general/1237399.html"
-    },
-    {
-     "s": "Суспільне",
-     "u": "https://suspilne.media/1453807-zelenskij-poperediv-pro-zagrozu-novogo-udaru-rf/"
-    },
-    {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/zelenskiy-poperediv-pro-zagrozu-novogo-raketnogo-udaru-po-ukrayini_n3181680"
-    }
-   ],
-   "d": "2026-11-16T18:18:00+00:00"
-  },
-  {
    "t": "У Кремлі погодились із Трампом: кажуть, що РФ могла б діяти жорсткіше в Україні",
    "u": "https://www.pravda.com.ua/news/2026/11/16/8063174/",
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/7/958212/f74c4915107406fb25d9c1200877d58b.jpeg",
@@ -250,6 +225,61 @@
    "d": "2026-11-16T19:16:00+00:00"
   },
   {
+   "t": "Зеленський попередив, що Росія готує новий ракетний удар",
+   "u": "https://www.pravda.com.ua/news/2026/11/16/8063158/",
+   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/9/958167/99c76fc803b0a436492ea4e9a656ca1a.jpeg",
+   "n": 3,
+   "l": [
+    {
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/16/8063158/"
+    },
+    {
+     "s": "Інтерфакс-Україна",
+     "u": "https://interfax.com.ua/news/general/1237399.html"
+    },
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/zelenskiy-poperediv-pro-zagrozu-novogo-raketnogo-udaru-po-ukrayini_n3181680"
+    }
+   ],
+   "d": "2026-11-16T18:18:00+00:00"
+  },
+  {
+   "t": "У США у найбільших банках стався масштабний збій",
+   "u": "https://suspilne.media/1453828-u-ssa-u-najbilsih-bankah-stavsa-masstabnij-zbij/",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "n": 2,
+   "l": [
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/1453828-u-ssa-u-najbilsih-bankah-stavsa-masstabnij-zbij/"
+    },
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/economy/masshtabniy-zbiy-bankah-ssha-zablokovano-rahunki-chase-bofa-wells_n3181709"
+    }
+   ],
+   "d": "2026-11-16T20:02:20+00:00"
+  },
+  {
+   "t": "Погрожував масовим убивством у школі: у Варшаві ізолювали 16-річного росіянина",
+   "u": "https://24tv.ua/pogrozhuvav-masovim-ubivstvom-shkoli-varshavi-sud-izolyuvav-16_n3181729",
+   "i": "https://24tv.ua/resources/photos/news/202611/3181729.jpg?v=1794858954000&q=100",
+   "n": 2,
+   "l": [
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/pogrozhuvav-masovim-ubivstvom-shkoli-varshavi-sud-izolyuvav-16_n3181729"
+    },
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/1453803-u-polsi-zatrimali-16-ricnogo-rosianina-za-pogrozi-masovim-ubivstvom-ucnam-ta-direktoru-skoli/"
+    }
+   ],
+   "d": "2026-11-16T20:02:00+00:00"
+  },
+  {
    "t": "Українська фрідайверка Жаркова встановила світовий рекорд у зануренні з постійною вагою у моноласті",
    "u": "https://suspilne.media/sport/1453797-ukrainska-fridajverka-zarkova-vstanovila-svitovij-rekord-u-zanurenni-z-postijnou-vagou-u-monolasti/",
    "i": "https://cdn4.suspilne.media/images/default.jpg",
@@ -284,21 +314,21 @@
    "d": "2026-11-16T19:31:00+00:00"
   },
   {
-   "t": "На Миколаївщині знеструмлено 76 населених пунктів внаслідок російського удару – ОВА",
-   "u": "https://interfax.com.ua/news/general/1237416.html",
-   "i": "https://media.interfax.com.ua/media/thumbs/images/2026/07/oibir/4_nraKZXkLpf.jpg",
+   "t": "Знеструмили 76 населених пунктів: РФ атакувала енергетику Миколаївщини",
+   "u": "https://suspilne.media/mykolaiv/1453817-znestrumili-76-naselenih-punktiv-rf-atakuvala-energetiku-mikolaivsini/",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
    "n": 2,
    "l": [
     {
-     "s": "Інтерфакс-Україна",
-     "u": "https://interfax.com.ua/news/general/1237416.html"
-    },
-    {
      "s": "Суспільне",
      "u": "https://suspilne.media/mykolaiv/1453817-znestrumili-76-naselenih-punktiv-rf-atakuvala-energetiku-mikolaivsini/"
+    },
+    {
+     "s": "Інтерфакс-Україна",
+     "u": "https://interfax.com.ua/news/general/1237416.html"
     }
    ],
-   "d": "2026-11-16T18:41:04+00:00"
+   "d": "2026-11-16T19:00:43+00:00"
   },
   {
    "t": "Каллас: ЄС може отримати списки росіян, які воювали проти України, для заборони в’їзду",
@@ -316,43 +346,119 @@
     }
    ],
    "d": "2026-11-16T18:38:00+00:00"
-  },
-  {
-   "t": "Президента Києво-Могилянки В’ячеслава Брюховецького посмертно нагородили орденом Свободи",
-   "u": "https://life.pravda.com.ua/society/v-yacheslava-bryuhoveckogo-posmertno-nagorodili-ordenom-svobodi-319108/",
-   "i": "https://imglife.pravda.com.ua/life/images/doc/3/2/149928/328a6f053d359c2da2aaff0491512402.jpeg?w=390&q=90&f=jpeg",
-   "n": 2,
-   "l": [
-    {
-     "s": "Українська правда. Життя",
-     "u": "https://life.pravda.com.ua/society/v-yacheslava-bryuhoveckogo-posmertno-nagorodili-ordenom-svobodi-319108/"
-    },
-    {
-     "s": "Інтерфакс-Україна",
-     "u": "https://interfax.com.ua/news/general/1237392.html"
-    }
-   ],
-   "d": "2026-11-16T17:50:00+00:00"
-  },
-  {
-   "t": "Зеленський назвав пріоритети України перед новим «Рамштайном»",
-   "u": "https://zn.ua/ukr/POLITICS/zelenskij-nazvav-prioriteti-ukrajini-pered-novim-ramshtajnom.html",
-   "i": "https://zn.ua/img/article/7041/92_main.webp",
-   "n": 2,
-   "l": [
-    {
-     "s": "ZN.UA",
-     "u": "https://zn.ua/ukr/POLITICS/zelenskij-nazvav-prioriteti-ukrajini-pered-novim-ramshtajnom.html"
-    },
-    {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/prioriteti-ukrayini-ramshtayni-zelenskiy-nazvav-potrebi-ppo-anonsuvav_n3181502"
-    }
-   ],
-   "d": "2026-11-16T15:06:00+00:00"
   }
  ],
  "items": [
+  {
+   "t": "Пасажири часто ігнорують це правило в літаку: які речі не можна класти біля аварійного виходу",
+   "s": "24 Канал",
+   "u": "https://travel.24tv.ua/shho-zaboroneno-zalishati-bilya-avariynogo-vihodu-litaka-chomu_n3181535",
+   "x": "Пасажири іноді сприймають прохання бортпровідників як зайві причіпки, особливо коли йдеться про особисті речі. Однак деякі правила на борту не мають винятків, навіть якщо людина не бачить у них особливого сенсу.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3181535.jpg?v=1794842202000&q=100",
+   "d": "2026-11-16T20:10:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Загиблі та поранені через атаки РФ, зміни в русі транспорту. Головні новини Дніпра та області 16 листопада",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/dnipro/1453430-golovni-novini-dnipra-ta-oblasti-16-listopada-2/",
+   "x": "Оперативні новини Дніпра та Дніпропетровської області за 16 листопада 2026 року читайте в хроніці подій від редакції Суспільне Дніпро",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-16T20:09:46+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "dnipro"
+   ]
+  },
+  {
+   "t": "Втрати Волині: підтвердили загибель Василя Петрова і Олександра Мартиша",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/lutsk/1453482-vtrati-volini-pidtverdili-zagibel-vasila-petrova-i-oleksandra-martisa/",
+   "x": "У боях з окупантами на Донеччині загинули ще двоє захисників з Волинської області: 57-річний Олександр Мартиш і 26-річний Василь Петров",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-16T20:07:53+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "volyn"
+   ]
+  },
+  {
+   "t": "Росія продовжує тероризувати Україну: де зараз летять БпЛА",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/ataka-po-ukrayini-16-listopada-kudi-letyat-droni-chomu-trivoga_n3180971",
+   "x": "Російські війська знову запускають по Україні різні повітряні цілі, зокрема ударні безпілотники. Через загрозу атаки у низці областей оголосили повітряну тривогу.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3180971.jpg?v=1794771610000&q=100",
+   "d": "2026-11-16T20:03:00+00:00",
+   "c": [
+    "holovne",
+    "viyna"
+   ]
+  },
+  {
+   "t": "У США у найбільших банках стався масштабний збій",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1453828-u-ssa-u-najbilsih-bankah-stavsa-masstabnij-zbij/",
+   "x": "Користувачі найбільших банків США Chase, Bank of America, Wells Fargo, U.S. Bank, JP Morgan та платіжного сервісу Zelle 16 листопада повідомили про збої в роботі банківських сервісів",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-16T20:02:20+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Погрожував масовим убивством у школі: у Варшаві ізолювали 16-річного росіянина",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/pogrozhuvav-masovim-ubivstvom-shkoli-varshavi-sud-izolyuvav-16_n3181729",
+   "x": "У варшавському районі Урсинув поліцейські затримали 16-річного громадянина Росії безпосередньо в приміщенні школи. Суд у справах сім'ї ізолював підлітка через погрози розправитися з учнями та дирекцією закладу.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3181729.jpg?v=1794858954000&q=100",
+   "d": "2026-11-16T20:02:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Навіть найзатятіші циніки розтануть: 5 фільмів для вечора, коли бракує романтики",
+   "s": "24 Канал",
+   "u": "https://kino.24tv.ua/filmi-pro-kohannya-vid-yakih-stane-teplishe-dushi_n3181378",
+   "x": "Поки довкола світ сходить з розуму – дуже важливо не втрачати такого особливого відчуття. Відчуття кохання, затишку та любові.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3181378.jpg?v=1794834244000&q=100",
+   "d": "2026-11-16T20:02:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Дві українки увійшли до топ-8 найтитулованіших тенісисток сезону",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sport/1453775-dvi-ukrainki-uvijsli-do-top-8-najtitulovanisih-tenisistok-sezonu/",
+   "x": "Еліна Світоліна та Марта Костюк: дві українські тенісистки в топ-8 найтитулованіших спортсменок сезону, скільки трофеїв в українок",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-16T20:01:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "⚡️ЗАГОРОДНІЙ: Кримський МІСТ У ЦІ ГОДИНИ! Рух ПЕРЕКРИТО, пошкоджено конструкцію. Екстрена заява з РФ",
+   "s": "24 Канал · відео",
+   "u": "https://www.youtube.com/watch?v=KQ-_FrYvo9E",
+   "x": "Ведучий 24 Каналу Ігор Гаврищак ‪@IhorHavryshchak та політтехнолог Тарас Загородній ‪ @ZahorodniyT обговорять ключові події. Зокрема, Кримський міст атакували українські дрони: рух автомобілів перекривали майже на 17…",
+   "i": "https://i4.ytimg.com/vi/KQ-_FrYvo9E/hqdefault.jpg",
+   "d": "2026-11-16T20:00:22+00:00",
+   "c": [
+    "video"
+   ],
+   "v": 1,
+   "r": [
+    "crimea"
+   ]
+  },
   {
    "t": "Чи дадуть єОселю без офіційної роботи: що потрібно знати перед поданням заявки",
    "s": "24 Канал",
@@ -566,20 +672,6 @@
    ]
   },
   {
-   "t": "На Тернопільщині 17 листопада прогнозують дощі й до 11 градусів тепла",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/ternopil/1368532-na-ternopilsini-17-listopada-prognozuut-dosi-j-do-11-gradusiv-tepla/",
-   "x": "На Тернопільщині у вівторок, 17 листопада, буде хмарно з проясненнями. Вночі очікують дощі, вдень — невеликі опади. Вночі та вранці можливий слабкий туман",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-16T19:37:00+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "ternopil"
-   ]
-  },
-  {
    "t": "Таємні ротації щонайменше з літа: французькі бійці діють в Україні в межах місії \"Воля\", – ЗМІ",
    "s": "24 Канал",
    "u": "https://24tv.ua/frantsuzki-viyskovi-tayemno-perebuvayut-ukrayini-detali-misiyi_n3181715",
@@ -589,20 +681,6 @@
    "c": [
     "holovne",
     "viyna"
-   ]
-  },
-  {
-   "t": "Синоптики прогнозують дощ 17 листопада на Херсонщині",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/kherson/1453786-sinoptiki-prognozuut-dos-17-listopada-na-hersonsini/",
-   "x": "За прогнозами обласного гідрометцентру, на Херсонщині 17 листопада буде хмарна з проясненнями погода. Вдень пройде дощ, вночі опадів не передбачається",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-16T19:35:27+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "kherson"
    ]
   },
   {
@@ -800,6 +878,7 @@
    "t": "Сибіга анонсував зустріч Зеленського та Мадяра до кінця листопада",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/UKRAINE/sibiha-anonsuvav-zustrich-zelenskoho-ta-madjara-do-kintsja-listopada.html",
+   "x": "Кілька днів тому Зеленський та Мадяр мали коротку розмову у Дубліні.",
    "i": "https://zn.ua/img/article/7042/16_main.webp",
    "d": "2026-11-16T19:16:00+00:00",
    "c": [
@@ -1058,6 +1137,20 @@
    ]
   },
   {
+   "t": "Знеструмили 76 населених пунктів: РФ атакувала енергетику Миколаївщини",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/mykolaiv/1453817-znestrumili-76-naselenih-punktiv-rf-atakuvala-energetiku-mikolaivsini/",
+   "x": "Знеструмили 76 населених пунктів Первомайського району: армія РФ атакувала енергетику Миколаївщини ввечері 16 листопада. Російська армія вдарила БпЛА типу «Shahed-238»",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-16T19:00:43+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "mykolaiv"
+   ]
+  },
+  {
    "t": "Розслідування про сімʼю Вікарій, де майже всі брати служать у війську",
    "s": "Суспільне Новини · відео",
    "u": "https://www.youtube.com/shorts/GN8Mduo6VnI",
@@ -1082,7 +1175,7 @@
    "v": 1
   },
   {
-   "t": "🔥ЯКОВЕНКО: СРАЗУ ПОСЛЕ УДАРА по Крымскому мосту! Симоньян ПОРВАЛО в эфире. У Соловьёва ПРИПАДОК",
+   "t": "🔥ЯКОВЕНКО: АТАКА на Крымский мост ПЕРЕВЕРНУЛА ВСЁ! У Соловьёва ЛЮТАЯ ИСТЕРИКА. Симоньян ПОНЕСЛО",
    "s": "24 Канал · відео",
    "u": "https://www.youtube.com/watch?v=MPYTi3X95eU",
    "x": "Ведущая 24 Канала Катерина Соляр @soliarqueen вместе с журналистом Игорем Яковенко @IgorYakovenko обсудили важные новости. ВСУ нанесли удар по Крымскому мосту. Почему заявления пропагандистов становятся всё более…",
@@ -1356,6 +1449,21 @@
    "v": 1
   },
   {
+   "t": "Загинув на Донеччині: у Кіровоградській області попрощалися з військовим Анатолієм Сметенком",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/kropyvnytskiy/1453653-zaginuv-na-doneccini-u-kirovogradskij-oblasti-poprosalisa-z-vijskovim-anatoliem-smetenkom/",
+   "x": "16 листопада у місті Олександрія Кіровоградської області попрощалися із захисником Анатолієм Сметенком. Боєць загинув у віці 47 років на Донеччині",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-16T18:45:02+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "donetsk",
+    "kirovohrad"
+   ]
+  },
+  {
    "t": "Гірлянди з лаврового листя в курнику: навіщо їх вішають і чи є від цього користь",
    "s": "24 Канал",
    "u": "https://24tv.ua/lifehacks24/lavroviy-list-vid-mishey-shhuriv-navishho-yogo-vishayut-kurniku_n3181611",
@@ -1461,6 +1569,20 @@
    ],
    "r": [
     "volyn"
+   ]
+  },
+  {
+   "t": "Кількість евакуйованих з Донеччини зменшилася: скількох людей вивезли за 9 – 15 листопада",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/donbas/1453499-kilkist-evakujovanih-z-doneccini-zmensilasa-skilkoh-ludej-vivezli-za-9-15-listopada/",
+   "x": "За тиждень з 9 по 15 листопада з Донецької області евакуювали 3 284 жителів, зокрема 265 дітей. Детальна статистика по днях та контакти для виїзду.",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-16T18:35:00+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "donetsk"
    ]
   },
   {
@@ -1714,6 +1836,20 @@
    "v": 1
   },
   {
+   "t": "Харківщина отримала понад 64,5 т енергетичного обладнання з Латвії",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/kharkiv/1453806-harkivsina-otrimala-ponad-645-t-energeticnogo-obladnanna-z-latvii/",
+   "x": "Харківська область отримала понад 64,5 тонни обладнання з виведених з експлуатації латвійських станцій. Устаткування допоможе посилити надійність тепло- та електропостачання",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-16T18:09:30+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kharkiv"
+   ]
+  },
+  {
    "t": "Яка ситуація в Костянтинівці та чому загострилася ситуація на цій ділянці фронту (відео)",
    "s": "Суспільне",
    "u": "https://suspilne.media/donbas/1453675-aka-situacia-v-kostantinivci-ta-comu-zagostrilasa-situacia-na-cij-dilanci-frontu-video/",
@@ -1753,17 +1889,6 @@
    ]
   },
   {
-   "t": "Зеленський попередив про загрозу нового удару РФ",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1453807-zelenskij-poperediv-pro-zagrozu-novogo-udaru-rf/",
-   "x": "Росія підготувалася до нового удару, заявив президент Зеленський у вечірньому зверненні. Він закликав зважати на сигнали ракетної небезпеки сьогодні ввечері, вночі та протягом 17 листопада",
-   "i": "https://cdn4.suspilne.media/images/23dca5c79aa74f93.jpg",
-   "d": "2026-11-16T18:05:56+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "\"Курчат рахують восени\": що означає фразеологізм, який може трапитися на НМТ",
    "s": "24 Канал",
    "u": "https://24tv.ua/education/kurchat-rahuyut-voseni-shho-oznachaye-visliv-zvidki-pohodit-yak_n3181570",
@@ -1772,48 +1897,6 @@
    "d": "2026-11-16T18:05:00+00:00",
    "c": [
     "holovne"
-   ]
-  },
-  {
-   "t": "У Києві встановили третє мобільне укриття біля зупинки громадського транспорту",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/kyiv/1453802-u-kievi-vstanovili-trete-mobilne-ukritta-bila-zupinki-gromadskogo-transportu/",
-   "x": "Укриття виготовлене із залізобетонних конструкцій. Площа основного приміщення становить не менше 30 квадратних метрів із розрахунку 0,6 кв. м на одну людину. Загальна місткість — понад 50 осіб",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-16T18:03:41+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "kyiv"
-   ]
-  },
-  {
-   "t": "Стало відомо про загибель військового з Херсонщини Дмитра Лапушки",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/kherson/1453799-stalo-vidomo-pro-zagibel-vijskovogo-z-hersonsini-dmitra-lapuski/",
-   "x": "Рідні військовослужбовця з Херсонщини Дмитра Лапушки отримали офіційне підтвердження його загибелі. Він поліг 8 листопада 2025 року, виконуючи бойове завдання поблизу Юнаківки Сумської області",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-16T18:03:14+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "kherson"
-   ]
-  },
-  {
-   "t": "Від 15 років позбавлення волі до довічного ув'язнення: у Черкасах судять підозрюваного у державній зраді",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/cherkasy/1453755-vid-15-rokiv-pozbavlenna-voli-do-dovicnogo-uvaznenna-u-cerkasah-sudat-pidozruvanogo-u-derzavnij-zradi/",
-   "x": "19-річного хлопця підозрюють у збиранні упродовж серпня 2025 — травня 2026-го та передачі інформації спецслужбам РФпро розташування військових підрозділів і об'єктів критичної інфраструктури у низці областей України",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-16T18:03:00+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "cherkasy"
    ]
   },
   {
@@ -2006,28 +2089,6 @@
    ]
   },
   {
-   "t": "Скандальні заяви ексгенпрокурора Кравченка: у ЦПК пояснили справжню мету",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/zvinuvachennya-kravchenka-proti-nabu-tsentri-protidiyi-koruptsiyi_n3181616",
-   "x": "Колишній генпрокурор Руслан Кравченко виступив із гучними звинуваченнями у бік детективів НАБУ та прокурорів САП. Публічні закиди пролунали на тлі розслідування справи \"Карфаген\", привернувши увагу суспільства.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3181616.jpg?v=1794850983000&q=100",
-   "d": "2026-11-16T17:54:23+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
-   "t": "Чому ви досі живі?, – Стас Шурінс розкрив складний діагноз дружини та розповів про її лікування",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/show24/stas-shurins-rozpoviv-pro-rak-druzhini-pereyizd-do-nimechchini_n3181667",
-   "x": "Переможець української \"Фабрики зірок\" Стас Шурінс уперше відверто розповів про тяжку хворобу дружини Віолетти.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3181667.jpg?v=1794851288000&q=100",
-   "d": "2026-11-16T17:53:00+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "Сибіга анонсував зустріч Зеленського та Мадяра: коли вона може відбутися",
    "s": "24 Канал",
    "u": "https://24tv.ua/zustrich-zelenskogo-madyara-koli-vidbudetsya_n3181662",
@@ -2035,7 +2096,6 @@
    "i": "https://24tv.ua/resources/photos/news/202611/3181662.jpg?v=1794850943000&q=100",
    "d": "2026-11-16T17:50:53+00:00",
    "c": [
-    "holovne",
     "viyna"
    ]
   },
@@ -2074,7 +2134,6 @@
    "i": "https://24tv.ua/resources/photos/news/202611/3181658.jpg?v=1794850655000&q=100",
    "d": "2026-11-16T17:42:00+00:00",
    "c": [
-    "holovne",
     "viyna"
    ]
   },
@@ -2102,6 +2161,20 @@
    "v": 1
   },
   {
+   "t": "На Тернопільщині 17 листопада прогнозують дощі й до 11 градусів тепла",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/ternopil/1368532-na-ternopilsini-17-listopada-prognozuut-dosi-j-do-11-gradusiv-tepla/",
+   "x": "На Тернопільщині у вівторок, 17 листопада, буде хмарно з проясненнями. Вночі очікують дощі, вдень — невеликі опади. Вночі та вранці можливий слабкий туман",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-16T17:37:00+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "ternopil"
+   ]
+  },
+  {
    "t": "Це була велика пауза: Харлан оголосила про повернення у фехтування",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/16/8063153/",
@@ -2123,6 +2196,20 @@
    ],
    "r": [
     "kyivska"
+   ]
+  },
+  {
+   "t": "Синоптики прогнозують дощ 17 листопада на Херсонщині",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/kherson/1453786-sinoptiki-prognozuut-dos-17-listopada-na-hersonsini/",
+   "x": "За прогнозами обласного гідрометцентру, на Херсонщині 17 листопада буде хмарна з проясненнями погода. Вдень пройде дощ, вночі опадів не передбачається",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-16T17:35:27+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kherson"
    ]
   },
   {
@@ -2163,18 +2250,6 @@
    "r": [
     "kyivska"
    ]
-  },
-  {
-   "t": "😮Лучше сядьте! Путин выдвинул НОВЫЙ УЛЬТИМАТУМ – вот ЭТО ПОВОРОТ. Сенсационная УТЕЧКА. ФЕЙГИН",
-   "s": "24 Канал · відео",
-   "u": "https://www.youtube.com/watch?v=mR6pnX_oVjM",
-   "x": "На совместном стриме публицист Марк Фейгин @FeyginLive вместе с военный экспертом Юрием Федоровым @fedorovexpert обсудили самые главные новости вокруг войны в Украине и на международной арене по состоянию на 16 ноября…",
-   "i": "https://i2.ytimg.com/vi/mR6pnX_oVjM/hqdefault.jpg",
-   "d": "2026-11-16T17:30:57+00:00",
-   "c": [
-    "video"
-   ],
-   "v": 1
   },
   {
    "t": "ШОК😱Мати ПОМЕPЛА, батька ПОЗБАВИЛИ ПРАВ, квартира ГОРІЛА💥Історія братів: проєкт відновлення житла",
@@ -2349,20 +2424,6 @@
    ]
   },
   {
-   "t": "Знеструмили 76 населених пунктів: РФ атакувала енергетику Миколаївщини",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/mykolaiv/1453817-znestrumili-76-naselenih-punktiv-rf-atakuvala-energetiku-mikolaivsini/",
-   "x": "Знеструмили 76 населених пунктів Первомайського району: армія РФ атакувала енергетику Миколаївщини ввечері 16 листопада. Російська армія вдарила БпЛА типу «Shahed-238»",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-16T17:00:43+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "mykolaiv"
-   ]
-  },
-  {
    "t": "⚡️ ПУТІН ІДЕ НА ПОСТУПКИ щодо України!👀Трамп ПРИГОЛОМШИВ заявою💥| Час новин 16.11.2026",
    "s": "5 канал · відео",
    "u": "https://www.youtube.com/watch?v=zASIJp_D6Rg",
@@ -2477,21 +2538,6 @@
    ]
   },
   {
-   "t": "Загинув на Донеччині: у Кіровоградській області попрощалися з військовим Анатолієм Сметенком",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/kropyvnytskiy/1453653-zaginuv-na-doneccini-u-kirovogradskij-oblasti-poprosalisa-z-vijskovim-anatoliem-smetenkom/",
-   "x": "16 листопада у місті Олександрія Кіровоградської області попрощалися із захисником Анатолієм Сметенком. Боєць загинув у віці 47 років на Донеччині",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-16T16:45:02+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "donetsk",
-    "kirovohrad"
-   ]
-  },
-  {
    "t": "Від закупівель до найвищих кабінетів: як США описали корупцію в Україні",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/anticorruption/vid-zakupivel-do-najvishchikh-kabinetiv-jak-ssha-opisali-koruptsiju-v-ukrajini.html",
@@ -2514,31 +2560,6 @@
    ],
    "r": [
     "crimea"
-   ]
-  },
-  {
-   "t": "Кількість евакуйованих з Донеччини зменшилася: скількох людей вивезли за 9 – 15 листопада",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/donbas/1453499-kilkist-evakujovanih-z-doneccini-zmensilasa-skilkoh-ludej-vivezli-za-9-15-listopada/",
-   "x": "За тиждень з 9 по 15 листопада з Донецької області евакуювали 3 284 жителів, зокрема 265 дітей. Детальна статистика по днях та контакти для виїзду.",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-16T16:35:00+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "donetsk"
-   ]
-  },
-  {
-   "t": "БпЛА атакують Україну: де є загроза",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/ataka-po-ukrayini-16-listopada-kudi-letyat-droni-chomu-trivoga_n3180971",
-   "x": "Російські війська знову запускають по Україні різні повітряні цілі, зокрема ударні безпілотники. Через загрозу атаки у низці областей оголосили повітряну тривогу.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3180971.jpg?v=1794771610000&q=100",
-   "d": "2026-11-16T16:35:00+00:00",
-   "c": [
-    "viyna"
    ]
   },
   {
@@ -2655,20 +2676,6 @@
    "d": "2026-11-16T16:10:00+00:00",
    "c": [
     "holovne"
-   ]
-  },
-  {
-   "t": "Харківщина отримала понад 64,5 т енергетичного обладнання з Латвії",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/kharkiv/1453806-harkivsina-otrimala-ponad-645-t-energeticnogo-obladnanna-z-latvii/",
-   "x": "Харківська область отримала понад 64,5 тонни обладнання з виведених з експлуатації латвійських станцій. Устаткування допоможе посилити надійність тепло- та електропостачання",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-16T16:09:30+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "kharkiv"
    ]
   },
   {
