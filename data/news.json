@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T05:10:42+00:00",
+ "updated": "2026-11-16T05:21:33+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -278,16 +278,150 @@
     }
    ],
    "d": "2026-11-15T22:35:10+00:00"
+  },
+  {
+   "t": "На сьогодні ми зупинили більше 55% російських нафтопереробних спроможностей — Зеленський",
+   "u": "https://suspilne.media/1453378-na-sogodni-mi-zupinili-bilse-55-rosijskih-naftopererobnih-spromoznostej-zelenskij/",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "n": 3,
+   "l": [
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/1453378-na-sogodni-mi-zupinili-bilse-55-rosijskih-naftopererobnih-spromoznostej-zelenskij/"
+    },
+    {
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/15/8062991/"
+    },
+    {
+     "s": "Інтерфакс-Україна",
+     "u": "https://interfax.com.ua/news/general/1236783.html"
+    }
+   ],
+   "d": "2026-11-15T20:54:25+00:00"
+  },
+  {
+   "t": "В Азові після атаки горить нафтобаза",
+   "u": "https://24tv.ua/pozhezha-azovi-16-listopada-misti-palaye-naftobaza_n3181027",
+   "i": "https://24tv.ua/resources/photos/news/202611/3181027.jpg?v=1794804860000&q=100",
+   "n": 2,
+   "l": [
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/pozhezha-azovi-16-listopada-misti-palaye-naftobaza_n3181027"
+    },
+    {
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/16/8063014/"
+    }
+   ],
+   "d": "2026-11-16T05:14:57+00:00"
+  },
+  {
+   "t": "У Пекіні підтвердили дату і місце зустрічі Сі, Трампа і Путіна",
+   "u": "https://24tv.ua/zustrich-si-putina-trampa-kitayi-pidtverdili-datu-mistse-zustrichi_n3181029",
+   "i": "https://24tv.ua/resources/photos/news/202611/3181029.jpg?v=1794805582000&q=100",
+   "n": 2,
+   "l": [
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/zustrich-si-putina-trampa-kitayi-pidtverdili-datu-mistse-zustrichi_n3181029"
+    },
+    {
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/16/8063010/"
+    }
+   ],
+   "d": "2026-11-16T05:06:00+00:00"
+  },
+  {
+   "t": "16 листопада: Яке сьогодні свято, все про цей день",
+   "u": "https://interfax.com.ua/news/general/1236801.html",
+   "i": "https://media.interfax.com.ua/media/thumbs/images/2022/09/wrxCtLOC8zQw.jpg",
+   "n": 2,
+   "l": [
+    {
+     "s": "Інтерфакс-Україна",
+     "u": "https://interfax.com.ua/news/general/1236801.html"
+    },
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/traditions24/svyato-16-listopada-yake-sogodni-tserkovne-svyato-kogo-den-angela_n3180316"
+    }
+   ],
+   "d": "2026-11-16T05:00:39+00:00"
   }
  ],
  "items": [
   {
-   "t": "У Пекіні зробили заяву щодо саміту Сі, Трампа і Путіна",
+   "t": "Через планові роботи у Дніпрі, Жовтих Водах та Павлограді 16 листопада не буде світла: адреси",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/dnipro/1453308-cerez-planovi-roboti-u-dnipri-zovtih-vodah-ta-pavlogradi-16-listopada-ne-bude-svitla-adresi/",
+   "x": "У Дніпрі, Павлограді та Жовтих Водах через планові ремонтні роботи 16 листопада тимчасово припинять подачу електроенергії на кількох вулицях",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-16T05:19:22+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "dnipro"
+   ]
+  },
+  {
+   "t": "Унаслідок атаки FPV-дрона на Запоріжжі загинув чоловік",
+   "s": "Інтерфакс-Україна",
+   "u": "https://interfax.com.ua/news/general/1236803.html",
+   "x": "У селі Біленьке Запорізької області внаслідок удару російського FPV-дрона загинув 59-річний чоловік, повідомив начальник Запорізької ОВА Михайло Семікін.",
+   "i": "https://media.interfax.com.ua/media/thumbs/images/2026/09/gvlei/4iqnBLk30PC5.jpg",
+   "d": "2026-11-16T05:18:30+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "zaporizhzhia"
+   ]
+  },
+  {
+   "t": "РФ готує нові удари, Україна домовляється з ЄС про екстрений зимовий пакет допомоги. 1727 день війни",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1453384-rf-gotue-novi-udari-ukraina-domovlaetsa-z-es-pro-ekstrenij-zimovij-paket-dopomogi-1727-den-vijni/",
+   "x": "Зеленський заявив, що балістична загроза від РФ залишається серйозною. Корецький домовляється з ЄС про екстрений пакет допомоги на зиму — 15 листопада, 1727 день війни",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-16T05:17:03+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "В Азові після атаки горить нафтобаза",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/pozhezha-azovi-16-listopada-misti-palaye-naftobaza_n3181027",
+   "x": "У понеділок, 16 листопада, у Ростовській області сталась пожежа. В результаті атаки загорілась нафтобаза у місті Азов.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3181027.jpg?v=1794804860000&q=100",
+   "d": "2026-11-16T05:14:57+00:00",
+   "c": [
+    "holovne",
+    "viyna"
+   ]
+  },
+  {
+   "t": "Світоліна заробила одні з найбільших призових у кар’єрі на Підсумковому турнірі WTA",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/SPORT/svitolina-zarobila-odni-z-najbilshikh-prizovikh-u-svojij-karjeri-na-pidsumkovomu-turniri-wta.html",
+   "x": "Українка вийшла до фіналу.",
+   "i": "https://zn.ua/img/article/7040/52_main.webp",
+   "d": "2026-11-16T05:10:00+00:00",
+   "c": [
+    "statti"
+   ]
+  },
+  {
+   "t": "У Пекіні підтвердили дату і місце зустрічі Сі, Трампа і Путіна",
    "s": "24 Канал",
    "u": "https://24tv.ua/zustrich-si-putina-trampa-kitayi-pidtverdili-datu-mistse-zustrichi_n3181029",
    "x": "Вже цього тижня на полях саміту АТЕС відбудеться зустріч лідерів Китаю, США та Росії. Раніше тристоронні переговори підтвердили у Кремлі.",
    "i": "https://24tv.ua/resources/photos/news/202611/3181029.jpg?v=1794805582000&q=100",
-   "d": "2026-11-16T05:06:43+00:00",
+   "d": "2026-11-16T05:06:00+00:00",
    "c": [
     "holovne",
     "viyna"
@@ -380,7 +514,7 @@
    "u": "https://24tv.ua/donetska-oblast-zsu-prosunulisya-bilya-dachnogo-karta-isw_n3181025",
    "x": "Російські війська проводять наступальнії дії на кількох напрямках. Найбільша кількість штурмів припадає на Добропільський напрямок. Водночас українські сили мають певні просування на фронті.",
    "i": "https://24tv.ua/resources/photos/news/202611/3181025.jpg?v=1794803840000&q=100",
-   "d": "2026-11-16T04:37:41+00:00",
+   "d": "2026-11-16T04:37:00+00:00",
    "c": [
     "holovne",
     "viyna"
@@ -635,6 +769,20 @@
    "d": "2026-11-16T03:14:07+00:00",
    "c": [
     "holovne"
+   ]
+  },
+  {
+   "t": "На Дніпропетровщині 16 листопада діятимуть погодинні вимкнення світла: графіки",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/dnipro/1453381-na-dnipropetrovsini-16-listopada-diatimut-pogodinni-vimknenna-svitla-grafiki/",
+   "x": "На Дніпропетровщині та у частині регіонів України 16 листопада діятимуть обмеження споживання електроенергії. Графіки для всіх категорій споживачів застосовують протягом доби. Ситуація може змінюватися",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-16T03:10:28+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "dnipro"
    ]
   },
   {
@@ -1118,17 +1266,6 @@
    ]
   },
   {
-   "t": "РФ готує нові удари, Україна домовляється з ЄС про екстрений зимовий пакет допомоги. 1727 день війни",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1453384-rf-gotue-novi-udari-ukraina-domovlaetsa-z-es-pro-ekstrenij-zimovij-paket-dopomogi-1727-den-vijni/",
-   "x": "Зеленський заявив, що балістична загроза від РФ залишається серйозною. Корецький домовляється з ЄС про екстрений пакет допомоги на зиму — 15 листопада, 1727 день війни",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-15T22:01:18+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "Україна та ЄС готують пакет екстреної зимової допомоги з генераторами, зарядними станціями й автобусами — Корецький",
    "s": "Суспільне",
    "u": "https://suspilne.media/1453389-ukraina-ta-es-gotuut-paket-ekstrenoi-zimovoi-dopomogi-z-generatorami-zaradnimi-stanciami-j-avtobusami-koreckij/",
@@ -1339,20 +1476,6 @@
    "d": "2026-11-15T21:09:37+00:00",
    "c": [
     "holovne"
-   ]
-  },
-  {
-   "t": "На Дніпропетровщині 16 листопада діятимуть погодинні вимкнення світла: графіки",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/dnipro/1453381-na-dnipropetrovsini-16-listopada-diatimut-pogodinni-vimknenna-svitla-grafiki/",
-   "x": "На Дніпропетровщині та у частині регіонів України 16 листопада діятимуть обмеження споживання електроенергії. Графіки для всіх категорій споживачів застосовують протягом доби. Ситуація може змінюватися",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-15T21:03:41+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "dnipro"
    ]
   },
   {
@@ -1619,20 +1742,6 @@
    ]
   },
   {
-   "t": "Росіяни двічі за вечір атакували Шевченківський район Харкова: пошкоджені житловий будинок і навчальний заклад",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/kharkiv/1453370-rosiani-dvici-za-vecir-atakuvali-sevcenkivskij-rajon-harkova-poskodzeni-zitlovij-budinok-i-navcalnij-zaklad/",
-   "x": "Російські дрони двічі атакували Шевченківський район Харкова увечері 15 литопада. Пошкоджені фасад багатоквартирного будинку та будівля дитячого навчального закладу",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-15T19:56:01+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "kharkiv"
-   ]
-  },
-  {
    "t": "Де і як в Україні діятимуть графіки відключень 16 листопада",
    "s": "24 Канал",
    "u": "https://24tv.ua/avariyni-vidklyuchennya-svitla-v-ukrayini-grafiki-ta-perelik-mist_n2175821",
@@ -1797,17 +1906,6 @@
    ]
   },
   {
-   "t": "Букмекери зробили прогноз на заключний матч збірної України в Лізі націй",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/SPORT/bukmekeri-opriljudnily-prognoz-shchodo-zakljuchnoho-matchu-zbirnoji-ukrajini-v-lizi-natsij.html",
-   "x": "Команда Андреа Мальдери прийматиме Грузію.",
-   "i": "https://zn.ua/img/article/7040/8_main.webp",
-   "d": "2026-11-15T19:24:00+00:00",
-   "c": [
-    "statti"
-   ]
-  },
-  {
    "t": "Зеленський: Україна зупинила понад 55% російських нафтопереробних потужностей",
    "s": "Інтерфакс-Україна",
    "u": "https://interfax.com.ua/news/general/1236783.html",
@@ -1912,7 +2010,6 @@
    "i": "https://24tv.ua/resources/photos/news/202611/3180958.jpg?v=1794769306000&q=100",
    "d": "2026-11-15T19:04:58+00:00",
    "c": [
-    "holovne",
     "sport"
    ]
   },
@@ -1937,20 +2034,6 @@
    "d": "2026-11-15T19:03:37+00:00",
    "c": [
     "holovne"
-   ]
-  },
-  {
-   "t": "Якою буде погода на Херсонщині 16 листопада",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/kherson/1453359-akou-bude-pogoda-na-hersonsini-16-listopada-3/",
-   "x": "У Херсоні та області 16 листопада 2026 року опадів не передбачається. Очікується погода з мінливою хмарністю. Вдень температура повітря буде до 10 градусів тепла",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-15T19:01:31+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "kherson"
    ]
   },
   {
@@ -2042,6 +2125,20 @@
    "d": "2026-11-15T18:00:00+00:00",
    "c": [
     "vazhlyve"
+   ]
+  },
+  {
+   "t": "Росіяни двічі за вечір атакували Шевченківський район Харкова: пошкоджені житловий будинок і навчальний заклад",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/kharkiv/1453370-rosiani-dvici-za-vecir-atakuvali-sevcenkivskij-rajon-harkova-poskodzeni-zitlovij-budinok-i-navcalnij-zaklad/",
+   "x": "Російські дрони двічі атакували Шевченківський район Харкова увечері 15 литопада. Пошкоджені фасад багатоквартирного будинку та будівля дитячого навчального закладу",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-15T17:56:01+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kharkiv"
    ]
   },
   {
@@ -2285,20 +2382,6 @@
    "d": "2026-11-15T15:51:00+00:00",
    "c": [
     "vazhlyve"
-   ]
-  },
-  {
-   "t": "Чотири людини дістали травм на Херсонщині внаслідок російських обстрілів – прокуратура",
-   "s": "Інтерфакс-Україна",
-   "u": "https://interfax.com.ua/news/general/1236748.html",
-   "x": "Двоє жителів селища Білозерка Херсонського району, а також один житель міста Херсон та один житель міста Берислав Херсонської області постраждали внаслідок російських обстрілів в неділю, повідомляється в телеграм-каналі…",
-   "i": "https://media.interfax.com.ua/media/thumbs/images/2026/07/nlwke/LT4iP1sZxQ9G.jpg",
-   "d": "2026-11-15T15:49:27+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "kherson"
    ]
   },
   {
@@ -2589,8 +2672,7 @@
    "i": "https://24tv.ua/resources/photos/news/202611/3180835.jpg?v=1794752038000&q=100",
    "d": "2026-11-15T12:07:00+00:00",
    "c": [
-    "vazhlyve",
-    "viyna"
+    "vazhlyve"
    ]
   },
   {
