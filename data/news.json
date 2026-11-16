@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T05:50:40+00:00",
+ "updated": "2026-11-16T06:01:18+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -183,25 +183,46 @@
    "d": "2026-11-16T05:36:00+00:00"
   },
   {
-   "t": "У Китаї підтвердили зустріч Трампа, Путіна та Сі Цзіньпіна цього тижня",
-   "u": "https://suspilne.media/1453406-u-kitai-pidtverdili-zustric-trampa-putina-ta-si-czinpina-cogo-tizna/",
+   "t": "Після атаки БпЛА в російському Азові сталося загорання на нафтобазі",
+   "u": "https://suspilne.media/1453410-pisla-ataki-bpla-v-rosijskomu-azovi-stalosa-zagoranna-na-naftobazi/",
    "i": "https://cdn4.suspilne.media/images/default.jpg",
    "n": 3,
    "l": [
     {
      "s": "Суспільне",
-     "u": "https://suspilne.media/1453406-u-kitai-pidtverdili-zustric-trampa-putina-ta-si-czinpina-cogo-tizna/"
+     "u": "https://suspilne.media/1453410-pisla-ataki-bpla-v-rosijskomu-azovi-stalosa-zagoranna-na-naftobazi/"
     },
     {
      "s": "24 Канал",
+     "u": "https://24tv.ua/pozhezha-azovi-16-listopada-misti-palaye-naftobaza_n3181027"
+    },
+    {
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/16/8063014/"
+    }
+   ],
+   "d": "2026-11-16T05:58:02+00:00"
+  },
+  {
+   "t": "У Пекіні підтвердили дату і місце зустрічі Сі, Трампа і Путіна",
+   "u": "https://24tv.ua/zustrich-si-putina-trampa-kitayi-pidtverdili-datu-mistse-zustrichi_n3181029",
+   "i": "https://24tv.ua/resources/photos/news/202611/3181029.jpg?v=1794805582000&q=100",
+   "n": 3,
+   "l": [
+    {
+     "s": "24 Канал",
      "u": "https://24tv.ua/zustrich-si-putina-trampa-kitayi-pidtverdili-datu-mistse-zustrichi_n3181029"
+    },
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/1453406-u-kitai-pidtverdili-zustric-trampa-putina-ta-si-czinpina-cogo-tizna/"
     },
     {
      "s": "Українська правда",
      "u": "https://www.pravda.com.ua/news/2026/11/16/8063010/"
     }
    ],
-   "d": "2026-11-16T05:21:10+00:00"
+   "d": "2026-11-16T05:06:00+00:00"
   },
   {
    "t": "Супутникові знімки показали наслідки удару по порту Усть-Луга: вигоріло щонайменше п’ять резервуарів",
@@ -223,6 +244,27 @@
     }
    ],
    "d": "2026-11-16T03:47:00+00:00"
+  },
+  {
+   "t": "«Як підліток»: що Байден написав у мемуарах про Путіна, Зеленського й Трампа",
+   "u": "https://suspilne.media/1453386-ak-pidlitok-so-bajden-napisav-u-memuarah-pro-putina-zelenskogo-j-trampa/",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "n": 3,
+   "l": [
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/1453386-ak-pidlitok-so-bajden-napisav-u-memuarah-pro-putina-zelenskogo-j-trampa/"
+    },
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/bayden-nazvav-zelenskogo-nevdyachnim-rozkritikuvav-povedinku_n3180788"
+    },
+    {
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/15/8062940/"
+    }
+   ],
+   "d": "2026-11-15T23:38:34+00:00"
   },
   {
    "t": "Українська тенісистка Світоліна програла фінал Підсумкового турніру WTA",
@@ -288,48 +330,6 @@
    "d": "2026-11-15T22:35:10+00:00"
   },
   {
-   "t": "«Як підліток»: що Байден написав у мемуарах про Путіна, Зеленського й Трампа",
-   "u": "https://suspilne.media/1453386-ak-pidlitok-so-bajden-napisav-u-memuarah-pro-putina-zelenskogo-j-trampa/",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "n": 3,
-   "l": [
-    {
-     "s": "Суспільне",
-     "u": "https://suspilne.media/1453386-ak-pidlitok-so-bajden-napisav-u-memuarah-pro-putina-zelenskogo-j-trampa/"
-    },
-    {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/bayden-nazvav-zelenskogo-nevdyachnim-rozkritikuvav-povedinku_n3180788"
-    },
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/15/8062940/"
-    }
-   ],
-   "d": "2026-11-15T21:38:34+00:00"
-  },
-  {
-   "t": "На сьогодні ми зупинили більше 55% російських нафтопереробних спроможностей — Зеленський",
-   "u": "https://suspilne.media/1453378-na-sogodni-mi-zupinili-bilse-55-rosijskih-naftopererobnih-spromoznostej-zelenskij/",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "n": 3,
-   "l": [
-    {
-     "s": "Суспільне",
-     "u": "https://suspilne.media/1453378-na-sogodni-mi-zupinili-bilse-55-rosijskih-naftopererobnih-spromoznostej-zelenskij/"
-    },
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/15/8062991/"
-    },
-    {
-     "s": "Інтерфакс-Україна",
-     "u": "https://interfax.com.ua/news/general/1236783.html"
-    }
-   ],
-   "d": "2026-11-15T20:54:25+00:00"
-  },
-  {
    "t": "Як вимикають світло на Сумщині у листопаді",
    "u": "https://suspilne.media/sumy/1442525-ak-vimikaut-svitlo-na-sumsini-u-listopadi/",
    "i": "https://cdn4.suspilne.media/images/default.jpg",
@@ -347,28 +347,86 @@
    "d": "2026-11-16T05:27:56+00:00"
   },
   {
-   "t": "В Азові після атаки горить нафтобаза",
-   "u": "https://24tv.ua/pozhezha-azovi-16-listopada-misti-palaye-naftobaza_n3181027",
-   "i": "https://24tv.ua/resources/photos/news/202611/3181027.jpg?v=1794804860000&q=100",
+   "t": "16 листопада: Яке сьогодні свято, все про цей день",
+   "u": "https://interfax.com.ua/news/general/1236801.html",
+   "i": "https://media.interfax.com.ua/media/thumbs/images/2022/09/wrxCtLOC8zQw.jpg",
    "n": 2,
    "l": [
     {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/pozhezha-azovi-16-listopada-misti-palaye-naftobaza_n3181027"
+     "s": "Інтерфакс-Україна",
+     "u": "https://interfax.com.ua/news/general/1236801.html"
     },
     {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/16/8063014/"
+     "s": "24 Канал",
+     "u": "https://24tv.ua/traditions24/svyato-16-listopada-yake-sogodni-tserkovne-svyato-kogo-den-angela_n3180316"
     }
    ],
-   "d": "2026-11-16T05:14:00+00:00"
+   "d": "2026-11-16T05:00:39+00:00"
   }
  ],
  "items": [
   {
-   "t": "Війська РФ вдарили безпілотниками по Дніпру та громадах області: двоє поранених, пошкоджені будинки й інфраструктура",
+   "t": "Тепліше за норму, але ледь не щодня з дощами: якою буде погода в Україні цього тижня",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/prognoz-pogodi-ukrayini-de-tsogo-tizhnya-budut-doshhi-moroz-mokriy_n3180948",
+   "x": "Погода в Україні цього тижня очікується нестійкою та дощовою. У деяких регіонах опади будуть значними. Водночас температура повітря буде вищою за кліматичну норму.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3180948.jpg?v=1794766663000&q=100",
+   "d": "2026-11-16T06:00:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Після атаки БпЛА в російському Азові сталося загорання на нафтобазі",
    "s": "Суспільне",
-   "u": "https://suspilne.media/dnipro/1453412-vijska-rf-vdarili-bezpilotnikami-po-dnipru-ta-gromadah-oblasti-dvoe-poranenih-poskodzeni-budinki-j-infrastruktura/",
+   "u": "https://suspilne.media/1453410-pisla-ataki-bpla-v-rosijskomu-azovi-stalosa-zagoranna-na-naftobazi/",
+   "x": "Про небезпеку від безпілотників у регіоні офіційно оголосили близько опівночі. Незабаром на місцевих майданчиках у соцмережах почала з'являтися інформація про наслідки на землі від атаки",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-16T05:58:02+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "США не просто припинили допомагати Україні, а й фактично погіршують її становище — оточення Макрона",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/WORLD/ssha-ne-prosto-pripinili-dopomahati-ukrajini-a-j-faktichno-pohirshujut-jiji-stanovishche-otochennja-makrona.html",
+   "x": "В оточенні французького президента наголосили, що Париж і надалі підтримуватиме Київ.",
+   "i": "https://zn.ua/img/article/7041/22_main.webp",
+   "d": "2026-11-16T05:55:00+00:00",
+   "c": [
+    "statti"
+   ],
+   "r": [
+    "kyiv"
+   ]
+  },
+  {
+   "t": "Трамп розповів, хто винен у масштабному збої авіасполучення в США",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/aviakolaps-ssha-tramp-zvinuvativ-baydena_n3181033",
+   "x": "У п'ятницю, 13 листопада, у Сполучених Штатах Америки стався авіаколапс, через що тисячі літаків скасували та затримали. Президент США Дональд Трамп знайшов винного у ситуації.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3181033.jpg?v=1794807219000&q=100",
+   "d": "2026-11-16T05:51:49+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Сибіга заявив, що РФ вимогами до НАТО повторює ультиматум перед вторгненням у Грузію і Україну",
+   "s": "Українська правда",
+   "u": "https://www.pravda.com.ua/news/2026/11/16/8063023/",
+   "x": "Міністр Сибіга заявив, що нові вимоги Росії до європейської безпеки повторюють позицію Кремля, яка передувала війнам у Грузії та Україні.",
+   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/7/957696/373d8c9fd7130883c2b53c367b32e6fb.jpeg",
+   "d": "2026-11-16T05:48:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Війська РФ вдарили безпілотниками по Дніпру та громадах області: троє поранених, пошкоджені будинки й інфраструктура",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/dnipro/1453412-vijska-rf-vdarili-bezpilotnikami-po-dnipru-ta-gromadah-oblasti-troe-poranenih-poskodzeni-budinki-j-infrastruktura/",
    "x": "Війська РФ майже 20 разів атакували безпілотниками Дніпро, Павлоград, Кам'янське, Нікопольщину, Самарівський та Синельниківський райони. Двоє людей дістали поранення, пошкоджені приватні й багатоквартирні будинки…",
    "i": "https://cdn4.suspilne.media/images/default.jpg",
    "d": "2026-11-16T05:47:57+00:00",
@@ -472,6 +530,20 @@
    ]
   },
   {
+   "t": "Атаковано кілька енергооб'єктів: що відомо про наслідки дронової атаки на Черкащині",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/cherkasy/1453184-atakovano-kilka-energoobektiv-so-vidomo-pro-naslidki-dronovoi-ataki-na-cerkasini/",
+   "x": "У Черкаській області під час повітряних тривог 15-16 листопада було чутно звуки вибухів. Російські війська атакували область ударними безпілотниками. В регіоні працювали сили ППО",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-16T05:36:12+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "cherkasy"
+   ]
+  },
+  {
    "t": "Фон дер Ляєн розкрила формат участі Європи у переговорах між Україною і Росією",
    "s": "24 Канал",
    "u": "https://24tv.ua/uchast-yevropi-mirnih-peregovorah-fon-der-lyayen-nazvala-format_n3181031",
@@ -482,20 +554,6 @@
     "holovne",
     "vazhlyve",
     "viyna"
-   ]
-  },
-  {
-   "t": "Дощ та до 12 градусів тепла: якою буде погода на Кіровоградщині упродовж тижня",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/kropyvnytskiy/1453361-dos-ta-do-12-gradusiv-tepla-akou-bude-pogoda-na-kirovogradsini-uprodovz-tizna/",
-   "x": "16-20 листопада на території Кіровоградщини синоптики прогнозують переважно хмарну погоду з дощем. Максимальна денна температура повітря упродовж тижня сягатиме 12 градусів тепла",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-16T05:34:00+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "kirovohrad"
    ]
   },
   {
@@ -530,31 +588,6 @@
    "d": "2026-11-16T05:25:00+00:00",
    "c": [
     "holovne"
-   ]
-  },
-  {
-   "t": "У Китаї підтвердили зустріч Трампа, Путіна та Сі Цзіньпіна цього тижня",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1453406-u-kitai-pidtverdili-zustric-trampa-putina-ta-si-czinpina-cogo-tizna/",
-   "x": "Раніше інформацію підтвердила помічниця прессекретаря Білого дому Олівія Вейлс під час телефонного брифінгу для журналістів. Також зустріч підтвердили в Кремлі",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-16T05:21:10+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
-   "t": "Через планові роботи у Дніпрі, Жовтих Водах та Павлограді 16 листопада не буде світла: адреси",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/dnipro/1453308-cerez-planovi-roboti-u-dnipri-zovtih-vodah-ta-pavlogradi-16-listopada-ne-bude-svitla-adresi/",
-   "x": "У Дніпрі, Павлограді та Жовтих Водах через планові ремонтні роботи 16 листопада тимчасово припинять подачу електроенергії на кількох вулицях",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-16T05:19:22+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "dnipro"
    ]
   },
   {
@@ -883,6 +916,15 @@
    ]
   },
   {
+   "t": "Давали українцям адресу кол-центру, а там вже нікого не було: інтервʼю з естонською поліцією",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/svit/shahrayski-kol-centri-vpliv-na-ekonomiku-rol-pravoohoronciv-i-vtrati-827661/",
+   "d": "2026-11-16T04:00:00+00:00",
+   "c": [
+    "ekonomika"
+   ]
+  },
+  {
    "t": "10 кримців, яких шукають 12 років. Як правозахисники борються за перших дітей, викрадених Росією",
    "s": "Українська правда. Життя",
    "u": "https://life.pravda.com.ua/society/yak-sprava-vsinovlenih-ditey-sirit-iz-krimu-diyshla-do-yespl-319035/",
@@ -932,17 +974,17 @@
    ]
   },
   {
-   "t": "Атаковано кілька енергооб'єктів: що відомо про наслідки дронової атаки на Черкащині",
+   "t": "Дощ та до 12 градусів тепла: якою буде погода на Кіровоградщині упродовж тижня",
    "s": "Суспільне",
-   "u": "https://suspilne.media/cherkasy/1453184-atakovano-kilka-energoobektiv-so-vidomo-pro-naslidki-dronovoi-ataki-na-cerkasini/",
-   "x": "У Черкаській області під час повітряних тривог 15-16 листопада було чутно звуки вибухів. Російські війська атакували область ударними безпілотниками. В регіоні працювали сили ППО",
+   "u": "https://suspilne.media/kropyvnytskiy/1453361-dos-ta-do-12-gradusiv-tepla-akou-bude-pogoda-na-kirovogradsini-uprodovz-tizna/",
+   "x": "16-20 листопада на території Кіровоградщини синоптики прогнозують переважно хмарну погоду з дощем. Максимальна денна температура повітря упродовж тижня сягатиме 12 градусів тепла",
    "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-16T03:36:12+00:00",
+   "d": "2026-11-16T03:34:00+00:00",
    "c": [
     "holovne"
    ],
    "r": [
-    "cherkasy"
+    "kirovohrad"
    ]
   },
   {
@@ -968,6 +1010,17 @@
    ]
   },
   {
+   "t": "У Китаї підтвердили зустріч Трампа, Путіна та Сі Цзіньпіна цього тижня",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1453406-u-kitai-pidtverdili-zustric-trampa-putina-ta-si-czinpina-cogo-tizna/",
+   "x": "Раніше інформацію підтвердила помічниця прессекретаря Білого дому Олівія Вейлс під час телефонного брифінгу для журналістів. Також зустріч підтвердили в Кремлі",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-16T03:21:10+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "Встановлення індивідуального електроопалення: хто може оформити субсидію",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/UKRAINE/vstanovlennja-individualnoho-elektroopalennja-khto-mozhe-oformiti-subsidiju.html",
@@ -976,6 +1029,31 @@
    "d": "2026-11-16T03:20:00+00:00",
    "c": [
     "statti"
+   ]
+  },
+  {
+   "t": "Через планові роботи у Дніпрі, Жовтих Водах та Павлограді 16 листопада не буде світла: адреси",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/dnipro/1453308-cerez-planovi-roboti-u-dnipri-zovtih-vodah-ta-pavlogradi-16-listopada-ne-bude-svitla-adresi/",
+   "x": "У Дніпрі, Павлограді та Жовтих Водах через планові ремонтні роботи 16 листопада тимчасово припинять подачу електроенергії на кількох вулицях",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-16T03:19:22+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "dnipro"
+   ]
+  },
+  {
+   "t": "Третій день перебоїв в авіасполученні США: 15 листопада вони зачепили понад 11,5 тисячі рейсів",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1453400-tretij-den-pereboiv-v-aviaspolucenni-ssa-15-listopada-voni-zacepili-ponad-115-tisaci-rejsiv/",
+   "x": "Зупинка вильотів у США 13 листопада стала найтривалішою з часу терактів 11 вересня. За словами Даффі, маршрутизатори, що дали збій, купили 2001 року",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-16T03:14:07+00:00",
+   "c": [
+    "holovne"
    ]
   },
   {
@@ -1074,6 +1152,17 @@
    ]
   },
   {
+   "t": "«Ідеї з нафталіну»: спікер парламенту Молдови відкинув сценарій федералізації країни",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1453399-idei-z-naftalinu-spiker-parlamentu-moldovi-vidkinuv-scenarij-federalizacii-kraini/",
+   "x": "Ігор Гросу назвав ультраофіційною позицією курс на ЄС, закріплений у Конституції після референдуму. Повідомлень про пропозицію Москви офіційно не підтвердили",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-16T02:00:25+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "США та Росія готуються виступити проти переговорів про обмеження автономної зброї — Reuters",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/WORLD/ssha-ta-rosija-hotujutsja-vistupiti-proti-perehovoriv-pro-obmezhennja-avtonomnoji-zbroji-reuters.html",
@@ -1091,17 +1180,6 @@
    "x": "Із п'ятниці у США тривають перебої з авіарейсами, у неділю вони тривали третій день поспіль.",
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/0/957648/e0439979f648faa85cc31fff73724be1.jpeg",
    "d": "2026-11-16T01:52:00+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
-   "t": "Третій день перебоїв в авіасполученні США: 15 листопада вони зачепили понад 11,5 тисячі рейсів",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1453400-tretij-den-pereboiv-v-aviaspolucenni-ssa-15-listopada-voni-zacepili-ponad-115-tisaci-rejsiv/",
-   "x": "Зупинка вильотів у США 13 листопада стала найтривалішою з часу терактів 11 вересня. За словами Даффі, маршрутизатори, що дали збій, купили 2001 року",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-16T01:14:07+00:00",
    "c": [
     "holovne"
    ]
@@ -1196,17 +1274,6 @@
    ]
   },
   {
-   "t": "«Ідеї з нафталіну»: спікер парламенту Молдови відкинув сценарій федералізації країни",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1453399-idei-z-naftalinu-spiker-parlamentu-moldovi-vidkinuv-scenarij-federalizacii-kraini/",
-   "x": "Ігор Гросу назвав ультраофіційною позицією курс на ЄС, закріплений у Конституції після референдуму. Повідомлень про пропозицію Москви офіційно не підтвердили",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-16T00:00:25+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "Іспанія програла Англії в Лізі націй — перша поразка чемпіонів світу за 44 матчі",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/SPORT/ispanija-prohrala-anhliji-v-lizi-natsij-persha-porazka-chempioniv-svitu-za-44-matchi.html",
@@ -1215,6 +1282,17 @@
    "d": "2026-11-15T23:46:00+00:00",
    "c": [
     "statti"
+   ]
+  },
+  {
+   "t": "«Як підліток»: що Байден написав у мемуарах про Путіна, Зеленського й Трампа",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1453386-ak-pidlitok-so-bajden-napisav-u-memuarah-pro-putina-zelenskogo-j-trampa/",
+   "x": "Байден розповів, що відмовився дати команді Трампа карт-бланш на переговори з Путіним до інавгурації. Від Зеленського він очікував більшої вдячності",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-15T23:38:34+00:00",
+   "c": [
+    "holovne"
    ]
   },
   {
@@ -1565,17 +1643,6 @@
    ]
   },
   {
-   "t": "«Як підліток»: що Байден написав у мемуарах про Путіна, Зеленського й Трампа",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1453386-ak-pidlitok-so-bajden-napisav-u-memuarah-pro-putina-zelenskogo-j-trampa/",
-   "x": "Байден розповів, що відмовився дати команді Трампа карт-бланш на переговори з Путіним до інавгурації. Від Зеленського він очікував більшої вдячності",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-15T21:38:34+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "Шлях до першого мільйона: які бої принесли братам Кличкам перші рекордні гонорари",
    "s": "24 Канал",
    "u": "https://fight.24tv.ua/shlyah-do-pershogo-milyona-yaki-boyi-prinesli-bratam-klichkam_n3152569",
@@ -1647,6 +1714,17 @@
    ]
   },
   {
+   "t": "Кос: Корецький і Стефанчук зобов'язалися прискорити конкретні реформи для вступу в ЄС",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1453374-kos-koreckij-i-stefancuk-zobovazalisa-priskoriti-konkretni-reformi-dla-vstupu-v-es/",
+   "x": "Єврокомісарка Марта Кос обговорила з українським урядом та Верховною Радою список реформ, необхідних для виконання проміжних критеріїв на вступ до Європейського Союзу",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-15T21:19:02+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "Російські дрони атакували багатоповерхівку й дитячий навчальний заклад у Харкові",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/15/8063000/",
@@ -1694,17 +1772,6 @@
    ]
   },
   {
-   "t": "На сьогодні ми зупинили більше 55% російських нафтопереробних спроможностей — Зеленський",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1453378-na-sogodni-mi-zupinili-bilse-55-rosijskih-naftopererobnih-spromoznostej-zelenskij/",
-   "x": "Президент України Володимир Зеленський заявив, що загалом станом на сьогодні Сили оборони зупинили 55% російських нафтопереробних спроможностей",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-15T20:54:25+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "ППО збила реактивний БпЛА біля Чернівців: пошкоджено адмінбудівлю",
    "s": "24 Канал",
    "u": "https://24tv.ua/ataka-chernivtsi-15-listopada-2026-ulamki-shaheda-poshkodili_n3180988",
@@ -1718,17 +1785,6 @@
    ],
    "r": [
     "chernivtsi"
-   ]
-  },
-  {
-   "t": "Зеленський: Балістична загроза дуже серйозна, є інформація розвідки про підготовку РФ нових ударів",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1453371-zelenskij-balisticna-zagroza-duze-serjozna-e-informacia-rozvidki-pro-pidgotovku-rf-novih-udariv/",
-   "x": "Президент Володимир Зеленський заявив про інформацію від розвідки про підготовку Росією нових ударів по Україні. Росіяни обирають один регіон як спеціальну мішень і кілька діб зосереджуються на ударах по ньому",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-15T20:46:10+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
@@ -1899,17 +1955,6 @@
    ]
   },
   {
-   "t": "Газовики зробили важливе попередження: куди не потрібно надсилати показання лічильника",
-   "s": "24 Канал",
-   "u": "https://financy.24tv.ua/pokazannya-gazovogo-lichilnika-yakiy-sposib-peredachi-danih-skasuvali_n3180648",
-   "x": "Звичний алгоритм звітування за спожите блакитне паливо зазнав суттєвих змін, про які варто знати кожному споживачу. Якщо проігнорувати нові правила, можна отримати платіжки з некоректними нарахуваннями та переплатити за…",
-   "i": "https://24tv.ua/resources/photos/news/202611/3180648.jpg?v=1794692865000&q=100",
-   "d": "2026-11-15T20:05:52+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "Рішення CAS не допомогло: Росію вдруге відсторонили від молодіжного чемпіонату світу-2027 з хокею",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/SPORT/rishennja-cas-ne-dopomohlo-rosiju-vdruhe-vidstoronili-vid-molodizhnoho-chempionatu-svitu-z-khokeju-2027-roku.html",
@@ -1918,45 +1963,6 @@
    "d": "2026-11-15T20:04:00+00:00",
    "c": [
     "statti"
-   ]
-  },
-  {
-   "t": "Російські війська атакували Сумську громаду: поранений чоловік, пошкоджені будинки й автомобіль",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/sumy/1453372-rosijski-vijska-atakuvali-sumsku-gromadu-poranenij-colovik-poskodzeni-budinki-j-avtomobil/",
-   "x": "Армія РФ атакувала Сумську громаду КАБами та FPV-дронами на оптоволокні. Поранений 22-річний чоловік, у підлітка гостра реакція на стрес, побиті будинки",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-15T20:03:14+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "sumy"
-   ]
-  },
-  {
-   "t": "Росіяни двічі за вечір атакували Шевченківський район Харкова: пошкоджені житловий будинок і навчальний заклад",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/kharkiv/1453370-rosiani-dvici-za-vecir-atakuvali-sevcenkivskij-rajon-harkova-poskodzeni-zitlovij-budinok-i-navcalnij-zaklad/",
-   "x": "Російські дрони двічі атакували Шевченківський район Харкова увечері 15 литопада. Пошкоджені фасад багатоквартирного будинку та будівля дитячого навчального закладу",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-15T19:56:01+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "kharkiv"
-   ]
-  },
-  {
-   "t": "Де і як в Україні діятимуть графіки відключень 16 листопада",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/avariyni-vidklyuchennya-svitla-v-ukrayini-grafiki-ta-perelik-mist_n2175821",
-   "x": "16 листопада в частині регіонів України знову діють графіки відключення світла. Обмеження вводяться для стабілізації ситуації в енергосистемі після російських атак.",
-   "i": "https://24tv.ua/resources/photos/news/202210/2175821.jpg?v=1765370703000&q=100",
-   "d": "2026-11-15T19:54:00+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
@@ -1969,32 +1975,6 @@
    "c": [
     "holovne",
     "vazhlyve"
-   ]
-  },
-  {
-   "t": "Зеленський: Росія зосередила удари на Запоріжжі й в Дніпропетровській області",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/energetics/zelenskij-rosija-zoseredila-udari-na-zaporizhzhi-j-dniprovshchini.html",
-   "x": "Енергетики відновлюють світло, проте постійні тривоги та нові удари ускладнюють ремонт.",
-   "i": "https://zn.ua/img/article/7040/30_main.webp",
-   "d": "2026-11-15T19:34:00+00:00",
-   "c": [
-    "statti"
-   ],
-   "r": [
-    "zaporizhzhia",
-    "dnipro"
-   ]
-  },
-  {
-   "t": "Зеленський: Ми зупинили вже більше 55% нафтопереробних спроможностей РФ",
-   "s": "Українська правда",
-   "u": "https://www.pravda.com.ua/news/2026/11/15/8062991/",
-   "x": "Володимир Зеленський повідомив, що завдяки ударам Україні вдалося вивести з ладу понад 55 відсотків нафтопереробних підприємств Росії.",
-   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/2/957539/72ce08c06d2a3e9d6f1e354f343ced2c.jpeg",
-   "d": "2026-11-15T19:30:00+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
@@ -2015,17 +1995,6 @@
    "x": "Президент Володимир Зеленський анонсував на наступному тижні засідання Контактної групи з питань оборони України у форматі \"Рамштайн\", назвавши пріоритетом ракети для систем Patriot і NASAMS.",
    "i": "https://media.interfax.com.ua/media/thumbs/images/2026/11/cvsed/XNGq5thF4QsJ.jpg",
    "d": "2026-11-15T19:22:14+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
-   "t": "Кос: Корецький і Стефанчук зобов'язалися прискорити конкретні реформи для вступу в ЄС",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1453374-kos-koreckij-i-stefancuk-zobovazalisa-priskoriti-konkretni-reformi-dla-vstupu-v-es/",
-   "x": "Єврокомісарка Марта Кос обговорила з українським урядом та Верховною Радою список реформ, необхідних для виконання проміжних критеріїв на вступ до Європейського Союзу",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-15T19:19:02+00:00",
    "c": [
     "holovne"
    ]
@@ -2109,6 +2078,17 @@
    ]
   },
   {
+   "t": "На сьогодні ми зупинили більше 55% російських нафтопереробних спроможностей — Зеленський",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1453378-na-sogodni-mi-zupinili-bilse-55-rosijskih-naftopererobnih-spromoznostej-zelenskij/",
+   "x": "Президент України Володимир Зеленський заявив, що загалом станом на сьогодні Сили оборони зупинили 55% російських нафтопереробних спроможностей",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-15T18:54:25+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "Сибіга у Брюсселі обговорив зі Стуббом і главами МЗС Литви та Латвії посилення тиску на РФ",
    "s": "Інтерфакс-Україна",
    "u": "https://interfax.com.ua/news/general/1236775.html",
@@ -2127,6 +2107,17 @@
    "d": "2026-11-15T18:47:00+00:00",
    "c": [
     "vazhlyve"
+   ]
+  },
+  {
+   "t": "Зеленський: Балістична загроза дуже серйозна, є інформація розвідки про підготовку РФ нових ударів",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1453371-zelenskij-balisticna-zagroza-duze-serjozna-e-informacia-rozvidki-pro-pidgotovku-rf-novih-udariv/",
+   "x": "Президент Володимир Зеленський заявив про інформацію від розвідки про підготовку Росією нових ударів по Україні. Росіяни обирають один регіон як спеціальну мішень і кілька діб зосереджуються на ударах по ньому",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-15T18:46:10+00:00",
+   "c": [
+    "holovne"
    ]
   },
   {
@@ -2186,6 +2177,20 @@
    "d": "2026-11-15T18:16:50+00:00",
    "c": [
     "holovne"
+   ]
+  },
+  {
+   "t": "Російські війська атакували Сумську громаду: поранений чоловік, пошкоджені будинки й автомобіль",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sumy/1453372-rosijski-vijska-atakuvali-sumsku-gromadu-poranenij-colovik-poskodzeni-budinki-j-avtomobil/",
+   "x": "Армія РФ атакувала Сумську громаду КАБами та FPV-дронами на оптоволокні. Поранений 22-річний чоловік, у підлітка гостра реакція на стрес, побиті будинки",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-15T18:03:14+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "sumy"
    ]
   },
   {
@@ -2422,6 +2427,16 @@
    ]
   },
   {
+   "t": "Дрони атакували три судна поблизу румунського судноплавного каналу",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/svit/droni-atakuvali-tri-sudna-poblizu-rumunskogo-sudnoplavnogo-kanalu-827660/",
+   "x": "Дрони атакували три торгові судна у Чорному морі поблизу румунського Сулінського каналу, заявив у неділю прем'єр-міністр Лука Нікулеску, додавши, що його збройні сили двічі піднімали винищувачі у повітря.",
+   "d": "2026-11-15T16:00:00+00:00",
+   "c": [
+    "ekonomika"
+   ]
+  },
+  {
    "t": "Естонія звинуватила Росію у спробі диверсії на оборонному підприємстві",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/15/8062971/",
@@ -2500,6 +2515,16 @@
    "c": [
     "vazhlyve",
     "viyna"
+   ]
+  },
+  {
+   "t": "Лідер за результатами податкового іспиту в Південній Кореї зізнався у списуванні з ШІ",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/tehnologiji/u-pivdenniy-koreji-podatkivec-zdobuv-naykrashchiy-rezultat-na-ispiti-zavdyaki-shi-827659/",
+   "x": "Оцінки, отримані цього року лідером за результатами національного іспиту для майбутніх податкових бухгалтерів у Південній Кореї, були наслідком генеративного ШІ.",
+   "d": "2026-11-15T14:53:00+00:00",
+   "c": [
+    "ekonomika"
    ]
   },
   {
@@ -2605,6 +2630,19 @@
    ]
   },
   {
+   "t": "Частина Дніпра та Камʼянського без світла через повторний удар РФ по енергообʼєкту",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/energetika/dnipro-chastkovo-bez-svitla-pislya-ataki-voroga-827658/",
+   "x": "Російські загарбники знову вдарили по енергосистемі. Через пошкодження магістральних електромереж без світла залишилися частина Дніпра та Кам'янського, а також частина Дніпровського та Кам'янського районів.",
+   "d": "2026-11-15T13:35:00+00:00",
+   "c": [
+    "ekonomika"
+   ],
+   "r": [
+    "dnipro"
+   ]
+  },
+  {
    "t": "У двох областях аварійні відключення через російські обстріли",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/15/8062959/",
@@ -2612,7 +2650,8 @@
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/f/957291/8fcc784cfb2edab63430033f91a5e93a.jpeg",
    "d": "2026-11-15T13:30:00+00:00",
    "c": [
-    "vazhlyve"
+    "vazhlyve",
+    "ekonomika"
    ],
    "r": [
     "zaporizhzhia",
@@ -2713,6 +2752,16 @@
    ]
   },
   {
+   "t": "Канада та США досягають прогресу в питанні торговельної угоди – Карні",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/svit/prem-yer-kanadi-zayaviv-pro-uspih-u-torgivelnih-peremovinah-z-trampom-827656/",
+   "x": "Прем'єр-міністр Канади Марк Карні заявив у суботу, що провів тривалі та змістовні переговори з президентом США Дональдом Трампом і що обидві країни досягають прогресу на шляху до укладення торговельної угоди, хоча…",
+   "d": "2026-11-15T12:04:00+00:00",
+   "c": [
+    "ekonomika"
+   ]
+  },
+  {
    "t": "Ніжні коржі, вершковий крем і ягідний конфітюр: готуємо торт \"Молочна дівчинка\"",
    "s": "Українська правда. Життя",
    "u": "https://life.pravda.com.ua/food/tort-molochna-divchinka-yak-prigotuvati-nizhniy-desert-319063/",
@@ -2752,6 +2801,16 @@
    "d": "2026-11-15T11:23:00+00:00",
    "c": [
     "zhyttia"
+   ]
+  },
+  {
+   "t": "Ціни дизелю в США впали до найнижчого рівня за останні 2 місяці",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/energetika/u-ssha-padayut-cini-na-dizel-827655/",
+   "x": "У суботу середні ціни на дизельне паливо в США впали нижче 6 доларів за галон після того, як протягом двох місяців утримувалися вище цього порогу, відступивши від рекордних максимумів, оскільки послаблення геополітичної…",
+   "d": "2026-11-15T11:07:00+00:00",
+   "c": [
+    "ekonomika"
    ]
   },
   {
@@ -2866,6 +2925,19 @@
    ]
   },
   {
+   "t": "Частина Сумщини другу добу поспіль залишається без світла через аварію",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/energetika/chastina-sumshchini-bez-svitla-pislya-avariji-827654/",
+   "x": "Частина Сумської області залишається без стабільного електропостачання через аварію на одному з високовольтних об'єктів.",
+   "d": "2026-11-15T09:55:00+00:00",
+   "c": [
+    "ekonomika"
+   ],
+   "r": [
+    "sumy"
+   ]
+  },
+  {
    "t": "Україна нагадала Путіну межі переговорів",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/15/8062935/",
@@ -2895,6 +2967,19 @@
    "d": "2026-11-15T09:11:00+00:00",
    "c": [
     "vazhlyve"
+   ]
+  },
+  {
+   "t": "Ворог атакував енергетику Одещини: частина області без світла",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/energetika/vorog-atakuvav-energetiku-odeshchini-827653/",
+   "x": "Вночі 15 листопада ворог атакував енергетичний обʼєкт ДТЕК. 41 тисяча родин залишилась без світла.",
+   "d": "2026-11-15T09:07:00+00:00",
+   "c": [
+    "ekonomika"
+   ],
+   "r": [
+    "odesa"
    ]
   },
   {
@@ -2984,7 +3069,8 @@
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/a/957170/9af792353ee50577fa87d694190c5538.jpeg",
    "d": "2026-11-15T05:51:00+00:00",
    "c": [
-    "vazhlyve"
+    "vazhlyve",
+    "ekonomika"
    ]
   },
   {
@@ -3203,6 +3289,15 @@
    ]
   },
   {
+   "t": "Сербія відкриває нафтові резерви, щоб врятувати свій єдиний НПЗ",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/svit/serbiya-vidkrivaye-naftovi-rezervi-dlya-poryatunku-yedinogo-npz-827651/",
+   "d": "2026-11-14T16:00:00+00:00",
+   "c": [
+    "ekonomika"
+   ]
+  },
+  {
    "t": "Дрон атакував комерційне судно під прапором Палау біля берегів Румунії",
    "s": "24 Канал",
    "u": "https://24tv.ua/ataka-drona-vantazhne-sudno-larissa-1-13-listopada-teritorialnih_n3180541",
@@ -3224,6 +3319,15 @@
    ]
   },
   {
+   "t": "Хуанг приховував від керівництва Nvidia роман із імовірною шпигункою",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/svit/huang-prihovuvav-roman-vid-kerivnictva-nvidia-827650/",
+   "d": "2026-11-14T15:25:00+00:00",
+   "c": [
+    "ekonomika"
+   ]
+  },
+  {
    "t": "Північна Ірландія – Україна: о котрій годині початок матчу",
    "s": "24 Канал",
    "u": "https://sportnews.24tv.ua/pivnichna-irlandiya-ukrayina-o-kotriy-godini-pochatok-matchu_n3176811",
@@ -3241,6 +3345,15 @@
    "x": "Українське законодавство ховає чимало фінансових сюрпризів для людей похилого віку, про які знають далеко не всі. Наявність лише одного специфічного документа вдома дозволяє суттєво збільшити щомісячні надходження на…",
    "i": "https://24tv.ua/resources/photos/news/202611/3178672.jpg?v=1794429825000&q=100",
    "d": "2026-11-14T14:43:00+00:00",
+   "c": [
+    "ekonomika"
+   ]
+  },
+  {
+   "t": "Компанії Трампа загрожує боргова криза на $1 мільярд на тлі падіння біткоїна",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/svit/kompaniya-trampa-mozhe-prodavati-bitkojini-dlya-pogashennya-borgu-827649/",
+   "d": "2026-11-14T14:40:00+00:00",
    "c": [
     "ekonomika"
    ]
@@ -3299,6 +3412,15 @@
    "d": "2026-11-14T13:35:00+00:00",
    "c": [
     "vazhlyve"
+   ]
+  },
+  {
+   "t": "СБУ вдарила по ключовому вузлу підготовки нафти РФ на експорт",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/energetika/sbu-urazila-stanciyu-samara-de-gotuyut-eksportnu-naftu-urals-827647/",
+   "d": "2026-11-14T13:30:00+00:00",
+   "c": [
+    "ekonomika"
    ]
   },
   {
