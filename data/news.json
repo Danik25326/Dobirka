@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T22:30:58+00:00",
+ "updated": "2026-11-16T22:40:43+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -212,6 +212,27 @@
    "d": "2026-11-16T22:17:00+00:00"
   },
   {
+   "t": "У Варшаві затримали 16-річного росіянина, який погрожував масовим убивством у школі",
+   "u": "https://zn.ua/ukr/europe/u-varshavi-zatrimali-16-richnoho-rosijanina-jakij-pohrozhuvav-masovim-ubivstvom-u-shkoli.html",
+   "i": "https://zn.ua/img/article/7042/29_main.webp",
+   "n": 3,
+   "l": [
+    {
+     "s": "ZN.UA",
+     "u": "https://zn.ua/ukr/europe/u-varshavi-zatrimali-16-richnoho-rosijanina-jakij-pohrozhuvav-masovim-ubivstvom-u-shkoli.html"
+    },
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/pogrozhuvav-masovim-ubivstvom-shkoli-varshavi-sud-izolyuvav-16_n3181729"
+    },
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/1453803-u-polsi-zatrimali-16-ricnogo-rosianina-za-pogrozi-masovim-ubivstvom-ucnam-ta-direktoru-skoli/"
+    }
+   ],
+   "d": "2026-11-16T22:30:32+00:00"
+  },
+  {
    "t": "Кремлю сподобалася заява Трампа про те, що Росія може діяти жорсткіше",
    "u": "https://zn.ua/ukr/WORLD/kremlju-spodobalasja-zajava-trampa-pro-te-shcho-rosija-mozhe-dijati-zhorstkishe.html",
    "i": "https://zn.ua/img/article/7042/27_main.webp",
@@ -231,6 +252,27 @@
     }
    ],
    "d": "2026-11-16T22:14:43+00:00"
+  },
+  {
+   "t": "Кушнер заявив про підготовку до багатосторонньої зустрічі щодо війни в Україні",
+   "u": "https://www.pravda.com.ua/news/2026/11/16/8063172/",
+   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/1/958210/a1ee01e2b7a28d335bf2a746385b1204.jpeg",
+   "n": 3,
+   "l": [
+    {
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/16/8063172/"
+    },
+    {
+     "s": "Інтерфакс-Україна",
+     "u": "https://interfax.com.ua/news/general/1237436.html"
+    },
+    {
+     "s": "Європейська правда",
+     "u": "https://www.eurointegration.com.ua/news/2026/11/16/7250130/"
+    }
+   ],
+   "d": "2026-11-16T19:31:00+00:00"
   },
   {
    "t": "Сибіга анонсував зустріч Зеленського та Мадяра до кінця листопада",
@@ -320,43 +362,31 @@
     }
    ],
    "d": "2026-11-16T21:19:20+00:00"
-  },
-  {
-   "t": "ЄС готує санкції проти Ірану після кібератаки на холодильники в супермаркетах",
-   "u": "https://suspilne.media/1453834-es-gotue-sankcii-proti-iranu-pisla-kiberataki-na-holodilniki-v-supermarketah/",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "n": 2,
-   "l": [
-    {
-     "s": "Суспільне",
-     "u": "https://suspilne.media/1453834-es-gotue-sankcii-proti-iranu-pisla-kiberataki-na-holodilniki-v-supermarketah/"
-    },
-    {
-     "s": "Європейська правда",
-     "u": "https://www.eurointegration.com.ua/news/2026/11/16/7250127/"
-    }
-   ],
-   "d": "2026-11-16T20:59:19+00:00"
-  },
-  {
-   "t": "Кушнер: Будь-яка остаточна мирна угода має бути узгоджена як Росією, так і Україною",
-   "u": "https://www.pravda.com.ua/news/2026/11/16/8063176/",
-   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/9/958222/699b1f2fc50b882c0c5f4dcefe68b593.jpeg",
-   "n": 2,
-   "l": [
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/16/8063176/"
-    },
-    {
-     "s": "Інтерфакс-Україна",
-     "u": "https://interfax.com.ua/news/general/1237439.html"
-    }
-   ],
-   "d": "2026-11-16T20:48:00+00:00"
   }
  ],
  "items": [
+  {
+   "t": "У Варшаві затримали 16-річного росіянина, який погрожував масовим убивством у школі",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/europe/u-varshavi-zatrimali-16-richnoho-rosijanina-jakij-pohrozhuvav-masovim-ubivstvom-u-shkoli.html",
+   "x": "Справа стосовно російського підлітка охоплює одразу кілька епізодів.",
+   "i": "https://zn.ua/img/article/7042/29_main.webp",
+   "d": "2026-11-16T22:30:32+00:00",
+   "c": [
+    "statti"
+   ]
+  },
+  {
+   "t": "Міжнародний день студента 2026: історія",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/UKRAINE/mizhnarodnij-den-studenta-2026-istorija.html",
+   "x": "Також в цей день відзначають День студента в Україні.",
+   "i": "https://zn.ua/img/article/7042/19_main.webp",
+   "d": "2026-11-16T22:30:00+00:00",
+   "c": [
+    "statti"
+   ]
+  },
   {
    "t": "Ворожа атака пошкодила системи критичної інфраструктури у Києві, в частині районів перебої з водою та теплом – Кличко",
    "s": "Інтерфакс-Україна",
@@ -578,9 +608,11 @@
    "t": "Санду: Молдова не конкурує з жодною країною-кандидаткою на вступ у ЄС",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/16/8063181/",
+   "i": "https://img.eurointegration.com.ua/images/doc/1/b/1bb981b-------3.jpg",
    "d": "2026-11-16T21:57:00+00:00",
    "c": [
-    "holovne"
+    "holovne",
+    "polityka"
    ]
   },
   {
@@ -1171,7 +1203,8 @@
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/9/958222/699b1f2fc50b882c0c5f4dcefe68b593.jpeg",
    "d": "2026-11-16T20:48:00+00:00",
    "c": [
-    "holovne"
+    "holovne",
+    "polityka"
    ]
   },
   {
@@ -1781,6 +1814,17 @@
    ]
   },
   {
+   "t": "В Італії щонайменше 100 шкіл отримали погрози вибухами та отруєнням",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/16/7250133/",
+   "x": "У понеділок, 16 листопада, щонайменше сотня італійських шкіл отримала електронні листи з погрозами про вибухи та отруєння, що спричинило запуск нового протоколу безпеки, запровадженого урядом після подібних погроз…",
+   "i": "https://img.eurointegration.com.ua/images/doc/9/2/9231859--------------.jpg",
+   "d": "2026-11-16T19:35:00+00:00",
+   "c": [
+    "polityka"
+   ]
+  },
+  {
    "t": "Кушнер заявив про підготовку до багатосторонньої зустрічі щодо війни в Україні",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/16/8063172/",
@@ -2043,6 +2087,17 @@
    ]
   },
   {
+   "t": "Рекорд допомоги ЄС за реформи, військові Франції вже в Україні, нові санкції ЄС: новини дня",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/16/7250132/",
+   "x": "Зеленський розповів про \"непросту\" розмову України, США та Європи на рівні команд.",
+   "i": "https://img.eurointegration.com.ua/images/doc/c/d/cdc045f-ukraine-1.jpg",
+   "d": "2026-11-16T19:11:00+00:00",
+   "c": [
+    "polityka"
+   ]
+  },
+  {
    "t": "Удар по «Кримському мосту» | Чи вплине це на перебіг зустрічі Трампа, Путіна та Сі? | 16 листопада",
    "s": "Суспільне Новини · відео",
    "u": "https://www.youtube.com/watch?v=hYMgauXzHEQ",
@@ -2055,6 +2110,17 @@
    "v": 1,
    "r": [
     "crimea"
+   ]
+  },
+  {
+   "t": "Кушнер: розпочалася підготовка до багатосторонньої зустрічі щодо війни в Україні",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/16/7250130/",
+   "x": "Спецпредставник американського президента Дональда Трампа Джаред Кушнер розповів про спілкування з помічником володаря Росії Юрієм Ушаковим, а також з Україною та представниками Європи.",
+   "i": "https://img.eurointegration.com.ua/images/doc/0/5/056f1ad---------------.jpg",
+   "d": "2026-11-16T19:10:00+00:00",
+   "c": [
+    "polityka"
    ]
   },
   {
@@ -2485,17 +2551,6 @@
    ]
   },
   {
-   "t": "Глава МВС Німеччини захищає план створення центру депортації в Руанді",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/16/7250124/",
-   "x": "Міністр внутрішніх справ Німеччини Александр Добріндт виступив на захист рішення п’яти країн ЄС розпочати переговори з Руандою щодо розміщення там центру депортації.",
-   "i": "https://img.eurointegration.com.ua/images/doc/e/2/e292396-2rkp2o7fvl-v5-ax-w800h450.jpeg",
-   "d": "2026-11-16T18:04:00+00:00",
-   "c": [
-    "polityka"
-   ]
-  },
-  {
    "t": "Евакуація пораненого піхотинця з позицій | Репортаж Суспільного з Лиманського напрямку",
    "s": "Суспільне Новини · відео",
    "u": "https://www.youtube.com/watch?v=BsxZq19uX50",
@@ -2599,17 +2654,6 @@
    ]
   },
   {
-   "t": "Генсекретар НАТО провів зустріч із Стефанчуком та Корецьким",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/16/7250123/",
-   "x": "Генеральний секретар НАТО Марк Рютте зустрівся зі спікером Верховної Ради України Русланом Стефанчуком та прем’єр-міністром Сергієм Корецьким.",
-   "i": "https://img.eurointegration.com.ua/images/doc/e/2/e2a31e7--------------------------.jpg",
-   "d": "2026-11-16T17:57:00+00:00",
-   "c": [
-    "polityka"
-   ]
-  },
-  {
    "t": "У разі перемоги: Ле Пен пообіцяла виконати зобов'язання Франції",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/europe/u-razi-peremohi-le-pen-poobitsjala-vikonati-zobovjazannja-frantsiji.html",
@@ -2632,30 +2676,6 @@
    "d": "2026-11-16T17:50:53+00:00",
    "c": [
     "viyna"
-   ]
-  },
-  {
-   "t": "Фредеріксен пояснила, як депортація мігрантів до Руанди може стримати нелегальну міграцію",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/16/7250122/",
-   "x": "Прем’єр-міністр Метте Фредеріксен прокоментувала ініціативу п’ятьох європейських країн щодо відправляння мігрантів, яким відмовили в отриманні притулку, до нового центру депортації в Руанді.",
-   "i": "https://img.eurointegration.com.ua/images/doc/d/f/dfc0424--------.jpg",
-   "d": "2026-11-16T17:50:00+00:00",
-   "c": [
-    "polityka"
-   ]
-  },
-  {
-   "t": "Президента Києво-Могилянки В’ячеслава Брюховецького посмертно нагородили орденом Свободи",
-   "s": "Українська правда. Життя",
-   "u": "https://life.pravda.com.ua/society/v-yacheslava-bryuhoveckogo-posmertno-nagorodili-ordenom-svobodi-319108/",
-   "i": "https://imglife.pravda.com.ua/life/images/doc/3/2/149928/328a6f053d359c2da2aaff0491512402.jpeg?w=390&q=90&f=jpeg",
-   "d": "2026-11-16T17:50:00+00:00",
-   "c": [
-    "zhyttia"
-   ],
-   "r": [
-    "kyiv"
    ]
   },
   {
@@ -2705,17 +2725,6 @@
    ]
   },
   {
-   "t": "Каллас: ЄС знайде можливість заборонити вʼїзд учасникам війни РФ проти України",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/16/7250121/",
-   "x": "До 22-го пакета санкцій Євросоюзу проти Росії може також увійти заборона на в'їзд до ЄС для росіян, які брали участь у війні проти України, причому ЄС зможе отримати дані з РФ для складання списків.",
-   "i": "https://img.eurointegration.com.ua/images/doc/b/0/b07802a-234.jpg",
-   "d": "2026-11-16T17:37:00+00:00",
-   "c": [
-    "polityka"
-   ]
-  },
-  {
    "t": "Гроші на захист підстанцій Київщини пів року лежали без руху – Олійник",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/16/8063148/",
@@ -2738,17 +2747,6 @@
    "d": "2026-11-16T17:34:00+00:00",
    "c": [
     "holovne"
-   ]
-  },
-  {
-   "t": "В Україні кажуть, що досі не отримали пояснень від США щодо обмежень Starshield",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/16/7250120/",
-   "x": "Тимчасовий повірений у справах України в США Денис Сєнік заявив, що від американської сторони досі немає пояснень щодо обмежень швидкості для системи Starshield.",
-   "i": "https://img.eurointegration.com.ua/images/doc/b/1/b13b061-79647469-605.jpg",
-   "d": "2026-11-16T17:34:00+00:00",
-   "c": [
-    "polityka"
    ]
   },
   {
@@ -2864,20 +2862,6 @@
    ]
   },
   {
-   "t": "Вибух гранати на Київщині: загинули четверо людей, серед них 17-річна дівчина",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/UKRAINE/vibukh-hranati-na-kijivshchini-zahinuli-chetvero-ljudej-sered-nikh-17-richna-divchina.html",
-   "x": "За попередніми даними правоохоронців, вибуховий предмет на території домоволодіння кинув чоловік, який перебував у статусі самовільного залишення частини.",
-   "i": "https://zn.ua/img/article/7042/2_main.webp",
-   "d": "2026-11-16T17:08:00+00:00",
-   "c": [
-    "statti"
-   ],
-   "r": [
-    "kyivska"
-   ]
-  },
-  {
    "t": "⚡️ ПУТІН ІДЕ НА ПОСТУПКИ щодо України!👀Трамп ПРИГОЛОМШИВ заявою💥| Час новин 16.11.2026",
    "s": "5 канал · відео",
    "u": "https://www.youtube.com/watch?v=zASIJp_D6Rg",
@@ -2898,16 +2882,6 @@
    "d": "2026-11-16T17:00:00+00:00",
    "c": [
     "ekonomika"
-   ]
-  },
-  {
-   "t": "Їхала навідати могилу доньки: матері німецької доброволиці заборонили в'їзд в Україну",
-   "s": "Українська правда. Життя",
-   "u": "https://life.pravda.com.ua/society/materi-saviti-vagner-zaboronili-v-jizd-do-ukrajini-319106/",
-   "i": "https://imglife.pravda.com.ua/life/images/doc/1/7/149921/17b78b02bcd254c215dc3b80ec26ca78.jpeg?w=390&q=90&f=jpeg",
-   "d": "2026-11-16T17:00:00+00:00",
-   "c": [
-    "zhyttia"
    ]
   },
   {
@@ -2963,17 +2937,6 @@
    "v": 1
   },
   {
-   "t": "Від закупівель до найвищих кабінетів: як США описали корупцію в Україні",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/anticorruption/vid-zakupivel-do-najvishchikh-kabinetiv-jak-ssha-opisali-koruptsiju-v-ukrajini.html",
-   "x": "Звіт інспекторів окремо згадує обшуки в Офісі генпрокурора та підозру колишній пані послу в США.",
-   "i": "https://zn.ua/img/article/7042/1_main.webp",
-   "d": "2026-11-16T16:44:00+00:00",
-   "c": [
-    "statti"
-   ]
-  },
-  {
    "t": "Росіяни вдарили дронами по Харкову, постраждали дві жінки",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/16/8063137/",
@@ -3022,16 +2985,6 @@
    "v": 1
   },
   {
-   "t": "Бейонсе стала першою артисткою в історії \"Ґреммі\" зі 100 номінаціями",
-   "s": "Українська правда. Життя",
-   "u": "https://life.pravda.com.ua/culture/beyonse-stala-pershoyu-artistkoyu-z-100-nominaciyami-na-premiyu-gremmi-319104/",
-   "i": "https://imglife.pravda.com.ua/life/images/doc/b/0/149900/b0cb3e5206dc3d4dbbe8dcf99c5ffc8b.jpeg?w=390&q=90&f=jpeg",
-   "d": "2026-11-16T16:30:00+00:00",
-   "c": [
-    "zhyttia"
-   ]
-  },
-  {
    "t": "Офіційно новим Джеймсом Бондом став 40-річний Роберт Паттінсон: перші подробиці",
    "s": "24 Канал",
    "u": "https://kino.24tv.ua/robert-pattinson-otrimav-rol-dzheymsa-bonda_n3181595",
@@ -3052,19 +3005,6 @@
    "c": [
     "viyna",
     "ekonomika"
-   ]
-  },
-  {
-   "t": "У Миколаєві виклали тризуб із синабонів і встановили рекорд",
-   "s": "Українська правда. Життя",
-   "u": "https://life.pravda.com.ua/food/kulinarniy-rekord-u-mikolayevi-zrobili-trizub-iz-sinaboniv-319103/",
-   "i": "https://imglife.pravda.com.ua/life/images/doc/3/5/149908/356a78434c6b4566943b43fb335f3b55.jpeg?w=390&q=90&f=jpeg",
-   "d": "2026-11-16T16:07:00+00:00",
-   "c": [
-    "zhyttia"
-   ],
-   "r": [
-    "mykolaiv"
    ]
   },
   {
@@ -3131,16 +3071,6 @@
    ]
   },
   {
-   "t": "Актор Роберт Паттінсон стане новим Джеймсом Бондом",
-   "s": "Українська правда. Життя",
-   "u": "https://life.pravda.com.ua/culture/robert-pattinson-stane-novim-dzheymsom-bondom-u-filmi-007-319101/",
-   "i": "https://imglife.pravda.com.ua/life/images/doc/c/f/149883/cf9c8c428ab089fbafbcc752cffb0ba4.jpeg?w=390&q=90&f=jpeg",
-   "d": "2026-11-16T15:48:00+00:00",
-   "c": [
-    "zhyttia"
-   ]
-  },
-  {
    "t": "Путін у війні проти України \"міг би діяти жорсткіше\" – Трамп",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/16/8063126/",
@@ -3149,26 +3079,6 @@
    "d": "2026-11-16T15:43:00+00:00",
    "c": [
     "vazhlyve"
-   ]
-  },
-  {
-   "t": "Ходити в туалет можна тільки вдома? Заява власниці стоматологічної клініки обурила українців",
-   "s": "Українська правда. Життя",
-   "u": "https://life.pravda.com.ua/society/ukrajinciv-oburila-zayava-vlasnici-stomatologichnoji-kliniki-pro-tualet-319102/",
-   "i": "https://imglife.pravda.com.ua/life/images/doc/c/a/149907/ca3535184bfd3260a4ce9da7434a13c5.jpeg?w=390&q=90&f=jpeg",
-   "d": "2026-11-16T15:43:00+00:00",
-   "c": [
-    "zhyttia"
-   ]
-  },
-  {
-   "t": "Занурилася з моноластою на глибину 124 метри: українська фрідайверка встановила світовий рекорд",
-   "s": "Українська правда. Життя",
-   "u": "https://life.pravda.com.ua/society/ukrajinka-vstanovila-svitoviy-rekord-z-fridayvingu-319100/",
-   "i": "https://imglife.pravda.com.ua/life/images/doc/d/4/149880/d41d5e85c5007397c63d83b19a8c2ca5.jpeg?w=390&q=90&f=jpeg",
-   "d": "2026-11-16T15:37:00+00:00",
-   "c": [
-    "zhyttia"
    ]
   },
   {
@@ -3195,16 +3105,6 @@
    "d": "2026-11-16T15:27:41+00:00",
    "c": [
     "viyna"
-   ]
-  },
-  {
-   "t": "Raye, Rosalía та Бруно Марс: Американська академія звукозапису оголосила номінантів \"Ґреммі\"",
-   "s": "Українська правда. Життя",
-   "u": "https://life.pravda.com.ua/culture/gremmi-2027-ogolosheno-nominantiv-ta-novi-kategoriji-premiji-319099/",
-   "i": "https://imglife.pravda.com.ua/life/images/doc/4/3/149877/435dba05054403a5f25424d55bca52b2.jpeg?w=390&q=90&f=jpeg",
-   "d": "2026-11-16T15:26:00+00:00",
-   "c": [
-    "zhyttia"
    ]
   },
   {
@@ -3245,16 +3145,6 @@
    ]
   },
   {
-   "t": "Банановий хліб із корицею та вершковим кремом: рецепт, який підкорив TikTok",
-   "s": "Українська правда. Життя",
-   "u": "https://life.pravda.com.ua/food/trendoviy-bananoviy-hlib-z-koriceyu-ta-vershkovim-kremom-319097/",
-   "i": "https://imglife.pravda.com.ua/life/images/doc/8/f/149873/8f1ec047443ec28c58bc9ac54c96d746.jpeg?w=390&q=90&f=jpeg",
-   "d": "2026-11-16T15:08:00+00:00",
-   "c": [
-    "zhyttia"
-   ]
-  },
-  {
    "t": "В Україні знову обмежили швидкість Starshield: перебої зі зв'язком заважають збивати дрони",
    "s": "24 Канал",
    "u": "https://24tv.ua/nove-obmezhennya-roboti-starshield-de-sposterigayut-chomu-zavazhaye_n3179407",
@@ -3263,16 +3153,6 @@
    "d": "2026-11-16T15:05:00+00:00",
    "c": [
     "viyna"
-   ]
-  },
-  {
-   "t": "Вчителі спецшкіл вперше самостійно обиратимуть підручники: як відбуватиметься конкурс",
-   "s": "Українська правда. Життя",
-   "u": "https://life.pravda.com.ua/society/vchiteli-specshkil-samostiyno-obiratimut-pidruchniki-319098/",
-   "i": "https://imglife.pravda.com.ua/life/images/doc/0/0/149870/00a32c12a94d5aa7d77efd60f4435d8f.jpeg?w=390&q=90&f=jpeg",
-   "d": "2026-11-16T15:05:00+00:00",
-   "c": [
-    "zhyttia"
    ]
   },
   {
@@ -3420,16 +3300,6 @@
    ]
   },
   {
-   "t": "Після 5 років пошуків: вчені відкрили нові види крихітних рогатих жаб у Гімалаях",
-   "s": "Українська правда. Життя",
-   "u": "https://life.pravda.com.ua/society/vcheni-vidkrili-5-novih-vidiv-miniatyurnih-zhab-u-gimalayah-319096/",
-   "i": "https://imglife.pravda.com.ua/life/images/doc/f/b/149863/fba12e757eaeddfcadbaa568bb826685.jpeg?w=390&q=90&f=jpeg",
-   "d": "2026-11-16T14:25:00+00:00",
-   "c": [
-    "zhyttia"
-   ]
-  },
-  {
    "t": "Коли будуть зимові канікули у школах України у цьому навчальному році",
    "s": "24 Канал",
    "u": "https://24tv.ua/education/zimovi-kanikuli-2026-2027-shkolah-ukrayini-koli-vidpochivatimut_n3179262",
@@ -3452,16 +3322,6 @@
    ]
   },
   {
-   "t": "Не лише бадьорить: вчені дослідили, як кава впливає на кишківник",
-   "s": "Українська правда. Життя",
-   "u": "https://life.pravda.com.ua/health/yak-kava-vplivaye-na-kishkivnik-doslidzhennya-319095/",
-   "i": "https://imglife.pravda.com.ua/life/images/doc/e/d/149858/ede27588685d20550712e970ce40d7e6.jpeg?w=390&q=90&f=jpeg",
-   "d": "2026-11-16T14:15:00+00:00",
-   "c": [
-    "zhyttia"
-   ]
-  },
-  {
    "t": "У Кремлі заявили, що Україна стане однією з тем переговорів Трампа, Путіна та Сі в Китаї",
    "s": "24 Канал",
    "u": "https://24tv.ua/geopolitics/zustrich-putina-trampa-si-tszinpina-shenchzheni-ushakov-rozkriv_n3181463",
@@ -3474,16 +3334,6 @@
    ]
   },
   {
-   "t": "Пиріг \"Коврижка\" з варенням і горіхами: простий рецепт від військового кухаря",
-   "s": "Українська правда. Життя",
-   "u": "https://life.pravda.com.ua/food/pirig-kovrizhka-recept-vid-viyskovogo-kuharya-319094/",
-   "i": "https://imglife.pravda.com.ua/life/images/doc/9/6/149853/96b582611d41178eb780c3b0619dc4c9.jpeg?w=390&q=90&f=jpeg",
-   "d": "2026-11-16T14:04:00+00:00",
-   "c": [
-    "zhyttia"
-   ]
-  },
-  {
    "t": "Бензин на російських АЗС зникає: удари дронів по НПЗ обвалили продажі",
    "s": "24 Канал",
    "u": "https://24tv.ua/economy/defitsit-benzinu-rosiyi-yak-udari-po-npz-obvalili-prodazhi-palnogo_n3181430",
@@ -3492,19 +3342,6 @@
    "d": "2026-11-16T14:03:02+00:00",
    "c": [
     "ekonomika"
-   ]
-  },
-  {
-   "t": "\"Працюємо як живі кінокамери\": як німецький художник Пауль Мацейовський возить німецьких митців у воєнний Київ",
-   "s": "Українська правда. Життя",
-   "u": "https://life.pravda.com.ua/culture/yak-hudozhnik-paul-maceyovskiy-vozit-nimeckih-mitciv-u-kijiv-319093/",
-   "i": "https://imglife.pravda.com.ua/life/images/doc/d/c/149860/dc77c5fac45acd660ec5bbc1629ddca6.jpeg?w=390&q=90&f=jpeg",
-   "d": "2026-11-16T14:00:00+00:00",
-   "c": [
-    "zhyttia"
-   ],
-   "r": [
-    "kyiv"
    ]
   },
   {
