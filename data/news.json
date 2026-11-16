@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T05:31:05+00:00",
+ "updated": "2026-11-16T05:40:45+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -158,6 +158,31 @@
  ],
  "top": [
   {
+   "t": "Фон дер Ляєн розкрила формат участі Європи у переговорах між Україною і Росією",
+   "u": "https://24tv.ua/uchast-yevropi-mirnih-peregovorah-fon-der-lyayen-nazvala-format_n3181031",
+   "i": "https://24tv.ua/resources/photos/news/202611/3181031.jpg?v=1794807313000&q=100",
+   "n": 4,
+   "l": [
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/uchast-yevropi-mirnih-peregovorah-fon-der-lyayen-nazvala-format_n3181031"
+    },
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/1453398-evropa-tisno-dolucitsa-do-mirnih-peregovoriv-miz-ukrainou-ta-rosieu-ursula-fon-der-laen/"
+    },
+    {
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/15/8063001/"
+    },
+    {
+     "s": "Інтерфакс-Україна",
+     "u": "https://interfax.com.ua/news/general/1236787.html"
+    }
+   ],
+   "d": "2026-11-16T05:36:00+00:00"
+  },
+  {
    "t": "У Китаї підтвердили зустріч Трампа, Путіна та Сі Цзіньпіна цього тижня",
    "u": "https://suspilne.media/1453406-u-kitai-pidtverdili-zustric-trampa-putina-ta-si-czinpina-cogo-tizna/",
    "i": "https://cdn4.suspilne.media/images/default.jpg",
@@ -198,27 +223,6 @@
     }
    ],
    "d": "2026-11-16T03:47:00+00:00"
-  },
-  {
-   "t": "Європа тісно долучиться до мирних переговорів між Україною та Росією — Урсула фон дер Ляєн",
-   "u": "https://suspilne.media/1453398-evropa-tisno-dolucitsa-do-mirnih-peregovoriv-miz-ukrainou-ta-rosieu-ursula-fon-der-laen/",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "n": 3,
-   "l": [
-    {
-     "s": "Суспільне",
-     "u": "https://suspilne.media/1453398-evropa-tisno-dolucitsa-do-mirnih-peregovoriv-miz-ukrainou-ta-rosieu-ursula-fon-der-laen/"
-    },
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/15/8063001/"
-    },
-    {
-     "s": "Інтерфакс-Україна",
-     "u": "https://interfax.com.ua/news/general/1236787.html"
-    }
-   ],
-   "d": "2026-11-16T00:46:09+00:00"
   },
   {
    "t": "«Як підліток»: що Байден написав у мемуарах про Путіна, Зеленського й Трампа",
@@ -362,6 +366,71 @@
  ],
  "items": [
   {
+   "t": "Корецький обговорює з ЄС екстрений пакет допомоги, Зеленський заявив про підготовку РФ нових ударів: новини 16 листопада",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1453403-koreckij-obgovorue-z-es-ekstrenij-paket-dopomogi-zelenskij-zaaviv-pro-pidgotovku-rf-novih-udariv-novini-16-listopada/",
+   "x": "Фон дер Ляєн: Європа долучиться до мирних переговорів. Спікер Молдови відкинув федералізацію країни. Кос обговорила з Корецьким реформи для вступу в ЄС",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-16T05:39:05+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Якою буде погода на Закарпатті 16 листопада",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/uzhhorod/1453395-akou-bude-pogoda-na-zakarpatti-16-listopada/",
+   "x": "Мінливу хмарність без опадів прогнозують синоптики на Закарпатті 16 листопада.Про це повідомили у Закарпатському обласному центрі з гідрометеорології.",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-16T05:37:58+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "zakarpattia"
+   ]
+  },
+  {
+   "t": "Атаковано кілька енергооб'єктів: що відомо про наслідки дронової атаки на Черкащині",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/cherkasy/1453184-atakovano-kilka-energoobektiv-so-vidomo-pro-naslidki-dronovoi-ataki-na-cerkasini/",
+   "x": "У Черкаській області під час повітряних тривог 15-16 листопада було чутно звуки вибухів. Російські війська атакували область ударними безпілотниками. В регіоні працювали сили ППО",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-16T05:36:12+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "cherkasy"
+   ]
+  },
+  {
+   "t": "Фон дер Ляєн розкрила формат участі Європи у переговорах між Україною і Росією",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/uchast-yevropi-mirnih-peregovorah-fon-der-lyayen-nazvala-format_n3181031",
+   "x": "Європа братиме участь у мирних переговорах між Україною та Росією у форматі E5 та інституцій ЄС. Водночас союзники планують посилювати тиск на Москву.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3181031.jpg?v=1794807313000&q=100",
+   "d": "2026-11-16T05:36:00+00:00",
+   "c": [
+    "holovne",
+    "viyna"
+   ]
+  },
+  {
+   "t": "Дощ та до 12 градусів тепла: якою буде погода на Кіровоградщині упродовж тижня",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/kropyvnytskiy/1453361-dos-ta-do-12-gradusiv-tepla-akou-bude-pogoda-na-kirovogradsini-uprodovz-tizna/",
+   "x": "16-20 листопада на території Кіровоградщини синоптики прогнозують переважно хмарну погоду з дощем. Максимальна денна температура повітря упродовж тижня сягатиме 12 градусів тепла",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-16T05:34:00+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kirovohrad"
+   ]
+  },
+  {
    "t": "Як вимикають світло на Сумщині у листопаді",
    "s": "Суспільне",
    "u": "https://suspilne.media/sumy/1442525-ak-vimikaut-svitlo-na-sumsini-u-listopadi/",
@@ -407,20 +476,6 @@
    ]
   },
   {
-   "t": "Через планові роботи у Дніпрі, Жовтих Водах та Павлограді 16 листопада не буде світла: адреси",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/dnipro/1453308-cerez-planovi-roboti-u-dnipri-zovtih-vodah-ta-pavlogradi-16-listopada-ne-bude-svitla-adresi/",
-   "x": "У Дніпрі, Павлограді та Жовтих Водах через планові ремонтні роботи 16 листопада тимчасово припинять подачу електроенергії на кількох вулицях",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-16T05:19:22+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "dnipro"
-   ]
-  },
-  {
    "t": "Унаслідок атаки FPV-дрона на Запоріжжі загинув чоловік",
    "s": "Інтерфакс-Україна",
    "u": "https://interfax.com.ua/news/general/1236803.html",
@@ -455,20 +510,6 @@
    "c": [
     "holovne",
     "viyna"
-   ]
-  },
-  {
-   "t": "На Дніпропетровщині 16 листопада діятимуть погодинні вимкнення світла: графіки",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/dnipro/1453381-na-dnipropetrovsini-16-listopada-diatimut-pogodinni-vimknenna-svitla-grafiki/",
-   "x": "На Дніпропетровщині та у частині регіонів України 16 листопада діятимуть обмеження споживання електроенергії. Графіки для всіх категорій споживачів застосовують протягом доби. Ситуація може змінюватися",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-16T05:10:28+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "dnipro"
    ]
   },
   {
@@ -837,6 +878,20 @@
    ]
   },
   {
+   "t": "Через планові роботи у Дніпрі, Жовтих Водах та Павлограді 16 листопада не буде світла: адреси",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/dnipro/1453308-cerez-planovi-roboti-u-dnipri-zovtih-vodah-ta-pavlogradi-16-listopada-ne-bude-svitla-adresi/",
+   "x": "У Дніпрі, Павлограді та Жовтих Водах через планові ремонтні роботи 16 листопада тимчасово припинять подачу електроенергії на кількох вулицях",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-16T03:19:22+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "dnipro"
+   ]
+  },
+  {
    "t": "Третій день перебоїв в авіасполученні США: 15 листопада вони зачепили понад 11,5 тисячі рейсів",
    "s": "Суспільне",
    "u": "https://suspilne.media/1453400-tretij-den-pereboiv-v-aviaspolucenni-ssa-15-listopada-voni-zacepili-ponad-115-tisaci-rejsiv/",
@@ -845,6 +900,20 @@
    "d": "2026-11-16T03:14:07+00:00",
    "c": [
     "holovne"
+   ]
+  },
+  {
+   "t": "На Дніпропетровщині 16 листопада діятимуть погодинні вимкнення світла: графіки",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/dnipro/1453381-na-dnipropetrovsini-16-listopada-diatimut-pogodinni-vimknenna-svitla-grafiki/",
+   "x": "На Дніпропетровщині та у частині регіонів України 16 листопада діятимуть обмеження споживання електроенергії. Графіки для всіх категорій споживачів застосовують протягом доби. Ситуація може змінюватися",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-16T03:10:28+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "dnipro"
    ]
   },
   {
@@ -1194,6 +1263,20 @@
    "c": [
     "holovne",
     "vazhlyve"
+   ],
+   "r": [
+    "vinnytsia"
+   ]
+  },
+  {
+   "t": "На Вінниччині внаслідок атаки РФ є влучання в об'єкт критичної промисловості",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/vinnytsia/1453396-na-vinniccini-vnaslidok-ataki-rf-e-vlucanna-v-obekt-kriticnoi-promislovosti/",
+   "x": "У ніч на 16 листопада російські війська атакували Вінниччину. За даними ОВА, є влучання в об'єкт критичної промисловості. Загиблих і травмованих немає",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-15T22:39:13+00:00",
+   "c": [
+    "holovne"
    ],
    "r": [
     "vinnytsia"
@@ -1596,20 +1679,6 @@
    ]
   },
   {
-   "t": "На Вінниччині внаслідок атаки РФ є влучання в об'єкт критичної промисловості",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/vinnytsia/1453396-na-vinniccini-vnaslidok-ataki-rf-e-vlucanna-v-obekt-kriticnoi-promislovosti/",
-   "x": "У ніч на 16 листопада російські війська атакували Вінниччину. За даними ОВА, є влучання в об'єкт критичної промисловості. Загиблих і травмованих немає",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-15T20:39:13+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "vinnytsia"
-   ]
-  },
-  {
    "t": "Автоцентр Mercedes зруйновано в Одесі під час атаки РФ, про постраждалих не повідомляється",
    "s": "Інтерфакс-Україна",
    "u": "https://interfax.com.ua/news/general/1236785.html",
@@ -1909,17 +1978,6 @@
    ]
   },
   {
-   "t": "Найкращі моменти церемонії введення до Зали слави рок-н-ролу 2026",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/culture/1453303-najkrasi-momenti-ceremonii-vvedenna-do-zali-slavi-rok-n-rolu-2026/",
-   "x": "Філ Коллінз виголосив слізну промову з нагоди прийняття нагороди та отримав зворушливу данину від Синтії Еріво, Опра Вінфрі ввела до Зали слави покійного Лютера Вандросса",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-15T19:36:19+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "Зеленський: Росія зосередила удари на Запоріжжі й в Дніпропетровській області",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/energetics/zelenskij-rosija-zoseredila-udari-na-zaporizhzhi-j-dniprovshchini.html",
@@ -1935,48 +1993,12 @@
    ]
   },
   {
-   "t": "На Миколаївщині 16 листопада діятимуть планові відключення електроенергії",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/mykolaiv/1453363-na-mikolaivsini-16-listopada-diatimut-planovi-vidklucenna-elektroenergii/",
-   "x": "У Миколаївській області 16 листопада деякі вулиці залишаться без електропостачання — це пов'язано із поточними ремонтами та з підготовкою до осінньо-зимового періоду.",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-15T19:33:20+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "mykolaiv"
-   ]
-  },
-  {
-   "t": "У Гагаузії відбулися вибори башкана та депутатів Народних зборів",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1453352-u-gagauzii-vidbulisa-vibori-baskana-ta-deputativ-narodnih-zboriv/",
-   "x": "Жителі автономії Молдови обирають голову регіону на найближчі чотири роки та новий склад законодавчого органу Гагаузії. За посаду голови автономії борються вісім кандидатів, за 35 депутатських місць — 132 претенденти",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-15T19:32:26+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "Зеленський: Ми зупинили вже більше 55% нафтопереробних спроможностей РФ",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/15/8062991/",
    "x": "Володимир Зеленський повідомив, що завдяки ударам Україні вдалося вивести з ладу понад 55 відсотків нафтопереробних підприємств Росії.",
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/2/957539/72ce08c06d2a3e9d6f1e354f343ced2c.jpeg",
    "d": "2026-11-15T19:30:00+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
-   "t": "Україна провела найуспішніший за вісім місяців Гран-прі з дзюдо: хто здобув медалі",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/sport/1453358-ukraina-provela-najuspisnisij-za-visim-misaciv-gran-pri-z-dzudo-hto-zdobuv-medali/",
-   "x": "Збірна України з дзюдо здобула три медалі на Гран-прі Загреба: Антон Савицький виборов «золото», а Євгеній Балєвський і Михайло Свідрак — «бронзу»",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-15T19:25:30+00:00",
    "c": [
     "holovne"
    ]
@@ -2011,7 +2033,6 @@
    "i": "https://24tv.ua/resources/photos/news/202611/3180957.jpg?v=1794770133000&q=100",
    "d": "2026-11-15T19:19:00+00:00",
    "c": [
-    "holovne",
     "viyna"
    ]
   },
@@ -2717,17 +2738,6 @@
    "d": "2026-11-15T12:17:00+00:00",
    "c": [
     "vazhlyve"
-   ]
-  },
-  {
-   "t": "\"Поїзд відходить\": Лавров цинічно висловився про участь Європи в переговорах щодо України",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/lavrov-vislovivsya-pro-uchast-yevropi-peregovorah-shhodo-ukrayini_n3180831",
-   "x": "У Росії знову розкритикували прагнення європейських країн долучитися до переговорів про завершення війни в Україні. Водночас у Москві заявили, що не збираються відмовлятися від цілей, які раніше визначив Володимир Путін.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3180831.jpg?v=1794744178000&q=100",
-   "d": "2026-11-15T12:15:00+00:00",
-   "c": [
-    "viyna"
    ]
   },
   {
