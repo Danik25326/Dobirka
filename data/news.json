@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T21:31:00+00:00",
+ "updated": "2026-11-17T21:40:41+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -158,56 +158,6 @@
  ],
  "top": [
   {
-   "t": "Санду заявила про російський дрон над Кишиневом: Молдова закрила повітряний простір",
-   "u": "https://zn.ua/ukr/europe/sandu-zajavila-pro-rosijskij-dron-nad-kishinevom-i-poobitsjala-domahatisja-novikh-sanktsij.html",
-   "i": "https://zn.ua/img/article/7043/22_main.webp",
-   "n": 4,
-   "l": [
-    {
-     "s": "ZN.UA",
-     "u": "https://zn.ua/ukr/europe/sandu-zajavila-pro-rosijskij-dron-nad-kishinevom-i-poobitsjala-domahatisja-novikh-sanktsij.html"
-    },
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/17/8063339/"
-    },
-    {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/dron-moldovi-17-listopada-2026-krayina-povnistyu-zakrivala-povitryaniy_n3182446"
-    },
-    {
-     "s": "Європейська правда",
-     "u": "https://www.eurointegration.com.ua/news/2026/11/17/7250222/"
-    }
-   ],
-   "d": "2026-11-17T21:13:00+00:00"
-  },
-  {
-   "t": "Росіяни ввечері атакували Дніпро: поранено трьох людей, пошкоджено консульство Австрії",
-   "u": "https://www.pravda.com.ua/news/2026/11/17/8063354/",
-   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/7/958833/27fc92b88b97005600838123f620decf.jpeg",
-   "n": 4,
-   "l": [
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/17/8063354/"
-    },
-    {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/budivli-minyustu-poshkodzheni-cherez-obstril-kiyeva-naslidki_n3182493"
-    },
-    {
-     "s": "Європейська правда",
-     "u": "https://www.eurointegration.com.ua/news/2026/11/17/7250228/"
-    },
-    {
-     "s": "Інтерфакс-Україна",
-     "u": "https://interfax.com.ua/news/general/1238194.html"
-    }
-   ],
-   "d": "2026-11-17T19:58:00+00:00"
-  },
-  {
    "t": "The Times: Україна під час атаки на Кримський міст використовувала не Starlink, а власну систему",
    "u": "https://www.pravda.com.ua/news/2026/11/17/8063357/",
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/c/958836/0cc72171d9a5c5b6ef1ed12af7a487c2.jpeg",
@@ -227,6 +177,27 @@
     }
    ],
    "d": "2026-11-17T21:27:00+00:00"
+  },
+  {
+   "t": "Санду заявила про російський дрон над Кишиневом: Молдова закрила повітряний простір",
+   "u": "https://zn.ua/ukr/europe/sandu-zajavila-pro-rosijskij-dron-nad-kishinevom-i-poobitsjala-domahatisja-novikh-sanktsij.html",
+   "i": "https://zn.ua/img/article/7043/22_main.webp",
+   "n": 3,
+   "l": [
+    {
+     "s": "ZN.UA",
+     "u": "https://zn.ua/ukr/europe/sandu-zajavila-pro-rosijskij-dron-nad-kishinevom-i-poobitsjala-domahatisja-novikh-sanktsij.html"
+    },
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/dron-moldovi-17-listopada-2026-krayina-povnistyu-zakrivala-povitryaniy_n3182446"
+    },
+    {
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/17/8063312/"
+    }
+   ],
+   "d": "2026-11-17T21:13:00+00:00"
   },
   {
    "t": "Зеленський заявив, що треба поставити \"справедливу й жорстку крапку в діяльності \"Хімпрому\"\"",
@@ -330,41 +301,115 @@
    "d": "2026-11-17T21:21:00+00:00"
   },
   {
-   "t": "«Є відповіді на вагомі кадрові питання», — Зеленський після зустрічі з керівником СБУ Покладом",
-   "u": "https://suspilne.media/1454307-e-vidpovidi-na-vagomi-kadrovi-pitanna-zelenskij-pisla-zustrici-z-kerivnikom-sbu-pokladom/",
+   "t": "У Києві через атаку Росії пошкоджено будівлі Мін'юсту, а в Дніпрі – почесне консульство Австрії",
+   "u": "https://24tv.ua/budivli-minyustu-poshkodzheni-cherez-obstril-kiyeva-naslidki_n3182493",
+   "i": "https://24tv.ua/resources/photos/news/202611/3182493.jpg?v=1794945094000&q=100",
+   "n": 2,
+   "l": [
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/budivli-minyustu-poshkodzheni-cherez-obstril-kiyeva-naslidki_n3182493"
+    },
+    {
+     "s": "Інтерфакс-Україна",
+     "u": "https://interfax.com.ua/news/general/1238194.html"
+    }
+   ],
+   "d": "2026-11-17T19:53:00+00:00"
+  },
+  {
+   "t": "Є відповіді на вагомі кадрові питання, – Зеленський після доповіді очільника СБУ",
+   "u": "https://24tv.ua/kadrovi-zmini-sbu-zelenskiy-zasluhav-dopovid-poklada_n3182476",
+   "i": "https://24tv.ua/resources/photos/news/202611/3182476.jpg?v=1794942822000&q=100",
+   "n": 2,
+   "l": [
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/kadrovi-zmini-sbu-zelenskiy-zasluhav-dopovid-poklada_n3182476"
+    },
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/1454307-e-vidpovidi-na-vagomi-kadrovi-pitanna-zelenskij-pisla-zustrici-z-kerivnikom-sbu-pokladom/"
+    }
+   ],
+   "d": "2026-11-17T19:23:00+00:00"
+  },
+  {
+   "t": "Міністр оборони Хмара: ми працюємо з американською стороною для того, щоб зняти зі Starshield обмеження швидкості",
+   "u": "https://suspilne.media/1454293-ministr-oboroni-hmara-mi-pracuemo-z-amerikanskou-storonou-dla-togo-sob-znati-zi-starshield-obmezenna-svidkosti/",
    "i": "https://cdn4.suspilne.media/images/default.jpg",
    "n": 2,
    "l": [
     {
      "s": "Суспільне",
-     "u": "https://suspilne.media/1454307-e-vidpovidi-na-vagomi-kadrovi-pitanna-zelenskij-pisla-zustrici-z-kerivnikom-sbu-pokladom/"
+     "u": "https://suspilne.media/1454293-ministr-oboroni-hmara-mi-pracuemo-z-amerikanskou-storonou-dla-togo-sob-znati-zi-starshield-obmezenna-svidkosti/"
     },
     {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/kadrovi-zmini-sbu-zelenskiy-zasluhav-dopovid-poklada_n3182476"
+     "s": "Інтерфакс-Україна",
+     "u": "https://interfax.com.ua/news/general/1238165.html"
     }
    ],
-   "d": "2026-11-17T20:43:09+00:00"
-  },
-  {
-   "t": "Пісторіус закликав критикувати не удари України по РФ, а російські атаки на цивільних",
-   "u": "https://www.pravda.com.ua/news/2026/11/17/8063345/",
-   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/c/958813/cc18078783863d63edee40ce7f84c98a.jpeg",
-   "n": 2,
-   "l": [
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/17/8063345/"
-    },
-    {
-     "s": "Європейська правда",
-     "u": "https://www.eurointegration.com.ua/news/2026/11/17/7250226/"
-    }
-   ],
-   "d": "2026-11-17T19:12:00+00:00"
+   "d": "2026-11-17T19:09:16+00:00"
   }
  ],
  "items": [
+  {
+   "t": "Знижки на житло й безкоштовні екскурсії: де вигідно відпочити військовим в Україні",
+   "s": "24 Канал",
+   "u": "https://travel.24tv.ua/de-ukrayini-viyskovi-mozhut-vidpochiti-vigidnimi-znizhkami_n3182363",
+   "x": "Подорожі можуть бути важливою частиною відновлення після служби, але для військових звичайний туристичний відпочинок не завжди є комфортним. Серед перешкод – недостатня безбар'єрність, нав'язлива увага незнайомців…",
+   "i": "https://24tv.ua/resources/photos/news/202611/3182363.jpg?v=1794932777000&q=100",
+   "d": "2026-11-17T21:40:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Україна завершила виступи у Лізі націй: календар, результати матчів і турнірна таблиця",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/sporttopnews/liga-natsiy-2026-rozklad-kalendar-usih-matchu-rezultati-ukrayini_n3146017",
+   "x": "Збірна України з футболу завершила сезон у Лізі націй УЄФА. У вересні – листопаді команда Андреа Мальдери зіграла 6 матчів.",
+   "i": "https://24tv.ua/resources/photos/news/202609/3146017.jpg?v=1789990759000&q=100",
+   "d": "2026-11-17T21:40:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "29 військових із Сум та району посмертно відзначили державними нагородами",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sumy/1454314-29-vijskovih-iz-sum-ta-rajonu-posmertno-vidznacili-derzavnimi-nagorodami/",
+   "x": "Указами Президента України державними нагородами посмертно відзначили 29 військовослужбовців Сум та району. Нагороди передали родинам загиблих",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-17T21:39:35+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Україна перемогла Грузію та зберегла місце у другому дивізіоні Ліги націй з футболу",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sport/1454309-ukraina-peremogla-gruziu-ta-zberegla-misce-u-drugomu-divizioni-ligi-nacij-z-futbolu/",
+   "x": "Збірна України з футболу: заключний матч групового етапу Ліги націй УЄФА, як пройшла гра проти Грузії, результат поєдинку, турнірна таблиця",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-17T21:38:22+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Україна шокувала Грузію голом на 53 секунді і здобула важливу перемогу у Лізі націй",
+   "s": "24 Канал",
+   "u": "https://sportnews.24tv.ua/ukrayina-gruziya-oglyad-rezultat-matchu-video-goliv-17-listopada_n3181147",
+   "x": "Збірна України обіграла Грузію з рахунком 1:0 у Лізі націй. Долю матчу вирішив гол Данила Сікана, забитий уже на 53-й секунді зустрічі.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3181147.jpg?v=1794950771000&q=100",
+   "d": "2026-11-17T21:38:00+00:00",
+   "c": [
+    "holovne",
+    "vazhlyve",
+    "sport"
+   ]
+  },
   {
    "t": "The Times: Україна під час атаки на Кримський міст використовувала не Starlink, а власну систему",
    "s": "Українська правда",
@@ -373,7 +418,8 @@
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/c/958836/0cc72171d9a5c5b6ef1ed12af7a487c2.jpeg",
    "d": "2026-11-17T21:27:00+00:00",
    "c": [
-    "holovne"
+    "holovne",
+    "vazhlyve"
    ],
    "r": [
     "crimea"
@@ -459,20 +505,6 @@
    "d": "2026-11-17T21:12:00+00:00",
    "c": [
     "holovne"
-   ]
-  },
-  {
-   "t": "Сум'яни з медалями чемпіонату України зі спортивної акробатики",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/sumy/1454312-sumani-z-medalami-cempionatu-ukraini-zi-sportivnoi-akrobatiki/",
-   "x": "У Львові завершився чемпіонат України зі спортивної акробатики. Сум'яни вибороли п'ять медалей. Зокрема, отримали повний комплект нагород за програмою «9–15 років» серед жіночих пар",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T21:09:28+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "lviv"
    ]
   },
   {
@@ -575,17 +607,6 @@
    ],
    "r": [
     "crimea"
-   ]
-  },
-  {
-   "t": "«Є відповіді на вагомі кадрові питання», — Зеленський після зустрічі з керівником СБУ Покладом",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1454307-e-vidpovidi-na-vagomi-kadrovi-pitanna-zelenskij-pisla-zustrici-z-kerivnikom-sbu-pokladom/",
-   "x": "За словами Зеленського, в ході зустрічі очільник СБУ Поклад запропонував комплекс внутрішніх рішень, які мають посилити Службу безпеки",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T20:43:09+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
@@ -803,11 +824,9 @@
    "t": "У Молдові, за 50 метрів від кордону з Україною, знайшли уламки безпілотника",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/17/8063353/",
-   "i": "https://img.eurointegration.com.ua/images/doc/9/0/9047690---------------.jpg",
    "d": "2026-11-17T20:12:00+00:00",
    "c": [
-    "holovne",
-    "polityka"
+    "holovne"
    ]
   },
   {
@@ -830,20 +849,6 @@
    "d": "2026-11-17T20:10:00+00:00",
    "c": [
     "holovne"
-   ]
-  },
-  {
-   "t": "На Тернопільщині 18 листопада прогнозують дощі і туман",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/ternopil/1454217-na-ternopilsini-18-listopada-prognozuut-dosi-i-tuman/",
-   "x": "На Тернопільщині 18 листопада прогнозують хмарну погоду з проясненнями. Вночі та вранці очікують слабкий туман. Вночі будуть помірні дощі. Вдень невеликі дощі",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T20:07:00+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "ternopil"
    ]
   },
   {
@@ -962,17 +967,6 @@
    ]
   },
   {
-   "t": "ЗМІ: США завдали нових ударів по Ірану",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/17/7250231/",
-   "x": "Американський військові здійснили нові авіаудари по Ірану.",
-   "i": "https://img.eurointegration.com.ua/images/doc/f/f/ff34acc-----------------.jpg",
-   "d": "2026-11-17T20:00:00+00:00",
-   "c": [
-    "polityka"
-   ]
-  },
-  {
    "t": "Росіяни ввечері атакували Дніпро: поранено трьох людей, пошкоджено консульство Австрії",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/17/8063354/",
@@ -1006,20 +1000,6 @@
    "d": "2026-11-17T19:54:00+00:00",
    "c": [
     "holovne"
-   ]
-  },
-  {
-   "t": "Погодинні вимкнення світла в Запорізькій області: графік на 18 листопада",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/zaporizhzhia/1454300-pogodinni-vimknenna-svitla-v-zaporizkij-oblasti-grafik-na-18-listopada/",
-   "x": "18 листопада в Запоріжжі та області діятимуть графіки погодинних вимкнень світла: обмеження триватимуть цілодобово для усіх 12 підчерг",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T19:53:02+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "zaporizhzhia"
    ]
   },
   {
@@ -1076,17 +1056,6 @@
    "v": 1,
    "r": [
     "crimea"
-   ]
-  },
-  {
-   "t": "Підозрюваного у шпигунстві на користь РФ військового США передали американським військовим",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/17/7250230/",
-   "x": "Військовий США, заарештований у Великій Британії на початку цього місяця за підозрою у шпигунстві на користь Росії, був переданий під варту американських військових.",
-   "i": "https://img.eurointegration.com.ua/images/doc/a/5/a5920dc-----------.jpg",
-   "d": "2026-11-17T19:50:00+00:00",
-   "c": [
-    "polityka"
    ]
   },
   {
@@ -1331,20 +1300,6 @@
    "v": 1
   },
   {
-   "t": "Російська атака на Дніпро пошкодила почесне консульство Австрії",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/17/7250228/",
-   "x": "Посольство Австрії в Україні повідомило, що російська атака на Дніпро пошкодила почесне консульство країни в місті.",
-   "i": "https://img.eurointegration.com.ua/images/doc/3/4/3496363---------------------1.jpg",
-   "d": "2026-11-17T19:25:00+00:00",
-   "c": [
-    "polityka"
-   ],
-   "r": [
-    "dnipro"
-   ]
-  },
-  {
    "t": "Зростання у 15 разів під час повномасштабної війни: фонди депутатів Київради на матеріальну допомогу виборцям сягнули 15 млн грн",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/POLITICS/zrostannja-u-15-raziv-pid-chas-vijni-fondi-deputativ-kijivradi-na-materialnu-dopomohu-vibortsjam-sjahnuli-15-mln-hrn.html",
@@ -1410,17 +1365,6 @@
    ],
    "r": [
     "volyn"
-   ]
-  },
-  {
-   "t": "Ракети ППО від Британії, реакція на Керченський міст, \"Шахед\" над Кишиневом: новини дня",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/17/7250229/",
-   "x": "Шведська армія поглузувала з Росії після удару по Керченському мосту, а заступник міністра оборони США Елбрідж Колбі засудив удари України вглиб РФ.",
-   "i": "https://img.eurointegration.com.ua/images/doc/f/e/fe8139a-20261117-udcg-jpc-0028--1--1.jpg",
-   "d": "2026-11-17T19:18:00+00:00",
-   "c": [
-    "polityka"
    ]
   },
   {
@@ -1512,20 +1456,6 @@
    ]
   },
   {
-   "t": "На Херсонщині 18 листопада очікується вітряна та дощова погода",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/kherson/1454290-na-hersonsini-18-listopada-ocikuetsa-vitrana-ta-dosova-pogoda/",
-   "x": "Вночі та вранці 18 листопада на Херсонщині очікується туман з видимістю 200-500 метрів. Вдень почнеться дощ і здійметься поривчастий вітер",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T19:13:10+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "kherson"
-   ]
-  },
-  {
    "t": "Графіки відключень світла на Миколаївщині 18 листопада",
    "s": "Суспільне",
    "u": "https://suspilne.media/mykolaiv/1454296-grafiki-vidklucen-svitla-na-mikolaivsini-18-listopada/",
@@ -1586,6 +1516,20 @@
    "c": [
     "holovne",
     "sport"
+   ]
+  },
+  {
+   "t": "Сум'яни з медалями чемпіонату України зі спортивної акробатики",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sumy/1454312-sumani-z-medalami-cempionatu-ukraini-zi-sportivnoi-akrobatiki/",
+   "x": "У Львові завершився чемпіонат України зі спортивної акробатики. Сум'яни вибороли п'ять медалей. Зокрема, отримали повний комплект нагород за програмою «9–15 років» серед жіночих пар",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-17T19:09:28+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "lviv"
    ]
   },
   {
@@ -1696,17 +1640,6 @@
    ],
    "r": [
     "kyiv"
-   ]
-  },
-  {
-   "t": "Пісторіус: варто критикувати не удари України по РФ, а російські атаки на цивільних",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/17/7250226/",
-   "x": "Міністр оборони Німеччини Борис Пісторіус заявив, що слід критикувати не українські удари по російських військових об’єктах, а атаки Росії на цивільне населення України.",
-   "i": "https://img.eurointegration.com.ua/images/doc/f/d/fdd865b-pistorius-resize.png",
-   "d": "2026-11-17T19:01:00+00:00",
-   "c": [
-    "polityka"
    ]
   },
   {
@@ -1979,17 +1912,6 @@
    ]
   },
   {
-   "t": "У Нарві закликали відновити прикордонний контроль з Латвією, якщо закриють кордон з РФ",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/17/7250225/",
-   "x": "Мер Нарви Яан Тоотс заявив, що у разі повного закриття естонсько-російського кордону слід також відновити прикордонний контроль на кордоні з Латвією.",
-   "i": "https://img.eurointegration.com.ua/images/doc/5/0/5066745-estonia-resize.png",
-   "d": "2026-11-17T18:47:00+00:00",
-   "c": [
-    "polityka"
-   ]
-  },
-  {
    "t": "Пісторіус: Німеччина та Норвегія виділять по $300 млн на закупівлю американського озброєння для України",
    "s": "Інтерфакс-Україна",
    "u": "https://interfax.com.ua/news/general/1238167.html",
@@ -2052,6 +1974,17 @@
    ]
   },
   {
+   "t": "«Є відповіді на вагомі кадрові питання», — Зеленський після зустрічі з керівником СБУ Покладом",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1454307-e-vidpovidi-na-vagomi-kadrovi-pitanna-zelenskij-pisla-zustrici-z-kerivnikom-sbu-pokladom/",
+   "x": "За словами Зеленського, в ході зустрічі очільник СБУ Поклад запропонував комплекс внутрішніх рішень, які мають посилити Службу безпеки",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-17T18:43:09+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "📢РАПТОВА РЕАКЦІЯ ЗІ США!👀УСІ КАДРИ РОЗТРОЩЕНОГО КРИМСЬКОГО МОСТУ💥Обвал символа окупації | 17.11.2026",
    "s": "5 канал · відео",
    "u": "https://www.youtube.com/watch?v=GKn8tiVG6Go",
@@ -2075,17 +2008,6 @@
    "d": "2026-11-17T18:41:39+00:00",
    "c": [
     "holovne"
-   ]
-  },
-  {
-   "t": "Санду: Молдові досі бракує оборонних можливостей, щоб захиститися від дронів",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/17/7250224/",
-   "x": "Президентка Молдови Мая Санду після того, як над Кишиневом пролетів \"шахед\" заявила, що країні досі бракує оборонних можливостей, аби захиститися від дронів.",
-   "i": "https://img.eurointegration.com.ua/images/doc/7/0/70c904f-------3.jpg",
-   "d": "2026-11-17T18:40:00+00:00",
-   "c": [
-    "polityka"
    ]
   },
   {
@@ -2151,7 +2073,6 @@
    "i": "https://24tv.ua/resources/photos/news/202611/3181145.jpg?v=1794819835000&q=100",
    "d": "2026-11-17T18:35:00+00:00",
    "c": [
-    "holovne",
     "sport"
    ]
   },
@@ -2222,20 +2143,6 @@
    ]
   },
   {
-   "t": "У селищі Балабине Запорізької області оголосили обов'язкову евакуацію родин з дітьми",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/zaporizhzhia/1454223-u-selisi-balabine-zaporizkoi-oblasti-ogolosili-obovazkovu-evakuaciu-rodin-z-ditmi/",
-   "x": "16 листопада у селищі Балабине Запорізької області оголосили про обов'язкову евакуацію родин з дітьми у зв'язку з погіршенням безпекової ситуації",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T18:27:39+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "zaporizhzhia"
-   ]
-  },
-  {
    "t": "У Дністровському районі сили ППО знищили російський безпілотник: що відомо",
    "s": "Суспільне",
    "u": "https://suspilne.media/chernivtsi/1454285-u-dnistrovskomu-rajoni-sili-ppo-znisili-rosijskij-bezpilotnik/",
@@ -2271,45 +2178,6 @@
    ]
   },
   {
-   "t": "Замість порожніх теплиць — врожай до листопада: як черкаські фермери експериментували з огірками",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/cherkasy/1453874-zamist-poroznih-teplic-vrozaj-do-listopada-ak-cerkaski-fermeri-eksperementuvali-z-ogirkami/",
-   "x": "Одне з фермерських господарств Черкащини завершує сезон збором огірків. Попри те, що ціна на овоч зросла, сезон вирішили завершити",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T18:23:00+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "cherkasy"
-   ]
-  },
-  {
-   "t": "Корабель з Бельгії сів на мілину біля узбережжя Ірландії, екіпаж евакуювали",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/17/7250223/",
-   "x": "Шістьох членів екіпажу судна Fast Jef евакуювали біля узбережжя Ірландії після того, як корабель з Бельгії сів на мілину через бурхливе море.",
-   "i": "https://img.eurointegration.com.ua/images/doc/f/0/f01d866-screenshot-2026-11-17-202430.png",
-   "d": "2026-11-17T18:23:00+00:00",
-   "c": [
-    "polityka"
-   ]
-  },
-  {
-   "t": "У Миколаєві в ДТП загинув 69-річний пішохід",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/mykolaiv/1454283-u-mikolaevi-v-dtp-zaginuv-69-ricnij-pisohid/",
-   "x": "У Миколаєві 17 листопада в ДТП на вулиці Космонавтів загинув 69-річний пішохід. Поліція встановлює обставини аварії та розшукує свідків",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T18:22:15+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "mykolaiv"
-   ]
-  },
-  {
    "t": "Північним мостом у Києві знову пустили громадський транспорт",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/17/8063338/",
@@ -2342,7 +2210,6 @@
    "i": "https://24tv.ua/resources/photos/news/202611/3182446.jpg?v=1794939164000&q=100",
    "d": "2026-11-17T18:17:00+00:00",
    "c": [
-    "holovne",
     "viyna"
    ]
   },
@@ -2354,7 +2221,6 @@
    "i": "https://24tv.ua/resources/photos/news/202611/3182195.jpg?v=1794922420000&q=100",
    "d": "2026-11-17T18:17:00+00:00",
    "c": [
-    "holovne",
     "mobilizatsiya"
    ]
   },
@@ -2371,17 +2237,6 @@
    ]
   },
   {
-   "t": "У повітряний простір Молдови залетіло сім безпілотників: частина з них розбилася",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/17/7250222/",
-   "x": "Міністерство оборони Молдови повідомило про несанкціонований проліт сімох безпілотників у її повітряному просторі під час атаки РФ на українські регіони; деякі з них розбилися.",
-   "i": "https://img.eurointegration.com.ua/images/doc/3/0/304af46---------------.jpg",
-   "d": "2026-11-17T18:16:00+00:00",
-   "c": [
-    "polityka"
-   ]
-  },
-  {
    "t": "Міністр оборони Великої Британії: стратегічний прорахунок Путіна – об'єднання Європи та НАТО навколо підтримки Україні",
    "s": "Інтерфакс-Україна",
    "u": "https://interfax.com.ua/news/general/1238149.html",
@@ -2390,6 +2245,20 @@
    "d": "2026-11-17T18:12:52+00:00",
    "c": [
     "holovne"
+   ]
+  },
+  {
+   "t": "На Тернопільщині 18 листопада прогнозують дощі і туман",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/ternopil/1454217-na-ternopilsini-18-listopada-prognozuut-dosi-i-tuman/",
+   "x": "На Тернопільщині 18 листопада прогнозують хмарну погоду з проясненнями. Вночі та вранці очікують слабкий туман. Вночі будуть помірні дощі. Вдень невеликі дощі",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-17T18:07:00+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "ternopil"
    ]
   },
   {
@@ -2507,6 +2376,20 @@
    ],
    "r": [
     "kyiv"
+   ]
+  },
+  {
+   "t": "Погодинні вимкнення світла в Запорізькій області: графік на 18 листопада",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/zaporizhzhia/1454300-pogodinni-vimknenna-svitla-v-zaporizkij-oblasti-grafik-na-18-listopada/",
+   "x": "18 листопада в Запоріжжі та області діятимуть графіки погодинних вимкнень світла: обмеження триватимуть цілодобово для усіх 12 підчерг",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-17T17:53:02+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "zaporizhzhia"
    ]
   },
   {
@@ -2698,6 +2581,20 @@
    "d": "2026-11-17T17:21:00+00:00",
    "c": [
     "holovne"
+   ]
+  },
+  {
+   "t": "На Херсонщині 18 листопада очікується вітряна та дощова погода",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/kherson/1454290-na-hersonsini-18-listopada-ocikuetsa-vitrana-ta-dosova-pogoda/",
+   "x": "Вночі та вранці 18 листопада на Херсонщині очікується туман з видимістю 200-500 метрів. Вдень почнеться дощ і здійметься поривчастий вітер",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-17T17:13:10+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kherson"
    ]
   },
   {
@@ -2902,6 +2799,20 @@
     "video"
    ],
    "v": 1
+  },
+  {
+   "t": "У селищі Балабине Запорізької області оголосили обов'язкову евакуацію родин з дітьми",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/zaporizhzhia/1454223-u-selisi-balabine-zaporizkoi-oblasti-ogolosili-obovazkovu-evakuaciu-rodin-z-ditmi/",
+   "x": "16 листопада у селищі Балабине Запорізької області оголосили про обов'язкову евакуацію родин з дітьми у зв'язку з погіршенням безпекової ситуації",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-17T16:27:39+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "zaporizhzhia"
+   ]
   },
   {
    "t": "Над столицею Молдови пролетів російський \"Шахед\", повітряний простір країни закрили",
@@ -3519,17 +3430,6 @@
    "d": "2026-11-17T12:59:00+00:00",
    "c": [
     "statti"
-   ]
-  },
-  {
-   "t": "Атака на \"Королівський смак\": у компанії заявили про масштабні руйнування та колосальні збитки",
-   "s": "Українська правда",
-   "u": "https://www.pravda.com.ua/news/2026/11/17/8063276/",
-   "x": "Пожежа, яка 17 листопада виникла на підприємстві \"Королівський смак\" унаслідок російської атаки, набула масштабів і знищила виробничі потужності та продукцію.",
-   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/2/958610/e2ae953d0632c703227437ef0df129d3.jpeg",
-   "d": "2026-11-17T12:55:00+00:00",
-   "c": [
-    "vazhlyve"
    ]
   },
   {
@@ -4847,17 +4747,6 @@
    "x": "Кремль бреше американським переговорникам про військові успіхи на Донбасі. Мета ворога – переконати США, що капітуляція України неминуча.",
    "i": "https://24tv.ua/resources/photos/news/202611/3180953.jpg?v=1794766827000&q=100",
    "d": "2026-11-15T18:23:00+00:00",
-   "c": [
-    "vazhlyve"
-   ]
-  },
-  {
-   "t": "Як вимикатимуть світло 16 листопада",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/yak-vimikatimut-svitlo-16-listopada_n3180942",
-   "x": "У понеділок, 16 листопада, у частині областей України запровадять обмеження в енергопостачанні. Графіки відключень світла діятимуть цілодобово.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3180942.jpg?v=1794764379000&q=100",
-   "d": "2026-11-15T17:36:00+00:00",
    "c": [
     "vazhlyve"
    ]
