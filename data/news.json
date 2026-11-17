@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T03:10:41+00:00",
+ "updated": "2026-11-17T03:20:39+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -225,6 +225,23 @@
    "d": "2026-11-16T22:14:00+00:00"
   },
   {
+   "t": "Молдова не конкурує з жодною країною-кандидаткою на вступ до ЄС — Санду",
+   "u": "https://suspilne.media/1453863-moldova-ne-konkurue-z-zodnou-krainou-kandidatkou-na-vstup-do-es-sandu/",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "n": 2,
+   "l": [
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/1453863-moldova-ne-konkurue-z-zodnou-krainou-kandidatkou-na-vstup-do-es-sandu/"
+    },
+    {
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/16/8063181/"
+    }
+   ],
+   "d": "2026-11-17T03:19:03+00:00"
+  },
+  {
    "t": "РФ атакувала балістикою Смілу на Черкащині: троє травмованих",
    "u": "https://www.pravda.com.ua/news/2026/11/17/8063183/",
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/5/958241/859c31ca994a2a8ef095bcbf508c9e16.jpeg",
@@ -276,23 +293,6 @@
    "d": "2026-11-16T21:48:05+00:00"
   },
   {
-   "t": "Закриття кордону Естонії з Росією торкнеться кількох тисяч пасажирів та вантажного транспорту",
-   "u": "https://24tv.ua/zakrittya-kordonu-estoniyi-rosiyeyu-yaki-naslidki-dlya-avtobusiv_n3181761",
-   "i": "https://24tv.ua/resources/photos/news/202611/3181761.jpg?v=1794865342000&q=100",
-   "n": 2,
-   "l": [
-    {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/zakrittya-kordonu-estoniyi-rosiyeyu-yaki-naslidki-dlya-avtobusiv_n3181761"
-    },
-    {
-     "s": "Європейська правда",
-     "u": "https://www.eurointegration.com.ua/news/2026/11/16/7250129/"
-    }
-   ],
-   "d": "2026-11-16T21:44:43+00:00"
-  },
-  {
    "t": "Де і як в Україні діятимуть графіки відключень 17 листопада",
    "u": "https://24tv.ua/avariyni-vidklyuchennya-svitla-v-ukrayini-grafiki-ta-perelik-mist_n2175821",
    "i": "https://24tv.ua/resources/photos/news/202210/2175821.jpg?v=1765370703000&q=100",
@@ -327,24 +327,35 @@
    "d": "2026-11-16T21:19:20+00:00"
   },
   {
-   "t": "В Італії школам масово погрожують вибухами та отруєннями учнів",
-   "u": "https://24tv.ua/minuvannya-shkil-italiyi-ponad-100-zakladiv-osviti-otrimali-pogrozi_n3181748",
-   "i": "https://24tv.ua/resources/photos/news/202611/3181748.jpg?v=1794862455000&q=100",
+   "t": "72 загиблих та четверо зниклих безвісти: у Комишувасі завершили пошуково-рятувальні роботи після авіаударів 2 листопада",
+   "u": "https://suspilne.media/zaporizhzhia/1453821-72-zagiblih-ta-cetvero-zniklih-bezvisti-u-komisuvasi-zaversili-posukovo-ratuvalni-roboti-pisla-aviaudariv-2-listopada/",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
    "n": 2,
    "l": [
     {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/minuvannya-shkil-italiyi-ponad-100-zakladiv-osviti-otrimali-pogrozi_n3181748"
+     "s": "Суспільне",
+     "u": "https://suspilne.media/zaporizhzhia/1453821-72-zagiblih-ta-cetvero-zniklih-bezvisti-u-komisuvasi-zaversili-posukovo-ratuvalni-roboti-pisla-aviaudariv-2-listopada/"
     },
     {
-     "s": "Європейська правда",
-     "u": "https://www.eurointegration.com.ua/news/2026/11/16/7250133/"
+     "s": "ZN.UA",
+     "u": "https://zn.ua/ukr/war/u-komishuvasi-zavershili-poshukovi-roboti-pislja-rosijskoho-aviaudaru-72-zahiblikh-chetvero-zniklikh-bezvisti.html"
     }
    ],
-   "d": "2026-11-16T21:01:28+00:00"
+   "d": "2026-11-16T20:27:01+00:00"
   }
  ],
  "items": [
+  {
+   "t": "Молдова не конкурує з жодною країною-кандидаткою на вступ до ЄС — Санду",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1453863-moldova-ne-konkurue-z-zodnou-krainou-kandidatkou-na-vstup-do-es-sandu/",
+   "x": "Президентка Молдови Мая Санду заявила, що Росія хоче зробити Молдову ворожою для України, як Білорусь. За її словами, Молдова дуже хоче бачити Україну в ЄС",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-17T03:19:03+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
   {
    "t": "Привітання з Днем студента 2026 – листівки та проза для друзів",
    "s": "24 Канал",
@@ -532,6 +543,17 @@
    ]
   },
   {
+   "t": "Друга ніч атаки на Москву: Росавіація обмежувала роботу чотирьох аеропортів",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1453860-druga-nic-ataki-na-moskvu-rosaviacia-obmezuvala-robotu-cotiroh-aeroportiv/",
+   "x": "Москву другу ніч поспіль атакують дрони. Росавіація кілька разів запроваджувала обмеження в аеропортах Внуково, Домодєдово й Жуковський, а також у Шереметьєво",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-17T00:37:08+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "Мародерство на Херсонщині: Росія планує відібрати на ТОТ понад 1100 будинків українців",
    "s": "24 Канал",
    "u": "https://24tv.ua/rosiya-hoche-privlasniti-zhitlo-hersonshhini-detali-vid-gur_n3181497",
@@ -673,6 +695,20 @@
    ]
   },
   {
+   "t": "Аксьонов заявив про нову атаку на Кримський міст",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1453858-aksonov-zaaviv-pro-novu-ataku-na-krimskij-mist/",
+   "x": "Аксьонов написав, що рух транспорту призупинено, і попросив утриматися від поїздок у напрямку мосту. Про попередній удар він заявляв 16 листопада",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-16T23:13:13+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "crimea"
+   ]
+  },
+  {
    "t": "Україна – Грузія: онлайн-трансляція матчу Ліги націй",
    "s": "24 Канал",
    "u": "https://sportnews.24tv.ua/ukrayina-gruziya-divitis-onlayn-pryama-translyatsiya-matchu-17_n3181146",
@@ -748,17 +784,6 @@
    ],
    "r": [
     "cherkasy"
-   ]
-  },
-  {
-   "t": "Друга ніч атаки на Москву: Росавіація обмежувала роботу чотирьох аеропортів",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1453860-druga-nic-ataki-na-moskvu-rosaviacia-obmezuvala-robotu-cotiroh-aeroportiv/",
-   "x": "Москву другу ніч поспіль атакують дрони. Росавіація кілька разів запроваджувала обмеження в аеропортах Внуково, Домодєдово й Жуковський, а також у Шереметьєво",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-16T22:37:08+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
@@ -1004,11 +1029,9 @@
    "t": "Санду: Молдова не конкурує з жодною країною-кандидаткою на вступ у ЄС",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/16/8063181/",
-   "i": "https://img.eurointegration.com.ua/images/doc/1/b/1bb981b-------3.jpg",
    "d": "2026-11-16T21:57:00+00:00",
    "c": [
-    "holovne",
-    "polityka"
+    "holovne"
    ]
   },
   {
@@ -1074,20 +1097,6 @@
    "d": "2026-11-16T21:44:43+00:00",
    "c": [
     "holovne"
-   ]
-  },
-  {
-   "t": "Погодинні відключення світла у Запорізькій області: графік на 17 листопада",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/zaporizhzhia/1453833-pogodinni-vidklucenna-svitla-u-zaporizkij-oblasti-grafik-na-17-listopada-2/",
-   "x": "У Запоріжжі та області 17 листопада запровадять графіки погодинних відключень електроенергії: обмеження діятимуть для всіх 12 підчерг протягом доби",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-16T21:43:03+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "zaporizhzhia"
    ]
   },
   {
@@ -1362,20 +1371,6 @@
    ]
   },
   {
-   "t": "Аксьонов заявив про нову атаку на Кримський міст",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1453858-aksonov-zaaviv-pro-novu-ataku-na-krimskij-mist/",
-   "x": "Аксьонов написав, що рух транспорту призупинено, і попросив утриматися від поїздок у напрямку мосту. Про попередній удар він заявляв 16 листопада",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-16T21:13:13+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "crimea"
-   ]
-  },
-  {
    "t": "Коли не буде світла на Миколаївщині 17 листопада: графік відключень",
    "s": "Суспільне",
    "u": "https://suspilne.media/mykolaiv/1453796-koli-ne-bude-svitla-na-mikolaivsini-17-listopada-grafik-vidklucen/",
@@ -1535,17 +1530,6 @@
    ]
   },
   {
-   "t": "ЄС готує санкції проти Ірану після кібератаки на холодильники в супермаркетах",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1453834-es-gotue-sankcii-proti-iranu-pisla-kiberataki-na-holodilniki-v-supermarketah/",
-   "x": "За словами Каллас, останні кібератаки продемонстрували, що європейські країни не перебувають поза зоною досяжності Тегерана. Наразі триває підготовка додаткових санкцій",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-16T20:59:19+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "Сезон затишних вечорів: 3 рецепти кави, які захочеться готувати вдома",
    "s": "24 Канал",
    "u": "https://24tv.ua/lifehacks24/zabudte-pro-kavyarni-3-retsepti-kavi-yaki-mozhna-zrobiti-vdoma_n3181746",
@@ -1610,8 +1594,7 @@
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/9/958222/699b1f2fc50b882c0c5f4dcefe68b593.jpeg",
    "d": "2026-11-16T20:48:00+00:00",
    "c": [
-    "holovne",
-    "polityka"
+    "holovne"
    ]
   },
   {
@@ -1673,6 +1656,17 @@
    "x": "Президент Володимир Зеленський підписав укази, якими ввів у дію рішення РНБО про застосування санкцій проти 7 морських суден тіньового флоту РФ, та 6 росіян, причетних до примусової паспортизації українців на ТОТ",
    "i": "https://cdn4.suspilne.media/images/default.jpg",
    "d": "2026-11-16T20:34:44+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "США виграли жіночий ЧС-2026 з хокею і повторили унікальний «дубль» Канади на топтурнірах",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sport/1453822-ssa-vigrali-zinocij-cs-2026-z-hokeu-i-povtorili-unikalnij-dubl-kanadi-na-topturnirah/",
+   "x": "Чемпіонат світу з хокею серед жінок: фінальний поєдинок між збірними США та Канади, як пройшов матч, що відомо, результат зустрічі",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-16T20:33:25+00:00",
    "c": [
     "holovne"
    ]
@@ -2083,6 +2077,20 @@
    ]
   },
   {
+   "t": "Погодинні відключення світла у Запорізькій області: графік на 17 листопада",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/zaporizhzhia/1453833-pogodinni-vidklucenna-svitla-u-zaporizkij-oblasti-grafik-na-17-listopada-2/",
+   "x": "У Запоріжжі та області 17 листопада запровадять графіки погодинних відключень електроенергії: обмеження діятимуть для всіх 12 підчерг протягом доби",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-16T19:43:03+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "zaporizhzhia"
+   ]
+  },
+  {
    "t": "Козацькі кладовища та стародавні кургани на Одещині: які пам'ятки збереглися та що їм загрожує",
    "s": "Суспільне",
    "u": "https://suspilne.media/odesa/1453327-kozacki-kladovisa-ta-starodavni-kurgani-na-odesini-aki-pamatki-zbereglisa-ta-so-im-zagrozue/",
@@ -2183,17 +2191,6 @@
    ]
   },
   {
-   "t": "В Італії щонайменше 100 шкіл отримали погрози вибухами та отруєнням",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/16/7250133/",
-   "x": "У понеділок, 16 листопада, щонайменше сотня італійських шкіл отримала електронні листи з погрозами про вибухи та отруєння, що спричинило запуск нового протоколу безпеки, запровадженого урядом після подібних погроз…",
-   "i": "https://img.eurointegration.com.ua/images/doc/9/2/9231859--------------.jpg",
-   "d": "2026-11-16T19:35:00+00:00",
-   "c": [
-    "polityka"
-   ]
-  },
-  {
    "t": "Кушнер заявив про підготовку до багатосторонньої зустрічі щодо війни в Україні",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/16/8063172/",
@@ -2203,20 +2200,6 @@
    "c": [
     "holovne",
     "vazhlyve"
-   ]
-  },
-  {
-   "t": "«Скопіювали і відправили в ізолятор»: суд у Кременчуці продовжив тримання під вартою депутату облради Дядику",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/poltava/1453825-skopiuvali-i-vidpravili-v-izolator-sud-u-kremencuci-prodovziv-trimanna-pid-vartou-deputatu-oblradi-dadiku/",
-   "x": "Суд Кременчука 16 листопада залишив депутата Полтавської обласної ради Олега Дядика та його водія під вартою ще на два місяці. Подробиці - у матеріалі",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-16T19:30:07+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "poltava"
    ]
   },
   {
@@ -2370,17 +2353,6 @@
    ]
   },
   {
-   "t": "Рекорд допомоги ЄС за реформи, військові Франції вже в Україні, нові санкції ЄС: новини дня",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/16/7250132/",
-   "x": "Зеленський розповів про \"непросту\" розмову України, США та Європи на рівні команд.",
-   "i": "https://img.eurointegration.com.ua/images/doc/c/d/cdc045f-ukraine-1.jpg",
-   "d": "2026-11-16T19:11:00+00:00",
-   "c": [
-    "polityka"
-   ]
-  },
-  {
    "t": "Удар по «Кримському мосту» | Чи вплине це на перебіг зустрічі Трампа, Путіна та Сі? | 16 листопада",
    "s": "Суспільне Новини · відео",
    "u": "https://www.youtube.com/watch?v=hYMgauXzHEQ",
@@ -2393,17 +2365,6 @@
    "v": 1,
    "r": [
     "crimea"
-   ]
-  },
-  {
-   "t": "Кушнер: розпочалася підготовка до багатосторонньої зустрічі щодо війни в Україні",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/16/7250130/",
-   "x": "Спецпредставник американського президента Дональда Трампа Джаред Кушнер розповів про спілкування з помічником володаря Росії Юрієм Ушаковим, а також з Україною та представниками Європи.",
-   "i": "https://img.eurointegration.com.ua/images/doc/0/5/056f1ad---------------.jpg",
-   "d": "2026-11-16T19:10:00+00:00",
-   "c": [
-    "polityka"
    ]
   },
   {
@@ -2499,6 +2460,17 @@
    ]
   },
   {
+   "t": "ЄС готує санкції проти Ірану після кібератаки на холодильники в супермаркетах",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1453834-es-gotue-sankcii-proti-iranu-pisla-kiberataki-na-holodilniki-v-supermarketah/",
+   "x": "За словами Каллас, останні кібератаки продемонстрували, що європейські країни не перебувають поза зоною досяжності Тегерана. Наразі триває підготовка додаткових санкцій",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-16T18:59:19+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "У Комишувасі завершили пошукові роботи: російський удар забрав життя 72 людей",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/16/8063170/",
@@ -2531,8 +2503,7 @@
    "d": "2026-11-16T18:53:00+00:00",
    "c": [
     "holovne",
-    "vazhlyve",
-    "polityka"
+    "vazhlyve"
    ]
   },
   {
@@ -2576,17 +2547,6 @@
    ]
   },
   {
-   "t": "Закриття кордону Естонії з РФ зупинить рух автобусів та вантажного транспорту",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/16/7250129/",
-   "x": "Заплановане закриття кордону Естонії з Росією насамперед торкнеться пасажирських перевезень та вантажоперевезень автомобільними дорогами, хоча частину вантажів поки що можна буде направляти через Латвію.",
-   "i": "https://img.eurointegration.com.ua/images/doc/5/3/535d405-smartcrop--1-.jpg",
-   "d": "2026-11-16T18:49:00+00:00",
-   "c": [
-    "polityka"
-   ]
-  },
-  {
    "t": "Влучна робота з турелі: морський дрон Sargan 3000 вдруге знищив російський МБеК",
    "s": "24 Канал",
    "u": "https://24tv.ua/military/biy-morskih-droniv-sargan-3000-znishhiv-bezekipazhniy-kater-rosiyi_n3181695",
@@ -2608,17 +2568,6 @@
     "video"
    ],
    "v": 1
-  },
-  {
-   "t": "У Кремлі стверджують, що участь Європи в мирних переговорах не узгоджували з Росією",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/16/7250128/",
-   "x": "Помічник володаря Росії Юрій Ушаков стверджує, що залучення представників Європейського Союзу до тристоронніх переговорів щодо завершення російсько-української війни з РФ не узгоджувалося.",
-   "i": "https://img.eurointegration.com.ua/images/doc/a/4/a4b7ad2-------.jpg",
-   "d": "2026-11-16T18:45:00+00:00",
-   "c": [
-    "polityka"
-   ]
   },
   {
    "t": "Стефанчук заявив про потребу створити систему голосування на випадок руйнування Ради",
@@ -2666,17 +2615,6 @@
    ]
   },
   {
-   "t": "США виграли жіночий ЧС-2026 з хокею і повторили унікальний «дубль» Канади на топтурнірах",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/sport/1453822-ssa-vigrali-zinocij-cs-2026-z-hokeu-i-povtorili-unikalnij-dubl-kanadi-na-topturnirah/",
-   "x": "Чемпіонат світу з хокею серед жінок: фінальний поєдинок між збірними США та Канади, як пройшов матч, що відомо, результат зустрічі",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-16T18:33:25+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "⚡️ПОТУЖНИЙ УДАР ПО РФ!💣ЗАБЛОКОВАНІ банки та НПЗ❌ЄС взявся за власницю Wildberries📢113 осіб - У БАН",
    "s": "5 канал · відео",
    "u": "https://www.youtube.com/watch?v=wglx7fFEGTA",
@@ -2697,28 +2635,6 @@
    "d": "2026-11-16T18:28:00+00:00",
    "c": [
     "holovne"
-   ]
-  },
-  {
-   "t": "У Франції на протесті затримали 12-річну дівчинку",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/16/7250126/",
-   "x": "У Парижі під час акції протесту проти високої вартості життя поліція затримала 12-річну дівчинку; її взяли під варту наприкінці демонстрації в суботу, 14 листопада.",
-   "i": "https://img.eurointegration.com.ua/images/doc/9/b/9b9c01a-----------------.jpg",
-   "d": "2026-11-16T18:27:00+00:00",
-   "c": [
-    "polityka"
-   ]
-  },
-  {
-   "t": "ЄС планує санкції проти Ірану після кібератак на холодильники в супермаркетах",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/16/7250127/",
-   "x": "Європейський Союз планує ввести нові санкції проти Ірану після серії кібератак на холодильні системи супермаркетів в європейських країнах.",
-   "i": "https://img.eurointegration.com.ua/images/doc/e/2/e268882-prztehc4t4-v1-ax-w800h450.jpeg",
-   "d": "2026-11-16T18:26:00+00:00",
-   "c": [
-    "polityka"
    ]
   },
   {
