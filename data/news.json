@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T09:31:06+00:00",
+ "updated": "2026-11-17T09:40:38+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -183,27 +183,6 @@
    "d": "2026-11-17T07:17:55+00:00"
   },
   {
-   "t": "Відродив Могилянку: В'ячеслава Брюховецького посмертно нагородили орденом Свободи",
-   "u": "https://24tv.ua/education/ru/vjacheslav-brjuhoveckij-geroj-ukrainy-posmertno-nagrazhden-ordenom-svobody_n3181917",
-   "i": "https://24tv.ua/resources/photos/news/202611/3181898.jpg?v=1794905308000&q=100",
-   "n": 3,
-   "l": [
-    {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/education/ru/vjacheslav-brjuhoveckij-geroj-ukrainy-posmertno-nagrazhden-ordenom-svobody_n3181917"
-    },
-    {
-     "s": "Суспільне",
-     "u": "https://suspilne.media/culture/1453949-vaceslava-bruhoveckogo-posmertno-nagorodili-ordenom-svobodi/"
-    },
-    {
-     "s": "Українська правда. Життя",
-     "u": "https://life.pravda.com.ua/society/v-yacheslava-bryuhoveckogo-posmertno-nagorodili-ordenom-svobodi-319108/"
-    }
-   ],
-   "d": "2026-11-17T09:03:00+00:00"
-  },
-  {
    "t": "Спецпосланці Трампа зустрінуться в Берліні з представниками України та ЄС щодо мирного плану — ЗМІ",
    "u": "https://zn.ua/ukr/POLITICS/spetsposlantsi-trampa-zustrinutsja-v-berlini-z-predstavnikami-ukrajini-ta-jes-shchodo-mirnoho-planu-zmi.html",
    "i": "https://zn.ua/img/article/7042/40_main.webp",
@@ -225,6 +204,23 @@
    "d": "2026-11-17T06:57:00+00:00"
   },
   {
+   "t": "Україна — Грузія: анонс, де і коли дивитися заключний матч Ліги націй",
+   "u": "https://zn.ua/ukr/SPORT/ukrajina-hruzia-anons-de-i-koli-divitisja-match-lihi-natsij.html",
+   "i": "https://zn.ua/img/article/7040/13_main.webp",
+   "n": 2,
+   "l": [
+    {
+     "s": "ZN.UA",
+     "u": "https://zn.ua/ukr/SPORT/ukrajina-hruzia-anons-de-i-koli-divitisja-match-lihi-natsij.html"
+    },
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/sporttopnews/ukrayina-gruziya-de-divitis-onlayn-match-17-listopada-liga-natsiy_n3181134"
+    }
+   ],
+   "d": "2026-11-17T09:36:00+00:00"
+  },
+  {
    "t": "Посол ЄС: Україна має розробити закон щодо відбору генпрокурора для позитивного звіту IBAR",
    "u": "https://www.pravda.com.ua/news/2026/11/17/8063237/",
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/6/958452/b6491694c1395b2a354955d2fd1c04c6.jpeg",
@@ -242,38 +238,21 @@
    "d": "2026-11-17T09:21:00+00:00"
   },
   {
-   "t": "Понад 300 населених пунктів знеструмлені на Рівненщині через атаку армії РФ",
-   "u": "https://suspilne.media/rivne/1453951-ponad-300-naselenih-punktiv-znestrumleni-na-rivnensini-cerez-ataku-armii-rf/",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "t": "Відродив Могилянку: В'ячеслава Брюховецького посмертно нагородили орденом Свободи",
+   "u": "https://24tv.ua/education/vyacheslav-bryuhovetskiy-geroya-ukrayini-posmertno-nagorodili_n3181898",
+   "i": "https://24tv.ua/resources/photos/news/202611/3181898.jpg?v=1794905308000&q=100",
    "n": 2,
    "l": [
-    {
-     "s": "Суспільне",
-     "u": "https://suspilne.media/rivne/1453951-ponad-300-naselenih-punktiv-znestrumleni-na-rivnensini-cerez-ataku-armii-rf/"
-    },
     {
      "s": "24 Канал",
-     "u": "https://24tv.ua/rivnomu-progrimili-vibuhi_n3181794"
-    }
-   ],
-   "d": "2026-11-17T08:55:45+00:00"
-  },
-  {
-   "t": "Румунія підіймала винищувачі через 11 дронів біля кордону",
-   "u": "https://suspilne.media/1453947-rumunia-pidijmala-vinisuvaci-cerez-11-droniv-bila-kordonu/",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "n": 2,
-   "l": [
-    {
-     "s": "Суспільне",
-     "u": "https://suspilne.media/1453947-rumunia-pidijmala-vinisuvaci-cerez-11-droniv-bila-kordonu/"
+     "u": "https://24tv.ua/education/vyacheslav-bryuhovetskiy-geroya-ukrayini-posmertno-nagorodili_n3181898"
     },
     {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/17/8063207/"
+     "s": "Українська правда. Життя",
+     "u": "https://life.pravda.com.ua/society/v-yacheslava-bryuhoveckogo-posmertno-nagorodili-ordenom-svobodi-319108/"
     }
    ],
-   "d": "2026-11-17T08:48:07+00:00"
+   "d": "2026-11-17T09:03:00+00:00"
   },
   {
    "t": "Росіяни атакували промоб’єкти у Запоріжжі: 2 загиблих, 18 поранених",
@@ -293,23 +272,6 @@
    "d": "2026-11-17T08:18:00+00:00"
   },
   {
-   "t": "Нічна атака на Київ: пошкоджено інфраструктуру, мости, є перебої з водою та теплом",
-   "u": "https://epravda.com.ua/infrastruktura/infrastruktura-kiyeva-poshkodzhennya-mostiv-i-teplomerezh-cherez-obstril-827709/",
-   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/8/958306/b8f2e8ea0e63cf37fc5bd4e5e5c9b62d.jpeg",
-   "n": 2,
-   "l": [
-    {
-     "s": "Економічна правда",
-     "u": "https://epravda.com.ua/infrastruktura/infrastruktura-kiyeva-poshkodzhennya-mostiv-i-teplomerezh-cherez-obstril-827709/"
-    },
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/17/8063203/"
-    }
-   ],
-   "d": "2026-11-17T07:48:00+00:00"
-  },
-  {
    "t": "Кількість жертв атаки на Чернігів зросла до трьох осіб – ОВА",
    "u": "https://www.pravda.com.ua/news/2026/11/17/8063213/",
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/a/958343/5a64011871704a5f82e12d989604ccf5.jpeg",
@@ -325,30 +287,154 @@
     }
    ],
    "d": "2026-11-17T07:40:00+00:00"
-  },
-  {
-   "t": "Зеленський попередив, що Росія готує новий ракетний удар",
-   "u": "https://www.pravda.com.ua/news/2026/11/16/8063158/",
-   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/9/958167/99c76fc803b0a436492ea4e9a656ca1a.jpeg",
-   "n": 2,
-   "l": [
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/16/8063158/"
-    },
-    {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/zelenskiy-poperediv-pro-zagrozu-novogo-raketnogo-udaru-po-ukrayini_n3181680"
-    }
-   ],
-   "d": "2026-11-16T18:18:00+00:00"
   }
  ],
  "items": [
   {
+   "t": "Десятеро цивільних постраждали через ворожу атаку на приватний сектор та кондитерську фабрику у Дніпрі",
+   "s": "Інтерфакс-Україна",
+   "u": "https://interfax.com.ua/news/general/1237712.html",
+   "x": "Російські окупаційні війська завдали удару по приватному сектору та кондитерські фабриці у Дніпрі, наразі відомо про 10 постраждалих, повідомив очільник обласної військової адміністрації Олександр Ганжа.",
+   "i": "https://media.interfax.com.ua/media/thumbs/images/2026/04/makhx/fSOIm81UjWzW.jpg",
+   "d": "2026-11-17T09:38:20+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "dnipro"
+   ]
+  },
+  {
+   "t": "Світоліна розірвала мережу своїм ігнором Андрєєвої після фіналу Підсумкового турніру",
+   "s": "24 Канал",
+   "u": "https://sportnews.24tv.ua/elina-svitolina-yak-ukrayinka-proignoruvala-rosiyanku-pislya_n3181923",
+   "x": "Еліна Світоліна зазнала поразки у фіналі Підсумкового турніру від Мірри Андрєєвої. А після поєдинку українка запам'яталась патріотичним вчинком.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3181923.jpg?v=1794908091000&q=100",
+   "d": "2026-11-17T09:37:53+00:00",
+   "c": [
+    "holovne",
+    "sport"
+   ]
+  },
+  {
+   "t": "Відомий виробник майонезу може змінити власників: хто претендує на завод",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/business/kiyivskiy-margarinoviy-zavod-mozhe-otrimati-novogo-vlasnika-pro_n3181955",
+   "x": "Виробник майонезів, маргаринів і соусів під брендом \"Олком\" може перейти до нових власників. Одразу двоє потенційних покупців заявили про намір придбати майже всі акції Київського маргаринового заводу.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3181955.jpg?v=1794908062000&q=100",
+   "d": "2026-11-17T09:37:20+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Зручно для міст, небезпечно для прифронтових сіл: Вакуленко пояснила головний мінус дводенного НМТ",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/EDUCATION/zruchno-dlja-mist-nebezpechno-dlja-prifrontovikh-hromad-direktorka-utsojao-pojasnila-holovnij-minus-dvodennoho-nmt.html",
+   "x": "Дітям із прифронтових регіонів доведеться їхати дорогами з антидроновими сітками, які постійно атакують росіяни.",
+   "i": "https://zn.ua/img/article/7042/59_main.webp",
+   "d": "2026-11-17T09:36:00+00:00",
+   "c": [
+    "statti"
+   ]
+  },
+  {
+   "t": "Україна — Грузія: анонс, де і коли дивитися заключний матч Ліги націй",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/SPORT/ukrajina-hruzia-anons-de-i-koli-divitisja-match-lihi-natsij.html",
+   "x": "Команди зіграють між собою другий матч у групі.",
+   "i": "https://zn.ua/img/article/7040/13_main.webp",
+   "d": "2026-11-17T09:36:00+00:00",
+   "c": [
+    "statti"
+   ]
+  },
+  {
+   "t": "Російський дрон атакував службове авто патрульних на Сумщині: двоє поранених",
+   "s": "Українська правда",
+   "u": "https://www.pravda.com.ua/news/2026/11/17/8063241/",
+   "x": "У Глухові на Сумщині російський безпілотник уразив службове авто поліції. Двоє поранених патрульних госпіталізували.",
+   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/6/958466/46af4e7a6a7a8865fb1665b904c01a81.jpeg",
+   "d": "2026-11-17T09:35:00+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "sumy"
+   ]
+  },
+  {
+   "t": "Зеленський перерахував, чим Сили оборони уразили Кримський міст",
+   "s": "Українська правда",
+   "u": "https://www.pravda.com.ua/news/2026/11/17/8063242/",
+   "x": "Президент Володимир Зеленський каже, що в ніч на Сили оборони задіяли безпілотники \"Паляниця\", які уразили автомобільну частину Кримського мосту, і ракети \"Нептун\", дрони \"Рута\" та FP-5, які уразили залізничну частину…",
+   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/d/958465/8d3ce9409aede19c14487bd7b1cdb73b.jpeg",
+   "d": "2026-11-17T09:35:00+00:00",
+   "c": [
+    "holovne",
+    "vazhlyve"
+   ],
+   "r": [
+    "crimea"
+   ]
+  },
+  {
+   "t": "Ексміністр оборони Федоров у Варшаві може оголосити про співпрацю з польською інвесткомпанією JRH ASI – ЗМІ",
+   "s": "Інтерфакс-Україна",
+   "u": "https://interfax.com.ua/news/general/1237708.html",
+   "x": "Колишній міністр оборони України Михайло Федоров у вівторок у Варшаві (Польща) може оголосити про співпрацю з польською інвестиційною компанією JRH ASI, акції якої котируються на Варшавській фондовій біржі (GPW), а…",
+   "i": "https://media.interfax.com.ua/media/thumbs/images/2026/08/wqqql/6M-QfB2sFiKf.png",
+   "d": "2026-11-17T09:34:42+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "🔥ЗАГОРОДНІЙ: Вибухи і ракети РОЗРИВАЮТЬ Кримський міст! Путін В ІСТЕРИЦІ. ЕКСТРЕНА ЗУСТРІЧ по війні",
+   "s": "24 Канал · відео",
+   "u": "https://www.youtube.com/watch?v=1bByu89lL0k",
+   "x": "У ніч проти 17 листопада Кримський міст зазнав ракетної атаки, внаслідок якої обвалилася арка автомобільної частини споруди. Водночас спецпосланці президента США Стів Віткофф та Джаред Кушнер планують зустрітися з…",
+   "i": "https://i2.ytimg.com/vi/1bByu89lL0k/hqdefault.jpg",
+   "d": "2026-11-17T09:34:14+00:00",
+   "c": [
+    "video"
+   ],
+   "v": 1,
+   "r": [
+    "crimea"
+   ]
+  },
+  {
+   "t": "Летіли \"Довбуш\", \"Вендета\", \"Нептун\" і не лише: Зеленський підтвердив удар по Кримському мосту",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/krimskiy-mist-zelenskiy-povidomiv-detali-udaru-17-listopada-2026_n3181957",
+   "x": "Сили оборони та Служба безпеки України 17 листопада уразили Кримський міст. Військові пошкодили автомобільну та залізничну частини переправи українськими ракетами і дронами.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3181957.jpg?v=1794907889000&q=100",
+   "d": "2026-11-17T09:33:00+00:00",
+   "c": [
+    "holovne",
+    "vazhlyve"
+   ],
+   "r": [
+    "crimea"
+   ]
+  },
+  {
+   "t": "Саміт Трампа, Путіна та Сі у Китаї: головне про зустріч лідерів США, Росії та Китаю",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/geopolitics/samit-trampa-putina-si-19-listopada-2026-use-shho-vidomo-zayavi_n3181385",
+   "x": "Саміт за участю Дональда Трампа, Володимира Путіна та Сі Цзіньпіна відбудеться 19 листопада у Шеньчжені на полях саміту АТЕС. Зустріч лідерів США, Росії та Китаю вже охрестили \"новою Ялтою\".",
+   "i": "https://24tv.ua/resources/photos/news/202611/3181385.jpg?v=1794833930000&q=100",
+   "d": "2026-11-17T09:33:00+00:00",
+   "c": [
+    "holovne",
+    "viyna"
+   ]
+  },
+  {
    "t": "У Росії назвали \"терактом\" атаку на Кримський міст і почали \"розслідування\"",
    "s": "24 Канал",
-   "u": "https://24tv.ua/ru/krymskij-most-kak-rossija-otreagirovala-na-ataki-1617-nojabrja-2026-goda_n3181956",
+   "u": "https://24tv.ua/krimskiy-mist-yak-rosiya-vidreaguvala-ataki-16-17-listopada-2026_n3181939",
    "x": "Кримський міст зазнав пошкоджень унаслідок ударів безпілотників 16 та 17 листопада. Російські слідчі органи кваліфікували інцидент як \"терористичний акт\" і відкрили кримінальне провадження.",
    "i": "https://24tv.ua/resources/photos/news/202611/3181939.jpg?v=1794907818000&q=100",
    "d": "2026-11-17T09:31:02+00:00",
@@ -373,9 +459,21 @@
    "v": 1
   },
   {
+   "t": "⚡СРОЧНО! 💥КРЫМСКИЙ МОСТ ДОБИЛИ. ПВО БОЛЬШЕ НЕ СПАСАЕТ. Путин готовит депутатов к концу войны?",
+   "s": "5 канал · відео",
+   "u": "https://www.youtube.com/watch?v=BLIWhGYso18",
+   "x": "Удар по Крымскому мосту: повреждена арка, движение перекрыто, а Кремль называет последствия незначительными. Россия заявляет о рекордных 1336 сбитых дронах. Почему Эстония готовит инфраструктуру к возможной оккупации и…",
+   "i": "https://i3.ytimg.com/vi/BLIWhGYso18/hqdefault.jpg",
+   "d": "2026-11-17T09:30:30+00:00",
+   "c": [
+    "video"
+   ],
+   "v": 1
+  },
+  {
    "t": "Чим ми насправді перемо речі: що входить до складу господарського мила",
    "s": "24 Канал",
-   "u": "https://24tv.ua/interesting24/ru/s-chego-delajut-hozjajstvennoe-mylo-sostav-i-istorija-ego-pojavlenija_n3181932",
+   "u": "https://24tv.ua/interesting24/chogo-roblyat-gospodarske-milo-sklad-istoriya-yogo-poyavi_n3181815",
    "x": "Господарське мило відмиває жирні плями, хоча саме його виготовляють із жирів та олій. Під час виробництва вони вступають у реакцію з лугом і перетворюються на речовини, які допомагають воді змивати забруднення.",
    "i": "https://24tv.ua/resources/photos/news/202611/3181815.jpg?v=1794898819000&q=100",
    "d": "2026-11-17T09:30:00+00:00",
@@ -384,42 +482,14 @@
    ]
   },
   {
-   "t": "Через наслідки російської атаки затримуються 14 поїздів, які курсують через Кіровоградщину",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/kropyvnytskiy/1453981-cerez-naslidki-rosijskoi-ataki-zatrimuutsa-14-poizdiv-aki-kursuut-cerez-kirovogradsinu/",
-   "x": "17 листопада внаслідок російських обстрілів території України затримуються 14 пасажирських поїздів, які курсують через Кіровоградщину",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T09:29:59+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "kirovohrad"
-   ]
-  },
-  {
    "t": "За переїзд на цей мальовничий острів заплатять 30 000 євро: українці можуть подати заявку",
    "s": "24 Канал",
-   "u": "https://24tv.ua/zakordon24/ru/pereezd-na-sardiniju-v-italii-pochemu-za-jeto-platjat_n3181921",
+   "u": "https://24tv.ua/zakordon24/pereyizd-sardiniyu-italiyi-chomu-za-nogo-platyat_n3181879",
    "x": "Влада Сардинії, дуже великого італійського острова у Середземному морі, запустила програму залучення нових мешканців. Згідно з нею новим мешканцям можуть виплатити до 30 000 євро безповоротної допомоги.",
    "i": "https://24tv.ua/resources/photos/news/202611/3181879.jpg?v=1794906195000&q=100",
    "d": "2026-11-17T09:29:00+00:00",
    "c": [
     "holovne"
-   ]
-  },
-  {
-   "t": "Зіткнулися легковик та маршрутка на Рівненщині: троє людей були травмовані",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/rivne/1453943-zitknulisa-legkovik-ta-marsrutka-na-rivnensini-troe-ludej-buli-travmovani/",
-   "x": "Троє людей були травмувані через ДТП на Рівненщині. За даними правоохоронців, зіткнулися автомобіль і маршрутка. Усіх травмованих із тяжкими травмами госпіталізували до лікарні.",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T09:28:40+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "rivne"
    ]
   },
   {
@@ -437,45 +507,13 @@
    ]
   },
   {
-   "t": "У Чернігові 18 листопада оголосили Днем жалоби за трьома загиблими від російської атаки",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/chernihiv/1453977-u-cernigovi-18-listopada-ogolosili-dnem-zalobi-za-troma-zagiblimi-vid-rosijskoi-ataki/",
-   "x": "18 листопада у Чернігові оголоcили Днем жалоби за жителями міста, які загинули внаслідок російського удару 16 листопада 2026 року. Того дня внаслідок атаки загинули троє чоловіків: двоє віком 41 рік та один — 42 роки.",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T09:27:33+00:00",
+   "t": "\"Україна має прискоритися, і зробити це зараз\": посол ЄС розповіла, що думає про темп реформ",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/17/7250159/",
+   "x": "Посол ЄС в Україні Катаріна Матернова не погодилася з прогнозом, що за нинішніх темпів євроінтеграційних реформ Україні знадобиться ще 10 років для їх завершення, але закликала до прискорення.",
+   "d": "2026-11-17T09:27:37+00:00",
    "c": [
-    "holovne"
-   ],
-   "r": [
-    "chernihiv"
-   ]
-  },
-  {
-   "t": "ППО знешкодила 39 засобів повітряного нападу РФ на Одещині",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/odesa/1453963-ppo-zneskodila-39-zasobiv-povitranogo-napadu-rf-na-odesini/",
-   "x": "На півдні України за добу знешкодили 68 російських безпілотників, зокрема 39 — на Одещині. Про це повідомили у Повітряному командуванні «Південь».",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T09:27:02+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "odesa"
-   ]
-  },
-  {
-   "t": "У Львівському районі водій вантажівки збив на смерть 66-річного чоловіка",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/lviv/1453973-u-lvivskomu-rajoni-vodij-vantazivki-zbiv-na-smert-66-ricnogo-colovika/",
-   "x": "16 листопада у селі Куликів Львівського району водій вантажівки збив на смерть 66-річного пішохода, після чого втік з місця події. Його розшукали правоохоронці.",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T09:25:54+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "lviv"
+    "polityka"
    ]
   },
   {
@@ -519,34 +557,9 @@
    ]
   },
   {
-   "t": "У Полтаві попрощалися з двома воїнами: Роман Белей та Дмитро Кожемякін загинули на війні з РФ",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/poltava/1453929-u-poltavi-poprosalisa-z-dvoma-voinami-roman-belej-ta-dmitro-kozemakin-zaginuli-na-vijni-z-rf/",
-   "x": "Роман Белей загинув у січні 2024 року, а Дмитро Кожемякін — у листопаді 2025-го. Обидва військовослужбовці виконували бойові завдання на Донеччині. Прощання із захисниками провели 17 листопада в Полтаві у…",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T09:23:28+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "poltava"
-   ]
-  },
-  {
-   "t": "Нафта дешевшає попри напруженість на Близькому Сході: що відбувається на ринку",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1453958-nafta-desevsae-popri-napruzenist-na-blizkomu-shodi-so-vidbuvaetsa-na-rinku/",
-   "x": "Ціни на нафту марок Brent і WTI у вівторок пішли вниз через очікування збільшення пропозиції на світовому ринку. Це відбувається попри ризики для нафтових перевезень через напруженість на Близькому Сході",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T09:23:23+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "Майже 30 тисяч українських родин отримали житло за \"єОселею\": де купують найбільше",
    "s": "24 Канал",
-   "u": "https://24tv.ua/realestate24/ru/eoselja-2026-godu-skolko-kreditov-poluchili-ukraincy-gde-pokupajut_n3181943",
+   "u": "https://24tv.ua/realestate24/yeoselya-2026-rotsi-skilki-kreditiv-otrimali-ukrayintsi-de-kupuyut_n3181933",
    "x": "За програмою \"єОселя\" українці вже отримали майже 30 тисяч пільгових кредитів на придбання житла. Загальна сума виданих іпотек від початку роботи програми у жовтні 2022 року сягнула 53,87 мільярда гривень.",
    "i": "https://24tv.ua/resources/photos/news/202611/3181933.jpg?v=1794906992000&q=100",
    "d": "2026-11-17T09:23:06+00:00",
@@ -557,7 +570,7 @@
   {
    "t": "Україна прориває ешелоновану ППО біля Кримського мосту: як змінилися удари по логістиці РФ",
    "s": "24 Канал",
-   "u": "https://24tv.ua/ru/ataka-na-krymskij-most-musienko-o-proryve-pvo-rf-i-posledstvijah_n3181946",
+   "u": "https://24tv.ua/ataka-krimskiy-mist-musiyenko-pro-proriv-ppo-rf-naslidki_n3181900",
    "x": "Удар по Кримському мосту завдав безпрецедентних руйнувань і продемонстрував прорив потужної системи ППО ворога, що суттєво ускладнить постачання окупаційних військ на Півдні.",
    "i": "https://24tv.ua/resources/photos/news/202611/3181900.jpg?v=1794905031000&q=100",
    "d": "2026-11-17T09:23:00+00:00",
@@ -566,30 +579,6 @@
    ],
    "r": [
     "crimea"
-   ]
-  },
-  {
-   "t": "Святослав Заїць представив нового начальника Житомирського військового інституту",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/zhytomyr/1453939-svatoslav-zaic-predstaviv-novogo-nacalnika-zitomirskogo-vijskovogo-institutu/",
-   "x": "16 листопада командувач Сухопутних військ ЗСУ бригадний генерал Святослав Заїць представив особовому складу Житомирського військового інституту імені С. П. Корольова нового начальника закладу — полковника Максима…",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T09:22:49+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "zhytomyr"
-   ]
-  },
-  {
-   "t": "Нафта дешевшає в очікуванні збільшення пропозиції",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/svit/cini-na-naftu-brent-ta-wti-znizilisya-cherez-ochikuvannya-nadlishku-propoziciji-827718/",
-   "x": "У вівторок, 17 листопада, ціни на нафту знизились на тлі очікування надлишку пропозиції, зумовлені відновленням експорту з країн Близького Сходу.",
-   "d": "2026-11-17T09:22:00+00:00",
-   "c": [
-    "ekonomika"
    ]
   },
   {
@@ -604,23 +593,9 @@
    ]
   },
   {
-   "t": "У селищі Битків на Франківщині рейсовий автобус зіткнувся з мотоциклом — травмувався 15-річний хлопець",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/ivano-frankivsk/1453959-u-selisi-bitkiv-na-frankivsini-rejsovij-avtobus-zitknuvsa-z-motociklom-travmuvavsa-15-ricnij-hlopec/",
-   "x": "Вдень 16 листопада 2026 року в селищі Битків Івано-Франківської області рейсовий автобус зіткнувся з мотоциклом. Унаслідок ДТП травмувався 15-річний хлопець. Його госпіталізували",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T09:20:05+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "ivanofrankivsk"
-   ]
-  },
-  {
    "t": "Соснові голки змішують із сіллю та кладуть у шафу: навіщо потрібна така суміш",
    "s": "24 Канал",
-   "u": "https://24tv.ua/lifehacks24/ru/zachem-smeshivajut-sosnovye-igolki-s-solju-kak-sdelat-aromatizator-dlja-shkafa_n3181937",
+   "u": "https://24tv.ua/lifehacks24/navishho-zmishuyut-sosnovi-golki-iz-sillyu-yak-zrobiti-aromatizator_n3181916",
    "x": "Соснові голки знадобляться не лише для мульчування грядок. Із сухої хвої та крупної солі готують простий наповнювач для ароматичних мішечків, які кладуть на полиці з одягом.",
    "i": "https://24tv.ua/resources/photos/news/202611/3181916.jpg?v=1794906411000&q=100",
    "d": "2026-11-17T09:20:00+00:00",
@@ -631,7 +606,7 @@
   {
    "t": "Особисте життя Роберта Паттінсона та його пасії – не гірше, ніж у Бонда",
    "s": "24 Канал",
-   "u": "https://24tv.ua/show24/ru/robert-pattinson-i-ego-devushki-romany-s-kristen-stjuart-i-sjuki-voterhaus_n3181927",
+   "u": "https://24tv.ua/show24/robert-pattinson-yogo-divchata-romani-kristen-styuart-syuki-votergaus_n3181910",
    "x": "Роман із Крістен Стюарт, заручини, які не закінчилися весіллям, і стосунки, про які актор майже не говорить. Хто залишив слід в особистому житті нового Джеймса Бонда.",
    "i": "https://24tv.ua/resources/photos/news/202611/3181910.jpg?v=1794906001000&q=100",
    "d": "2026-11-17T09:20:00+00:00",
@@ -640,23 +615,9 @@
    ]
   },
   {
-   "t": "Російський дрон атакував житловий будинок у Хмельницькому 17 листопада",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/khmelnytskiy/1450025-rosijskij-dron-atakuvav-zitlovij-budinok-u-hmelnickomu-17-listopada/",
-   "x": "Сьогодні, 17 листопада, російський дрон атакував житловий будинок у Хмельницькому. Внаслідок удару виникла пожежа, яку ліквідували рятувальники",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T09:19:55+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "khmelnytskyi"
-   ]
-  },
-  {
    "t": "Дві країни піднімали авіацію через російські літаки поблизу кордонів",
    "s": "24 Канал",
-   "u": "https://24tv.ua/ru/rossijskie-samolety-byli-nebe-japonii-17112026-juzhnaja-koreja_n3181941",
+   "u": "https://24tv.ua/rosiyski-litaki-buli-nebi-yaponiyi-17112026-pivdenna-koreya-takozh_n3181935",
    "x": "Військові Японії та Південної Кореї 17 листопада піднімали в повітря бойову авіацію через наближення російських літаків до своїх кордонів. Два борти Росії, ймовірно, перетнули японський повітряний простір поблизу…",
    "i": "https://24tv.ua/resources/photos/news/202611/3181935.jpg?v=1794907013000&q=100",
    "d": "2026-11-17T09:19:51+00:00",
@@ -676,37 +637,9 @@
    ]
   },
   {
-   "t": "700 тисяч родин Дніпропетровщини без світла через нові атаки РФ",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/dnipro/1453978-700-tisac-rodin-dnipropetrovsini-bez-svitla-cerez-novi-ataki-rf/",
-   "x": "Зранку 17 листопада війська РФ завдали нових масштабних ударів по енергетичній інфраструктурі Дніпропетровщини. Через значні пошкодження енергообʼєктів 700 тисяч домівок залишилися без світла",
-   "i": "https://cdn4.suspilne.media/images/23dca5c79aa74f93.jpg",
-   "d": "2026-11-17T09:18:58+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "dnipro"
-   ]
-  },
-  {
-   "t": "Через несправність печі: внаслідок пожежі на Буковині померла пенсіонерка",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/chernivtsi/1453948-cerez-nespravnist-peci-vnaslidok-pozezi-na-bukovini-zaginula-pensionerka/",
-   "x": "Внаслідок пожежі у селі Бабин на Буковині померла пенсіонерка. Ймовірно, загоряння сталося через несправну піч. Ще одна пожежа виникла у Чорнівці. Що відомо",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T09:18:31+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "chernivtsi"
-   ]
-  },
-  {
    "t": "Підійдуть і хлопцям, і дівчатам: 5 універсальних імен, які звучать сучасно та сильно",
    "s": "24 Канал",
-   "u": "https://24tv.ua/traditions24/ru/universalnye-imena-dlja-detej-krasivye-varianty-nazvat-malchika_n3181813",
+   "u": "https://24tv.ua/traditions24/universalni-imena-dlya-ditey-krasivi-varianti-yak-nazvati-hlopchika_n3181810",
    "x": "Останнім часом батьки все частіше обирають для дітей універсальні імена, які однаково красиво пасують як хлопчикам, так і дівчаткам. Такий вибір дає дитині відчуття свободи, стирає суворі гендерні межі та водночас…",
    "i": "https://24tv.ua/resources/photos/news/202611/3181810.jpg?v=1794898112000&q=100",
    "d": "2026-11-17T09:18:00+00:00",
@@ -730,17 +663,6 @@
    ]
   },
   {
-   "t": "Збірна Франції з біатлону оголосила склад на перший етап Кубка світу в Контіолахті: хто в заявці",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/sport/1453928-zbirna-francii-z-biatlonu-ogolosila-sklad-na-persij-etap-kubka-svitu-v-kontiolahti-hto-v-zaavci/",
-   "x": "Збірна Франції з біатлону оголосила склад чоловічої та жіночої команд на перший етап Кубка світу сезону 2026/27 у фінському Контіолахті: повний список біатлоністів",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T09:17:17+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "Росія завдала удару по Вінниці: є загибла та поранена",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/war/rosija-zavdala-udaru-po-vinnitsi-je-zahibla-ta-poranena.html",
@@ -752,17 +674,6 @@
    ],
    "r": [
     "vinnytsia"
-   ]
-  },
-  {
-   "t": "«Добиратися по 3-4 години»: кияни розповіли про очікування транспорту",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/kyiv/1453957-dobiratisa-po-3-4-godini-kiani-rozpovili-pro-ocikuvanna-transportu/",
-   "x": "Після перекриття Північного та Південного мостів кияни шукають об'їзні маршрути, частина намагається перетнути мости пішки. Біля станції метро «Осокорки» скупчуються пасажири, які пересідають на автобуси",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T09:16:50+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
@@ -803,7 +714,7 @@
   {
    "t": "Понад 1300 гривень за таксі: у Києві через перекриті мости стався колапс",
    "s": "24 Канал",
-   "u": "https://24tv.ua/ru/ataka-na-kiev-v-stolice-transportnyj-kollaps-video_n3181929",
+   "u": "https://24tv.ua/ataka-kiyiv-stolitsi-transportniy-kolaps-video_n3181904",
    "x": "У Києві вранці 17 листопада заблокувано рух між берегами через перекриття Північного та Південного мостів після російської атаки. Вартість поїздок у таксі з лівого берега столиці миттєво підскочила до понад 1300 гривень.",
    "i": "https://24tv.ua/resources/photos/news/202611/3181904.jpg?v=1794906270000&q=100",
    "d": "2026-11-17T09:14:04+00:00",
@@ -824,20 +735,6 @@
    "d": "2026-11-17T09:13:00+00:00",
    "c": [
     "polityka"
-   ]
-  },
-  {
-   "t": "У Миколаєві чоловіка підозрюють у побитті своєї бабусі: жінку ушпиталили з тяжкими травмами",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/mykolaiv/1453960-u-mikolaevi-colovika-pidozruut-u-pobitti-svoei-babusi-zinku-uspitalili-z-tazkimi-travmami/",
-   "x": "У Миколаєві поліція повідомила про підозру 27-річному чоловіку, якого підозрюють у побитті бабусі під час сварки. Потерпіла у важкому стані в лікарні",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T09:12:32+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "mykolaiv"
    ]
   },
   {
@@ -863,23 +760,9 @@
    ]
   },
   {
-   "t": "У Харкові внаслідок аварії травмувалися двоє пасажирок Audi: одну затиснуло в салоні",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/kharkiv/1453967-u-harkovi-vnaslidok-avarii-travmuvalisa-dvoe-pasazirok-audi-odnu-zatisnulo-v-saloni/",
-   "x": "У Харкові 14 листопада сталася ДТП на перехресті вулиць Матюшенка та Весніна. Одну пасажирку Audi деблокували з салону, обох травмованих ушпиталили",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T09:10:01+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "kharkiv"
-   ]
-  },
-  {
    "t": "Україна – Грузія: де дивитися онлайн матч Ліги націй",
    "s": "24 Канал",
-   "u": "https://24tv.ua/sporttopnews/ru/ukraina-gruzija-gde-smotret-onlajn-match-17-nojabrja-liga-nacij_n3181381",
+   "u": "https://24tv.ua/sporttopnews/ukrayina-gruziya-de-divitis-onlayn-match-17-listopada-liga-natsiy_n3181134",
    "x": "У вівторок, 17 листопада, збірна України зіграє останній матч у 2026 році. Суперником \"синьо-жовтих\" у межах Ліги націй буде команда Грузії.",
    "i": "https://24tv.ua/resources/photos/news/202611/3181134.jpg?v=1794819548000&q=100",
    "d": "2026-11-17T09:10:00+00:00",
@@ -890,7 +773,7 @@
   {
    "t": "Місто, за яким сумує Софія Андрухович: куди завітати на її батьківщині у листопаді",
    "s": "24 Канал",
-   "u": "https://travel.24tv.ua/ru/gde-rodilas-sofija-andruhovich-chto-posmotret-ee-rodnom-gorode_n3181918",
+   "u": "https://travel.24tv.ua/de-narodilas-sofiya-andruhovich-shho-podivitis-yiyi-ridnomu-misti_n3181852",
    "x": "Українська письменниця й авторка романів \"Фелікс Австрія\", \"Амадока\" та \"Сьомга\" Софія Андрухович 17 листопада святкує свій 44-й день народження. Її творчість тісно пов'язана з історією, культурою та атмосферою…",
    "i": "https://24tv.ua/resources/photos/news/202611/3181852.jpg?v=1794905292000&q=100",
    "d": "2026-11-17T09:09:41+00:00",
@@ -928,37 +811,9 @@
    ]
   },
   {
-   "t": "У Ніжині затримали двох підозрюваних у викраденні мотоциклу",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/chernihiv/1453962-u-nizini-zatrimali-dvoh-pidozruvanih-u-vikradenni-motociklu/",
-   "x": "У Ніжині, що на Чернігівщині, затримали двох підозрюваних у викраденні мотоциклу, 18-річного та 22-річного чоловіків. Про це повідомляє пресслужба поліції Чернігівської області на своїй сторінці у Facebook.",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T09:08:59+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "chernihiv"
-   ]
-  },
-  {
-   "t": "Стало відомо, якими заходами вшанують пам'ять загиблих внаслідок атаки РФ на Тернопіль 19 листопада",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/ternopil/1453965-stalo-vidomo-akimi-zahodami-vsanuut-pamat-zagiblih-vnaslidok-ataki-rf-na-ternopil-19-listopada/",
-   "x": "У Тернополі 19 листопада відбудуться поминальні богослужіння за загиблими внаслідок російського ракетного удару по місту, який стався 19 листопада 2025 року. Цей день у громаді оголосили День скорботи",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T09:08:17+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "ternopil"
-   ]
-  },
-  {
    "t": "Ворожі обстріли 17 листопада знеструмили частину споживачів у кількох областях України",
    "s": "24 Канал",
-   "u": "https://24tv.ua/economy/ru/otkljuchenie-sveta-17-nojabrja-gde-vvedeny-avarijnye-grafiki-i-kakova-situacija_n3181922",
+   "u": "https://24tv.ua/economy/vidklyuchennya-svitla-17-listopada-de-zaprovadili-avariyni-grafiki_n3181897",
    "x": "Ворог не припиняє тероризувати українську енергосистему, змушуючи енергетиків йти на екстрені кроки. Ситуація змінюється щогодини, тому жителям низки регіонів варто підготуватися до непередбачуваної відсутності…",
    "i": "https://24tv.ua/resources/photos/news/202611/3181897.jpg?v=1794904896000&q=100",
    "d": "2026-11-17T09:07:00+00:00",
@@ -1007,7 +862,7 @@
   {
    "t": "Росія атакувала Запоріжжя, Дніпро та Черкащину: є загиблі й десятки постраждалих",
    "s": "24 Канал",
-   "u": "https://24tv.ua/ru/v-zaporozhe-dnepre-i-cherkassah-slyshny-vzryvy_n3181783",
+   "u": "https://24tv.ua/zaporizhzhi-dnipri-cherkasah-lunayut-vibuhi_n3181782",
    "x": "Уранці 17 листопада російські війська атакували кілька українських міст крилатими ракетами. У Запоріжжі загинули двоє людей, ще 18 дістали поранення. У Дніпрі внаслідок обстрілу постраждали троє людей, пошкоджено…",
    "i": "https://24tv.ua/resources/photos/news/202611/3181782.jpg?v=1794890881000&q=100",
    "d": "2026-11-17T09:05:00+00:00",
@@ -1018,20 +873,6 @@
    "r": [
     "zaporizhzhia",
     "dnipro"
-   ]
-  },
-  {
-   "t": "Працював касиром у нелегальних казино: на Львівщині судитимуть 20-річного чоловіка",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/lviv/1453953-pracuvav-kasirom-u-nelegalnih-kazino-na-lvivsini-suditimut-20-ricnogo-colovika/",
-   "x": "На Львівщині судитимуть 20-річного чоловіка, який, за даними слідства, працював касиром у нелегальних казино в Мостиськах та Шегинях. Раніше він перебував у розшуку. Деталі схеми",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T09:04:09+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "lviv"
    ]
   },
   {
@@ -1048,23 +889,9 @@
    ]
   },
   {
-   "t": "Як вимикають світло на Сумщині у листопаді",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/sumy/1442525-ak-vimikaut-svitlo-na-sumsini-u-listopadi/",
-   "x": "На Сумщині зранку 2 листопада запровадили графіки аварійних відключень електроенергії для всіх 10 черг споживачів. Причина — пошкодження енергосистеми внаслідок російських атак, зазначили в обленерго",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T09:03:22+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "sumy"
-   ]
-  },
-  {
    "t": "Відродив Могилянку: В'ячеслава Брюховецького посмертно нагородили орденом Свободи",
    "s": "24 Канал",
-   "u": "https://24tv.ua/education/ru/vjacheslav-brjuhoveckij-geroj-ukrainy-posmertno-nagrazhden-ordenom-svobody_n3181917",
+   "u": "https://24tv.ua/education/vyacheslav-bryuhovetskiy-geroya-ukrayini-posmertno-nagorodili_n3181898",
    "x": "Почесного президента Києво-Могилянської академії В'ячеслава Брюховецького посмертно нагородили орденом Свободи. Відповідний указ підписав президент України Володимир Зеленський.",
    "i": "https://24tv.ua/resources/photos/news/202611/3181898.jpg?v=1794905308000&q=100",
    "d": "2026-11-17T09:03:00+00:00",
@@ -1078,7 +905,7 @@
   {
    "t": "Ракета \"Фламінго\" вдарила по Кримському мосту: усе про ураження та наслідки",
    "s": "24 Канал",
-   "u": "https://24tv.ua/ru/udar-po-krymskomu-mostu-16112026-chto-sejchas-proishodit-na-krymskom-mostu-kakie-povrezhdenija_n3181376",
+   "u": "https://24tv.ua/udar-po-krimskomu-mostu-16112026-shho-zaraz-vidbuvayetsya-krimskomu_n3181369",
    "x": "Уранці 16 листопада Кримський міст зазнав атаки безпілотників, унаслідок якої пошкоджено арку автомобільної частини. А вже 17 числа шляхопровід зазнав удару ракетою \"Фламінго\".",
    "i": "https://24tv.ua/resources/photos/news/202611/3181369.jpg?v=1794832862000&q=100",
    "d": "2026-11-17T09:03:00+00:00",
@@ -1092,7 +919,7 @@
   {
    "t": "\"Гроші не пахнуть\": імператор, який обклав податком туалети і врятував Рим від краху",
    "s": "24 Канал",
-   "u": "https://24tv.ua/people/ru/imperator-vespasian-kak-i-pochemu-on-vvel-nalog-na-tualety-v-rime_n3181912",
+   "u": "https://24tv.ua/people/imperator-vespasian-yak-chomu-vin-obklav-podatkom-tualeti-rimi_n3181903",
    "x": "Він успадкував імперію після громадянської війни, а в історію увійшов завдяки Колізею та податку, який обурив навіть його сина. Веспасіан шукав гроші там, де інші правителі воліли б відвернутися.",
    "i": "https://24tv.ua/resources/photos/news/202611/3181903.jpg?v=1794905855000&q=100",
    "d": "2026-11-17T09:02:00+00:00",
@@ -1103,7 +930,7 @@
   {
    "t": "ЄС закручує гайки імпортерам сталі: жорсткі мита запровадили для п'яти країн",
    "s": "24 Канал",
-   "u": "https://24tv.ua/economy/ru/poshliny-na-stal-pochemu-es-rezko-ogranichivaet-import-iz-pjati-stran_n3181914",
+   "u": "https://24tv.ua/economy/mita-stal-chomu-yes-rizko-obmezhuye-import-pyati-krayin_n3181874",
    "x": "Європейський Союз посилює захист власної металургії від іноземних конкурентів. Нові торгівельні мита запровадили для постачальників із чотирьох країн Азії та Туреччини.",
    "i": "https://24tv.ua/resources/photos/news/202611/3181874.jpg?v=1794903925000&q=100",
    "d": "2026-11-17T09:01:53+00:00",
@@ -1113,23 +940,9 @@
    ]
   },
   {
-   "t": "На Волині директор комунального підприємства вимагав у підлеглих частину премій — СБУ",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/lutsk/1453946-na-volini-direktor-komunalnogo-pidpriemstva-vimagav-u-pidleglih-castinu-premij-sbu/",
-   "x": "На Волині у директора комунального підприємства вилучили 22 мільйона гривень. Його взяли під варту за підозрою у вимаганні частин премій у підлеглих",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T09:01:46+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "volyn"
-   ]
-  },
-  {
    "t": "Член ради директорів OpenAI каже, що вже за рік ми можемо опинитися в рабстві або померти",
    "s": "24 Канал",
-   "u": "https://24tv.ua/tech/ru/chlen-rady-direktorov-openai-ocenil-risk-gibeli-ljudej-iz-za-ii-v-techenie-goda_n3181887",
+   "u": "https://24tv.ua/tech/chlen-radi-direktoriv-openai-otsiniv-rizik-zagibeli-lyudey-cherez_n3181862",
    "x": "Член ради директорів OpenAI Foundation Пол Крістіано заявив, що найшвидший шлях розвитку штучного інтелекту дає приблизно такі самі шанси на захоплення світу машинами, як підкидання монети.",
    "i": "https://24tv.ua/resources/photos/news/202611/3181862.jpg?v=1794903258000&q=100",
    "d": "2026-11-17T09:01:00+00:00",
@@ -1140,7 +953,7 @@
   {
    "t": "Чи піде 6-річний син Рудинських стопами зіркових батьків: відверта відповідь актора",
    "s": "24 Канал",
-   "u": "https://kino.24tv.ua/ru/aleksandr-rudinskij-rasskazal-hochet-li-ego-syn-stat-akterom_n3181830",
+   "u": "https://kino.24tv.ua/oleksandr-rudinskiy-skazav-hoche-yogo-sin-buti-aktorom_n3181826",
    "x": "Відоме українське акторське подружжя Олександр та Марія Рудинські готуються до особливої спільної роботи. Невдовзі глядачі побачать пару в одному кадрі у продовженні популярного молодіжного серіалу \"Перші ластівки. Нова…",
    "i": "https://24tv.ua/resources/photos/news/202611/3181826.jpg?v=1794899973000&q=100",
    "d": "2026-11-17T09:01:00+00:00",
@@ -1179,7 +992,7 @@
   {
    "t": "\"Нова Ялта\" і поступки територіями: що замислили в Кремлі і як з цим справляється делегація України на переговорах",
    "s": "24 Канал",
-   "u": "https://24tv.ua/ru/sammit-atjes-razgovory-o-jalte-peregovory-analitika-ot-aleksandra-fesenko_n3181669",
+   "u": "https://24tv.ua/samit-ates-rozmovi-pro-yaltu-peregovori-analitika-vid-oleksandra_n3181525",
    "x": "Політолог Володимир Фесенко в ексклюзивному аналітичному розборі для 24 Каналу пояснив, що стоїть за чутками про територіальні поступки та чого очікувати від зустрічі лідерів США, КНР і Росії.",
    "i": "https://24tv.ua/resources/photos/news/202611/3181525.jpg?v=1794850137000&q=100",
    "d": "2026-11-17T09:00:00+00:00",
@@ -1228,20 +1041,6 @@
    ]
   },
   {
-   "t": "У Карпатах четверту добу шукають чоловіка з Дніпра: що відомо",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/ivano-frankivsk/1453940-u-karpatah-cetvertu-dobu-sukaut-colovika-z-dnipra-so-vidomo/",
-   "x": "У Карпатах четверту добу шукають жителя Дніпра, який заблукав поблизу озера Несамовите 13 листопада. Рятувальники обстежили майже 40 гектарів лісу, понад 37 кілометрів туристичних стежок і лісових доріг",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T08:57:18+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "dnipro"
-   ]
-  },
-  {
    "t": "Печерський суд зобов’язав ZN.UA видалити публікації про підозрюваного НАБУ Дмитра Борзих",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/POLITICS/pecherskij-sud-zobovjazav-znua-vidaliti-publikatsiji-pro-pidozrjuvanoho-nabu-dmitra-borzikh.html",
@@ -1250,34 +1049,6 @@
    "d": "2026-11-17T08:57:00+00:00",
    "c": [
     "statti"
-   ]
-  },
-  {
-   "t": "Вплинули перебої з електрикою: через атаку РФ у Чернівцях не працює велика котельня",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/chernivtsi/1453954-cerez-pereboi-z-elektrikou-vnaslidok-ataki-rf-u-cernivcah-ne-pracue-velika-kotelna-so-vidomo/",
-   "x": "Одна велика котельня у Чернівцях тимчасово не працює через перебої з електропостачанням. Це наслідок атаки РФ, яка сталася вранці 17 листопада. Що відомо",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T08:56:36+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "chernivtsi"
-   ]
-  },
-  {
-   "t": "Понад 300 населених пунктів знеструмлені на Рівненщині через атаку армії РФ",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/rivne/1453951-ponad-300-naselenih-punktiv-znestrumleni-na-rivnensini-cerez-ataku-armii-rf/",
-   "x": "Внаслідок ранкового удару 17 листопада по Рівненщині понад 300 населених пунктів знеструмлені. Про це повідомили у Telegram начальника Рівненської ОВА Олександра Коваля",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T08:55:45+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "rivne"
    ]
   },
   {
@@ -1294,51 +1065,9 @@
    ]
   },
   {
-   "t": "До 10 години без світла: оновили графік відключень на Полтавщині 17 листопада",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/poltava/1453942-do-10-godini-bez-svitla-onovili-grafik-vidklucen-na-poltavsini-17-listopada/",
-   "x": "У зв'язку зі складною ситуацією в енергосистемі України на Полтавщині змінили графіки планового відключення світла. За графіком, з 11:00 до 16:00 кожну чергу відключатимуть на 4 години поспіль",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T08:53:40+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "poltava"
-   ]
-  },
-  {
-   "t": "Двоє людей загинули внаслідок удару РФ по селу на Куп'янщині",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/kharkiv/1453936-dvoe-ludej-zaginuli-vnaslidok-udaru-rf-po-selu-na-kupansini/",
-   "x": "Росіяни 17 листопада атакували два населені пункти Куп'янського району. У Червоній Хвилі загинули двоє людей, у Шевченковому після удару БпЛА горів склад",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T08:51:54+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "kharkiv"
-   ]
-  },
-  {
-   "t": "Через атаку дрона РФ загинув працівник Херсонського водоканалу Олександр Сорока",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/kherson/1453932-cerez-ataku-drona-rf-zaginuv-pracivnik-hersonskogo-vodokanalu-oleksandr-soroka/",
-   "x": "16 листопада 2026 року внаслідок атаки російського дрона загинув машиніст насосних установок Херсонського водоканалу Олександр Сорока. Він отримав поранення, несумісні з життям",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T08:51:10+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "kherson"
-   ]
-  },
-  {
    "t": "\"Фламінго\" – вбивця Кримського мосту: чому ракету FP-5 так назвали та як вона знищує надії Путіна",
    "s": "24 Канал",
-   "u": "https://24tv.ua/ru/flamingo-raketa-harakteristiki-dalnost-ves-radius-porazhenija-24-kanal_n2898582",
+   "u": "https://24tv.ua/flamingo-raketa-harakteristiki-dalnist-vaga-radius-urazhennya_n2898580",
    "x": "У ніч проти 17 листопада українська ракета FP-5 \"Фламінго\" атакувала так званий \"Кримський міст\", завдавши йому критичних уражень. Про розробку та інші можливості ракети розповідає 24 Канал.",
    "i": "https://24tv.ua/resources/photos/news/202508/2898580.jpg?v=1755777527000&q=100",
    "d": "2026-11-17T08:50:00+00:00",
@@ -1366,37 +1095,9 @@
    ]
   },
   {
-   "t": "Переходив на червоне світло: легковик збив пішохода в Миколаєві — поліція",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/mykolaiv/1453938-perehodiv-na-cervone-svitlo-legkovik-zbiv-pisohoda-v-mikolaevi-policia/",
-   "x": "У Миколаєві 16 листопада легковик Skoda Fabia під керуванням 48-річного водія наїхав на пішохода. За версією поліції, чоловік переходив дорогу по регульованому пішохідному переходу попередньо на червоне світло",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T08:49:25+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "mykolaiv"
-   ]
-  },
-  {
-   "t": "Від полону до пошуку воєнних злочинців. Станіслав Асєєв став лавреатом міжнародної «Нагороди Памʼяті народів»",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/donbas/1452413-vid-polonu-do-posuku-voennih-zlocinciv-stanislav-aseev-stav-lavreatom-miznarodnoi-nagorodi-pamati-narodiv/",
-   "x": "Історія Станіслава Асєєва: від журналістики в окупованому Донецьку та катівні «Ізоляція» до звільнення з полону, служби у ЗСУ та пошуку російських військових злочинці",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T08:49:11+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "donetsk"
-   ]
-  },
-  {
    "t": "Українська розвідка отримала ШІ-асистента для управління дронами: що вміє Miss Kraken",
    "s": "24 Канал",
-   "u": "https://24tv.ua/military/ru/miss-kraken-ukrainskij-voennyj-ii-dlja-upravlenija-tysjachami_n3181849",
+   "u": "https://24tv.ua/military/miss-kraken-ukrayinskiy-viyskoviy-shi-dlya-upravlinnya-tisyachami_n3181845",
    "x": "Українські розробники разом із військовою розвідкою створили Miss Kraken, систему штучного інтелекту для планування бойових операцій та управління безпілотниками. Вона аналізує інформацію з різних джерел, розраховує…",
    "i": "https://24tv.ua/resources/photos/news/202611/3181845.jpg?v=1794901854000&q=100",
    "d": "2026-11-17T08:48:11+00:00",
@@ -1405,53 +1106,14 @@
    ]
   },
   {
-   "t": "Румунія підіймала винищувачі через 11 дронів біля кордону",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1453947-rumunia-pidijmala-vinisuvaci-cerez-11-droniv-bila-kordonu/",
-   "x": "У ніч 17 листопада Міністерство оборони Румунії зафіксувало 11 повітряних цілей біля румунсько-українського кордону, у небо підіймали винищувачі F-16 для моніторингу",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T08:48:07+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "Радіо не зникає під час блекаутів: скільки українців його слухають",
    "s": "24 Канал",
-   "u": "https://24tv.ua/business/ru/radio-v-ukraine-kak-chasto-ukraincy-ego-slushajut-i-chto-jeto-znachit-vo-vremja-otkljuchenij-sveta_n3181902",
+   "u": "https://24tv.ua/business/radio-ukrayini-yak-chasto-ukrayintsi-yogo-sluhayut-shho-chomu_n3181892",
    "x": "Радіо залишається масовим медіа в Україні: щотижня його слухають 66,39% аудиторії віком 18 – 65 років. Водночас середня тривалість щоденного слухання зросла до 171 хвилини.",
    "i": "https://24tv.ua/resources/photos/news/202611/3181892.jpg?v=1794904688000&q=100",
    "d": "2026-11-17T08:47:05+00:00",
    "c": [
     "holovne"
-   ]
-  },
-  {
-   "t": "В Івано-Франківську вперше провели операцію з реконструкції грудей власними тканинами пацієнтки",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/ivano-frankivsk/1453915-v-ivano-frankivsku-vperse-proveli-operaciu-z-rekonstrukcii-grudej-vlasnimi-tkaninami-pacientki/",
-   "x": "В Івано-Франківській обласній клінічній лікарні вперше реконструювали молочну залозу після раку. Хірурги використали власні тканини пацієнтки — шкіру та жирову клітковину з живота",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T08:46:52+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "ivanofrankivsk"
-   ]
-  },
-  {
-   "t": "В'ячеслава Брюховецького посмертно нагородили орденом Свободи",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/culture/1453949-vaceslava-bruhoveckogo-posmertno-nagorodili-ordenom-svobodi/",
-   "x": "Зеленський посмертно нагородив орденом Свободи В'ячеслава Брюховецького, ініціатора відродження Києво-Могилянської академії та її почесного президента",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T08:45:36+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "kyiv"
    ]
   },
   {
@@ -1478,7 +1140,7 @@
   {
    "t": "Атаки на Чернігівщину: троє людей загинули, пошкоджено будинки та енергооб'єкт",
    "s": "24 Канал",
-   "u": "https://24tv.ua/ru/vrag-sovershil-ataku-na-srazu-dva-predprijatija-v-chernigove-est-pogibshie_n3181281",
+   "u": "https://24tv.ua/vorog-atakuvav-odrazu-dva-pidpriyemstva-chernigovi-ye-zagibli_n3181280",
    "x": "Унаслідок російської атаки на Чернігів 16 листопада загинули троє людей, ще двоє постраждали. Уночі ворог також атакував безпілотником Корюківську громаду, а протягом доби завдав удару по одному з енергооб’єктів області.",
    "i": "https://24tv.ua/resources/photos/news/202611/3181280.jpg?v=1794827688000&q=100",
    "d": "2026-11-17T08:45:00+00:00",
@@ -1493,26 +1155,12 @@
   {
    "t": "Інсайдери розкрили тривалість і кількість місій основного сюжету GTA 6",
    "s": "24 Канал",
-   "u": "https://games.24tv.ua/ru/gta-6-insajder-raskryl-prodolzhitelnost-sjuzheta-i-kolichestvo-missij-v-novoj-igre-rockstar_n3181878",
+   "u": "https://games.24tv.ua/gta-6-insayder-rozkriv-trivalist-syuzhetu-kilkist-misiy-noviy_n3181839",
    "x": "У мережі з'явилися конкретні цифри щодо кількості завдань та тривалості сюжетної кампанії GTA 6. Гра обіцяє стати однією з найдовших пригод у історії компанії Rockstar.",
    "i": "https://24tv.ua/resources/photos/news/202611/3181839.jpg?v=1794903992000&q=100",
    "d": "2026-11-17T08:44:00+00:00",
    "c": [
     "holovne"
-   ]
-  },
-  {
-   "t": "На Львівщині 17 листопада попрощаються із дванадцятьма військовими",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/lviv/1453927-na-lvivsini-17-listopada-poprosautsa-iz-dvanadcatma-vijskovimi/",
-   "x": "Олександр Хижняк, Володимир Миго, Роман Гірник, Ігор Лазар, Ігор Довбняк, Микола Муцин, Олег Матвійчук, Вадим Шепелюк, Андрій Болковенко, Мар'ян Захарків, Павло Атаманенко та Олександр Ардан захищали Україну на…",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T08:43:08+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "lviv"
    ]
   },
   {
@@ -1541,20 +1189,6 @@
    ]
   },
   {
-   "t": "На півдні Одещини через атаку РФ пошкоджено енергооб'єкт: без світла 3,3 тисячі родин",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/odesa/1453933-na-pivdni-odesini-cerez-ataku-rf-poskodzeno-energoobekt-bez-svitla-33-tisaci-rodin/",
-   "x": "Уночі 17 листопада РФ атакувала енергооб'єкт ДТЕК на півдні Одещини. Без світла залишаються 3,3 тисячі родин. Частині споживачів електропостачання відновили, ремонтні роботи тривають",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T08:41:43+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "odesa"
-   ]
-  },
-  {
    "t": "🚨 ДОБИЛИ! КЕРЧЕНСЬКИЙ МІСТ ОБВАЛИВСЯ!🔥 НЕМАЄ ДОРОГИ І АРКИ❌УСІ ДЕТАЛІ| НОВИНИ 17.11.2026 5 канал",
    "s": "5 канал · відео",
    "u": "https://www.youtube.com/watch?v=lYy41L9DhLc",
@@ -1570,33 +1204,9 @@
    ]
   },
   {
-   "t": "Врожай зернових вже перевищив 50 мільйонів тонн",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/biznes/zbir-zernovih-i-oliynih-50-1-mln-tonn-urozhayu-82-4-ploshch-obrobleno-827716/",
-   "x": "Станом на 17 листопада аграрії зібрали 50,1 мільйона тонн зерна. Загалом обробили 82,4% засіяних зерновими площ.",
-   "d": "2026-11-17T08:41:00+00:00",
-   "c": [
-    "ekonomika"
-   ]
-  },
-  {
-   "t": "На Сумщині російський дрон атакував авто поліцейських: двоє людей травмовані",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/sumy/1453937-na-sumsini-rosijskij-dron-atakuvav-policejskih-dvoe-ludej-travmovani/",
-   "x": "Близько 8:30 17 листопада у Глухові російський дрон влучив у службовий автомобіль правоохоронців. Двоє поліцейських отримали поранення. Про це повідомили в Нацполіції.",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T08:40:16+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "sumy"
-   ]
-  },
-  {
    "t": "\"Вважаю це безвідповідальним\": президент Фінляндії закликав Європу говорити з Путіним",
    "s": "24 Канал",
-   "u": "https://24tv.ua/ru/mirnye-peregovory-prezident-finljandii-sutbb-prizval-liderov_n3181893",
+   "u": "https://24tv.ua/mirni-peregovori-prezident-finlyandiyi-sutbb-zaklikav-lideriv_n3181884",
    "x": "Президент Фінляндії Александр Стубб закликав лідерів Європи до прямих переговорів із Володимиром Путіним. Політик назвав безвідповідальним перекладання комунікації з Кремлем на адміністрацію США.",
    "i": "https://24tv.ua/resources/photos/news/202611/3181884.jpg?v=1794904441000&q=100",
    "d": "2026-11-17T08:40:03+00:00",
@@ -1606,23 +1216,9 @@
    ]
   },
   {
-   "t": "У Полтаві в кількох мікрорайонах не буде води: адреси відключень",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/poltava/1453923-u-poltavi-v-kilkoh-mikrorajonah-ne-bude-vodi-adresi-vidklucen/",
-   "x": "Відсутність води пов'язана із проведенням ремонтних робіт, окільки через це знижено тиск. Зокрема, на провулку Спортивному, 4б виконують ремонт регулятора. Подачу води мешканцям відновлять після завершення ремонтних…",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T08:39:19+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "poltava"
-   ]
-  },
-  {
    "t": "Просто ср*ка сраковиця, – Назар Задніпровський виїхав із Києва з дружиною та дітьми",
    "s": "24 Канал",
-   "u": "https://24tv.ua/show24/ru/nazar-zadneprovskij-uehal-iz-kieva-s-zhenoj-i-detmi-gde-teper-zhivet-semja_n3181895",
+   "u": "https://24tv.ua/show24/nazar-zadniprovskiy-viyihav-iz-kiyeva-druzhinoyu-ditmi-de-teper_n3181877",
    "x": "Український актор Назар Задніпровський разом із дружиною та дітьми переїхав із Києва до Ходосівки.",
    "i": "https://24tv.ua/resources/photos/news/202611/3181877.jpg?v=1794904532000&q=100",
    "d": "2026-11-17T08:39:00+00:00",
@@ -1631,31 +1227,6 @@
    ],
    "r": [
     "kyiv"
-   ]
-  },
-  {
-   "t": "Алькарас та Звєрєв вийшли в лідери груп Підсумкового турніру ATP-2026: результати першого туру",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/sport/1453909-alkaras-ta-zverev-vijsli-v-lideri-grup-pidsumkovogo-turniru-atp-2026-rezultati-persogo-turu/",
-   "x": "Результати першого туру Підсумкового турніру ATP-2026 у Турині: Карлос Алькарас та Александер Звєрєв розпочали груповий етап із перемог у двох сетах та очолили свої квартети",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T08:35:56+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
-   "t": "На дорозі біля Луцька загинув 19-річний пішохід",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/lutsk/1453930-na-dorozi-bila-lucka-zaginuv-19-ricnij-pisohid/",
-   "x": "На дорозі біля Луцька у ніч на 17 листопада загинув 19-річний хлопець. Він потрапив під колеса авто, коли перебував на проїджджій частині",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T08:35:03+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "volyn"
    ]
   },
   {
@@ -1675,7 +1246,7 @@
   {
    "t": "Стильні стрижки під шапку: 3 універсальні варіанти на зиму",
    "s": "24 Канал",
-   "u": "https://24tv.ua/lady24/ru/strizhki-pod-shapku-zimu-kakuju-stilnuju-udobnuju-model-vybrat_n3181855",
+   "u": "https://24tv.ua/lady24/strizhki-pid-shapku-zimu-yaku-stilnu-zruchnu-model-vibrati_n3181850",
    "x": "Напевно мало хто взимку полюбляє носити шапки, проте це найпрактичніший та найуніверсальніший варіант. В першу чергу, ми маємо подбати про свій комфорт та тепло, а вже потім про стиль та вигляд. Але, на щастя, мода…",
    "i": "https://24tv.ua/resources/photos/news/202611/3181850.jpg?v=1794902304000&q=100",
    "d": "2026-11-17T08:33:00+00:00",
@@ -1694,21 +1265,6 @@
    ],
    "r": [
     "vinnytsia"
-   ]
-  },
-  {
-   "t": "Відновлення доводиться починати знову: РФ повторно пошкодила енергооб'єкти України",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1453934-vidnovlenna-dovoditsa-pocinati-znovu-rf-povtorno-poskodila-energoobekti-ukraini/",
-   "x": "В Україні через нові російські атаки на енергетичну інфраструктуру знову виникли масштабні знеструмлення. Найскладніша ситуація з відновленням електропостачання наразі у Запорізькій та Дніпропетровській областях",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T08:31:09+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "zaporizhzhia",
-    "dnipro"
    ]
   },
   {
@@ -1768,7 +1324,7 @@
   {
    "t": "Легенда Динамо назвав наступного наставника збірної України",
    "s": "24 Канал",
-   "u": "https://24tv.ua/sporttopnews/ru/sledujushhij-trener-sbornoj-ukrainy-legenda-dinamo-nazval-svoego_n3181876",
+   "u": "https://24tv.ua/sporttopnews/nastupniy-trener-zbirnoyi-ukrayini-legenda-dinamo-nazvav-svogo_n3181867",
    "x": "Андреа Мальдера продемонстрував найгірший старт серед усіх наставників збірної України в офіційних матчах. На тлі цього в медіапросторі почали говорити про його відставку.",
    "i": "https://24tv.ua/resources/photos/news/202611/3181867.jpg?v=1794903855000&q=100",
    "d": "2026-11-17T08:26:00+00:00",
@@ -1801,7 +1357,7 @@
   {
    "t": "\"Щоб вкрали його і викинули\": як нібито буденна розмова у кабінеті Кучми запустила крах епохи",
    "s": "24 Канал",
-   "u": "https://24tv.ua/history/ru/ubijstvo-gongadze-kassetnyj-skandal-nachalsja-krah-jepohi-kuchmy_n3181771",
+   "u": "https://24tv.ua/history/ubivstvo-gongadze-kasetniy-skandal-yak-pochavsya-krah-epohi-kuchmi_n3181770",
    "x": "16 вересня 2000 року у Києві безслідно зник засновник опозиційного видання Георгій Гонгадзе, а вже за майже два місяці обезголовлене тіло журналіста знайшли у промерзлому Таращанському лісі. І ця макабрична подія могла…",
    "i": "https://24tv.ua/resources/photos/news/202611/3181770.jpg?v=1794882246000&q=100",
    "d": "2026-11-17T08:24:00+00:00",
@@ -1862,7 +1418,7 @@
   {
    "t": "Росія вдарила по Києву: відомо про 2 загиблих",
    "s": "24 Канал",
-   "u": "https://24tv.ua/ru/ataka-na-kiev-17-nojabrja-est-pogibshie-i-postradavshie-chto-izvestno-o-posledstvijah_n3181888",
+   "u": "https://24tv.ua/ataka-kiyiv-17-listopada-ye-zagibli-postrazhdali-shho-vidomo_n3181871",
    "x": "Внаслідок російської атаки на Київ 17 листопада в Оболонському районі загинули двоє людей, ще одна особа зазнала поранень. Рятувальники дістали потерпілого живим з-під завалів зруйнованої нежитлової будівлі.",
    "i": "https://24tv.ua/resources/photos/news/202611/3181871.jpg?v=1794903603000&q=100",
    "d": "2026-11-17T08:20:00+00:00",
@@ -1979,7 +1535,7 @@
   {
    "t": "Росія не зупиняється атакувати Україну, під ударом Захід: де летять ворожі цілі",
    "s": "24 Канал",
-   "u": "https://24tv.ua/ru/ataka-na-ukrainu-17-nojabrja-2026-goda-kuda-letjat-shahedy-i-ballistika-karta-trevog_n3181765",
+   "u": "https://24tv.ua/ataka-po-ukrayini-17-listopada-2026-kudi-letyat-shahedi-balistika_n3181763",
    "x": "Росія завдає комбінованого удару по Україні, запустивши ракети та ударні безпілотники. Через загрозу обстрілу у низці регіонів оголошено тривогу, лунали вибухи.",
    "i": "https://24tv.ua/resources/photos/news/202611/3181763.jpg?v=1794865860000&q=100",
    "d": "2026-11-17T08:15:00+00:00",
@@ -1989,19 +1545,9 @@
    ]
   },
   {
-   "t": "ВВП України впаде на 0,5% у 2026 році та ще на 1% у 2027 – МВФ",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/finances/vvp-ukrajini-prognoz-skorochennya-vid-mvf-na-2026-2027-roki-827714/",
-   "x": "Міжнародний валютний фонд прогнозує скорочення ВВП України на 0,5% у 2026 році та на 1% у 2027 році.",
-   "d": "2026-11-17T08:15:00+00:00",
-   "c": [
-    "ekonomika"
-   ]
-  },
-  {
    "t": "Збої у роботі Starshield заважають застосуванню дронів-перехоплювачів, – експерт",
    "s": "24 Канал",
-   "u": "https://24tv.ua/ru/ogranichenija-starshield-nanosjat-ushherb-dronam-perehvatchikam-musienko-objasnil-sut-ugrozy_n3181868",
+   "u": "https://24tv.ua/obmezhennya-starshield-shkodyat-dronam-perehoplyuvacham-musiyenko_n3181856",
    "x": "Термінали Starshield на окупованих територіях України вже понад тиждень працюють зі штучними обмеженнями. Військовий Олександр Мусієнко попередив, що через перебої зі зв'язком зривається збиття ворожих безпілотників.",
    "i": "https://24tv.ua/resources/photos/news/202611/3181856.jpg?v=1794902944000&q=100",
    "d": "2026-11-17T08:12:00+00:00",
@@ -2036,7 +1582,7 @@
   {
    "t": "У Тернополі пролунали сильні вибухи: на місто летів БпЛА",
    "s": "24 Канал",
-   "u": "https://24tv.ua/ru/v-ternopole-razdalis-silnye-vzryvy_n3181865",
+   "u": "https://24tv.ua/ternopoli-prolunali-silni-vibuhi_n3181863",
    "x": "Росія продовжує атакувати українські міста. Зранку 17 листопада вибухи прогриміли у Тернополі.",
    "i": "https://24tv.ua/resources/photos/news/202611/3181863.jpg?v=1794903005000&q=100",
    "d": "2026-11-17T08:10:00+00:00",
@@ -2051,48 +1597,13 @@
   {
    "t": "Україна – Грузія: онлайн-трансляція матчу Ліги націй",
    "s": "24 Канал",
-   "u": "https://sportnews.24tv.ua/ru/ukraina-gruzija-smotret-onlajn-prjamaja-transljacija-matcha-17-nojabrja-liga-nacij_n3181413",
+   "u": "https://sportnews.24tv.ua/ukrayina-gruziya-divitis-onlayn-pryama-translyatsiya-matchu-17_n3181146",
    "x": "У вівторок, 17 листопада, у мажах Ліги націй відбудеться матч між збірними України та Грузії. Це буде остання гря для \"синьо-жовтих\" у 2026 році.",
    "i": "https://24tv.ua/resources/photos/news/202611/3181146.jpg?v=1794827239000&q=100",
    "d": "2026-11-17T08:09:00+00:00",
    "c": [
     "holovne",
     "sport"
-   ]
-  },
-  {
-   "t": "Дженсен Хуанг намагається повернутися в крісло гендиректора Nvidia",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/tech/ru/dzhensen-huang-mozhet-vernutsja-v-nvidia-sojuzniki-sobirajut-shtab-dlja-okazanija-davlenija-na-radu-direktorov_n3181858",
-   "x": "Колишній голова Nvidia Дженсен Хуанг розглядає повернення на посаду. Його союзники в Кремнієвій долині збирають \"штаб\" і тиснуть на раду директорів компанії.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3181827.jpg?v=1794902027000&q=100",
-   "d": "2026-11-17T08:05:00+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
-   "t": "Росіяни атакували Одещину: які наслідки",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/biznes/rosiyani-atakuvali-odeshchinu-yaki-naslidki-827713/",
-   "x": "Вночі російські війська атакували південь Одещини і пошкодили енергообʼєкт, будинки, склади тощо, одна людина постраждала.",
-   "d": "2026-11-17T08:05:00+00:00",
-   "c": [
-    "ekonomika"
-   ],
-   "r": [
-    "odesa"
-   ]
-  },
-  {
-   "t": "Далеко не з України: звідки родом комік Ігор Ласточкін та де минули його дитячі роки",
-   "s": "24 Канал",
-   "u": "https://travel.24tv.ua/ru/gde-rodilsja-igor-lastochkin-chto-izvestno-o-ego-rodnom-gorode-i-kuda-komik-pereehal-v-detstve_n3181510",
-   "x": "Ігор Ласточкін – український комік, актор і телеведучий, який здобув популярність завдяки участі у КВК, гумористичному проєкті \"Ліга сміху\" та шоу \"Розсміши коміка\". Також він став переможцем \"Танців із зірками\" у 2018…",
-   "i": "https://24tv.ua/resources/photos/news/202611/3181439.jpg?v=1794839070000&q=100",
-   "d": "2026-11-17T08:04:00+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
@@ -2122,12 +1633,11 @@
   {
    "t": "У Мукачеві на Закарпатті чути звуки вибуху",
    "s": "24 Канал",
-   "u": "https://24tv.ua/ru/v-mukachevo-v-zakarpate-slyshny-zvuki-vzryva_n3181854",
+   "u": "https://24tv.ua/mukachevi-zakarpatti-chuti-zvuki-vibuhu_n3181853",
    "x": "У вівторок, 17 листопада, у Мукачеві було чути вибухи. Інформація про постраждалих наразі не надходила.",
    "i": "https://24tv.ua/resources/photos/news/202611/3181853.jpg?v=1794902470000&q=100",
    "d": "2026-11-17T08:02:00+00:00",
    "c": [
-    "holovne",
     "vazhlyve",
     "viyna"
    ],
@@ -2195,28 +1705,6 @@
    ]
   },
   {
-   "t": "Шпигуни і гучне вбивство: 6 популярних серіалів, які дивилися українці на Netflix минулого тижня",
-   "s": "24 Канал",
-   "u": "https://kino.24tv.ua/ru/samye-populjarnye-serialy-ukraine-netflix-novye-serialy-kotorye_n3181803",
-   "x": "На минулому тижні українські глядачі обирали напружені історії про таємниці, шпигунські інтриги та гучні кримінальні розслідування. Наша редакція зібрала добірку проєктів, які тримали увагу аудиторії найбільше.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3181801.jpg?v=1794896436000&q=100",
-   "d": "2026-11-17T08:00:00+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
-   "t": "У Туреччині поліція здійснила рейд на опозиційний телеканал та замінила його керівника",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/17/7250147/",
-   "x": "Турецька поліція у вівторок і провела обшуки та арешти в офісах проопозиційного телеканалу Sözcü TV, після чого було призначено довірену особу для управління його телевізійною та онлайн-платформами.",
-   "i": "https://img.eurointegration.com.ua/images/doc/7/a/7ad147d-tccpenvxhfithdgdhexeapa4oq.jpg",
-   "d": "2026-11-17T07:58:00+00:00",
-   "c": [
-    "polityka"
-   ]
-  },
-  {
    "t": "Людина загинула, ще дев'ять дістали поранень через ворожі обстріли минулої доби у Донецькій області",
    "s": "Інтерфакс-Україна",
    "u": "https://interfax.com.ua/news/general/1237623.html",
@@ -2238,8 +1726,7 @@
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/0/958371/60fcf1a003be5c8406581acfa745cf44.jpeg",
    "d": "2026-11-17T07:54:00+00:00",
    "c": [
-    "vazhlyve",
-    "ekonomika"
+    "vazhlyve"
    ]
   },
   {
@@ -2251,19 +1738,6 @@
    "d": "2026-11-17T07:54:00+00:00",
    "c": [
     "viyna"
-   ]
-  },
-  {
-   "t": "На Запоріжжі без електропостачання залишилася значна кількість споживачів",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/biznes/na-zaporizhzhi-bez-elektropostachannya-zalishilasya-znachna-kilkist-spozhivachiv-827711/",
-   "x": "Через російські удари по енергетичній інфраструктурі значна кількість мешканців Запоріжжя та області залишилася без світла.",
-   "d": "2026-11-17T07:52:00+00:00",
-   "c": [
-    "ekonomika"
-   ],
-   "r": [
-    "zaporizhzhia"
    ]
   },
   {
@@ -2304,19 +1778,6 @@
    ],
    "r": [
     "crimea"
-   ]
-  },
-  {
-   "t": "Нічна атака на Київ: пошкоджено інфраструктуру, мости, є перебої з водою та теплом",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/infrastruktura/infrastruktura-kiyeva-poshkodzhennya-mostiv-i-teplomerezh-cherez-obstril-827709/",
-   "x": "Унаслідок атаки російських загарбників на Києва в ніч на 17 листопада зафіксовано пошкодження інфраструктури та пожежі в Голосіївському, Деснянському, Дніпровському та Оболонському районах. Наразі відомо про одного…",
-   "d": "2026-11-17T07:48:00+00:00",
-   "c": [
-    "ekonomika"
-   ],
-   "r": [
-    "kyiv"
    ]
   },
   {
@@ -2487,16 +1948,6 @@
    ]
   },
   {
-   "t": "NOVA завершила угоду з придбання БТА Банку",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/biznes/nova-zavershila-ugodu-z-pridbannya-bta-banku-827708/",
-   "x": "Група компаній NOVA завершила угоду з придбання АТ \"БТА Банк\" і переходить до наступного етапу – інтеграції з NovaPay та підготовки до роботи під новим брендом – NovaBank.",
-   "d": "2026-11-17T07:25:00+00:00",
-   "c": [
-    "ekonomika"
-   ]
-  },
-  {
    "t": "Документи через «Дію» та перевірка доброчесності: як змінилися конкурси на держслужбу",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/ECONOMICS/dokumenti-cherez-diju-ta-perevirka-dobrochesnosti-jak-zminilisja-konkursi-na-derzhsluzhbu.html",
@@ -2519,30 +1970,6 @@
    ],
    "r": [
     "lviv"
-   ]
-  },
-  {
-   "t": "На Миколаївщині зросла захворюваність на ГРВІ: за тиждень — 2951 випадок",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/mykolaiv/1453952-na-mikolaivsini-zrosla-zahvoruvanist-na-grvi-za-tizden-2951-vipadok/",
-   "x": "У Миколаївській області за тиждень на ГРВІ, включно з COVID-19, захворіла 2951 людина. Більшість хворих — діти. У Миколаєві кількість хворих зросла з 1311 до 1363 людей.",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T07:22:24+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "mykolaiv"
-   ]
-  },
-  {
-   "t": "Ринок, з якого важко вийти",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/finances/rinok-z-yakogo-vazhko-viyti-827698/",
-   "x": "Корпоративних облігацій в Україні дедалі більше, але продати їх до погашення складно. Чому вторинний ринок не формується?",
-   "d": "2026-11-17T07:20:00+00:00",
-   "c": [
-    "ekonomika"
    ]
   },
   {
@@ -2610,21 +2037,6 @@
    ],
    "r": [
     "kyiv"
-   ]
-  },
-  {
-   "t": "🔥ЗАГОРОДНІЙ: Вибухи і ракети РОЗРИВАЮТЬ Кримський міст! Путін В ІСТЕРИЦІ. ЕКСТРЕНА ЗУСТРІЧ по війні",
-   "s": "24 Канал · відео",
-   "u": "https://www.youtube.com/watch?v=1bByu89lL0k",
-   "x": "У ніч проти 17 листопада Кримський міст зазнав ракетної атаки, внаслідок якої обвалилася арка автомобільної частини споруди. Водночас спецпосланці президента США Стів Віткофф та Джаред Кушнер планують зустрітися з…",
-   "i": "https://i2.ytimg.com/vi/1bByu89lL0k/hqdefault.jpg",
-   "d": "2026-11-17T07:12:13+00:00",
-   "c": [
-    "video"
-   ],
-   "v": 1,
-   "r": [
-    "crimea"
    ]
   },
   {
@@ -2735,34 +2147,6 @@
    ]
   },
   {
-   "t": "Кількість поранених внаслідок комбінованої атаки РФ на Запоріжжя зросла до 11 людей – ОВА",
-   "s": "Інтерфакс-Україна",
-   "u": "https://interfax.com.ua/news/general/1237528.html",
-   "x": "Кількість поранених внаслідок комбінованої російської атаки на Запоріжжя у вівторок вранці зросла до 11 людей, повідомив голова Запорізької обласної військової адміністрації Михайло Семікін.",
-   "i": "https://media.interfax.com.ua/media/thumbs/images/2026/09/gvlei/4iqnBLk30PC5.jpg",
-   "d": "2026-11-17T06:56:31+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "zaporizhzhia"
-   ]
-  },
-  {
-   "t": "Одна людина загинула та дев'ятеро постраждали внаслідок комбінованої атаки РФ на Запоріжжя, в області діють екстрені відключення світла",
-   "s": "Інтерфакс-Україна",
-   "u": "https://interfax.com.ua/news/general/1237527.html",
-   "x": "Російські війська здійснили комбіновану атаку на промислові об'єкти у трьох районах Запоріжжя, внаслідок чого загинув чоловік і ще дев'ятеро людей дістали поранення, а через удари по енергетиці значна частина споживачів…",
-   "i": "https://media.interfax.com.ua/media/thumbs/images/2026/11/tqenj/qFyXb5Dtn5Wl.jpg",
-   "d": "2026-11-17T06:55:34+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "zaporizhzhia"
-   ]
-  },
-  {
    "t": "Торгова угода США та Китаю: чому Пекін зриває закупівлі на 17 мільярдів",
    "s": "24 Канал",
    "u": "https://24tv.ua/economy/torgova-ugoda-ssha-kitayu-chomu-pekin-vidmovlyayetsya-kupuvati_n3181808",
@@ -2795,20 +2179,6 @@
    ],
    "r": [
     "crimea"
-   ]
-  },
-  {
-   "t": "Посол України у Франції зустрівся з Ле Пен та обговорив підтримку Києва",
-   "s": "Українська правда",
-   "u": "https://www.pravda.com.ua/news/2026/11/17/8063204/",
-   "x": "Вадим Омельченко та Марін Ле Пен зустрілися в Парижі. У центрі уваги — подальша підтримка України, співпраця та євроінтеграція.",
-   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/9/958307/f916e3a5170c18bc9839543281d4e929.jpeg",
-   "d": "2026-11-17T06:36:00+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "kyiv"
    ]
   },
   {
@@ -2892,7 +2262,6 @@
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/8/958306/b8f2e8ea0e63cf37fc5bd4e5e5c9b62d.jpeg",
    "d": "2026-11-17T06:19:00+00:00",
    "c": [
-    "holovne",
     "vazhlyve"
    ],
    "r": [
@@ -2973,16 +2342,6 @@
     "video"
    ],
    "v": 1
-  },
-  {
-   "t": "Брама України. Як поляки заробляють на російсько-українській війні",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/svit/polskiy-import-torgoviy-hab-i-struktura-postavok-v-ukrajinu-827706/",
-   "x": "З початку великої війни потік товарів через польсько-український кордон подвоївся. Що поляки везуть в Україну і хто виграв від втрати країною логістичних альтернатив?",
-   "d": "2026-11-17T05:30:00+00:00",
-   "c": [
-    "ekonomika"
-   ]
   },
   {
    "t": "Дизель падає у ціні, а автогаз росте: що відбувається на АЗС України",
@@ -3253,28 +2612,6 @@
    ]
   },
   {
-   "t": "Amazon визначилася з наступником Деніела Крейґа: хто став новим Джеймсом Бондом",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/TECHNOLOGIES/amazon-viznachilasja-z-nastupnikom-deniela-krejga-khto-stav-novim-ahentom-dzhejmsom-bondom.html",
-   "x": "Зірка «Бетмена» Роберт Паттінсон зіграє Джеймса Бонда у фільмі Дені Вільньова.",
-   "i": "https://zn.ua/img/article/7042/34_main.webp",
-   "d": "2026-11-17T01:37:00+00:00",
-   "c": [
-    "statti"
-   ]
-  },
-  {
-   "t": "Офіційне працевлаштування: які документи це можуть підтвердити",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/UKRAINE/ofitsijne-pratsevlashtuvannja-jaki-dokumenti-tse-mozhut-pidtverditi.html",
-   "x": "Роз'яснення дали у Держпраці.",
-   "i": "https://zn.ua/img/article/7040/33_main.webp",
-   "d": "2026-11-17T01:00:00+00:00",
-   "c": [
-    "statti"
-   ]
-  },
-  {
    "t": "Мародерство на Херсонщині: Росія планує відібрати на ТОТ понад 1100 будинків українців",
    "s": "24 Канал",
    "u": "https://24tv.ua/rosiya-hoche-privlasniti-zhitlo-hersonshhini-detali-vid-gur_n3181497",
@@ -3537,17 +2874,6 @@
    ]
   },
   {
-   "t": "До 3 черг відключень: в Укренерго відповіли, як вимикатимуть світло 17 листопада",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/grafiki-vidklyuchennya-svitla-17-listopada-zayava-ukrenergo_n3181726",
-   "x": "У частині областей України 17 листопада протягом усієї доби застосовуватимуть планові знеструмлення. Для побутових споживачів введуть від 1 до 3 черг відключень.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3181726.jpg?v=1794858431000&q=100",
-   "d": "2026-11-16T19:47:00+00:00",
-   "c": [
-    "viyna"
-   ]
-  },
-  {
    "t": "Кушнер заявив про підготовку до багатосторонньої зустрічі щодо війни в Україні",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/16/8063172/",
@@ -3556,21 +2882,6 @@
    "d": "2026-11-16T19:31:00+00:00",
    "c": [
     "vazhlyve"
-   ]
-  },
-  {
-   "t": "Трамп ЗГАНЬБИТЬСЯ у Китаї⁉️Візит на тлі ШПИГУНСЬКОГО СКАНДАЛУ та ПРОВАЛЕНИХ виборів💣Зустріч на трьох",
-   "s": "5 канал · відео",
-   "u": "https://www.youtube.com/watch?v=hJSAlBHWHig",
-   "x": "Київ найближчими місяцями може опинитися на межі непридатності для життя. The New York Times лякає майбутнім в українській столиці. Як ситуацію в Україні бачать світові медіа? путін міг би бути суворішим щодо України…",
-   "i": "https://i1.ytimg.com/vi/hJSAlBHWHig/hqdefault.jpg",
-   "d": "2026-11-16T19:30:06+00:00",
-   "c": [
-    "video"
-   ],
-   "v": 1,
-   "r": [
-    "kyiv"
    ]
   },
   {
@@ -3657,18 +2968,6 @@
    "v": 1
   },
   {
-   "t": "Новини 16 листопада: рекордний транш ЄС, блекаут у Дніпрі та удар по \"Королівському смаку\"",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/finances/novini-16-listopada-rekordniy-transh-yes-blekaut-u-dnipri-ta-udar-po-korolivskomu-smaku-827705/",
-   "d": "2026-11-16T19:00:00+00:00",
-   "c": [
-    "ekonomika"
-   ],
-   "r": [
-    "dnipro"
-   ]
-  },
-  {
    "t": "У Комишувасі завершили пошукові роботи: російський удар забрав життя 72 людей",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/16/8063170/",
@@ -3691,15 +2990,6 @@
    ]
   },
   {
-   "t": "У клієнтів п'яти великих банків США масові проблеми з доступом до рахунків",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/finances/u-ssha-kliyenti-chase-ta-shche-chotiroh-velikih-bankiv-povidomili-pro-zboji-827704/",
-   "d": "2026-11-16T18:55:00+00:00",
-   "c": [
-    "ekonomika"
-   ]
-  },
-  {
    "t": "Зеленський розповів про \"непросту\" розмову України, США та Європи на рівні команд",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/16/8063168/",
@@ -3711,16 +3001,6 @@
    ]
   },
   {
-   "t": "Кінець епохи Adidas: Nike cтане новим постачальником м'ячів для турнірів UEFA",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/svit/kontrakt-nike-z-uefa-postachannya-m-yachiv-zamist-adidas-z-2027-roku-827703/",
-   "x": "Компанія Nike замінить Adidas як постачальника м'ячів для чоловічих клубних змагань UEFA у 2027–2031 роках.",
-   "d": "2026-11-16T18:45:00+00:00",
-   "c": [
-    "ekonomika"
-   ]
-  },
-  {
    "t": "Україна залишилась без основних вінгерів: що сказав Мальдера перед матчем із Грузією",
    "s": "24 Канал",
    "u": "https://sportnews.24tv.ua/andrea-maldera-trener-zbirnoyi-ukrayini-rozpoviv-pro-travmi-gravtsiv_n3181693",
@@ -3729,29 +3009,6 @@
    "d": "2026-11-16T18:40:00+00:00",
    "c": [
     "sport"
-   ]
-  },
-  {
-   "t": "Бетонний захист 80% підстанцій Київщини можна добудувати до Нового року",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/energetika/oliynik-ociniv-mozhlivist-dobudovi-zahistu-pidstanciy-kijivshchini-do-novogo-roku-827702/",
-   "d": "2026-11-16T18:30:00+00:00",
-   "c": [
-    "ekonomika"
-   ],
-   "r": [
-    "kyivska"
-   ]
-  },
-  {
-   "t": "Зеленський попередив, що Росія готує новий ракетний удар",
-   "s": "Українська правда",
-   "u": "https://www.pravda.com.ua/news/2026/11/16/8063158/",
-   "x": "Президент України Володимир Зеленський у зверненні 16 листопада попередив, що РФ може завдати масованого ракетного удару 16-17 листопада.",
-   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/9/958167/99c76fc803b0a436492ea4e9a656ca1a.jpeg",
-   "d": "2026-11-16T18:18:00+00:00",
-   "c": [
-    "vazhlyve"
    ]
   },
   {
@@ -4982,17 +4239,6 @@
    ],
    "r": [
     "donetsk"
-   ]
-  },
-  {
-   "t": "Моссад попередив США про плани Ірану вбити Трампа вибуховими дронами, – ЗМІ",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/geopolitics/iran-planuvav-ubiti-trampa-dronami-dani-mossadu-zminili-pozitsiyu_n3180675",
-   "x": "Ізраїльська розвідка передала ЦРУ інформацію про наміри Ірану атакувати президента США Дональда Трампа та інших високопосадовців його адміністрації. Тегеран міг планувати, зокрема, удари безпілотниками з вибухівкою.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3180675.jpg?v=1794721212000&q=100",
-   "d": "2026-11-15T06:06:00+00:00",
-   "c": [
-    "vazhlyve"
    ]
   },
   {
