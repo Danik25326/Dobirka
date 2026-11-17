@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T22:01:09+00:00",
+ "updated": "2026-11-17T22:10:43+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -158,11 +158,15 @@
  ],
  "top": [
   {
-   "t": "Збірна України перемогла Грузію в заключному матчі Ліги націй",
-   "u": "https://www.pravda.com.ua/news/2026/11/17/8063359/",
-   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/6/958838/d6478434081bca64fe7c17244f8744a0.jpeg",
+   "t": "Збірна України перемогою над Грузією завершила виступ у Лізі націй",
+   "u": "https://zn.ua/ukr/SPORT/zbirna-ukrajini-peremohoju-nad-hruzijeju-zavershila-vistup-u-lizi-natsij.html",
+   "i": "https://zn.ua/img/article/7043/27_main.webp",
    "n": 4,
    "l": [
+    {
+     "s": "ZN.UA",
+     "u": "https://zn.ua/ukr/SPORT/zbirna-ukrajini-peremohoju-nad-hruzijeju-zavershila-vistup-u-lizi-natsij.html"
+    },
     {
      "s": "Українська правда",
      "u": "https://www.pravda.com.ua/news/2026/11/17/8063359/"
@@ -174,13 +178,9 @@
     {
      "s": "Суспільне",
      "u": "https://suspilne.media/sport/1454244-ukraina-gruzia-onlajn-translacia-matcu-ligi-nacij/"
-    },
-    {
-     "s": "ZN.UA",
-     "u": "https://zn.ua/ukr/SPORT/ukrajina-hruzia-chas-pochatky-matchu-ligi-nacij-de-divitisya-transljatsiju.html"
     }
    ],
-   "d": "2026-11-17T21:40:00+00:00"
+   "d": "2026-11-17T22:02:00+00:00"
   },
   {
    "t": "Санду заявила про російський дрон над Кишиневом: Молдова закрила повітряний простір",
@@ -370,6 +370,38 @@
  ],
  "items": [
   {
+   "t": "Зеленський назвав ППО альфою і омегою захисту України",
+   "s": "Інтерфакс-Україна",
+   "u": "https://interfax.com.ua/news/general/1238210.html",
+   "x": "Президент Володимир Зеленський назвав протиповітряну оборону основним пріоритетом України та закликав партнерів передати наявні в них ракети-перехоплювачі.",
+   "d": "2026-11-17T22:05:31+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Китай навчає передові нейромережі на підсанкційних чипах NVIDIA: як це вдалося з’ясувати за допомогою нового методу",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/TECHNOLOGIES/kitaj-navchaje-peredovi-nejromerezhi-na-pidsanktsijnikh-chipakh-nvidia-jak-tse-vdalosja-zjasuvati-za-dopomohoju-novoho-metodu.html",
+   "x": "Математичні «відбитки пальців» заборонених чипів NVIDIA знайшли у шістьох нових китайських нейромережах.",
+   "i": "https://zn.ua/img/article/7043/26_main.webp",
+   "d": "2026-11-17T22:03:44+00:00",
+   "c": [
+    "statti"
+   ]
+  },
+  {
+   "t": "Збірна України перемогою над Грузією завершила виступ у Лізі націй",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/SPORT/zbirna-ukrajini-peremohoju-nad-hruzijeju-zavershila-vistup-u-lizi-natsij.html",
+   "x": "Команда зберегла місце у Дивізіоні B.",
+   "i": "https://zn.ua/img/article/7043/27_main.webp",
+   "d": "2026-11-17T22:02:00+00:00",
+   "c": [
+    "statti"
+   ]
+  },
+  {
    "t": "Найгарячіша ділянка — Костянтинівська. Фронт Донеччини та Луганщини 18 листопада 2026 року",
    "s": "Суспільне",
    "u": "https://suspilne.media/donbas/1441931-najgaracisa-dilanka-kostantinivska-front-doneccini-ta-lugansini-18-listopada-2026-roku/",
@@ -382,6 +414,17 @@
    "r": [
     "donetsk",
     "luhansk"
+   ]
+  },
+  {
+   "t": "Без суржика: як українською буде \"заблуждение\"",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/UKRAINE/bez-surzhika-jak-ukrajinskoju-bude-zabluzhdenie.html",
+   "x": "Не всі знають як сказати правильно.",
+   "i": "https://zn.ua/img/article/7040/49_main.webp",
+   "d": "2026-11-17T22:00:00+00:00",
+   "c": [
+    "statti"
    ]
   },
   {
@@ -546,7 +589,7 @@
    ]
   },
   {
-   "t": "«З ними вчинили дуже несправедливо». Претендент на пост президента ФІФА висловився за повернення росіян у футбол",
+   "t": "«З ними вчинили дуже несправедливо». Претендент на пост президента ФІФА хоче повернути Росію у футбол",
    "s": "Суспільне",
    "u": "https://suspilne.media/sport/1454286-z-nimi-vcinili-duze-nespravedlivo-pretendent-na-post-prezidenta-fifa-vislovivsa-za-povernenna-rosian-u-futbol/",
    "x": "Ексзахисник «Тоттенгема» Рамон Вега висловив бажання повернути збірні та клуби Росії у міжнародний футбол, кандидат у президенти ФІФА, коментар",
@@ -651,6 +694,17 @@
    "c": [
     "holovne",
     "kino"
+   ]
+  },
+  {
+   "t": "Україна — Грузія 1:0: ключові моменти матчу Ліги націй",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/SPORT/ukrajina-hruzia-onlajn-transljatsija-matchu-lihi-natsij.html",
+   "x": "Команда втримала третє місце у групі.",
+   "i": "https://zn.ua/img/article/7040/21_main.webp",
+   "d": "2026-11-17T20:58:00+00:00",
+   "c": [
+    "statti"
    ]
   },
   {
@@ -1002,17 +1056,6 @@
    "v": 1
   },
   {
-   "t": "Португалія увіковічить сьомий номер Кріштіану Роналду: що про це відомо",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/sport/1454292-portugalia-uvikovicit-somij-nomer-kristianu-ronaldu-so-pro-ce-vidomo/",
-   "x": "Кріштіану Роналду: нападник збірної Португалії з футболу, зміна дизайну для футболки з ігровим номером футболіста, унікальна нагорода",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T20:05:00+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "Destinus заявила про застосування ракет Ruta Block 1 для удару по Кримському мосту",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/war/destinus-zajavila-pro-zastosuvannja-raket-ruta-block-1-dlja-udaru-po-krimskomu-mostu.html",
@@ -1343,17 +1386,6 @@
    "v": 1
   },
   {
-   "t": "Чемпіон Фінляндії з біатлону зможе виступити у сезоні 2026/27 попри загрозу втратити ліцензію на зброю: як це можливо",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/sport/1454222-cempion-finlandii-z-biatlonu-zmoze-vistupiti-u-sezoni-202627-popri-zagrozu-vtratiti-licenziu-na-zbrou-ak-ce-mozlivo/",
-   "x": "Артту Гейккінен: ситуація із забороною виступів у сезоні, інцидент під час полювання, подання апеляції до суду, що змінилося в рішенні",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T19:35:00+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "Можна \"посерфити\" просто в пустелі: блогерка показала незвичну розвагу в одній з країн Африки",
    "s": "24 Канал",
    "u": "https://travel.24tv.ua/pusteli-namibiyi-ukrayinska-blogerka-zyihala-dyuni-kilimku-video_n3182462",
@@ -1373,8 +1405,7 @@
    "d": "2026-11-17T19:35:00+00:00",
    "c": [
     "holovne",
-    "sport",
-    "statti"
+    "sport"
    ]
   },
   {
@@ -1652,6 +1683,20 @@
    "d": "2026-11-17T19:13:56+00:00",
    "c": [
     "holovne"
+   ]
+  },
+  {
+   "t": "На Херсонщині 18 листопада очікується вітряна та дощова погода",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/kherson/1454290-na-hersonsini-18-listopada-ocikuetsa-vitrana-ta-dosova-pogoda/",
+   "x": "Вночі та вранці 18 листопада на Херсонщині очікується туман з видимістю 200-500 метрів. Вдень почнеться дощ і здійметься поривчастий вітер",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-17T19:13:10+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kherson"
    ]
   },
   {
@@ -2490,6 +2535,17 @@
    ]
   },
   {
+   "t": "Португалія увіковічить сьомий номер Кріштіану Роналду: що про це відомо",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sport/1454292-portugalia-uvikovicit-somij-nomer-kristianu-ronaldu-so-pro-ce-vidomo/",
+   "x": "Кріштіану Роналду: нападник збірної Португалії з футболу, зміна дизайну для футболки з ігровим номером футболіста, унікальна нагорода",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-17T18:05:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "Максимальна пенсія в Україні: скільки найбільше платять у 2026 році",
    "s": "24 Канал",
    "u": "https://24tv.ua/economy/maksimalna-pensiya-ukrayini-yakiy-rozmir-viplat-vstanovleno-2026_n3182357",
@@ -2682,6 +2738,17 @@
    ]
   },
   {
+   "t": "Чемпіон Фінляндії з біатлону зможе виступити у сезоні 2026/27 попри загрозу втратити ліцензію на зброю: як це можливо",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sport/1454222-cempion-finlandii-z-biatlonu-zmoze-vistupiti-u-sezoni-202627-popri-zagrozu-vtratiti-licenziu-na-zbrou-ak-ce-mozlivo/",
+   "x": "Артту Гейккінен: ситуація із забороною виступів у сезоні, інцидент під час полювання, подання апеляції до суду, що змінилося в рішенні",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-17T17:35:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "На Дніпропетровщині за день через російські удари постраждали 20 людей, серед них дві дитини",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/17/8063328/",
@@ -2783,20 +2850,6 @@
    ]
   },
   {
-   "t": "На Херсонщині 18 листопада очікується вітряна та дощова погода",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/kherson/1454290-na-hersonsini-18-listopada-ocikuetsa-vitrana-ta-dosova-pogoda/",
-   "x": "Вночі та вранці 18 листопада на Херсонщині очікується туман з видимістю 200-500 метрів. Вдень почнеться дощ і здійметься поривчастий вітер",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T17:13:10+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "kherson"
-   ]
-  },
-  {
    "t": "Зеленський на \"Рамштайні\" заявив, що Україні потрібні ще 40 винищувачів F-16",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/17/8063323/",
@@ -2805,16 +2858,6 @@
    "d": "2026-11-17T17:13:00+00:00",
    "c": [
     "vazhlyve"
-   ]
-  },
-  {
-   "t": "«Укрнафта» відновлює об'єкти після атак та будує нову генерацію, — Тімоті Додсон на ReBuild Ukraine 2026",
-   "s": "Інтерфакс-Україна",
-   "u": "https://interfax.com.ua/news/press-release/1238126.html",
-   "x": "«Укрнафта» спрямовує ресурси на захист та відновлення виробничих об'єктів після російських атак та будує нову генерацію.",
-   "d": "2026-11-17T17:01:32+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
@@ -2939,17 +2982,6 @@
    ]
   },
   {
-   "t": "Зеленський підбив підсумки переговорів в Абу-Дабі: про що домовилися Україна, США та Росія",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/POLITICS/zelenskij-pidbiv-pidsumki-perehovoriv-v-abu-dabi-pro-shcho-domovilisja-ukrajina-ssha-ta-rosija.html",
-   "x": "Україна запропонувала провести гуманітарні операції ще на 10 ділянках окупованих територій.",
-   "i": "https://zn.ua/img/article/7043/4_main.webp",
-   "d": "2026-11-17T16:35:00+00:00",
-   "c": [
-    "statti"
-   ]
-  },
-  {
    "t": "Вибух пролунав у центрі Вінниці: в одній із будівель виникла пожежа",
    "s": "24 Канал",
    "u": "https://24tv.ua/vibuh-prolunav-tsentri-vinnitsi-odniy-iz-budivel-vinikla-pozhezha_n3182406",
@@ -2996,28 +3028,6 @@
    "d": "2026-11-17T16:19:00+00:00",
    "c": [
     "vazhlyve"
-   ]
-  },
-  {
-   "t": "Сигнал ітиме добу: «Вояджер-1» ось-ось відлетить на відстань одного світлового дня від Землі",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/TECHNOLOGIES/sihnal-nadkhoditime-tsilodobovo-vojadzher-1-os-os-vidletit-na-vidstan-odnoho-svitlovoho-dnja-vid-zemli.html",
-   "x": "Він перебуває у космосі вже майже 50 років.",
-   "i": "https://zn.ua/img/article/7043/1_main.webp",
-   "d": "2026-11-17T16:10:00+00:00",
-   "c": [
-    "statti"
-   ]
-  },
-  {
-   "t": "Хакери зламали сайт Міжнародної федерації хокею та опублікували фото збірної РФ",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/SPORT/khakeri-zlamali-sajt-mizhnarodnoji-federatsiji-khokeju-ta-opublikuvali-foto-zbirnoji-rf.html",
-   "x": "Портал зазнав атаки.",
-   "i": "https://zn.ua/img/article/7043/2_main.webp",
-   "d": "2026-11-17T16:01:00+00:00",
-   "c": [
-    "statti"
    ]
   },
   {
