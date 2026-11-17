@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T21:40:41+00:00",
+ "updated": "2026-11-17T21:50:41+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -158,6 +158,31 @@
  ],
  "top": [
   {
+   "t": "Збірна України перемогла Грузію в заключному матчі Ліги націй",
+   "u": "https://www.pravda.com.ua/news/2026/11/17/8063359/",
+   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/6/958838/d6478434081bca64fe7c17244f8744a0.jpeg",
+   "n": 4,
+   "l": [
+    {
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/17/8063359/"
+    },
+    {
+     "s": "24 Канал",
+     "u": "https://sportnews.24tv.ua/ukrayina-gruziya-divitis-onlayn-pryama-translyatsiya-matchu-17_n3181146"
+    },
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/sport/1454244-ukraina-gruzia-onlajn-translacia-matcu-ligi-nacij/"
+    },
+    {
+     "s": "ZN.UA",
+     "u": "https://zn.ua/ukr/SPORT/ukrajina-hruzia-chas-pochatky-matchu-ligi-nacij-de-divitisya-transljatsiju.html"
+    }
+   ],
+   "d": "2026-11-17T21:40:00+00:00"
+  },
+  {
    "t": "The Times: Україна під час атаки на Кримський міст використовувала не Starlink, а власну систему",
    "u": "https://www.pravda.com.ua/news/2026/11/17/8063357/",
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/c/958836/0cc72171d9a5c5b6ef1ed12af7a487c2.jpeg",
@@ -242,27 +267,6 @@
    "d": "2026-11-17T19:36:36+00:00"
   },
   {
-   "t": "Україна – Грузія: онлайн-трансляція матчу Ліги націй",
-   "u": "https://sportnews.24tv.ua/ukrayina-gruziya-divitis-onlayn-pryama-translyatsiya-matchu-17_n3181146",
-   "i": "https://24tv.ua/resources/photos/news/202611/3181146.jpg?v=1794827239000&q=100",
-   "n": 3,
-   "l": [
-    {
-     "s": "24 Канал",
-     "u": "https://sportnews.24tv.ua/ukrayina-gruziya-divitis-onlayn-pryama-translyatsiya-matchu-17_n3181146"
-    },
-    {
-     "s": "Суспільне",
-     "u": "https://suspilne.media/sport/1454244-ukraina-gruzia-onlajn-translacia-matcu-ligi-nacij/"
-    },
-    {
-     "s": "ZN.UA",
-     "u": "https://zn.ua/ukr/SPORT/ukrajina-hruzia-chas-pochatky-matchu-ligi-nacij-de-divitisya-transljatsiju.html"
-    }
-   ],
-   "d": "2026-11-17T19:35:00+00:00"
-  },
-  {
    "t": "Російська атака на Київ: рух Північним та Південним мостом частково відновили",
    "u": "https://24tv.ua/pivnichniy-pivdenniy-mosti-perekriti-yak-zmineno-ruh-transportu_n3181779",
    "i": "https://24tv.ua/resources/photos/news/202611/3181779.jpg?v=1794889549000&q=100",
@@ -284,6 +288,23 @@
    "d": "2026-11-17T19:01:00+00:00"
   },
   {
+   "t": "Відключення знову діятимуть: коли не буде світла 18 листопада",
+   "u": "https://24tv.ua/avariyni-vidklyuchennya-svitla-v-ukrayini-grafiki-ta-perelik-mist_n2175821",
+   "i": "https://24tv.ua/resources/photos/news/202210/2175821.jpg?v=1765370703000&q=100",
+   "n": 2,
+   "l": [
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/avariyni-vidklyuchennya-svitla-v-ukrayini-grafiki-ta-perelik-mist_n2175821"
+    },
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/mykolaiv/1454296-grafiki-vidklucen-svitla-na-mikolaivsini-18-listopada/"
+    }
+   ],
+   "d": "2026-11-17T21:41:00+00:00"
+  },
+  {
    "t": "\"Приносить біль цивільним\": в Міноборони США засудили удари України вглиб Росії",
    "u": "https://24tv.ua/pentagoni-rozkritikuvali-udari-ukrayini-vglib-rosiyi-zayava-elbridzha_n3182510",
    "i": "https://24tv.ua/resources/photos/news/202611/3182510.jpg?v=1794950392000&q=100",
@@ -301,6 +322,23 @@
    "d": "2026-11-17T21:21:00+00:00"
   },
   {
+   "t": "«Є відповіді на вагомі кадрові питання», — Зеленський після зустрічі з керівником СБУ Покладом",
+   "u": "https://suspilne.media/1454307-e-vidpovidi-na-vagomi-kadrovi-pitanna-zelenskij-pisla-zustrici-z-kerivnikom-sbu-pokladom/",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "n": 2,
+   "l": [
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/1454307-e-vidpovidi-na-vagomi-kadrovi-pitanna-zelenskij-pisla-zustrici-z-kerivnikom-sbu-pokladom/"
+    },
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/kadrovi-zmini-sbu-zelenskiy-zasluhav-dopovid-poklada_n3182476"
+    }
+   ],
+   "d": "2026-11-17T20:43:09+00:00"
+  },
+  {
    "t": "У Києві через атаку Росії пошкоджено будівлі Мін'юсту, а в Дніпрі – почесне консульство Австрії",
    "u": "https://24tv.ua/budivli-minyustu-poshkodzheni-cherez-obstril-kiyeva-naslidki_n3182493",
    "i": "https://24tv.ua/resources/photos/news/202611/3182493.jpg?v=1794945094000&q=100",
@@ -316,43 +354,41 @@
     }
    ],
    "d": "2026-11-17T19:53:00+00:00"
-  },
-  {
-   "t": "Є відповіді на вагомі кадрові питання, – Зеленський після доповіді очільника СБУ",
-   "u": "https://24tv.ua/kadrovi-zmini-sbu-zelenskiy-zasluhav-dopovid-poklada_n3182476",
-   "i": "https://24tv.ua/resources/photos/news/202611/3182476.jpg?v=1794942822000&q=100",
-   "n": 2,
-   "l": [
-    {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/kadrovi-zmini-sbu-zelenskiy-zasluhav-dopovid-poklada_n3182476"
-    },
-    {
-     "s": "Суспільне",
-     "u": "https://suspilne.media/1454307-e-vidpovidi-na-vagomi-kadrovi-pitanna-zelenskij-pisla-zustrici-z-kerivnikom-sbu-pokladom/"
-    }
-   ],
-   "d": "2026-11-17T19:23:00+00:00"
-  },
-  {
-   "t": "Міністр оборони Хмара: ми працюємо з американською стороною для того, щоб зняти зі Starshield обмеження швидкості",
-   "u": "https://suspilne.media/1454293-ministr-oboroni-hmara-mi-pracuemo-z-amerikanskou-storonou-dla-togo-sob-znati-zi-starshield-obmezenna-svidkosti/",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "n": 2,
-   "l": [
-    {
-     "s": "Суспільне",
-     "u": "https://suspilne.media/1454293-ministr-oboroni-hmara-mi-pracuemo-z-amerikanskou-storonou-dla-togo-sob-znati-zi-starshield-obmezenna-svidkosti/"
-    },
-    {
-     "s": "Інтерфакс-Україна",
-     "u": "https://interfax.com.ua/news/general/1238165.html"
-    }
-   ],
-   "d": "2026-11-17T19:09:16+00:00"
   }
  ],
  "items": [
+  {
+   "t": "Стефанчук і Кошта обговорили відкриття двох останніх переговорних кластерів до кінця року",
+   "s": "Інтерфакс-Україна",
+   "u": "https://interfax.com.ua/news/general/1238208.html",
+   "x": "Голова Верховної Ради Руслан Стефанчук під час зустрічі в Брюсселі з президентом Європейської ради Антоніу Коштою обговорив перспективу відкриття двох останніх переговорних кластерів щодо вступу України до ЄС до кінця…",
+   "d": "2026-11-17T21:45:46+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Україна виступила проти призначення росіянина на посаду в МАГАТЕ",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/POLITICS/rosijanin-mozhe-otrimati-posadu-v-mahate-ukrajina-zaklikala-zupiniti-kadrove-rishennja.html",
+   "x": "Україна закликала Рафаеля Гроссі відмовитися від такого кадрового рішення.",
+   "i": "https://zn.ua/img/article/7043/25_main.webp",
+   "d": "2026-11-17T21:45:00+00:00",
+   "c": [
+    "statti"
+   ]
+  },
+  {
+   "t": "Відключення знову діятимуть: коли не буде світла 18 листопада",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/avariyni-vidklyuchennya-svitla-v-ukrayini-grafiki-ta-perelik-mist_n2175821",
+   "x": "18 листопада в частині регіонів України знову вимикатимуть світло. Обмеження вводяться для стабілізації ситуації в енергосистемі після російських атак.",
+   "i": "https://24tv.ua/resources/photos/news/202210/2175821.jpg?v=1765370703000&q=100",
+   "d": "2026-11-17T21:41:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
   {
    "t": "Знижки на житло й безкоштовні екскурсії: де вигідно відпочити військовим в Україні",
    "s": "24 Канал",
@@ -373,6 +409,16 @@
    "d": "2026-11-17T21:40:00+00:00",
    "c": [
     "holovne"
+   ]
+  },
+  {
+   "t": "Збірна України перемогла Грузію в заключному матчі Ліги націй",
+   "s": "Українська правда",
+   "u": "https://www.pravda.com.ua/news/2026/11/17/8063359/",
+   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/6/958838/d6478434081bca64fe7c17244f8744a0.jpeg",
+   "d": "2026-11-17T21:40:00+00:00",
+   "c": [
+    "vazhlyve"
    ]
   },
   {
@@ -508,6 +554,20 @@
    ]
   },
   {
+   "t": "Сум'яни з медалями чемпіонату України зі спортивної акробатики",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sumy/1454312-sumani-z-medalami-cempionatu-ukraini-zi-sportivnoi-akrobatiki/",
+   "x": "У Львові завершився чемпіонат України зі спортивної акробатики. Сум'яни вибороли п'ять медалей. Зокрема, отримали повний комплект нагород за програмою «9–15 років» серед жіночих пар",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-17T21:09:28+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "lviv"
+   ]
+  },
+  {
    "t": "Перепрошивка советских дедов | Чат рулетка",
    "s": "5 канал · відео",
    "u": "https://www.youtube.com/watch?v=-sXfcOoZOLc",
@@ -600,13 +660,25 @@
    "u": "https://24tv.ua/ataka-krimskiy-mist-bez-starlink-detali-operatsiyi-vid-times_n3182507",
    "x": "Сили оборони України 16 – 17 листопада вчетверте уразили Кримський міст, обваливши автомобільний проліт споруди. Операцію провели повністю без Starlink напередодні переговорів лідерів США, Китаю та Росії.",
    "i": "https://24tv.ua/resources/photos/news/202611/3182507.jpg?v=1794947665000&q=100",
-   "d": "2026-11-17T20:48:18+00:00",
+   "d": "2026-11-17T20:48:00+00:00",
    "c": [
     "holovne",
+    "vazhlyve",
     "viyna"
    ],
    "r": [
     "crimea"
+   ]
+  },
+  {
+   "t": "«Є відповіді на вагомі кадрові питання», — Зеленський після зустрічі з керівником СБУ Покладом",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1454307-e-vidpovidi-na-vagomi-kadrovi-pitanna-zelenskij-pisla-zustrici-z-kerivnikom-sbu-pokladom/",
+   "x": "За словами Зеленського, в ході зустрічі очільник СБУ Поклад запропонував комплекс внутрішніх рішень, які мають посилити Службу безпеки",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-17T20:43:09+00:00",
+   "c": [
+    "holovne"
    ]
   },
   {
@@ -852,6 +924,20 @@
    ]
   },
   {
+   "t": "На Тернопільщині 18 листопада прогнозують дощі і туман",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/ternopil/1454217-na-ternopilsini-18-listopada-prognozuut-dosi-i-tuman/",
+   "x": "На Тернопільщині 18 листопада прогнозують хмарну погоду з проясненнями. Вночі та вранці очікують слабкий туман. Вночі будуть помірні дощі. Вдень невеликі дощі",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-17T20:07:00+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "ternopil"
+   ]
+  },
+  {
    "t": "⚡️ТОЛЬКО ГЛЯНЬТЕ как встретили ПУТИНА В КИТАЕ! #shorts",
    "s": "24 Канал · відео",
    "u": "https://www.youtube.com/shorts/F93zivEMuB4",
@@ -862,17 +948,6 @@
     "video"
    ],
    "v": 1
-  },
-  {
-   "t": "Португалія увіковічить сьомий номер Кріштіану Роналду: що про це відомо",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/sport/1454292-portugalia-uvikovicit-somij-nomer-kristianu-ronaldu-so-pro-ce-vidomo/",
-   "x": "Кріштіану Роналду: нападник збірної Португалії з футболу, зміна дизайну для футболки з ігровим номером футболіста, унікальна нагорода",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T20:05:00+00:00",
-   "c": [
-    "holovne"
-   ]
   },
   {
    "t": "Destinus заявила про застосування ракет Ruta Block 1 для удару по Кримському мосту",
@@ -1000,6 +1075,20 @@
    "d": "2026-11-17T19:54:00+00:00",
    "c": [
     "holovne"
+   ]
+  },
+  {
+   "t": "Погодинні вимкнення світла в Запорізькій області: графік на 18 листопада",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/zaporizhzhia/1454300-pogodinni-vimknenna-svitla-v-zaporizkij-oblasti-grafik-na-18-listopada/",
+   "x": "18 листопада в Запоріжжі та області діятимуть графіки погодинних вимкнень світла: обмеження триватимуть цілодобово для усіх 12 підчерг",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-17T19:53:02+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "zaporizhzhia"
    ]
   },
   {
@@ -1456,6 +1545,20 @@
    ]
   },
   {
+   "t": "На Херсонщині 18 листопада очікується вітряна та дощова погода",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/kherson/1454290-na-hersonsini-18-listopada-ocikuetsa-vitrana-ta-dosova-pogoda/",
+   "x": "Вночі та вранці 18 листопада на Херсонщині очікується туман з видимістю 200-500 метрів. Вдень почнеться дощ і здійметься поривчастий вітер",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-17T19:13:10+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kherson"
+   ]
+  },
+  {
    "t": "Графіки відключень світла на Миколаївщині 18 листопада",
    "s": "Суспільне",
    "u": "https://suspilne.media/mykolaiv/1454296-grafiki-vidklucen-svitla-na-mikolaivsini-18-listopada/",
@@ -1516,20 +1619,6 @@
    "c": [
     "holovne",
     "sport"
-   ]
-  },
-  {
-   "t": "Сум'яни з медалями чемпіонату України зі спортивної акробатики",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/sumy/1454312-sumani-z-medalami-cempionatu-ukraini-zi-sportivnoi-akrobatiki/",
-   "x": "У Львові завершився чемпіонат України зі спортивної акробатики. Сум'яни вибороли п'ять медалей. Зокрема, отримали повний комплект нагород за програмою «9–15 років» серед жіночих пар",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T19:09:28+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "lviv"
    ]
   },
   {
@@ -1974,17 +2063,6 @@
    ]
   },
   {
-   "t": "«Є відповіді на вагомі кадрові питання», — Зеленський після зустрічі з керівником СБУ Покладом",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1454307-e-vidpovidi-na-vagomi-kadrovi-pitanna-zelenskij-pisla-zustrici-z-kerivnikom-sbu-pokladom/",
-   "x": "За словами Зеленського, в ході зустрічі очільник СБУ Поклад запропонував комплекс внутрішніх рішень, які мають посилити Службу безпеки",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T18:43:09+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "📢РАПТОВА РЕАКЦІЯ ЗІ США!👀УСІ КАДРИ РОЗТРОЩЕНОГО КРИМСЬКОГО МОСТУ💥Обвал символа окупації | 17.11.2026",
    "s": "5 канал · відео",
    "u": "https://www.youtube.com/watch?v=GKn8tiVG6Go",
@@ -1997,17 +2075,6 @@
    "v": 1,
    "r": [
     "crimea"
-   ]
-  },
-  {
-   "t": "Чотири спецоперації та чотири ураження: СБУ оприлюднила відео атак на міст через Керченську протоку",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/crimea/1454282-cotiri-specoperacii-ta-cotiri-urazenna-sbu-opriludnila-video-atak-na-mist-cerez-kercensku-protoku/",
-   "x": "СБУ від початку повномасштабного вторгнення РФ чотири рази проводила спецоперації з ураження мосту. Для цього використовували вантажівку з вибухівкою, морські дрони Sea Baby, підводне мінування та далекобійні повітряні…",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T18:41:39+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
@@ -2058,7 +2125,6 @@
    "i": "https://24tv.ua/resources/photos/news/202611/3182458.jpg?v=1794942131000&q=100",
    "d": "2026-11-17T18:35:00+00:00",
    "c": [
-    "holovne",
     "vazhlyve"
    ],
    "r": [
@@ -2140,6 +2206,20 @@
    "d": "2026-11-17T18:30:00+00:00",
    "c": [
     "holovne"
+   ]
+  },
+  {
+   "t": "У селищі Балабине Запорізької області оголосили обов'язкову евакуацію родин з дітьми",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/zaporizhzhia/1454223-u-selisi-balabine-zaporizkoi-oblasti-ogolosili-obovazkovu-evakuaciu-rodin-z-ditmi/",
+   "x": "16 листопада у селищі Балабине Запорізької області оголосили про обов'язкову евакуацію родин з дітьми у зв'язку з погіршенням безпекової ситуації",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-17T18:27:39+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "zaporizhzhia"
    ]
   },
   {
@@ -2248,20 +2328,6 @@
    ]
   },
   {
-   "t": "На Тернопільщині 18 листопада прогнозують дощі і туман",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/ternopil/1454217-na-ternopilsini-18-listopada-prognozuut-dosi-i-tuman/",
-   "x": "На Тернопільщині 18 листопада прогнозують хмарну погоду з проясненнями. Вночі та вранці очікують слабкий туман. Вночі будуть помірні дощі. Вдень невеликі дощі",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T18:07:00+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "ternopil"
-   ]
-  },
-  {
    "t": "Потрапили влучно в ціль: кадри запусків ракет \"Фламінго\" по Кримському мосту",
    "s": "24 Канал",
    "u": "https://24tv.ua/udar-po-krimskomu-mostu-shtilerman-opublikuvav-zapusk-flamingo_n3182433",
@@ -2274,6 +2340,17 @@
    ],
    "r": [
     "crimea"
+   ]
+  },
+  {
+   "t": "Португалія увіковічить сьомий номер Кріштіану Роналду: що про це відомо",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sport/1454292-portugalia-uvikovicit-somij-nomer-kristianu-ronaldu-so-pro-ce-vidomo/",
+   "x": "Кріштіану Роналду: нападник збірної Португалії з футболу, зміна дизайну для футболки з ігровим номером футболіста, унікальна нагорода",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-17T18:05:00+00:00",
+   "c": [
+    "holovne"
    ]
   },
   {
@@ -2376,20 +2453,6 @@
    ],
    "r": [
     "kyiv"
-   ]
-  },
-  {
-   "t": "Погодинні вимкнення світла в Запорізькій області: графік на 18 листопада",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/zaporizhzhia/1454300-pogodinni-vimknenna-svitla-v-zaporizkij-oblasti-grafik-na-18-listopada/",
-   "x": "18 листопада в Запоріжжі та області діятимуть графіки погодинних вимкнень світла: обмеження триватимуть цілодобово для усіх 12 підчерг",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T17:53:02+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "zaporizhzhia"
    ]
   },
   {
@@ -2584,20 +2647,6 @@
    ]
   },
   {
-   "t": "На Херсонщині 18 листопада очікується вітряна та дощова погода",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/kherson/1454290-na-hersonsini-18-listopada-ocikuetsa-vitrana-ta-dosova-pogoda/",
-   "x": "Вночі та вранці 18 листопада на Херсонщині очікується туман з видимістю 200-500 метрів. Вдень почнеться дощ і здійметься поривчастий вітер",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T17:13:10+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "kherson"
-   ]
-  },
-  {
    "t": "Зеленський на \"Рамштайні\" заявив, що Україні потрібні ще 40 винищувачів F-16",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/17/8063323/",
@@ -2614,17 +2663,6 @@
    "s": "Інтерфакс-Україна",
    "u": "https://interfax.com.ua/news/press-release/1238126.html",
    "x": "«Укрнафта» спрямовує ресурси на захист та відновлення виробничих об'єктів після російських атак та будує нову генерацію.",
-   "d": "2026-11-17T17:01:32+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
-   "t": "Бережна: Військовий екшн \"Кіллхаус\" сприяв мобілізації мінімум 20 людей",
-   "s": "Інтерфакс-Україна",
-   "u": "https://interfax.com.ua/news/culture/1238124.html",
-   "x": "Віцепрем'єр-міністерка з гуманітарної політики – міністерка культури України Тетяна Бережна заявляє, що український фільм \"Кіллхаус\" сприяв мобілізації у військо мінімум 20 людей.",
-   "i": "https://media.interfax.com.ua/media/thumbs/images/2026/11/xzonh/9NaFU2gWZFT-.jpg",
    "d": "2026-11-17T17:01:32+00:00",
    "c": [
     "holovne"
@@ -2707,6 +2745,17 @@
    "d": "2026-11-17T16:46:00+00:00",
    "c": [
     "statti"
+   ]
+  },
+  {
+   "t": "Чотири спецоперації та чотири ураження: СБУ оприлюднила відео атак на міст через Керченську протоку",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/crimea/1454282-cotiri-specoperacii-ta-cotiri-urazenna-sbu-opriludnila-video-atak-na-mist-cerez-kercensku-protoku/",
+   "x": "СБУ від початку повномасштабного вторгнення РФ чотири рази проводила спецоперації з ураження мосту. Для цього використовували вантажівку з вибухівкою, морські дрони Sea Baby, підводне мінування та далекобійні повітряні…",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-17T16:41:39+00:00",
+   "c": [
+    "holovne"
    ]
   },
   {
@@ -2801,20 +2850,6 @@
    "v": 1
   },
   {
-   "t": "У селищі Балабине Запорізької області оголосили обов'язкову евакуацію родин з дітьми",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/zaporizhzhia/1454223-u-selisi-balabine-zaporizkoi-oblasti-ogolosili-obovazkovu-evakuaciu-rodin-z-ditmi/",
-   "x": "16 листопада у селищі Балабине Запорізької області оголосили про обов'язкову евакуацію родин з дітьми у зв'язку з погіршенням безпекової ситуації",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T16:27:39+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "zaporizhzhia"
-   ]
-  },
-  {
    "t": "Над столицею Молдови пролетів російський \"Шахед\", повітряний простір країни закрили",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/17/8063312/",
@@ -2873,20 +2908,6 @@
     "video"
    ],
    "v": 1,
-   "r": [
-    "crimea"
-   ]
-  },
-  {
-   "t": "Обвал Кримського мосту: західні ЗМІ повʼязують операцію з \"самітом трьох\", а мілітарі-експерти гадають, що Росія робитиме далі",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/UKRAINE/obval-krimskoho-mostu-eksperti-na-zakhodi-visoko-otsinjujut-operatsiju-zsu.html",
-   "x": "Вони погоджуються з тим, що метою ЗСУ було не лише ускладнити логістику для РФ на півдні, але й дати ляпаса Путіну перед історичними переговорами.",
-   "i": "https://zn.ua/img/article/7042/98_main.webp",
-   "d": "2026-11-17T15:55:00+00:00",
-   "c": [
-    "statti"
-   ],
    "r": [
     "crimea"
    ]
@@ -3395,20 +3416,6 @@
    "d": "2026-11-17T13:06:00+00:00",
    "c": [
     "kino"
-   ]
-  },
-  {
-   "t": "Росіяни атакували промоб’єкти у Запоріжжі: 2 загиблих, 38 поранений",
-   "s": "Українська правда",
-   "u": "https://www.pravda.com.ua/news/2026/11/17/8063226/",
-   "x": "Дві людини загинули та ще 38 постраждала внаслідок російських ударів по промислових об'єктах у Запоріжжі вранці 17 листопада.",
-   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/a/958389/aa265744d22540b74bf1f76cc9f2aba3.jpeg",
-   "d": "2026-11-17T13:03:00+00:00",
-   "c": [
-    "vazhlyve"
-   ],
-   "r": [
-    "zaporizhzhia"
    ]
   },
   {
@@ -4736,17 +4743,6 @@
    "x": "Володимир Зеленський прокоментував удари Росії по українських регіонах. Президент звернув увагу на особливу тактику ворога.",
    "i": "https://24tv.ua/resources/photos/news/202611/3180963.jpg?v=1794769466000&q=100",
    "d": "2026-11-15T19:04:00+00:00",
-   "c": [
-    "vazhlyve"
-   ]
-  },
-  {
-   "t": "На мирних переговорах Росія збрехала США щодо Донбасу: Politico вказало на важливу деталь",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/putin-rozpoviv-ssha-shho-rosiya-kontrolyuye-chastinu-donbasu_n3180953",
-   "x": "Кремль бреше американським переговорникам про військові успіхи на Донбасі. Мета ворога – переконати США, що капітуляція України неминуча.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3180953.jpg?v=1794766827000&q=100",
-   "d": "2026-11-15T18:23:00+00:00",
    "c": [
     "vazhlyve"
    ]
