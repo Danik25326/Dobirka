@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T00:31:09+00:00",
+ "updated": "2026-11-17T00:40:39+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -183,27 +183,6 @@
    "d": "2026-11-16T22:17:00+00:00"
   },
   {
-   "t": "У Варшаві затримали 16-річного росіянина, який погрожував масовим убивством у школі",
-   "u": "https://zn.ua/ukr/europe/u-varshavi-zatrimali-16-richnoho-rosijanina-jakij-pohrozhuvav-masovim-ubivstvom-u-shkoli.html",
-   "i": "https://zn.ua/img/article/7042/29_main.webp",
-   "n": 3,
-   "l": [
-    {
-     "s": "ZN.UA",
-     "u": "https://zn.ua/ukr/europe/u-varshavi-zatrimali-16-richnoho-rosijanina-jakij-pohrozhuvav-masovim-ubivstvom-u-shkoli.html"
-    },
-    {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/pogrozhuvav-masovim-ubivstvom-shkoli-varshavi-sud-izolyuvav-16_n3181729"
-    },
-    {
-     "s": "Суспільне",
-     "u": "https://suspilne.media/1453803-u-polsi-zatrimali-16-ricnogo-rosianina-za-pogrozi-masovim-ubivstvom-ucnam-ta-direktoru-skoli/"
-    }
-   ],
-   "d": "2026-11-16T22:30:00+00:00"
-  },
-  {
    "t": "Кремлю сподобалася заява Трампа про те, що Росія може діяти жорсткіше",
    "u": "https://zn.ua/ukr/WORLD/kremlju-spodobalasja-zajava-trampa-pro-te-shcho-rosija-mozhe-dijati-zhorstkishe.html",
    "i": "https://zn.ua/img/article/7042/27_main.webp",
@@ -225,27 +204,6 @@
    "d": "2026-11-16T22:14:00+00:00"
   },
   {
-   "t": "Кушнер заявив про підготовку до багатосторонньої зустрічі щодо війни в Україні",
-   "u": "https://www.pravda.com.ua/news/2026/11/16/8063172/",
-   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/1/958210/a1ee01e2b7a28d335bf2a746385b1204.jpeg",
-   "n": 3,
-   "l": [
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/16/8063172/"
-    },
-    {
-     "s": "Інтерфакс-Україна",
-     "u": "https://interfax.com.ua/news/general/1237436.html"
-    },
-    {
-     "s": "Європейська правда",
-     "u": "https://www.eurointegration.com.ua/news/2026/11/16/7250130/"
-    }
-   ],
-   "d": "2026-11-16T19:31:00+00:00"
-  },
-  {
    "t": "РФ атакувала балістикою Смілу на Черкащині: троє травмованих",
    "u": "https://www.pravda.com.ua/news/2026/11/17/8063183/",
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/5/958241/859c31ca994a2a8ef095bcbf508c9e16.jpeg",
@@ -263,6 +221,23 @@
    "d": "2026-11-16T22:38:00+00:00"
   },
   {
+   "t": "У Варшаві затримали 16-річного росіянина, який погрожував масовим убивством у школі",
+   "u": "https://zn.ua/ukr/europe/u-varshavi-zatrimali-16-richnoho-rosijanina-jakij-pohrozhuvav-masovim-ubivstvom-u-shkoli.html",
+   "i": "https://zn.ua/img/article/7042/29_main.webp",
+   "n": 2,
+   "l": [
+    {
+     "s": "ZN.UA",
+     "u": "https://zn.ua/ukr/europe/u-varshavi-zatrimali-16-richnoho-rosijanina-jakij-pohrozhuvav-masovim-ubivstvom-u-shkoli.html"
+    },
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/pogrozhuvav-masovim-ubivstvom-shkoli-varshavi-sud-izolyuvav-16_n3181729"
+    }
+   ],
+   "d": "2026-11-16T22:30:00+00:00"
+  },
+  {
    "t": "На Черкащині 17 листопада вимикатимуть світло: в обленерго оприлюднили графіки",
    "u": "https://suspilne.media/cherkasy/1453508-na-cerkasini-17-listopada-vimikatimut-svitlo-v-oblenergo-opriludnili-grafiki/",
    "i": "https://cdn4.suspilne.media/images/default.jpg",
@@ -278,23 +253,6 @@
     }
    ],
    "d": "2026-11-16T21:48:05+00:00"
-  },
-  {
-   "t": "Закриття кордону Естонії з Росією торкнеться кількох тисяч пасажирів та вантажного транспорту",
-   "u": "https://24tv.ua/zakrittya-kordonu-estoniyi-rosiyeyu-yaki-naslidki-dlya-avtobusiv_n3181761",
-   "i": "https://24tv.ua/resources/photos/news/202611/3181761.jpg?v=1794865342000&q=100",
-   "n": 2,
-   "l": [
-    {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/zakrittya-kordonu-estoniyi-rosiyeyu-yaki-naslidki-dlya-avtobusiv_n3181761"
-    },
-    {
-     "s": "Європейська правда",
-     "u": "https://www.eurointegration.com.ua/news/2026/11/16/7250129/"
-    }
-   ],
-   "d": "2026-11-16T21:44:43+00:00"
   },
   {
    "t": "Де і як в Україні діятимуть графіки відключень 17 листопада",
@@ -331,24 +289,84 @@
    "d": "2026-11-16T21:19:20+00:00"
   },
   {
-   "t": "В Італії школам масово погрожують вибухами та отруєннями учнів",
-   "u": "https://24tv.ua/minuvannya-shkil-italiyi-ponad-100-zakladiv-osviti-otrimali-pogrozi_n3181748",
-   "i": "https://24tv.ua/resources/photos/news/202611/3181748.jpg?v=1794862455000&q=100",
+   "t": "Кушнер: Будь-яка остаточна мирна угода має бути узгоджена як Росією, так і Україною",
+   "u": "https://www.pravda.com.ua/news/2026/11/16/8063176/",
+   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/9/958222/699b1f2fc50b882c0c5f4dcefe68b593.jpeg",
    "n": 2,
    "l": [
     {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/minuvannya-shkil-italiyi-ponad-100-zakladiv-osviti-otrimali-pogrozi_n3181748"
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/16/8063176/"
     },
     {
-     "s": "Європейська правда",
-     "u": "https://www.eurointegration.com.ua/news/2026/11/16/7250133/"
+     "s": "Інтерфакс-Україна",
+     "u": "https://interfax.com.ua/news/general/1237439.html"
     }
    ],
-   "d": "2026-11-16T21:01:28+00:00"
+   "d": "2026-11-16T20:48:00+00:00"
+  },
+  {
+   "t": "72 загиблих та четверо зниклих безвісти: у Комишувасі завершили пошуково-рятувальні роботи після авіаударів 2 листопада",
+   "u": "https://suspilne.media/zaporizhzhia/1453821-72-zagiblih-ta-cetvero-zniklih-bezvisti-u-komisuvasi-zaversili-posukovo-ratuvalni-roboti-pisla-aviaudariv-2-listopada/",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "n": 2,
+   "l": [
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/zaporizhzhia/1453821-72-zagiblih-ta-cetvero-zniklih-bezvisti-u-komisuvasi-zaversili-posukovo-ratuvalni-roboti-pisla-aviaudariv-2-listopada/"
+    },
+    {
+     "s": "ZN.UA",
+     "u": "https://zn.ua/ukr/war/u-komishuvasi-zavershili-poshukovi-roboti-pislja-rosijskoho-aviaudaru-72-zahiblikh-chetvero-zniklikh-bezvisti.html"
+    }
+   ],
+   "d": "2026-11-16T20:27:01+00:00"
+  },
+  {
+   "t": "У США у найбільших банках стався масштабний збій",
+   "u": "https://suspilne.media/1453828-u-ssa-u-najbilsih-bankah-stavsa-masstabnij-zbij/",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "n": 2,
+   "l": [
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/1453828-u-ssa-u-najbilsih-bankah-stavsa-masstabnij-zbij/"
+    },
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/economy/masshtabniy-zbiy-bankah-ssha-zablokovano-rahunki-chase-bofa-wells_n3181709"
+    }
+   ],
+   "d": "2026-11-16T20:02:20+00:00"
   }
  ],
  "items": [
+  {
+   "t": "Друга ніч атаки на Москву: Росавіація обмежувала роботу чотирьох аеропортів",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1453860-druga-nic-ataki-na-moskvu-rosaviacia-obmezuvala-robotu-cotiroh-aeroportiv/",
+   "x": "Москву другу ніч поспіль атакують дрони. Росавіація кілька разів запроваджувала обмеження в аеропортах Внуково, Домодєдово й Жуковський, а також у Шереметьєво",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-17T00:37:08+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Мародерство на Херсонщині: Росія планує відібрати на ТОТ понад 1100 будинків українців",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/rosiya-hoche-privlasniti-zhitlo-hersonshhini-detali-vid-gur_n3181497",
+   "x": "Російські окупанти готують примусове вилучення понад 1100 приватних житлових будинків на захопленій частині Херсонської області. Загарбники планують передати українське майно у так звану муніципальну власність.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3181497.jpg?v=1794842769000&q=100",
+   "d": "2026-11-17T00:33:00+00:00",
+   "c": [
+    "holovne",
+    "viyna"
+   ],
+   "r": [
+    "kherson"
+   ]
+  },
   {
    "t": "Експерт-криміналіст заявив про імовірне убивство, а не самогубство Епштейна – BBC",
    "s": "Українська правда",
@@ -755,6 +773,21 @@
    ]
   },
   {
+   "t": "Найгарячіша ділянка — Костянтинівська. Фронт Донеччини та Луганщини 17 листопада 2026 року",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/donbas/1441931-najgaracisa-dilanka-kostantinivska-front-doneccini-ta-lugansini-17-listopada-2026-roku/",
+   "x": "Хроніка боїв на фронті в Донецькій та Луганській областях, дані Генштабу у листопаді 2026, мапа і ситуація на фронті, чи захопили Костянтинівку, що на Покровському напрямку, звільнення біля Лимана — фото, відео…",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-16T22:00:05+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "donetsk",
+    "luhansk"
+   ]
+  },
+  {
    "t": "Росія атакує балістикою та дронами, під ударами, зокрема, Київ: де існує загроза",
    "s": "24 Канал",
    "u": "https://24tv.ua/ataka-po-ukrayini-17-listopada-2026-kudi-letyat-shahedi-balistika_n3181763",
@@ -795,11 +828,9 @@
    "t": "Санду: Молдова не конкурує з жодною країною-кандидаткою на вступ у ЄС",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/16/8063181/",
-   "i": "https://img.eurointegration.com.ua/images/doc/1/b/1bb981b-------3.jpg",
    "d": "2026-11-16T21:57:00+00:00",
    "c": [
-    "holovne",
-    "polityka"
+    "holovne"
    ]
   },
   {
@@ -1387,8 +1418,7 @@
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/9/958222/699b1f2fc50b882c0c5f4dcefe68b593.jpeg",
    "d": "2026-11-16T20:48:00+00:00",
    "c": [
-    "holovne",
-    "polityka"
+    "holovne"
    ]
   },
   {
@@ -1712,21 +1742,6 @@
    ]
   },
   {
-   "t": "Найгарячіша ділянка — Костянтинівська. Фронт Донеччини та Луганщини 17 листопада 2026 року",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/donbas/1441931-najgaracisa-dilanka-kostantinivska-front-doneccini-ta-lugansini-17-listopada-2026-roku/",
-   "x": "Хроніка боїв на фронті в Донецькій та Луганській областях, дані Генштабу у листопаді 2026, мапа і ситуація на фронті, чи захопили Костянтинівку, що на Покровському напрямку, звільнення біля Лимана — фото, відео…",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-16T20:00:05+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "donetsk",
-    "luhansk"
-   ]
-  },
-  {
    "t": "Чи дадуть єОселю без офіційної роботи: що потрібно знати перед поданням заявки",
    "s": "24 Канал",
    "u": "https://24tv.ua/realestate24/ipoteka-yeoselya-bez-ofitsiynoyi-roboti-yaki-umovi-visuvayut_n3181573",
@@ -1971,7 +1986,6 @@
    "i": "https://24tv.ua/resources/photos/news/202611/3181715.jpg?v=1794857618000&q=100",
    "d": "2026-11-16T19:36:08+00:00",
    "c": [
-    "holovne",
     "viyna"
    ]
   },
@@ -2010,17 +2024,6 @@
    "d": "2026-11-16T19:35:00+00:00",
    "c": [
     "holovne"
-   ]
-  },
-  {
-   "t": "В Італії щонайменше 100 шкіл отримали погрози вибухами та отруєнням",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/16/7250133/",
-   "x": "У понеділок, 16 листопада, щонайменше сотня італійських шкіл отримала електронні листи з погрозами про вибухи та отруєння, що спричинило запуск нового протоколу безпеки, запровадженого урядом після подібних погроз…",
-   "i": "https://img.eurointegration.com.ua/images/doc/9/2/9231859--------------.jpg",
-   "d": "2026-11-16T19:35:00+00:00",
-   "c": [
-    "polityka"
    ]
   },
   {
@@ -2128,17 +2131,6 @@
    ],
    "r": [
     "chernihiv"
-   ]
-  },
-  {
-   "t": "У Польщі затримали 16-річного росіянина за погрози масовим убивством учням та директору школи",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1453803-u-polsi-zatrimali-16-ricnogo-rosianina-za-pogrozi-masovim-ubivstvom-ucnam-ta-direktoru-skoli/",
-   "x": "У Польщі затримали 16-річного громадянина РФ, якого підозрюють у погрозах масовим убивством учням і працівникам школи у Варшаві. Суд відправив підлітка до виховної установи на три місяці",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-16T19:20:05+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
@@ -2260,17 +2252,6 @@
    ]
   },
   {
-   "t": "Рекорд допомоги ЄС за реформи, військові Франції вже в Україні, нові санкції ЄС: новини дня",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/16/7250132/",
-   "x": "Зеленський розповів про \"непросту\" розмову України, США та Європи на рівні команд.",
-   "i": "https://img.eurointegration.com.ua/images/doc/c/d/cdc045f-ukraine-1.jpg",
-   "d": "2026-11-16T19:11:00+00:00",
-   "c": [
-    "polityka"
-   ]
-  },
-  {
    "t": "Удар по «Кримському мосту» | Чи вплине це на перебіг зустрічі Трампа, Путіна та Сі? | 16 листопада",
    "s": "Суспільне Новини · відео",
    "u": "https://www.youtube.com/watch?v=hYMgauXzHEQ",
@@ -2283,17 +2264,6 @@
    "v": 1,
    "r": [
     "crimea"
-   ]
-  },
-  {
-   "t": "Кушнер: розпочалася підготовка до багатосторонньої зустрічі щодо війни в Україні",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/16/7250130/",
-   "x": "Спецпредставник американського президента Дональда Трампа Джаред Кушнер розповів про спілкування з помічником володаря Росії Юрієм Ушаковим, а також з Україною та представниками Європи.",
-   "i": "https://img.eurointegration.com.ua/images/doc/0/5/056f1ad---------------.jpg",
-   "d": "2026-11-16T19:10:00+00:00",
-   "c": [
-    "polityka"
    ]
   },
   {
@@ -2389,18 +2359,6 @@
    ]
   },
   {
-   "t": "Новини 16 листопада: рекордний транш ЄС, блекаут у Дніпрі та удар по \"Королівському смаку\"",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/finances/novini-16-listopada-rekordniy-transh-yes-blekaut-u-dnipri-ta-udar-po-korolivskomu-smaku-827705/",
-   "d": "2026-11-16T19:00:00+00:00",
-   "c": [
-    "ekonomika"
-   ],
-   "r": [
-    "dnipro"
-   ]
-  },
-  {
    "t": "У Комишувасі завершили пошукові роботи: російський удар забрав життя 72 людей",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/16/8063170/",
@@ -2425,15 +2383,6 @@
    ]
   },
   {
-   "t": "У клієнтів п'яти великих банків США масові проблеми з доступом до рахунків",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/finances/u-ssha-kliyenti-chase-ta-shche-chotiroh-velikih-bankiv-povidomili-pro-zboji-827704/",
-   "d": "2026-11-16T18:55:00+00:00",
-   "c": [
-    "ekonomika"
-   ]
-  },
-  {
    "t": "Зеленський розповів про \"непросту\" розмову України, США та Європи на рівні команд",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/16/8063168/",
@@ -2442,8 +2391,7 @@
    "d": "2026-11-16T18:53:00+00:00",
    "c": [
     "holovne",
-    "vazhlyve",
-    "polityka"
+    "vazhlyve"
    ]
   },
   {
@@ -2498,17 +2446,6 @@
    ]
   },
   {
-   "t": "Закриття кордону Естонії з РФ зупинить рух автобусів та вантажного транспорту",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/16/7250129/",
-   "x": "Заплановане закриття кордону Естонії з Росією насамперед торкнеться пасажирських перевезень та вантажоперевезень автомобільними дорогами, хоча частину вантажів поки що можна буде направляти через Латвію.",
-   "i": "https://img.eurointegration.com.ua/images/doc/5/3/535d405-smartcrop--1-.jpg",
-   "d": "2026-11-16T18:49:00+00:00",
-   "c": [
-    "polityka"
-   ]
-  },
-  {
    "t": "Влучна робота з турелі: морський дрон Sargan 3000 вдруге знищив російський МБеК",
    "s": "24 Канал",
    "u": "https://24tv.ua/military/biy-morskih-droniv-sargan-3000-znishhiv-bezekipazhniy-kater-rosiyi_n3181695",
@@ -2541,27 +2478,6 @@
     "video"
    ],
    "v": 1
-  },
-  {
-   "t": "У Кремлі стверджують, що участь Європи в мирних переговорах не узгоджували з Росією",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/16/7250128/",
-   "x": "Помічник володаря Росії Юрій Ушаков стверджує, що залучення представників Європейського Союзу до тристоронніх переговорів щодо завершення російсько-української війни з РФ не узгоджувалося.",
-   "i": "https://img.eurointegration.com.ua/images/doc/a/4/a4b7ad2-------.jpg",
-   "d": "2026-11-16T18:45:00+00:00",
-   "c": [
-    "polityka"
-   ]
-  },
-  {
-   "t": "Кінець епохи Adidas: Nike cтане новим постачальником м'ячів для турнірів UEFA",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/svit/kontrakt-nike-z-uefa-postachannya-m-yachiv-zamist-adidas-z-2027-roku-827703/",
-   "x": "Компанія Nike замінить Adidas як постачальника м'ячів для чоловічих клубних змагань UEFA у 2027–2031 роках.",
-   "d": "2026-11-16T18:45:00+00:00",
-   "c": [
-    "ekonomika"
-   ]
   },
   {
    "t": "Стефанчук заявив про потребу створити систему голосування на випадок руйнування Ради",
@@ -2620,18 +2536,6 @@
    ]
   },
   {
-   "t": "Бетонний захист 80% підстанцій Київщини можна добудувати до Нового року",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/energetika/oliynik-ociniv-mozhlivist-dobudovi-zahistu-pidstanciy-kijivshchini-do-novogo-roku-827702/",
-   "d": "2026-11-16T18:30:00+00:00",
-   "c": [
-    "ekonomika"
-   ],
-   "r": [
-    "kyivska"
-   ]
-  },
-  {
    "t": "⚡️ПОТУЖНИЙ УДАР ПО РФ!💣ЗАБЛОКОВАНІ банки та НПЗ❌ЄС взявся за власницю Wildberries📢113 осіб - У БАН",
    "s": "5 канал · відео",
    "u": "https://www.youtube.com/watch?v=wglx7fFEGTA",
@@ -2655,28 +2559,6 @@
    ]
   },
   {
-   "t": "У Франції на протесті затримали 12-річну дівчинку",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/16/7250126/",
-   "x": "У Парижі під час акції протесту проти високої вартості життя поліція затримала 12-річну дівчинку; її взяли під варту наприкінці демонстрації в суботу, 14 листопада.",
-   "i": "https://img.eurointegration.com.ua/images/doc/9/b/9b9c01a-----------------.jpg",
-   "d": "2026-11-16T18:27:00+00:00",
-   "c": [
-    "polityka"
-   ]
-  },
-  {
-   "t": "ЄС планує санкції проти Ірану після кібератак на холодильники в супермаркетах",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/16/7250127/",
-   "x": "Європейський Союз планує ввести нові санкції проти Ірану після серії кібератак на холодильні системи супермаркетів в європейських країнах.",
-   "i": "https://img.eurointegration.com.ua/images/doc/e/2/e268882-prztehc4t4-v1-ax-w800h450.jpeg",
-   "d": "2026-11-16T18:26:00+00:00",
-   "c": [
-    "polityka"
-   ]
-  },
-  {
    "t": "Шостий блекаут за два тижні: російські атаки знеструмили весь Дніпро",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/energetics/shostij-blekaut-za-dva-tizhni-rosijski-ataki-znestrumili-ves-dnipro.html",
@@ -2691,15 +2573,6 @@
    ]
   },
   {
-   "t": "Курс євро вперше з початку 2026 року опуститься нижче 50 гривень",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/finances/kurs-valyut-yevro-i-dolar-do-grivni-znizilisya-za-danimi-nbu-827701/",
-   "d": "2026-11-16T18:20:00+00:00",
-   "c": [
-    "ekonomika"
-   ]
-  },
-  {
    "t": "Зеленський попередив, що Росія готує новий ракетний удар",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/16/8063158/",
@@ -2709,18 +2582,6 @@
    "c": [
     "holovne",
     "vazhlyve"
-   ]
-  },
-  {
-   "t": "Дрон РФ серйозно пошкодив заправку \"Укрнафти\" на Дніпропетровщині",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/energetika/fpv-dron-rf-poshkodiv-zapravku-ukrnafti-na-dnipropetrovshchini-827700/",
-   "d": "2026-11-16T18:10:00+00:00",
-   "c": [
-    "ekonomika"
-   ],
-   "r": [
-    "dnipro"
    ]
   },
   {
@@ -2827,15 +2688,6 @@
    ]
   },
   {
-   "t": "РФ вдарила по заводу \"Королівський смак\" й спричинила масштабну пожежу",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/biznes/rf-atakuvala-korolivskiy-smak-pozhezha-znishchila-chastinu-obladnannya-827699/",
-   "d": "2026-11-16T17:50:00+00:00",
-   "c": [
-    "ekonomika"
-   ]
-  },
-  {
    "t": "Президента Києво-Могилянки В’ячеслава Брюховецького посмертно нагородили орденом Свободи",
    "s": "Українська правда. Життя",
    "u": "https://life.pravda.com.ua/society/v-yacheslava-bryuhoveckogo-posmertno-nagorodili-ordenom-svobodi-319108/",
@@ -2891,20 +2743,10 @@
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/1/958151/c166750a8e437b9d1a06318eb75d34c7.jpeg",
    "d": "2026-11-16T17:36:00+00:00",
    "c": [
-    "vazhlyve",
-    "ekonomika"
+    "vazhlyve"
    ],
    "r": [
     "kyivska"
-   ]
-  },
-  {
-   "t": "\"Це несправедливо\": ексзаступник міністра відновлення про обшуки в золотому офісі Соколова",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/energetika/ekszastupnik-ministra-oliynik-stav-na-zahist-vladislava-sokolova-827694/",
-   "d": "2026-11-16T17:35:00+00:00",
-   "c": [
-    "ekonomika"
    ]
   },
   {
@@ -2953,8 +2795,7 @@
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/3/958152/63294b93f55596646e6980d898b28e3a.jpeg",
    "d": "2026-11-16T17:18:00+00:00",
    "c": [
-    "vazhlyve",
-    "ekonomika"
+    "vazhlyve"
    ],
    "r": [
     "dnipro"
@@ -3046,15 +2887,6 @@
    ]
   },
   {
-   "t": "Олійник розповів, як він та Калашник були пов'язані з бізнесменом із крокодилом",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/power/oliynik-rozpoviv-pro-boks-iz-sokolovim-ta-zustrich-u-kalashnika-827695/",
-   "d": "2026-11-16T16:50:00+00:00",
-   "c": [
-    "ekonomika"
-   ]
-  },
-  {
    "t": "Це не Київ: які областні центри зіткнулися з масштабними відключеннями світла",
    "s": "24 Канал",
    "u": "https://24tv.ua/economy/vidklyuchennya-svitla-ukrayini-de-nayskladnisha-situatsiya_n3181600",
@@ -3079,16 +2911,6 @@
     "video"
    ],
    "v": 1
-  },
-  {
-   "t": "Керівник Varus.ua Олег Спірін залишає компанію",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/biznes/kerivnik-varus-ua-oleg-spirin-zalishaye-kompaniyu-827696/",
-   "x": "Олег Спірін, який очолював Varus.ua, завершує роботу у VARUS, де він загалом пропрацював дев'ять років.",
-   "d": "2026-11-16T16:40:00+00:00",
-   "c": [
-    "ekonomika"
-   ]
   },
   {
    "t": "Росіяни вдарили дронами по Харкову, постраждали дві жінки",
@@ -3157,15 +2979,6 @@
    "d": "2026-11-16T16:20:09+00:00",
    "c": [
     "kino"
-   ]
-  },
-  {
-   "t": "Олійник заявив, що Калашник вимагав його відставки, посилаючись на Зеленського",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/power/oliynik-rozpoviv-pro-vimogu-vidstavki-z-posilannyam-na-zelenskogo-827693/",
-   "d": "2026-11-16T16:20:00+00:00",
-   "c": [
-    "ekonomika"
    ]
   },
   {
@@ -3240,16 +3053,6 @@
    ],
    "r": [
     "kyiv"
-   ]
-  },
-  {
-   "t": "Йорданія та Ірак заблокували Telegram: які причини",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/biznes/yordaniya-ta-irak-zablokuvali-telegram-yaki-prichini-827691/",
-   "x": "Йорданія та Ірак заблокували Telegram, пояснивши, що месенджер створює загрози національній безпеці.",
-   "d": "2026-11-16T15:49:00+00:00",
-   "c": [
-    "ekonomika"
    ]
   },
   {
@@ -3503,17 +3306,6 @@
    "x": "Трамп 16 листопада поділився баченням дій Кремля у війні проти України. За його словами, Путін потроху відступає, хоча мав можливість діяти значно жорсткіше.",
    "i": "https://24tv.ua/resources/photos/news/202611/3181511.jpg?v=1794841960000&q=100",
    "d": "2026-11-16T14:48:00+00:00",
-   "c": [
-    "viyna"
-   ]
-  },
-  {
-   "t": "Зеленський затвердив нові далекобійні операції та назвав пріоритети України на \"Рамштайні\"",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/prioriteti-ukrayini-ramshtayni-zelenskiy-nazvav-potrebi-ppo-anonsuvav_n3181502",
-   "x": "Володимир Зеленський про підготовку до засідання у форматі \"Рамштайн\", запланованого на 17 листопада. Пріоритетами України стануть перехоплювачі для ППО та амуніція для авіації.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3181502.jpg?v=1794840165000&q=100",
-   "d": "2026-11-16T14:43:00+00:00",
    "c": [
     "viyna"
    ]
