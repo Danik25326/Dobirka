@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T21:20:41+00:00",
+ "updated": "2026-11-18T21:31:01+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -209,23 +209,6 @@
    "d": "2026-11-18T20:36:33+00:00"
   },
   {
-   "t": "NBC News: Республіканці у Конгресі США використовують допомогу Україні як важіль тиску на демократів",
-   "u": "https://www.pravda.com.ua/news/2026/11/18/8063526/",
-   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/f/959826/df47032d72b013a0620d9589f82ab1ee.jpeg",
-   "n": 2,
-   "l": [
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/18/8063526/"
-    },
-    {
-     "s": "Європейська правда",
-     "u": "https://www.eurointegration.com.ua/news/2026/11/18/7250320/"
-    }
-   ],
-   "d": "2026-11-18T19:45:00+00:00"
-  },
-  {
    "t": "Президент Польщі Навроцький таємно подарував Трампу бурштинове крісло",
    "u": "https://suspilne.media/1454717-prezident-polsi-navrockij-taemno-podaruvav-trampu-burstinove-krislo/",
    "i": "https://cdn4.suspilne.media/images/default.jpg",
@@ -241,23 +224,6 @@
     }
    ],
    "d": "2026-11-18T19:37:48+00:00"
-  },
-  {
-   "t": "Болгарія викрила хакерів, які шпигували за урядом країни протягом п'яти років, викравши 62 мільйони сторінок документів",
-   "u": "https://suspilne.media/1454714-bolgaria-vikrila-hakeriv-aki-spiguvali-za-uradom-kraini-protagom-pati-rokiv-vikravsi-62-miljoni-storinok-dokumentiv/",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "n": 2,
-   "l": [
-    {
-     "s": "Суспільне",
-     "u": "https://suspilne.media/1454714-bolgaria-vikrila-hakeriv-aki-spiguvali-za-uradom-kraini-protagom-pati-rokiv-vikravsi-62-miljoni-storinok-dokumentiv/"
-    },
-    {
-     "s": "ZN.UA",
-     "u": "https://zn.ua/ukr/europe/shistdesjat-dva-miljoni-storinok-khakeri-pjat-rokiv-obkradali-urjad-bolhariji.html"
-    }
-   ],
-   "d": "2026-11-18T19:13:57+00:00"
   },
   {
    "t": "Суд обрав запобіжний захід ще одному фігуранту справи про сутички у Петропавлівській Борщагівці",
@@ -326,16 +292,104 @@
     }
    ],
    "d": "2026-11-18T18:03:00+00:00"
+  },
+  {
+   "t": "Шістдесят два мільйони сторінок: хакери п'ять років обкрадали уряд Болгарії",
+   "u": "https://zn.ua/ukr/europe/shistdesjat-dva-miljoni-storinok-khakeri-pjat-rokiv-obkradali-urjad-bolhariji.html",
+   "i": "https://zn.ua/img/article/7044/61_main.webp",
+   "n": 2,
+   "l": [
+    {
+     "s": "ZN.UA",
+     "u": "https://zn.ua/ukr/europe/shistdesjat-dva-miljoni-storinok-khakeri-pjat-rokiv-obkradali-urjad-bolhariji.html"
+    },
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/1454714-bolgaria-vikrila-hakeriv-aki-spiguvali-za-uradom-kraini-protagom-pati-rokiv-vikravsi-62-miljoni-storinok-dokumentiv/"
+    }
+   ],
+   "d": "2026-11-18T17:49:00+00:00"
+  },
+  {
+   "t": "Мудрик заявив, що допінг потрапив у його організм у збірній України",
+   "u": "https://zn.ua/ukr/SPORT/mudrik-zajaviv-shcho-dopinh-potrapiv-u-joho-orhanizm-pid-chas-perebuvannja-u-skladi-zbirnoji-ukrajini.html",
+   "i": "https://zn.ua/img/article/7044/60_main.webp",
+   "n": 2,
+   "l": [
+    {
+     "s": "ZN.UA",
+     "u": "https://zn.ua/ukr/SPORT/mudrik-zajaviv-shcho-dopinh-potrapiv-u-joho-orhanizm-pid-chas-perebuvannja-u-skladi-zbirnoji-ukrajini.html"
+    },
+    {
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/18/8063504/"
+    }
+   ],
+   "d": "2026-11-18T17:42:00+00:00"
   }
  ],
  "items": [
   {
-   "t": "PlayStation не витримала очікування GTA VI: користувачі скаржаться на збій",
+   "t": "Ворог знову запустив дрони: які міста під прицілом ворога",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/ataka-dronami-18112026-de-zaraz-trivoga_n3183269",
+   "x": "Росіяни запускають на Україну нові й нові партії ударних безпілотників. Через загрозу обстрілу подекуди оголошено повітряну тривогу.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3183269.jpg?v=1795029888000&q=100",
+   "d": "2026-11-18T21:28:00+00:00",
+   "c": [
+    "holovne",
+    "viyna"
+   ]
+  },
+  {
+   "t": "Усик – азартний гравець, – експромоутер вийшов з несподіваною заявою про боксера",
+   "s": "24 Канал",
+   "u": "https://fight.24tv.ua/usik-zavershennya-karyeri-promouter-oleksandr-krasyuk-podilivsya_n3182965",
+   "x": "Колишній промоутер Олександра Усика Олександр Красюк розповів, коли, на його думку, українському чемпіону варто було завершувати професійну кар'єру. Він зізнався, що в ідеальному сценарії хотів би побачити прощання…",
+   "i": "https://24tv.ua/resources/photos/news/202611/3182965.jpg?v=1795008503000&q=100",
+   "d": "2026-11-18T21:27:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "У давнину українці погрожували плодовим деревам сокирою – і це не жарт",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/traditions24/navishho-davninu-pogrozhuvali-plodovim-derevam-sokiroyu-shho_n3183305",
+   "x": "Ви не повірите, але наші предки у давні часи вірили, що навіть дерева потрібно час від часу лякати. Тому напередодні Різдва господарі могли виходити в сад із сокирою та влаштовувати незвичайний обряд, який сьогодні…",
+   "i": "https://24tv.ua/resources/photos/news/202611/3183305.jpg?v=1795035719000&q=100",
+   "d": "2026-11-18T21:25:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Адміністрація Трампа може зобов’язати компанії США розкривати використання ШІ з Китаю — Reuters",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/WORLD/administratsija-trampa-mozhe-zobovjazati-kompaniji-ssha-rozkrivati-vikoristannja-shi-z-kitaju-reuters.html",
+   "x": "Білий дім і Мінфін обговорили публічну звітність як спосіб зменшити залежність від Пекіна.",
+   "i": "https://zn.ua/img/article/7044/80_main.webp",
+   "d": "2026-11-18T21:25:00+00:00",
+   "c": [
+    "statti"
+   ]
+  },
+  {
+   "t": "Гегсет оголосив про посилення оборонного партнерства між США та Венесуелою",
+   "s": "Українська правда",
+   "u": "https://www.pravda.com.ua/news/2026/11/18/8063533/",
+   "d": "2026-11-18T21:18:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "PlayStation Network не витримала очікування GTA VI: користувачі скаржаться на збій",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/CULTURE/playstation-ne-vitrimala-ochikuvannja-gta-vi-koristuvachi-skarzhatsja-na-zbij.html",
    "x": "Мільйони геймерів чекають на реліз найпопулярнішої гри в історії платформи.",
    "i": "https://zn.ua/img/article/7044/79_main.webp",
-   "d": "2026-11-18T21:18:02+00:00",
+   "d": "2026-11-18T21:18:00+00:00",
    "c": [
     "statti"
    ]
@@ -1254,17 +1308,6 @@
    ]
   },
   {
-   "t": "ЗМІ: республіканці у Конгресі США використовують допомогу Україні як важіль тиску на демократів",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/18/7250320/",
-   "x": "Провідні республіканці Палати представників США намагаються використати положення про підтримку України в законопроєкті про національну оборону як інструмент тиску на демократів; вони прагнуть домогтися вилучення норм…",
-   "i": "https://img.eurointegration.com.ua/images/doc/8/5/856a374-----------.jpg",
-   "d": "2026-11-18T19:38:00+00:00",
-   "c": [
-    "polityka"
-   ]
-  },
-  {
    "t": "Президент Польщі Навроцький таємно подарував Трампу бурштинове крісло",
    "s": "Суспільне",
    "u": "https://suspilne.media/1454717-prezident-polsi-navrockij-taemno-podaruvav-trampu-burstinove-krislo/",
@@ -1370,18 +1413,6 @@
    "d": "2026-11-18T19:30:00+00:00",
    "c": [
     "holovne"
-   ]
-  },
-  {
-   "t": "Ворог знову запустив дрони: які міста під прицілом ворога",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/ataka-dronami-18112026-de-zaraz-trivoga_n3183269",
-   "x": "Росіяни запускають на Україну нові й нові партії ударних безпілотників. Через загрозу обстрілу подекуди оголошено повітряну тривогу.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3183269.jpg?v=1795029888000&q=100",
-   "d": "2026-11-18T19:29:00+00:00",
-   "c": [
-    "holovne",
-    "viyna"
    ]
   },
   {
@@ -1553,17 +1584,6 @@
    ]
   },
   {
-   "t": "Болгарія викрила хакерів, які шпигували за урядом країни протягом п'яти років, викравши 62 мільйони сторінок документів",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1454714-bolgaria-vikrila-hakeriv-aki-spiguvali-za-uradom-kraini-protagom-pati-rokiv-vikravsi-62-miljoni-storinok-dokumentiv/",
-   "x": "Операція розпочалася у 2021 році та тривала до серпня 2026 року — моменту, коли несанкціонований доступ виявили. Атаки були зосереджені на урядових системах обміну документами",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-18T19:13:57+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "У Харківській області 19 листопада діятимуть графіки погодинних відключень світла: розклад",
    "s": "Суспільне",
    "u": "https://suspilne.media/kharkiv/1454723-u-harkovi-ta-oblasti-19-listopada-diatimut-grafiki-pogodinnih-vidklucen-svitla-rozklad/",
@@ -1581,11 +1601,9 @@
    "t": "Єврокомісію звинуватили у приховуванні листування щодо скасування закону про патенти",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/18/8063525/",
-   "i": "https://img.eurointegration.com.ua/images/doc/2/0/2048a42-european-commission.png",
    "d": "2026-11-18T19:12:00+00:00",
    "c": [
-    "holovne",
-    "polityka"
+    "holovne"
    ]
   },
   {
@@ -1612,17 +1630,6 @@
    ],
    "r": [
     "kyiv"
-   ]
-  },
-  {
-   "t": "У Польщі погодили зняття імунітету з голови Конституційного трибуналу та його заступника",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/18/7250319/",
-   "x": "Загальні збори суддів Конституційного трибуналу Польщі погодили зняття імунітету голови установи Богдана Свєнчковського та його заступника Бартоломея Соханського.",
-   "i": "https://img.eurointegration.com.ua/images/doc/f/f/ff8edbf-----------------.jpg",
-   "d": "2026-11-18T19:11:00+00:00",
-   "c": [
-    "polityka"
    ]
   },
   {
@@ -1727,8 +1734,7 @@
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/0/959789/40ce692556178d6a448c1b724ddc6207.jpeg",
    "d": "2026-11-18T19:00:00+00:00",
    "c": [
-    "holovne",
-    "polityka"
+    "holovne"
    ]
   },
   {
@@ -1770,17 +1776,6 @@
    "c": [
     "holovne",
     "viyna"
-   ]
-  },
-  {
-   "t": "План на випадок перемоги Ле Пен, зустріч Трамп-Путін, новий уряд Латвії: новини дня",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/18/7250318/",
-   "x": "Західні розвідки вказують на намір Путіна вести війну щонайменше до кінця зими.",
-   "i": "https://img.eurointegration.com.ua/images/doc/f/7/f73fb2c-123-1.jpg",
-   "d": "2026-11-18T19:00:00+00:00",
-   "c": [
-    "polityka"
    ]
   },
   {
@@ -1993,28 +1988,6 @@
    ]
   },
   {
-   "t": "Гегсет оголосив про посилення оборонного партнерства між США та Венесуелою",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/18/7250314/",
-   "x": "Міністр оборони США Піт Гегсет заявив, що його країна та Венесуела домовилися про посилення військового співробітництва.",
-   "i": "https://img.eurointegration.com.ua/images/doc/a/4/a427335--------2.jpg",
-   "d": "2026-11-18T18:30:00+00:00",
-   "c": [
-    "polityka"
-   ]
-  },
-  {
-   "t": "У Лісабоні студенти протестують проти підвищення плати за навчання",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/18/7250315/",
-   "x": "У середу, 18 листопада, у столиці Португалії Лісабоні студенти вийшли на протест проти підвищення плати за навчання.",
-   "i": "https://img.eurointegration.com.ua/images/doc/a/9/a9d104d-screenshot-2026-11-18-202945.png",
-   "d": "2026-11-18T18:29:00+00:00",
-   "c": [
-    "polityka"
-   ]
-  },
-  {
    "t": "Що Росія викрала з українських музеїв: у Києві відкрили виставку про втрати культурної спадщини",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/CULTURE/shcho-rosija-vikrala-z-ukrajinskikh-muzejiv-u-kijevi-vidkrili-vistavku-pro-vtrati-kulturnoji-spadshchini.html",
@@ -2125,8 +2098,7 @@
    "d": "2026-11-18T18:21:00+00:00",
    "c": [
     "holovne",
-    "vazhlyve",
-    "polityka"
+    "vazhlyve"
    ]
   },
   {
@@ -2188,17 +2160,6 @@
    "d": "2026-11-18T18:14:00+00:00",
    "c": [
     "vazhlyve"
-   ]
-  },
-  {
-   "t": "ЗМІ: з проєкту спільної заяви Британії та ЄС вилучили згадку про \"довірче партнерство\"",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/18/7250313/",
-   "x": "Велика Британія та Європейська комісія вилучили з останнього проєкту спільної заяви за підсумками майбутнього саміту згадки про формування \"довірчого партнерства\", що свідчить про те, що переговори щодо надання ЄС…",
-   "i": "https://img.eurointegration.com.ua/images/doc/3/7/3756878-britain.png",
-   "d": "2026-11-18T18:14:00+00:00",
-   "c": [
-    "polityka"
    ]
   },
   {
@@ -2274,19 +2235,7 @@
    "i": "https://24tv.ua/resources/photos/news/202611/3182886.jpg?v=1795004947000&q=100",
    "d": "2026-11-18T18:05:00+00:00",
    "c": [
-    "holovne",
     "mobilizatsiya"
-   ]
-  },
-  {
-   "t": "Зробіть ці 5 речей уже зараз: цвітіння камелії наступного року подвоїться",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/lifehacks24/doglyad-za-kameliyami-listopadi-shho-treba-zrobiti-pered-zimoyu_n3182944",
-   "x": "Камелії – це справжні королеви багатьох садів, але для того, аби рослини могли тішити квітами кожного року, потрібно неабияк постаратися.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3182944.jpg?v=1795007824000&q=100",
-   "d": "2026-11-18T18:04:00+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
@@ -2335,17 +2284,6 @@
    "d": "2026-11-18T17:57:38+00:00",
    "c": [
     "holovne"
-   ]
-  },
-  {
-   "t": "Зеленський: Україна очікує від посланців Трампа на подробиці його переговорів у Китаї",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/18/7250312/",
-   "x": "Президент Володимир Зеленський заявив, що спецпредставники американського президента Дональда Трампа у Берліні передадуть Україні \"необхідну\" інформацію щодо перемовин президента США, які відбуваються в Китаї.",
-   "i": "https://img.eurointegration.com.ua/images/doc/b/c/bcaefb3-----------.jpg",
-   "d": "2026-11-18T17:56:00+00:00",
-   "c": [
-    "polityka"
    ]
   },
   {
@@ -2577,6 +2515,17 @@
    "d": "2026-11-18T17:15:00+00:00",
    "c": [
     "zhyttia"
+   ]
+  },
+  {
+   "t": "Болгарія викрила хакерів, які шпигували за урядом країни протягом п'яти років, викравши 62 мільйони сторінок документів",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1454714-bolgaria-vikrila-hakeriv-aki-spiguvali-za-uradom-kraini-protagom-pati-rokiv-vikravsi-62-miljoni-storinok-dokumentiv/",
+   "x": "Операція розпочалася у 2021 році та тривала до серпня 2026 року — моменту, коли несанкціонований доступ виявили. Атаки були зосереджені на урядових системах обміну документами",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-18T17:13:57+00:00",
+   "c": [
+    "holovne"
    ]
   },
   {
@@ -2868,17 +2817,6 @@
    ]
   },
   {
-   "t": "Клінтон про Трампа: \"Путін та Сі грають на ньому, як на дитячій гітарі\"",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/POLITICS/klinton-pro-trampa-putin-ta-si-hrajut-na-nomu-jak-na-ditjachij-hitari-.html",
-   "x": "Вона назвала це жалюгідним.",
-   "i": "https://zn.ua/img/article/7044/49_main.webp",
-   "d": "2026-11-18T16:18:52+00:00",
-   "c": [
-    "statti"
-   ]
-  },
-  {
    "t": "Атаки практично щодня: Росія вдарила по об'єктах Нафтогазу у двох областях",
    "s": "24 Канал",
    "u": "https://24tv.ua/economy/udar-po-obyektah-naftogazu-dnipropetrovskiy-poltavskiy-oblastyah_n3183143",
@@ -3007,15 +2945,6 @@
    "d": "2026-11-18T15:46:00+00:00",
    "c": [
     "sport"
-   ]
-  },
-  {
-   "t": "Як не допустити повернення Росії у світовий спорт: роль федерацій і спортивних лідерів",
-   "s": "Українська правда",
-   "u": "https://www.pravda.com.ua/news/2026/11/18/8063485/",
-   "d": "2026-11-18T15:45:00+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
