@@ -5,5 +5,5 @@
 window.CHANNELS = [
   { name: "Суспільне Новини", channelId: "UCPY6gj8G7dqwPxg9KwHrj5Q", url: "https://www.youtube.com/@SuspilneNews" },
   { name: "24 Канал", channelId: "UCja992VI_u2e52c9FHQXw5A", url: "https://www.youtube.com/channel/UCja992VI_u2e52c9FHQXw5A" },
-  { name: "5 канал", channelId: "", url: "https://www.youtube.com/@5channel" } /* ефіру на YouTube зараз немає; щоб вмикати плеєр, впишіть channelId: "UCkyrSWEcjZKpIwMxiPfOcgg" */
+  { name: "5 канал", channelId: "UCkyrSWEcjZKpIwMxiPfOcgg", url: "https://www.youtube.com/@5channel" } /* ефіру на YouTube зараз немає; щоб вмикати плеєр, впишіть channelId: "UCkyrSWEcjZKpIwMxiPfOcgg" */
 ];
