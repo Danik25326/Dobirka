@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T21:31:01+00:00",
+ "updated": "2026-11-18T21:40:39+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -158,6 +158,27 @@
  ],
  "top": [
   {
+   "t": "Тримали в таємниці навіть від МЗС: Навроцький подарував Трампу бурштиновий трон",
+   "u": "https://24tv.ua/navrotskiy-podaruvav-trampu-yuviley-burshtinove-krislo-detali_n3183313",
+   "i": "https://24tv.ua/resources/photos/news/202611/3183313.jpg?v=1795037732000&q=100",
+   "n": 3,
+   "l": [
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/navrotskiy-podaruvav-trampu-yuviley-burshtinove-krislo-detali_n3183313"
+    },
+    {
+     "s": "ZN.UA",
+     "u": "https://zn.ua/ukr/WORLD/tajemnij-podarunok-tramp-otrimav-vid-navrotskoho-tron-iz-burshtinu.html"
+    },
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/1454717-prezident-polsi-navrockij-taemno-podaruvav-trampu-burstinove-krislo/"
+    }
+   ],
+   "d": "2026-11-18T21:39:48+00:00"
+  },
+  {
    "t": "Відключення для низки областей: коли не буде світла 19 листопада",
    "u": "https://24tv.ua/avariyni-vidklyuchennya-svitla-v-ukrayini-grafiki-ta-perelik-mist_n2175821",
    "i": "https://24tv.ua/resources/photos/news/202210/2175821.jpg?v=1765370703000&q=100",
@@ -209,21 +230,55 @@
    "d": "2026-11-18T20:36:33+00:00"
   },
   {
-   "t": "Президент Польщі Навроцький таємно подарував Трампу бурштинове крісло",
-   "u": "https://suspilne.media/1454717-prezident-polsi-navrockij-taemno-podaruvav-trampu-burstinove-krislo/",
+   "t": "Принц Гаррі заявив, що готовий знову служити в армії й закликав усвідомити загрозу з боку Росії",
+   "u": "https://www.pravda.com.ua/news/2026/11/18/8063529/",
+   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/f/959834/af28226bab1ae1fe90c9f8f3e81588bc.jpeg",
+   "n": 2,
+   "l": [
+    {
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/18/8063529/"
+    },
+    {
+     "s": "Європейська правда",
+     "u": "https://www.eurointegration.com.ua/news/2026/11/18/7250321/"
+    }
+   ],
+   "d": "2026-11-18T20:18:00+00:00"
+  },
+  {
+   "t": "NBC News: Республіканці у Конгресі США використовують допомогу Україні як важіль тиску на демократів",
+   "u": "https://www.pravda.com.ua/news/2026/11/18/8063526/",
+   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/f/959826/df47032d72b013a0620d9589f82ab1ee.jpeg",
+   "n": 2,
+   "l": [
+    {
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/18/8063526/"
+    },
+    {
+     "s": "Європейська правда",
+     "u": "https://www.eurointegration.com.ua/news/2026/11/18/7250320/"
+    }
+   ],
+   "d": "2026-11-18T19:45:00+00:00"
+  },
+  {
+   "t": "Болгарія викрила хакерів, які шпигували за урядом країни протягом п'яти років, викравши 62 мільйони сторінок документів",
+   "u": "https://suspilne.media/1454714-bolgaria-vikrila-hakeriv-aki-spiguvali-za-uradom-kraini-protagom-pati-rokiv-vikravsi-62-miljoni-storinok-dokumentiv/",
    "i": "https://cdn4.suspilne.media/images/default.jpg",
    "n": 2,
    "l": [
     {
      "s": "Суспільне",
-     "u": "https://suspilne.media/1454717-prezident-polsi-navrockij-taemno-podaruvav-trampu-burstinove-krislo/"
+     "u": "https://suspilne.media/1454714-bolgaria-vikrila-hakeriv-aki-spiguvali-za-uradom-kraini-protagom-pati-rokiv-vikravsi-62-miljoni-storinok-dokumentiv/"
     },
     {
      "s": "ZN.UA",
-     "u": "https://zn.ua/ukr/WORLD/tajemnij-podarunok-tramp-otrimav-vid-navrotskoho-tron-iz-burshtinu.html"
+     "u": "https://zn.ua/ukr/europe/shistdesjat-dva-miljoni-storinok-khakeri-pjat-rokiv-obkradali-urjad-bolhariji.html"
     }
    ],
-   "d": "2026-11-18T19:37:48+00:00"
+   "d": "2026-11-18T19:13:57+00:00"
   },
   {
    "t": "Суд обрав запобіжний захід ще одному фігуранту справи про сутички у Петропавлівській Борщагівці",
@@ -260,23 +315,6 @@
    "d": "2026-11-18T18:43:49+00:00"
   },
   {
-   "t": "У Португалії виключають передачу F-16 Україні, проте відкриті до співпраці з навчання пілотів",
-   "u": "https://suspilne.media/1454695-u-portugalii-viklucaut-peredacu-f-16-ukraini-prote-vidkriti-do-spivpraci-z-navcanna-pilotiv/",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "n": 2,
-   "l": [
-    {
-     "s": "Суспільне",
-     "u": "https://suspilne.media/1454695-u-portugalii-viklucaut-peredacu-f-16-ukraini-prote-vidkriti-do-spivpraci-z-navcanna-pilotiv/"
-    },
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/18/8063455/"
-    }
-   ],
-   "d": "2026-11-18T18:17:08+00:00"
-  },
-  {
    "t": "Уряд Польщі готується до нової хвилі біженців з України взимку",
    "u": "https://zn.ua/ukr/europe/urjad-polshchi-hotujetsja-do-novoji-khvili-bizhentsiv-z-ukrajini-vzimku.html",
    "i": "https://zn.ua/img/article/7044/63_main.webp",
@@ -292,43 +330,52 @@
     }
    ],
    "d": "2026-11-18T18:03:00+00:00"
-  },
-  {
-   "t": "Шістдесят два мільйони сторінок: хакери п'ять років обкрадали уряд Болгарії",
-   "u": "https://zn.ua/ukr/europe/shistdesjat-dva-miljoni-storinok-khakeri-pjat-rokiv-obkradali-urjad-bolhariji.html",
-   "i": "https://zn.ua/img/article/7044/61_main.webp",
-   "n": 2,
-   "l": [
-    {
-     "s": "ZN.UA",
-     "u": "https://zn.ua/ukr/europe/shistdesjat-dva-miljoni-storinok-khakeri-pjat-rokiv-obkradali-urjad-bolhariji.html"
-    },
-    {
-     "s": "Суспільне",
-     "u": "https://suspilne.media/1454714-bolgaria-vikrila-hakeriv-aki-spiguvali-za-uradom-kraini-protagom-pati-rokiv-vikravsi-62-miljoni-storinok-dokumentiv/"
-    }
-   ],
-   "d": "2026-11-18T17:49:00+00:00"
-  },
-  {
-   "t": "Мудрик заявив, що допінг потрапив у його організм у збірній України",
-   "u": "https://zn.ua/ukr/SPORT/mudrik-zajaviv-shcho-dopinh-potrapiv-u-joho-orhanizm-pid-chas-perebuvannja-u-skladi-zbirnoji-ukrajini.html",
-   "i": "https://zn.ua/img/article/7044/60_main.webp",
-   "n": 2,
-   "l": [
-    {
-     "s": "ZN.UA",
-     "u": "https://zn.ua/ukr/SPORT/mudrik-zajaviv-shcho-dopinh-potrapiv-u-joho-orhanizm-pid-chas-perebuvannja-u-skladi-zbirnoji-ukrajini.html"
-    },
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/18/8063504/"
-    }
-   ],
-   "d": "2026-11-18T17:42:00+00:00"
   }
  ],
  "items": [
+  {
+   "t": "Чехія не пускатиме російських спортсменів на свою територію, незважаючи на рішення Спортивного арбітражу – очільник МВС",
+   "s": "Інтерфакс-Україна",
+   "u": "https://interfax.com.ua/news/general/1238873.html",
+   "x": "Російським спортсменам не дозволять в'їжджати на територію Чеської Республіки для участі в міжнародних турнірах, незважаючи на нещодавнє рішення Спортивного арбітражного суду (CAS) щодо їхнього повернення до змагань.",
+   "d": "2026-11-18T21:40:12+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Тримали в таємниці навіть від МЗС: Навроцький подарував Трампу бурштиновий трон",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/navrotskiy-podaruvav-trampu-yuviley-burshtinove-krislo-detali_n3183313",
+   "x": "Президент Польщі Кароль Навроцький на 80-річчя Дональда Трампа подарував йому розкішне крісло з бурштином. Цей презент тримали в таємниці навіть від польського МЗС та частини канцелярії президента.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3183313.jpg?v=1795037732000&q=100",
+   "d": "2026-11-18T21:39:48+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "У США може з'явитися перший темношкірий спікер Палати представників: демократи визначили кандидата",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/usa/u-ssha-mozhe-zjavitisja-pershij-temnoshkirij-spiker-palati-predstavnikiv-demokrati-viznachili-kandidata.html",
+   "x": "Гакім Джеффріс отримав підтримку демократів для обрання спікером.",
+   "i": "https://zn.ua/img/article/7044/81_main.webp",
+   "d": "2026-11-18T21:33:15+00:00",
+   "c": [
+    "statti"
+   ]
+  },
+  {
+   "t": "Карлос Алькарас достроково вийшов у півфінал Підсумкового турніру ATP: як йому це вдалося",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sport/1454739-karlos-alkaras-dostrokovo-vijsov-u-pivfinal-pidsumkovogo-turniru-atp-ak-jomu-ce-vdalosa/",
+   "x": "Карлос Алькарас: іспанський тенісист, експерша ракетка світового рейтингу, вихід до півфіналу Підсумкового турніру ATP, результат іспанця",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-18T21:32:57+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
   {
    "t": "Ворог знову запустив дрони: які міста під прицілом ворога",
    "s": "24 Канал",
@@ -378,9 +425,11 @@
    "t": "Гегсет оголосив про посилення оборонного партнерства між США та Венесуелою",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/18/8063533/",
+   "i": "https://img.eurointegration.com.ua/images/doc/a/4/a427335--------2.jpg",
    "d": "2026-11-18T21:18:00+00:00",
    "c": [
-    "holovne"
+    "holovne",
+    "polityka"
    ]
   },
   {
@@ -715,17 +764,6 @@
    ]
   },
   {
-   "t": "Міністр ветеранів Кім про заяву щодо ризиків після повернення військових: хочу, щоб ми були готові",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1454734-ministr-veteraniv-kim-pro-zaavu-sodo-rizikiv-pisla-povernenna-vijskovih-hocu-sob-mi-buli-gotovi/",
-   "x": "Міністр у справах ветеранів Віталій Кім про свою заяву про кримінальні ризики після повернення військовослужбовців з фронту - хоче, аби суспільство було готове до такого",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-18T20:25:53+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "\"Накласти на себе руки\": Мудрик розповів про свій стан, коли дізнався про позитивний допінг-тест",
    "s": "24 Канал",
    "u": "https://24tv.ua/sporttopnews/intervyu-mihayla-mudrika-futbolist-rozpoviv-pro-sviy-stan-pislya_n3183287",
@@ -748,7 +786,7 @@
    ]
   },
   {
-   "t": "🤯ЗАГОРОДНІЙ: Сі ОПУСТИВ Путіна! Пекін ВІДВЕРНУВСЯ від Москви. РФ ПОПЕРЕДИЛИ: Трампу вже НЕ ДО ВІЙНИ",
+   "t": "🔥ЗАГОРОДНІЙ: Сі ПУБЛІЧНО ПЛЮНУВ Путіну В ОБЛИЧЧЯ! Удари ЗСУ НАГНУЛИ Москву. Трамп РАПТОВО ДАВ ЗАДНЮ",
    "s": "24 Канал · відео",
    "u": "https://www.youtube.com/watch?v=YIOsBVCMC3U",
    "x": "Ведучий 24 Каналу Ігор Гаврищак ‪ @IhorHavryshchak та політтехнолог Тарас Загородній ‪ @ZahorodniyT обговорять ключові події. Зокрема, у Шеньчжені відбувається зустріч Дональда Трампа, Сі Цзіньпіна та диктатора Путіна…",
@@ -993,17 +1031,6 @@
    ]
   },
   {
-   "t": "У першій половині 2027-го в ЗСУ з'являться дріл-сержанти: що відомо",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1454726-u-persij-polovini-2027-go-v-zsu-zavlatsa-dril-serzanti-so-vidomo/",
-   "x": "Завданням дріл-сержанта стане робота безпосередньо з цивільними рекрутами під час навчань. Він повинен буде пояснювати курсантам, що таке військова справа, та формувати в них відповідний світогляд",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-18T20:05:11+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "Вони роблять жахливі речі, а ви все одно дивитеся: 5 фільмів із магнетичними негідниками",
    "s": "24 Канал",
    "u": "https://kino.24tv.ua/voni-roblyat-zhahlivi-rechi-vi-vse-odno-divitesya-5-filmiv-iz_n3182163",
@@ -1125,6 +1152,17 @@
    "c": [
     "holovne",
     "ekonomika"
+   ]
+  },
+  {
+   "t": "Принц Гаррі заявив про готовність знову служити в армії",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/18/7250321/",
+   "x": "Принц Гаррі заявив, що готовий знову служити в армії, а також закликав Європу \"усвідомити загрозу\", яку несе Росія.",
+   "i": "https://img.eurointegration.com.ua/images/doc/9/c/9ca734e------------.jpg",
+   "d": "2026-11-18T19:55:00+00:00",
+   "c": [
+    "polityka"
    ]
   },
   {
@@ -1308,14 +1346,14 @@
    ]
   },
   {
-   "t": "Президент Польщі Навроцький таємно подарував Трампу бурштинове крісло",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1454717-prezident-polsi-navrockij-taemno-podaruvav-trampu-burstinove-krislo/",
-   "x": "Президент Польщі Кароль Навроцький подарував президенту США Трампу на 80-річчя крісло, вироблене з бурштином. Подарунок був таємний, про нього не знало ні посольство Польщі у США, ні МЗС Польщі",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-18T19:37:48+00:00",
+   "t": "ЗМІ: республіканці у Конгресі США використовують допомогу Україні як важіль тиску на демократів",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/18/7250320/",
+   "x": "Провідні республіканці Палати представників США намагаються використати положення про підтримку України в законопроєкті про національну оборону як інструмент тиску на демократів; вони прагнуть домогтися вилучення норм…",
+   "i": "https://img.eurointegration.com.ua/images/doc/8/5/856a374-----------.jpg",
+   "d": "2026-11-18T19:38:00+00:00",
    "c": [
-    "holovne"
+    "polityka"
    ]
   },
   {
@@ -1584,6 +1622,17 @@
    ]
   },
   {
+   "t": "Болгарія викрила хакерів, які шпигували за урядом країни протягом п'яти років, викравши 62 мільйони сторінок документів",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1454714-bolgaria-vikrila-hakeriv-aki-spiguvali-za-uradom-kraini-protagom-pati-rokiv-vikravsi-62-miljoni-storinok-dokumentiv/",
+   "x": "Операція розпочалася у 2021 році та тривала до серпня 2026 року — моменту, коли несанкціонований доступ виявили. Атаки були зосереджені на урядових системах обміну документами",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-18T19:13:57+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "У Харківській області 19 листопада діятимуть графіки погодинних відключень світла: розклад",
    "s": "Суспільне",
    "u": "https://suspilne.media/kharkiv/1454723-u-harkovi-ta-oblasti-19-listopada-diatimut-grafiki-pogodinnih-vidklucen-svitla-rozklad/",
@@ -1601,9 +1650,11 @@
    "t": "Єврокомісію звинуватили у приховуванні листування щодо скасування закону про патенти",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/18/8063525/",
+   "i": "https://img.eurointegration.com.ua/images/doc/2/0/2048a42-european-commission.png",
    "d": "2026-11-18T19:12:00+00:00",
    "c": [
-    "holovne"
+    "holovne",
+    "polityka"
    ]
   },
   {
@@ -1630,6 +1681,17 @@
    ],
    "r": [
     "kyiv"
+   ]
+  },
+  {
+   "t": "У Польщі погодили зняття імунітету з голови Конституційного трибуналу та його заступника",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/18/7250319/",
+   "x": "Загальні збори суддів Конституційного трибуналу Польщі погодили зняття імунітету голови установи Богдана Свєнчковського та його заступника Бартоломея Соханського.",
+   "i": "https://img.eurointegration.com.ua/images/doc/f/f/ff8edbf-----------------.jpg",
+   "d": "2026-11-18T19:11:00+00:00",
+   "c": [
+    "polityka"
    ]
   },
   {
@@ -1734,7 +1796,8 @@
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/0/959789/40ce692556178d6a448c1b724ddc6207.jpeg",
    "d": "2026-11-18T19:00:00+00:00",
    "c": [
-    "holovne"
+    "holovne",
+    "polityka"
    ]
   },
   {
@@ -1776,6 +1839,17 @@
    "c": [
     "holovne",
     "viyna"
+   ]
+  },
+  {
+   "t": "План на випадок перемоги Ле Пен, зустріч Трамп-Путін, новий уряд Латвії: новини дня",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/18/7250318/",
+   "x": "Західні розвідки вказують на намір Путіна вести війну щонайменше до кінця зими.",
+   "i": "https://img.eurointegration.com.ua/images/doc/f/7/f73fb2c-123-1.jpg",
+   "d": "2026-11-18T19:00:00+00:00",
+   "c": [
+    "polityka"
    ]
   },
   {
@@ -1988,6 +2062,17 @@
    ]
   },
   {
+   "t": "У Лісабоні студенти протестують проти підвищення плати за навчання",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/18/7250315/",
+   "x": "У середу, 18 листопада, у столиці Португалії Лісабоні студенти вийшли на протест проти підвищення плати за навчання.",
+   "i": "https://img.eurointegration.com.ua/images/doc/a/9/a9d104d-screenshot-2026-11-18-202945.png",
+   "d": "2026-11-18T18:29:00+00:00",
+   "c": [
+    "polityka"
+   ]
+  },
+  {
    "t": "Що Росія викрала з українських музеїв: у Києві відкрили виставку про втрати культурної спадщини",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/CULTURE/shcho-rosija-vikrala-z-ukrajinskikh-muzejiv-u-kijevi-vidkrili-vistavku-pro-vtrati-kulturnoji-spadshchini.html",
@@ -2052,6 +2137,17 @@
    ],
    "r": [
     "crimea"
+   ]
+  },
+  {
+   "t": "Міністр ветеранів Кім про заяву щодо ризиків після повернення військових: хочу, щоб ми були готові",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1454734-ministr-veteraniv-kim-pro-zaavu-sodo-rizikiv-pisla-povernenna-vijskovih-hocu-sob-mi-buli-gotovi/",
+   "x": "Міністр у справах ветеранів Віталій Кім про свою заяву про кримінальні ризики після повернення військовослужбовців з фронту - хоче, аби суспільство було готове до такого",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-18T18:25:53+00:00",
+   "c": [
+    "holovne"
    ]
   },
   {
@@ -2142,17 +2238,6 @@
    ]
   },
   {
-   "t": "У Португалії виключають передачу F-16 Україні, проте відкриті до співпраці з навчання пілотів",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1454695-u-portugalii-viklucaut-peredacu-f-16-ukraini-prote-vidkriti-do-spivpraci-z-navcanna-pilotiv/",
-   "x": "Португалія також готова обговорити з українською стороною питання постачань обладнання для F-16. За словами Ранжела, F-16 необхідні країні для захисту на суші та воді через ризики, які, зокрема, пов'язані з тіньовим…",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-18T18:17:08+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "Українські дрони за 20 днів обвалили нафтопереробку РФ майже вдвічі",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/18/8063514/",
@@ -2160,6 +2245,17 @@
    "d": "2026-11-18T18:14:00+00:00",
    "c": [
     "vazhlyve"
+   ]
+  },
+  {
+   "t": "ЗМІ: з проєкту спільної заяви Британії та ЄС вилучили згадку про \"довірче партнерство\"",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/18/7250313/",
+   "x": "Велика Британія та Європейська комісія вилучили з останнього проєкту спільної заяви за підсумками майбутнього саміту згадки про формування \"довірчого партнерства\", що свідчить про те, що переговори щодо надання ЄС…",
+   "i": "https://img.eurointegration.com.ua/images/doc/3/7/3756878-britain.png",
+   "d": "2026-11-18T18:14:00+00:00",
+   "c": [
+    "polityka"
    ]
   },
   {
@@ -2212,7 +2308,6 @@
    "i": "https://24tv.ua/resources/photos/news/202611/3183238.jpg?v=1795024911000&q=100",
    "d": "2026-11-18T18:07:00+00:00",
    "c": [
-    "holovne",
     "viyna"
    ]
   },
@@ -2223,6 +2318,17 @@
    "x": "Українські компанії та приватні підприємці дедалі частіше звертаються до інформаційного агентства «Інтерфакс-Україна» з питаннями отримання міжнародного ідентифікаційного номера D-U-N-S (DUNS, ДАНС), який присвоює…",
    "i": "https://media.interfax.com.ua/media/thumbs/images/2026/11/gilvv/4r0c0DaVRykb.jpg",
    "d": "2026-11-18T18:05:19+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "У першій половині 2027-го в ЗСУ з'являться дріл-сержанти: що відомо",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1454726-u-persij-polovini-2027-go-v-zsu-zavlatsa-dril-serzanti-so-vidomo/",
+   "x": "Завданням дріл-сержанта стане робота безпосередньо з цивільними рекрутами під час навчань. Він повинен буде пояснювати курсантам, що таке військова справа, та формувати в них відповідний світогляд",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-18T18:05:11+00:00",
    "c": [
     "holovne"
    ]
@@ -2287,6 +2393,17 @@
    ]
   },
   {
+   "t": "Зеленський: Україна очікує від посланців Трампа на подробиці його переговорів у Китаї",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/18/7250312/",
+   "x": "Президент Володимир Зеленський заявив, що спецпредставники американського президента Дональда Трампа у Берліні передадуть Україні \"необхідну\" інформацію щодо перемовин президента США, які відбуваються в Китаї.",
+   "i": "https://img.eurointegration.com.ua/images/doc/b/c/bcaefb3-----------.jpg",
+   "d": "2026-11-18T17:56:00+00:00",
+   "c": [
+    "polityka"
+   ]
+  },
+  {
    "t": "Пенсія з грудня буде більшою: хто отримуватиме додаткові 150 гривень",
    "s": "24 Канал",
    "u": "https://24tv.ua/economy/shhomisyachna-avtomatichna-doplata-do-pensiyi-yak-otrimati-dodatkovi_n3182376",
@@ -2321,16 +2438,6 @@
    "d": "2026-11-18T17:52:00+00:00",
    "c": [
     "statti"
-   ]
-  },
-  {
-   "t": "Португалія надає українській енергетиці новий пакет допомоги на 1,8 млн євро – Шмигаль",
-   "s": "Інтерфакс-Україна",
-   "u": "https://interfax.com.ua/news/general/1238811.html",
-   "x": "Португалія надасть Україні новий пакет допомоги на суму 1,8 млн євро – 1 млн євро на закупівлю енергетичного обладнання за механізмами ООН, а 800 тисяч євро – через Фонд підтримки енергетики, повідомив перший…",
-   "d": "2026-11-18T17:51:11+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
@@ -2410,6 +2517,17 @@
    "d": "2026-11-18T17:40:00+00:00",
    "c": [
     "statti"
+   ]
+  },
+  {
+   "t": "Президент Польщі Навроцький таємно подарував Трампу бурштинове крісло",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1454717-prezident-polsi-navrockij-taemno-podaruvav-trampu-burstinove-krislo/",
+   "x": "Президент Польщі Кароль Навроцький подарував президенту США Трампу на 80-річчя крісло, вироблене з бурштином. Подарунок був таємний, про нього не знало ні посольство Польщі у США, ні МЗС Польщі",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-18T17:37:48+00:00",
+   "c": [
+    "holovne"
    ]
   },
   {
@@ -2515,17 +2633,6 @@
    "d": "2026-11-18T17:15:00+00:00",
    "c": [
     "zhyttia"
-   ]
-  },
-  {
-   "t": "Болгарія викрила хакерів, які шпигували за урядом країни протягом п'яти років, викравши 62 мільйони сторінок документів",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1454714-bolgaria-vikrila-hakeriv-aki-spiguvali-za-uradom-kraini-protagom-pati-rokiv-vikravsi-62-miljoni-storinok-dokumentiv/",
-   "x": "Операція розпочалася у 2021 році та тривала до серпня 2026 року — моменту, коли несанкціонований доступ виявили. Атаки були зосереджені на урядових системах обміну документами",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-18T17:13:57+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
@@ -2801,17 +2908,6 @@
    "x": "В Україні триває футбольний сезон.",
    "i": "https://zn.ua/img/article/7044/53_main.webp",
    "d": "2026-11-18T16:22:00+00:00",
-   "c": [
-    "statti"
-   ]
-  },
-  {
-   "t": "Сі Цзіньпін і Трамп прийшли на вечерю АТЕС разом, а Путіна посадили окремо: що відомо про зустрічі лідерів у Шеньчжені",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/POLITICS/si-tszinpin-i-tramp-prijshli-na-vecherju-ates-razom-a-putina-posadili-okremo-shcho-vidomo-pro-zustrichi-lideriv-u-shenchzheni.html",
-   "x": "Білий дім повідомив, що двосторонньої зустрічі Трампа з Путіним у Шеньчжені сьогодні не буде. Президент США планує поговорити з російським колегою завтра, окрім уже запланованої тристоронньої зустрічі з Сі.",
-   "i": "https://zn.ua/img/article/7044/52_main.webp",
-   "d": "2026-11-18T16:19:00+00:00",
    "c": [
     "statti"
    ]
