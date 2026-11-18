@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T23:10:38+00:00",
+ "updated": "2026-11-18T23:20:44+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -298,24 +298,72 @@
    "d": "2026-11-18T18:03:00+00:00"
   },
   {
-   "t": "Дука визнав, що під час обшуку НАБУ розбив сокирою два свої смартфони",
-   "u": "https://24tv.ua/sergiy-duka-rozbiv-telefoni-sokiroyu-pid-chas-obshuku-nabu-general_n3183068",
-   "i": "https://24tv.ua/resources/photos/news/202611/3183068.jpg?v=1795013018000&q=100",
+   "t": "Без світла два райони: Росія вдарила по енергетиці на півдні Одещини",
+   "u": "https://24tv.ua/udar-po-energetitsi-pivdni-odeshhini-de-zniklo-svitlo_n3183185",
+   "i": "https://24tv.ua/resources/photos/news/202611/3183185.jpg?v=1795020075000&q=100",
    "n": 2,
    "l": [
     {
      "s": "24 Канал",
-     "u": "https://24tv.ua/sergiy-duka-rozbiv-telefoni-sokiroyu-pid-chas-obshuku-nabu-general_n3183068"
+     "u": "https://24tv.ua/udar-po-energetitsi-pivdni-odeshhini-de-zniklo-svitlo_n3183185"
     },
     {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/18/8063460/"
+     "s": "Економічна правда",
+     "u": "https://epravda.com.ua/biznes/ataka-na-energoob-yekti-odeshchini-svitla-nemaye-u-dvoh-rayonah-827785/"
     }
    ],
-   "d": "2026-11-18T14:58:00+00:00"
+   "d": "2026-11-18T16:44:00+00:00"
+  },
+  {
+   "t": "Атаки практично щодня: Росія вдарила по об'єктах Нафтогазу у двох областях",
+   "u": "https://24tv.ua/economy/udar-po-obyektah-naftogazu-dnipropetrovskiy-poltavskiy-oblastyah_n3183143",
+   "i": "https://24tv.ua/resources/photos/news/202611/3183143.jpg?v=1795018107000&q=100",
+   "n": 2,
+   "l": [
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/economy/udar-po-obyektah-naftogazu-dnipropetrovskiy-poltavskiy-oblastyah_n3183143"
+    },
+    {
+     "s": "Економічна правда",
+     "u": "https://epravda.com.ua/biznes/vorog-atakuvav-ob-yekti-naftogazu-u-dvoh-oblastyah-827781/"
+    }
+   ],
+   "d": "2026-11-18T16:10:00+00:00"
   }
  ],
  "items": [
+  {
+   "t": "Окупанти заявили про ще один удар по Кримському мосту",
+   "s": "Українська правда",
+   "u": "https://www.pravda.com.ua/news/2026/11/19/8063537/",
+   "x": "Вночі 19 листопада заявили про атаку на Кримський міст. Внаслідок удару рух повністю призупинено, оцінюють збитки.",
+   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/d/959875/ad73a1635cbc2293457fb8eca949ad81.jpeg",
+   "d": "2026-11-18T23:15:00+00:00",
+   "c": [
+    "holovne",
+    "vazhlyve"
+   ],
+   "r": [
+    "crimea"
+   ]
+  },
+  {
+   "t": "\"Оцінюють збитки\": новий удар по Кримському мосту міг пошкодити залізничну частину",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/tretiy-udar-po-krimskomu-mostu-stavsya-19-listopada-poshkodzhena_n3183328",
+   "x": "Кримський міст зазнав третього за тиждень удару у ніч на 19 листопада. Найімовірніше, той припав цього расу суто на залізничну частину споруди.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3183328.jpg?v=1795042719000&q=100",
+   "d": "2026-11-18T23:12:00+00:00",
+   "c": [
+    "holovne",
+    "vazhlyve",
+    "viyna"
+   ],
+   "r": [
+    "crimea"
+   ]
+  },
   {
    "t": "«Русские мужики КОНЧАЮТСЯ!» Захар Прилепин потребовал захватить новые республики ради солдат",
    "s": "5 канал · відео",
@@ -1675,20 +1723,6 @@
    ]
   },
   {
-   "t": "Частина Сумщини без світла через аварійне розвантаження мереж",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/sumy/1454727-castina-sumsini-bez-svitla-cerez-avarijne-rozvantazenna-merez/",
-   "x": "Частина мешканців Сумщини залишається без електропостачання через аварійне розвантаження електричних мереж. Також діють графіки погодинного відключення",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-18T19:28:24+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "sumy"
-   ]
-  },
-  {
    "t": "На Хмельниччині 19 листопада будуть діяти графіки погодинного відключення світла",
    "s": "Суспільне",
    "u": "https://suspilne.media/khmelnytskiy/1454358-na-hmelniccini-19-listopada-budut-diati-grafiki-pogodinnogo-vidklucenna-svitla/",
@@ -1711,20 +1745,6 @@
    "d": "2026-11-18T19:27:35+00:00",
    "c": [
     "holovne"
-   ]
-  },
-  {
-   "t": "Погодинні вимкнення світла в Запорізькій області: графік на 19 листопада",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/zaporizhzhia/1454725-pogodinni-vimknenna-svitla-v-zaporizkij-oblasti-grafik-na-19-listopada/",
-   "x": "Відключення електроенергії у Запоріжжі та області 19 листопада: в обленерго оприлюднили графіки знеструмлень для всіх 12 підчерг упродовж доби",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-18T19:27:28+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "zaporizhzhia"
    ]
   },
   {
@@ -2049,6 +2069,15 @@
    ]
   },
   {
+   "t": "Новини 18 листопада: план ЄС на 45 мільярдів євро, обвал нафтопереробки РФ",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/finances/finansuvannya-yes-naftopererobka-rf-kurs-yevro-golovne-za-18-listopada-827793/",
+   "d": "2026-11-18T19:00:00+00:00",
+   "c": [
+    "ekonomika"
+   ]
+  },
+  {
    "t": "Росія системно застосовує хімзброю проти України: що вказано в доповіді, яку підтримав ЄС",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/war/rosija-sistemno-zastosovuje-khimzbroju-proti-ukrajini-shcho-vkazano-v-dopovidi-jaku-pidtrimav-jes.html",
@@ -2112,6 +2141,15 @@
     "video"
    ],
    "v": 1
+  },
+  {
+   "t": "ЄЦБ побачив у гонці за ШІ небезпечні паралелі з кризою 2008 року",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/finances/yecb-pobachiv-u-borgovomu-bumi-shi-paraleli-z-finansovimi-bulbashkami-827789/",
+   "d": "2026-11-18T18:45:00+00:00",
+   "c": [
+    "ekonomika"
+   ]
   },
   {
    "t": "Лідери понад 30 країн обговорять розгортання багатонаціональних сил в Україні на засіданні \"Коаліції охочих\" у Берліні – ЗМІ",
@@ -2204,17 +2242,6 @@
    "c": [
     "holovne",
     "viyna"
-   ]
-  },
-  {
-   "t": "Cambridge Dictionary обрав слово року: воно нагадує про відмінності між людьми та ШІ",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/tech/cambridge-dictionary-nazvav-human-slovom-2026-roku-cherez-rozvitok_n3183176",
-   "x": "Cambridge Dictionary обрав слово human («людина», «людський») словом 2026 року. У словнику пояснюють, що розвиток штучного інтелекту змушує переосмислювати людську природу та відмінності між людьми й машинами.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3183176.jpg?v=1795019624000&q=100",
-   "d": "2026-11-18T18:31:00+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
@@ -2374,13 +2401,23 @@
    ]
   },
   {
+   "t": "На четвер оголосили цілодобові графіки відключень світла",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/energetika/elektroenergetika-ukrajini-pogodinni-vidklyuchennya-19-listopada-827792/",
+   "d": "2026-11-18T18:15:00+00:00",
+   "c": [
+    "ekonomika"
+   ]
+  },
+  {
    "t": "Українські дрони за 20 днів обвалили нафтопереробку РФ майже вдвічі",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/18/8063514/",
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/6/959581/46faef2899d4e2460400c54d41373948.jpeg",
    "d": "2026-11-18T18:14:00+00:00",
    "c": [
-    "vazhlyve"
+    "vazhlyve",
+    "ekonomika"
    ]
   },
   {
@@ -2486,6 +2523,19 @@
    ]
   },
   {
+   "t": "Суд стягнув з постачальника бронежилетів 35 мільйонів",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/oborona/shtrafni-sankciji-ukrtak-yua-maye-splatiti-agenciji-oboronnih-zakupivel-35-mln-grn-827791/",
+   "x": "Господарський суд Києва зобов'язав приватну компанію сплатити державному підприємству \"Агенція оборонних закупівель\" 35 млн грн штрафних санкцій за прострочення поставки бронежилетів.",
+   "d": "2026-11-18T17:54:00+00:00",
+   "c": [
+    "ekonomika"
+   ],
+   "r": [
+    "kyiv"
+   ]
+  },
+  {
    "t": "Зможе відвідати могилу доньки-військової: громадянці Німеччини Урсулі Вагнер скасували заборону на в’їзд до України",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/UKRAINE/zmozhe-vidvidati-mohilu-donki-vijskovoji-hromadjantsi-nimechchini-ursuli-vahner-skasuvali-zaboronu-na-vjizd-do-ukrajini.html",
@@ -2505,6 +2555,15 @@
    "d": "2026-11-18T17:51:00+00:00",
    "c": [
     "viyna"
+   ]
+  },
+  {
+   "t": "РФ скуповує бензин від Індії до Марокко після ударів України по НПЗ",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/energetika/rf-rekordno-skupovuye-benzin-vid-indiji-do-marokko-pislya-udariv-ukrajini-po-npz-827790/",
+   "d": "2026-11-18T17:50:00+00:00",
+   "c": [
+    "ekonomika"
    ]
   },
   {
@@ -2569,6 +2628,34 @@
    ]
   },
   {
+   "t": "Частина Сумщини без світла через аварійне розвантаження мереж",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sumy/1454727-castina-sumsini-bez-svitla-cerez-avarijne-rozvantazenna-merez/",
+   "x": "Частина мешканців Сумщини залишається без електропостачання через аварійне розвантаження електричних мереж. Також діють графіки погодинного відключення",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-18T17:28:24+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "sumy"
+   ]
+  },
+  {
+   "t": "Погодинні вимкнення світла в Запорізькій області: графік на 19 листопада",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/zaporizhzhia/1454725-pogodinni-vimknenna-svitla-v-zaporizkij-oblasti-grafik-na-19-listopada/",
+   "x": "Відключення електроенергії у Запоріжжі та області 19 листопада: в обленерго оприлюднили графіки знеструмлень для всіх 12 підчерг упродовж доби",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-18T17:27:28+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "zaporizhzhia"
+   ]
+  },
+  {
    "t": "Сутички у Петропавлівській Борщагівці: суд обрав запобіжний захід ще одному фігуранту",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/18/8063505/",
@@ -2592,6 +2679,19 @@
    "c": [
     "vazhlyve",
     "viyna"
+   ]
+  },
+  {
+   "t": "Росія має виплатити сумському виробнику упаковки три мільярди збитків",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/biznes/sudovi-kompensaciji-rf-zobov-yazana-viplatiti-tehnologiji-3-04-mlrd-grn-827788/",
+   "x": "Господарський суд Сумської області зобов'язав РФ відшкодувати виробнику упаковок для дитячого харчування, соків, побутової хімії 3,04 млрд грн збитків та упущеної вигоди.",
+   "d": "2026-11-18T17:26:00+00:00",
+   "c": [
+    "ekonomika"
+   ],
+   "r": [
+    "sumy"
    ]
   },
   {
@@ -2637,6 +2737,16 @@
    ]
   },
   {
+   "t": "Давня справа: суд оголосив вирок \"ліснику Януковича\" та його дружині",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/biznes/davnya-sprava-sud-ogolosiv-virok-lisniku-yanukovicha-ta-yogo-druzhini-827787/",
+   "x": "Вищий антикорупційний суд оголосив вирок колишньому голові Державного агентства лісових ресурсів України та його дружині, звинувачених у одержанні неправомірної вигоди в розмірі 3,7 млн доларів та 10,8 млн євро.",
+   "d": "2026-11-18T17:14:00+00:00",
+   "c": [
+    "ekonomika"
+   ]
+  },
+  {
    "t": "Нинішній раунд переговорів може стати останнім шансом досягти миру, – Віткофф і Кушнер до Росії",
    "s": "24 Канал",
    "u": "https://24tv.ua/ssha-poperedili-rosiyu-pro-ostanniy-shans-uklasti-mirnu-ugodu_n3183193",
@@ -2646,6 +2756,15 @@
    "c": [
     "vazhlyve",
     "viyna"
+   ]
+  },
+  {
+   "t": "Проданий державою титановий гігант України збільшив збиток у 2,5 раза",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/biznes/privatizovana-oghk-narostila-zbitok-do-1-08-mlrd-grn-za-dev-yat-misyaciv-827786/",
+   "d": "2026-11-18T17:10:00+00:00",
+   "c": [
+    "ekonomika"
    ]
   },
   {
@@ -2821,6 +2940,19 @@
    ]
   },
   {
+   "t": "Атака на енергооб’єкти Одещини: світла немає у двох районах",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/biznes/ataka-na-energoob-yekti-odeshchini-svitla-nemaye-u-dvoh-rayonah-827785/",
+   "x": "Росіяни завдали удару по енергетичній інфраструктурі на півдні Одеської області та залишили без електроенергії мешканців двох районів.",
+   "d": "2026-11-18T16:36:00+00:00",
+   "c": [
+    "ekonomika"
+   ],
+   "r": [
+    "odesa"
+   ]
+  },
+  {
    "t": "Росіяни били дронами: у Чугуєві є влучання по дев'ятиповерхівці",
    "s": "24 Канал",
    "u": "https://24tv.ua/karta-trivog-ukrayini-18-listopada-2026-de-vibuhi-shho-vidomo_n3182456",
@@ -2859,17 +2991,6 @@
    "v": 1
   },
   {
-   "t": "Спортсменів РФ не пустять до Чехії на чемпіонат світу з хокею",
-   "s": "Українська правда",
-   "u": "https://www.pravda.com.ua/news/2026/11/18/8063489/",
-   "x": "Міністр внутрішніх справ Чехії Любомир Метнар заявив, що російським спортсменам не дозволять в'їжджати до країни.",
-   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/2/959467/e29126bd7c32e2b62ba03fe06db46580.jpeg",
-   "d": "2026-11-18T16:25:00+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "Саміт Трампа, Путіна та Сі у Китаї: головне про зустріч лідерів США, Росії та Китаю",
    "s": "24 Канал",
    "u": "https://24tv.ua/geopolitics/samit-trampa-putina-si-19-listopada-2026-use-shho-vidomo-zayavi_n3181385",
@@ -2903,7 +3024,8 @@
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/6/959464/46c0af3a7480a88ce2d9aa0d7445ba1c.jpeg",
    "d": "2026-11-18T16:09:00+00:00",
    "c": [
-    "vazhlyve"
+    "vazhlyve",
+    "ekonomika"
    ]
   },
   {
@@ -2979,6 +3101,19 @@
    "v": 1
   },
   {
+   "t": "Чиновника Держпраці, звинуваченого у хабарництві, тепер звинуватили у недостовірному декларуванні",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/biznes/chinovnika-derzhpraci-zvinuvachenogo-u-habarnictvi-teper-zvinuvatili-u-nedostovirnomu-deklaruvanni-827783/",
+   "x": "Прокуратура повідомила про підозру начальнику міжрегіонального управління Державної служби з питань праці в Івано-Франківську, який приховав від декларування понад майно на 12,7 мільйона гривень та фігурує у справі про…",
+   "d": "2026-11-18T15:50:00+00:00",
+   "c": [
+    "ekonomika"
+   ],
+   "r": [
+    "ivanofrankivsk"
+   ]
+  },
+  {
    "t": "Світоліна вперше розсекретила суму, яку віддала на допомогу Україні та ЗСУ",
    "s": "24 Канал",
    "u": "https://sportnews.24tv.ua/elina-svitolina-tenisistka-rozpovila-skilki-koshtiv-peredala_n3183128",
@@ -3027,6 +3162,16 @@
    ]
   },
   {
+   "t": "Ворог атакував об'єкти Нафтогазу у двох областях",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/biznes/vorog-atakuvav-ob-yekti-naftogazu-u-dvoh-oblastyah-827781/",
+   "x": "Росіяни завдали ударів по об'єктам Групи Нафтогаз у двох областях, працівники компанії неушкоджені.",
+   "d": "2026-11-18T15:12:00+00:00",
+   "c": [
+    "ekonomika"
+   ]
+  },
+  {
    "t": "Не поспішайте купувати готове філе! Як почистити оселедець за 5 хвилин",
    "s": "Українська правда. Життя",
    "u": "https://life.pravda.com.ua/food/yak-shvidko-ta-akuratno-pochistiti-oseledec-instrukciya-319152/",
@@ -3034,6 +3179,15 @@
    "d": "2026-11-18T15:07:00+00:00",
    "c": [
     "zhyttia"
+   ]
+  },
+  {
+   "t": "Rebuild Ukraine 2026: інтеграція української вітроенергетики в європейські ланцюги постачання",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/energetika/rebuild-ukraine-2026-integraciya-ukrajinskoji-vitroenergetiki-v-yevropeyski-lancyugi-postachannya-827778/",
+   "d": "2026-11-18T15:05:00+00:00",
+   "c": [
+    "ekonomika"
    ]
   },
   {
@@ -3471,8 +3625,7 @@
    "i": "https://24tv.ua/resources/photos/news/202611/3182919.jpg?v=1795005788000&q=100",
    "d": "2026-11-18T12:42:00+00:00",
    "c": [
-    "vazhlyve",
-    "viyna"
+    "vazhlyve"
    ]
   },
   {
@@ -3601,17 +3754,6 @@
    "v": 1,
    "r": [
     "lviv"
-   ]
-  },
-  {
-   "t": "Путін планує воювати проти України щонайменше до кінця зими – західні розвідки",
-   "s": "Українська правда",
-   "u": "https://www.pravda.com.ua/news/2026/11/18/8063432/",
-   "x": "За оцінками західних розвідок, правитель РФ Володимир Путін не готовий до серйозних переговорів про завершення війни проти України й прагне продовжувати бойові дії щонайменше до кінця зими, попри заплановану зустріч з…",
-   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/1/6/959084/1685615e1474c902274c9bc82941e12e.jpeg",
-   "d": "2026-11-18T11:09:00+00:00",
-   "c": [
-    "vazhlyve"
    ]
   },
   {
@@ -4680,17 +4822,6 @@
    ],
    "r": [
     "crimea"
-   ]
-  },
-  {
-   "t": "У Башкортостані атакували гігант \"Газпром нафтохім Салават\"",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/ataka-gazprom-naftohim-salavat-kadri-pozhezhi-zavodi-bashkortostani_n3181777",
-   "x": "У місті Салават, що у російському Башкортостані, 17 листопада зазнало атаки підприємство \"Газпром нафтохім Салават\". Удар припав по виробничій установці, після чого на території виникли масштабні пожежі.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3181777.jpg?v=1794889328000&q=100",
-   "d": "2026-11-17T05:04:00+00:00",
-   "c": [
-    "vazhlyve"
    ]
   },
   {
