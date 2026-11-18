@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T01:50:39+00:00",
+ "updated": "2026-11-18T02:01:09+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -292,6 +292,23 @@
    "d": "2026-11-18T01:08:13+00:00"
   },
   {
+   "t": "Путін прибув до Китаю для зустрічі з Сі Цзіньпіном та Трампом",
+   "u": "https://suspilne.media/1454327-putin-pribuv-do-kitau-dla-zustrici-z-si-czinpinom-ta-trampom/",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "n": 2,
+   "l": [
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/1454327-putin-pribuv-do-kitau-dla-zustrici-z-si-czinpinom-ta-trampom/"
+    },
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/geopolitics/samit-trampa-putina-si-19-listopada-2026-use-shho-vidomo-zayavi_n3181385"
+    }
+   ],
+   "d": "2026-11-17T23:55:20+00:00"
+  },
+  {
    "t": "Футболіст збірної України забив найшвидший гол в історії офіційних матчів команди",
    "u": "https://zn.ua/ukr/SPORT/futbolist-zbirnoji-ukrajini-zabiv-najshvidshij-hol-v-istoriji-ofitsijnikh-matchiv-komandi.html",
    "i": "https://zn.ua/img/article/7043/31_main.webp",
@@ -341,23 +358,6 @@
     }
    ],
    "d": "2026-11-17T22:37:00+00:00"
-  },
-  {
-   "t": "Збірна України в Лізі націй: результати всіх матчів, підсумкова турнірна таблиця",
-   "u": "https://zn.ua/ukr/SPORT/zbirna-ukrajini-v-lizi-natsij-rozklad-usikh-matchiv-turnirna-tablitsja.html",
-   "i": "https://zn.ua/img/article/6964/71_main.webp",
-   "n": 2,
-   "l": [
-    {
-     "s": "ZN.UA",
-     "u": "https://zn.ua/ukr/SPORT/zbirna-ukrajini-v-lizi-natsij-rozklad-usikh-matchiv-turnirna-tablitsja.html"
-    },
-    {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/sporttopnews/liga-natsiy-2026-rozklad-kalendar-usih-matchu-rezultati-ukrayini_n3146017"
-    }
-   ],
-   "d": "2026-11-17T22:22:00+00:00"
   }
  ],
  "items": [
@@ -421,20 +421,6 @@
    ]
   },
   {
-   "t": "На Одещині вночі 18 листопада відчули землетрус",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/odesa/1454325-na-odesini-vnoci-18-listopada-vidculi-zemletrus/",
-   "x": "У ніч на 18 листопада жителі Одещини відчули землетрус з епіцентром у Румунії. Android повідомив про магнітуду 6,3–6,5. Інформації про руйнування чи травмованих у регіоні немає",
-   "i": "https://cdn4.suspilne.media/images/23dca5c79aa74f93.jpg",
-   "d": "2026-11-18T01:08:19+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "odesa"
-   ]
-  },
-  {
    "t": "Десять країн ЄС вимагають не допустити Росію до Венеційської бієнале",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/europe/desjat-krajin-jes-vimahajut-ne-dopustiti-rosiju-do-venetsijskoji-bijenale.html",
@@ -443,17 +429,6 @@
    "d": "2026-11-18T01:08:13+00:00",
    "c": [
     "statti"
-   ]
-  },
-  {
-   "t": "Міністр оборони Хмара: ми бачимо перспективи у далекобійних ударах по території РФ",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1454324-ministr-oboroni-hmara-mi-bacimo-perspektivi-u-dalekobijnih-udarah-po-teritorii-rf/",
-   "x": "Міністр оборони Євген Хмара заявив, що Україна бачить перспективи у далекобійних ударах по території РФ та планує розвивати цей напрям у 2027 році",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-18T00:56:24+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
@@ -512,6 +487,17 @@
    "d": "2026-11-17T23:57:00+00:00",
    "c": [
     "statti"
+   ]
+  },
+  {
+   "t": "Путін прибув до Китаю для зустрічі з Сі Цзіньпіном та Трампом",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1454327-putin-pribuv-do-kitau-dla-zustrici-z-si-czinpinom-ta-trampom/",
+   "x": "Очільник Кремля Володимир Путін прибув до Китаю: 19 листопада він зустрінеться з головою КНР Сі Цзіньпіном та президентом США Дональдом Трампом",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-17T23:55:20+00:00",
+   "c": [
+    "holovne"
    ]
   },
   {
@@ -610,6 +596,20 @@
    ]
   },
   {
+   "t": "На Одещині вночі 18 листопада відчули землетрус",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/odesa/1454325-na-odesini-vnoci-18-listopada-vidculi-zemletrus/",
+   "x": "У ніч на 18 листопада жителі Одещини відчули землетрус з епіцентром у Румунії. Android повідомив про магнітуду 6,3–6,5. Інформації про руйнування чи травмованих у регіоні немає",
+   "i": "https://cdn4.suspilne.media/images/23dca5c79aa74f93.jpg",
+   "d": "2026-11-17T23:08:19+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "odesa"
+   ]
+  },
+  {
    "t": "«Донецк превратился в помойку!» Сладков, Подоляка и Клинцевич о крахе и тупике РФ",
    "s": "5 канал · відео",
    "u": "https://www.youtube.com/watch?v=melmIbzGF4A",
@@ -628,6 +628,17 @@
    "x": "Андреа Мальдера: головний тренер збірної України з футболу, виступ команди в Лізі націй УЄФА, коментар наставника після завершення турніру",
    "i": "https://cdn4.suspilne.media/images/default.jpg",
    "d": "2026-11-17T22:59:39+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Міністр оборони Хмара: ми бачимо перспективи у далекобійних ударах по території РФ",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1454324-ministr-oboroni-hmara-mi-bacimo-perspektivi-u-dalekobijnih-udarah-po-teritorii-rf/",
+   "x": "Міністр оборони Євген Хмара заявив, що Україна бачить перспективи у далекобійних ударах по території РФ та планує розвивати цей напрям у 2027 році",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-17T22:56:24+00:00",
    "c": [
     "holovne"
    ]
@@ -1770,17 +1781,6 @@
    ]
   },
   {
-   "t": "У Росії розбився військовий літак Ан-12, є загиблі",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1454295-u-rosii-rozbivsa-vijskovij-litak-an-12-e-zagibli/",
-   "x": "Військово-транспортний літак Ан-12 у вівторок, 17 листопада, зазнав аварії у Кемеровській області РФ, разом з екіпажем на борту знаходилось 19 людей, усі загинули",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T19:36:36+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "⚡Дивіться, як Путіна ЗУСТРІЛИ в Китаї! ПЕРШІ КАДРИ. Такого ПРИЙОМУ не чекав ніхто. Увага на РЕАКЦІЮ",
    "s": "24 Канал · відео",
    "u": "https://www.youtube.com/watch?v=v1nCb9a84kc",
@@ -2401,20 +2401,6 @@
    "v": 1
   },
   {
-   "t": "Чому громади Харківщини не могли витрачати власні гроші та чи розблокували платежі: пояснення політолога й посадовців",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/kharkiv/1439903-comu-gromadi-harkivsini-ne-mogli-vitracati-vlasni-grosi-ta-ci-rozblokuvali-platezi-poasnenna-politologa-j-posadovciv/",
-   "x": "Чому казначейство затримувало платежі громад Харківщини, як це вплинуло на місцеві бюджети та чи вдалося розблокувати видатки — пояснення політолога й посадовців",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-17T18:49:02+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "kharkiv"
-   ]
-  },
-  {
    "t": "ЗМІ: десять країн ЄС вимагають не допустити Росію до Венеційської бієнале 2027 року",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/17/8063342/",
@@ -2845,6 +2831,17 @@
    "x": "Уряд Швеції виділяє додаткові 720 мільйонів шведських крон (близько 64,7 мільйона євро) до багатосторонніх фондів та ініціатив на підтримку оборони України.",
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/1/958771/3133097d49ddf12d26175a580ccfbd03.jpeg",
    "d": "2026-11-17T17:44:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "У Росії розбився військовий літак Ан-12, є загиблі",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1454295-u-rosii-rozbivsa-vijskovij-litak-an-12-e-zagibli/",
+   "x": "Військово-транспортний літак Ан-12 у вівторок, 17 листопада, зазнав аварії у Кемеровській області РФ, разом з екіпажем на борту знаходилось 19 людей, усі загинули",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-17T17:36:36+00:00",
    "c": [
     "holovne"
    ]
