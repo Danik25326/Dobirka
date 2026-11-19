@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T00:31:03+00:00",
+ "updated": "2026-11-19T00:40:45+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -158,14 +158,14 @@
  ],
  "top": [
   {
-   "t": "Принц Гаррі заявив, що готовий повернутися до армії через загрозу з боку Росії",
-   "u": "https://zn.ua/ukr/WORLD/prints-harri-zajaviv-shcho-hotovij-povernutisja-do-armiji-cherez-zahrozu-z-boku-rosiji.html",
-   "i": "https://zn.ua/img/article/7044/89_main.webp",
+   "t": "Принц Гаррі заявив, що готовий знову вступити до армії у випадку конфлікту з РФ",
+   "u": "https://suspilne.media/1454745-princ-garri-zaaviv-so-gotovij-znovu-vstupiti-do-armii-u-vipadku-konfliktu-z-rf/",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
    "n": 3,
    "l": [
     {
-     "s": "ZN.UA",
-     "u": "https://zn.ua/ukr/WORLD/prints-harri-zajaviv-shcho-hotovij-povernutisja-do-armiji-cherez-zahrozu-z-boku-rosiji.html"
+     "s": "Суспільне",
+     "u": "https://suspilne.media/1454745-princ-garri-zaaviv-so-gotovij-znovu-vstupiti-do-armii-u-vipadku-konfliktu-z-rf/"
     },
     {
      "s": "Українська правда",
@@ -176,28 +176,7 @@
      "u": "https://www.eurointegration.com.ua/news/2026/11/18/7250321/"
     }
    ],
-   "d": "2026-11-18T23:59:00+00:00"
-  },
-  {
-   "t": "Тримали в таємниці навіть від МЗС: Навроцький подарував Трампу бурштиновий трон",
-   "u": "https://24tv.ua/navrotskiy-podaruvav-trampu-yuviley-burshtinove-krislo-detali_n3183313",
-   "i": "https://24tv.ua/resources/photos/news/202611/3183313.jpg?v=1795037732000&q=100",
-   "n": 3,
-   "l": [
-    {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/navrotskiy-podaruvav-trampu-yuviley-burshtinove-krislo-detali_n3183313"
-    },
-    {
-     "s": "Суспільне",
-     "u": "https://suspilne.media/1454717-prezident-polsi-navrockij-taemno-podaruvav-trampu-burstinove-krislo/"
-    },
-    {
-     "s": "ZN.UA",
-     "u": "https://zn.ua/ukr/WORLD/tajemnij-podarunok-tramp-otrimav-vid-navrotskoho-tron-iz-burshtinu.html"
-    }
-   ],
-   "d": "2026-11-18T21:39:48+00:00"
+   "d": "2026-11-19T00:33:37+00:00"
   },
   {
    "t": "ОВА: Зросла кількість постраждалих через російську атаку по Запоріжжю",
@@ -215,6 +194,23 @@
     }
    ],
    "d": "2026-11-18T23:54:00+00:00"
+  },
+  {
+   "t": "Тримали в таємниці навіть від МЗС: Навроцький подарував Трампу бурштиновий трон",
+   "u": "https://24tv.ua/navrotskiy-podaruvav-trampu-yuviley-burshtinove-krislo-detali_n3183313",
+   "i": "https://24tv.ua/resources/photos/news/202611/3183313.jpg?v=1795037732000&q=100",
+   "n": 2,
+   "l": [
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/navrotskiy-podaruvav-trampu-yuviley-burshtinove-krislo-detali_n3183313"
+    },
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/1454717-prezident-polsi-navrockij-taemno-podaruvav-trampu-burstinove-krislo/"
+    }
+   ],
+   "d": "2026-11-18T21:39:48+00:00"
   },
   {
    "t": "Відключення для низки областей: коли не буде світла 19 листопада",
@@ -319,24 +315,35 @@
    "d": "2026-11-18T18:43:49+00:00"
   },
   {
-   "t": "Дука визнав, що під час обшуку НАБУ розбив сокирою два свої смартфони",
-   "u": "https://24tv.ua/sergiy-duka-rozbiv-telefoni-sokiroyu-pid-chas-obshuku-nabu-general_n3183068",
-   "i": "https://24tv.ua/resources/photos/news/202611/3183068.jpg?v=1795013018000&q=100",
+   "t": "Без світла два райони: Росія вдарила по енергетиці на півдні Одещини",
+   "u": "https://24tv.ua/udar-po-energetitsi-pivdni-odeshhini-de-zniklo-svitlo_n3183185",
+   "i": "https://24tv.ua/resources/photos/news/202611/3183185.jpg?v=1795020075000&q=100",
    "n": 2,
    "l": [
     {
      "s": "24 Канал",
-     "u": "https://24tv.ua/sergiy-duka-rozbiv-telefoni-sokiroyu-pid-chas-obshuku-nabu-general_n3183068"
+     "u": "https://24tv.ua/udar-po-energetitsi-pivdni-odeshhini-de-zniklo-svitlo_n3183185"
     },
     {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/18/8063460/"
+     "s": "Економічна правда",
+     "u": "https://epravda.com.ua/biznes/ataka-na-energoob-yekti-odeshchini-svitla-nemaye-u-dvoh-rayonah-827785/"
     }
    ],
-   "d": "2026-11-18T14:58:00+00:00"
+   "d": "2026-11-18T16:44:00+00:00"
   }
  ],
  "items": [
+  {
+   "t": "Принц Гаррі заявив, що готовий знову вступити до армії у випадку конфлікту з РФ",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1454745-princ-garri-zaaviv-so-gotovij-znovu-vstupiti-do-armii-u-vipadku-konfliktu-z-rf/",
+   "x": "Принц Гаррі оголосив, що готовий знову вступити до армії, якщо виникне загроза з боку Росії та додав, що Велика Британія і так перебуває у «пасивній» війні з РФ",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-19T00:33:37+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
   {
    "t": "15 років тюрми з конфіскацією: на Хмельниччині засудили диверсантів ФСБ",
    "s": "24 Канал",
@@ -353,17 +360,6 @@
    ]
   },
   {
-   "t": "Принц Гаррі заявив, що готовий повернутися до армії через загрозу з боку Росії",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/WORLD/prints-harri-zajaviv-shcho-hotovij-povernutisja-do-armiji-cherez-zahrozu-z-boku-rosiji.html",
-   "x": "Герцог Сассекський заявив, що «на 100% готовий служити своїй країні».",
-   "i": "https://zn.ua/img/article/7044/89_main.webp",
-   "d": "2026-11-18T23:59:00+00:00",
-   "c": [
-    "statti"
-   ]
-  },
-  {
    "t": "ОВА: Зросла кількість постраждалих через російську атаку по Запоріжжю",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/19/8063538/",
@@ -375,17 +371,6 @@
    ],
    "r": [
     "zaporizhzhia"
-   ]
-  },
-  {
-   "t": "У Конгресі США запросили деталі можливої угоди Microsoft з ByteDance на $500 млн",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/TECHNOLOGIES/u-konhresi-ssha-zaprosili-detali-mozhlivoji-uhodi-microsoft-z-bytedance-na-500-mln.html",
-   "x": "Китайська компанія може отримати доступ до моделей OpenAI через хмарну платформу Azure.",
-   "i": "https://zn.ua/img/article/7044/88_main.webp",
-   "d": "2026-11-18T23:43:00+00:00",
-   "c": [
-    "statti"
    ]
   },
   {
@@ -470,17 +455,6 @@
    ]
   },
   {
-   "t": "Українська Прем'єр-ліга: результати всіх матчів 13-го туру, відео голів (оновлюється)",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/SPORT/704453-ukrajinska-premjer-liha-rezultati-vsikh-matchiv-13-ho-turu-video-holiv-onovljujetsja.html",
-   "x": "В Україні триває футбольний сезон.",
-   "i": "https://zn.ua/img/article/7044/53_main.webp",
-   "d": "2026-11-18T22:52:00+00:00",
-   "c": [
-    "statti"
-   ]
-  },
-  {
    "t": "Окупаційна влада заявила про нову атаку на Кримський міст, українська сторона наразі не підтверджує ураження",
    "s": "Інтерфакс-Україна",
    "u": "https://interfax.com.ua/news/general/1238879.html",
@@ -491,17 +465,6 @@
    ],
    "r": [
     "crimea"
-   ]
-  },
-  {
-   "t": "Роздратований українськими ударами вглиб Росії Колбі достроково залишив «Рамштайн» — The Telegraph",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/POLITICS/rozdratovanij-ukrajinskimi-udarami-vhlib-rosiji-kolbi-dostrokovo-zalishiv-ramshtajn-the-telegraph.html",
-   "x": "Німців і британців спантеличила заява американця.",
-   "i": "https://zn.ua/img/article/7044/86_main.webp",
-   "d": "2026-11-18T22:47:06+00:00",
-   "c": [
-    "statti"
    ]
   },
   {
@@ -531,31 +494,6 @@
    ],
    "r": [
     "donetsk"
-   ]
-  },
-  {
-   "t": "США та Венесуела домовилися посилити військову співпрацю після переговорів у Каракасі",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/WORLD/ssha-ta-venesuela-domovilisja-posiliti-vijskovu-spivpratsju-pislja-perehovoriv-u-karakasi.html",
-   "x": "Підписаний документ передбачає зміцнення збройних сил і посилення безпеки на кордонах.",
-   "i": "https://zn.ua/img/article/7044/87_main.webp",
-   "d": "2026-11-18T22:40:00+00:00",
-   "c": [
-    "statti"
-   ]
-  },
-  {
-   "t": "Кримський міст знову під атакою",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/war/krimskij-mist-znovu-pid-atakoju.html",
-   "x": "Моніторингові канали повідомляють про вибухи біля переправи, гауляйтер Криму Аксьонов підтверджує.",
-   "i": "https://zn.ua/img/article/7044/85_main.webp",
-   "d": "2026-11-18T22:39:00+00:00",
-   "c": [
-    "statti"
-   ],
-   "r": [
-    "crimea"
    ]
   },
   {
@@ -606,39 +544,6 @@
    "c": [
     "holovne",
     "viyna"
-   ]
-  },
-  {
-   "t": "Україна зможе закуповувати американську зброю у межах PURL за кошти позики ЄС: Кабмін схвалив домовленість з НАТО",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/UKRAINE/ukrajina-zmozhe-zakupovuvati-amerikansku-zbroju-u-mezhakh-purl-za-koshti-poziki-jes-kabmin-skhvaliv-domovlenist-z-nato.html",
-   "x": "Міноборони відповідатиме за підготовку та підписання листів щодо внесків.",
-   "i": "https://zn.ua/img/article/7044/84_main.webp",
-   "d": "2026-11-18T22:05:00+00:00",
-   "c": [
-    "statti"
-   ]
-  },
-  {
-   "t": "Без суржика: як українською сказати \"в том числе\"",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/UKRAINE/bez-surzhika-jak-ukrajinskoju-skazati-v-tom-chisle-.html",
-   "x": "Не всі знають як замінити російський вираз.",
-   "i": "https://zn.ua/img/article/7044/78_main.webp",
-   "d": "2026-11-18T22:00:00+00:00",
-   "c": [
-    "statti"
-   ]
-  },
-  {
-   "t": "Харарі: ШІ збагатить світ, але не обов'язково людей",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/TECHNOLOGIES/kharari-shi-zbahatit-svit-ale-ne-obovjazkovo-ljudej.html",
-   "x": "Людство вже облаштувало планету лише для себе, і машини можуть повторити цей шлях.",
-   "i": "https://zn.ua/img/article/7044/83_main.webp",
-   "d": "2026-11-18T21:53:00+00:00",
-   "c": [
-    "statti"
    ]
   },
   {
@@ -695,14 +600,14 @@
    ]
   },
   {
-   "t": "У США може з'явитися перший темношкірий спікер Палати представників: демократи визначили кандидата",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/usa/u-ssha-mozhe-zjavitisja-pershij-temnoshkirij-spiker-palati-predstavnikiv-demokrati-viznachili-kandidata.html",
-   "x": "Гакім Джеффріс отримав підтримку демократів для обрання спікером.",
-   "i": "https://zn.ua/img/article/7044/81_main.webp",
-   "d": "2026-11-18T21:33:00+00:00",
+   "t": "Карлос Алькарас достроково вийшов у півфінал Підсумкового турніру ATP: як йому це вдалося",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sport/1454739-karlos-alkaras-dostrokovo-vijsov-u-pivfinal-pidsumkovogo-turniru-atp-ak-jomu-ce-vdalosa/",
+   "x": "Карлос Алькарас: іспанський тенісист, експерша ракетка світового рейтингу, вихід до півфіналу Підсумкового турніру ATP, результат іспанця",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-18T21:32:57+00:00",
    "c": [
-    "statti"
+    "holovne"
    ]
   },
   {
@@ -740,17 +645,6 @@
    ]
   },
   {
-   "t": "Адміністрація Трампа може зобов’язати компанії США розкривати використання ШІ з Китаю — Reuters",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/WORLD/administratsija-trampa-mozhe-zobovjazati-kompaniji-ssha-rozkrivati-vikoristannja-shi-z-kitaju-reuters.html",
-   "x": "Білий дім і Мінфін обговорили публічну звітність як спосіб зменшити залежність від Пекіна.",
-   "i": "https://zn.ua/img/article/7044/80_main.webp",
-   "d": "2026-11-18T21:25:00+00:00",
-   "c": [
-    "statti"
-   ]
-  },
-  {
    "t": "Гегсет оголосив про посилення оборонного партнерства між США та Венесуелою",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/18/8063533/",
@@ -759,17 +653,6 @@
    "c": [
     "holovne",
     "polityka"
-   ]
-  },
-  {
-   "t": "PlayStation Network не витримала очікування GTA VI: користувачі скаржаться на збій",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/CULTURE/playstation-ne-vitrimala-ochikuvannja-gta-vi-koristuvachi-skarzhatsja-na-zbij.html",
-   "x": "Мільйони геймерів чекають на реліз найпопулярнішої гри в історії платформи.",
-   "i": "https://zn.ua/img/article/7044/79_main.webp",
-   "d": "2026-11-18T21:18:00+00:00",
-   "c": [
-    "statti"
    ]
   },
   {
@@ -914,17 +797,6 @@
    "d": "2026-11-18T21:00:00+00:00",
    "c": [
     "holovne"
-   ]
-  },
-  {
-   "t": "Росія змушена купувати власну нафту у вигляді бензину: удари України змінили паливний ринок",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/WORLD/rosija-zmushena-kupuvati-vlasnu-naftu-u-vihljadi-benzinu-udari-ukrajini-zminili-palivnij-rinok.html",
-   "x": "Аналітики попереджають, що подальші атаки можуть фундаментально змінити роботу російської економіки.",
-   "i": "https://zn.ua/img/article/7044/77_main.webp",
-   "d": "2026-11-18T21:00:00+00:00",
-   "c": [
-    "statti"
    ]
   },
   {
@@ -1079,17 +951,6 @@
    "d": "2026-11-18T20:30:00+00:00",
    "c": [
     "holovne"
-   ]
-  },
-  {
-   "t": "Витяг із реєстру ветеранів можна замовити в «Дії»",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/UKRAINE/vitjah-iz-rejestru-veteraniv-mozhna-zamoviti-v-diji.html",
-   "x": "Документ із QR-кодом підтверджує статус і потрібен для пільг, зокрема знижок на комунальні послуги.",
-   "i": "https://zn.ua/img/article/7044/76_main.webp",
-   "d": "2026-11-18T20:28:00+00:00",
-   "c": [
-    "statti"
    ]
   },
   {
@@ -1517,28 +1378,6 @@
    ]
   },
   {
-   "t": "Рада Європи схвалила новий план підтримки реформ в Україні на 2027–2030 роки",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/europe/rada-jevropi-skhvalila-novij-plan-pidtrimki-reform-v-ukrajini-na-20272030-roki.html",
-   "x": "Програма з бюджетом близько 70 млн євро охоплює захист прав людини та незалежність судів.",
-   "i": "https://zn.ua/img/article/7044/75_main.webp",
-   "d": "2026-11-18T19:54:00+00:00",
-   "c": [
-    "statti"
-   ]
-  },
-  {
-   "t": "Reuters: з кінця жовтня українські дрони зупинили або пошкодили майже половину найбільших НПЗ Росії",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/war/reuters-z-kintsja-zhovtnja-ukrajinski-droni-zupinili-abo-poshkodili-majzhe-polovinu-najbilshikh-npz-rosiji.html",
-   "x": "Обсяги переробки впали приблизно до 400 тисяч тонн нафти на добу.",
-   "i": "https://zn.ua/img/article/7044/74_main.webp",
-   "d": "2026-11-18T19:53:00+00:00",
-   "c": [
-    "statti"
-   ]
-  },
-  {
    "t": "⚡️ПРЯМО НА ВСТРЕЧЕ В ШЭНЬЧЖЭНЕ! Си СРОЧНО ОБРАТИЛСЯ к Путину по \"СВО\"! Китай УНИЗИЛ РФ",
    "s": "24 Канал · відео",
    "u": "https://www.youtube.com/watch?v=A2l6LxeHIMg",
@@ -1565,17 +1404,6 @@
    ]
   },
   {
-   "t": "Демуринський ГЗК не змогли продати: стартову ціну знизили вдвічі, але покупців знову немає",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/ECONOMICS/demurinskij-hzk-ne-zmohli-prodati-startovu-tsinu-znizili-vdvichi-ale-pokuptsiv-znovu-nemaje.html",
-   "x": "Попри зниження стартової ціни вдвічі, повторні аукціони з продажу націоналізованого Демуринського гірничо-збагачувального комбінату та підприємства «Мотордеталь-Конотоп» завершилися безрезультатно через відсутність…",
-   "i": "https://zn.ua/img/article/7044/73_main.webp",
-   "d": "2026-11-18T19:48:00+00:00",
-   "c": [
-    "statti"
-   ]
-  },
-  {
    "t": "Керченський міст – лише початок: Хмара переносить бойовий досвід в управління обороною,– експерт",
    "s": "24 Канал",
    "u": "https://24tv.ua/hmara-perenosit-boyoviy-dosvid-upravlinnya-oboronoyu-ekspert_n3183270",
@@ -1585,17 +1413,6 @@
    "c": [
     "holovne",
     "viyna"
-   ]
-  },
-  {
-   "t": "Допомога Україні стала розмінною монетою у Конгресі: республіканці погрожують заблокувати розвіддані і ставлять умови",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/usa/dopomoha-ukrajini-stala-rozminnoju-monetoju-u-konhresi-respublikantsi-pohrozhujut-zablokuvati-rozviddani-i-stavljat-umovi.html",
-   "x": "Республіканці хочуть обміняти підтримку України на послаблення контролю над Пентагоном",
-   "i": "https://zn.ua/img/article/7044/72_main.webp",
-   "d": "2026-11-18T19:46:00+00:00",
-   "c": [
-    "statti"
    ]
   },
   {
@@ -1747,17 +1564,6 @@
    ]
   },
   {
-   "t": "Карлос Алькарас достроково вийшов у півфінал Підсумкового турніру ATP: як йому це вдалося",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/sport/1454739-karlos-alkaras-dostrokovo-vijsov-u-pivfinal-pidsumkovogo-turniru-atp-ak-jomu-ce-vdalosa/",
-   "x": "Карлос Алькарас: іспанський тенісист, експерша ракетка світового рейтингу, вихід до півфіналу Підсумкового турніру ATP, результат іспанця",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-18T19:32:57+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "Відключення електрики: графік для Кіровоградщини на 19 листопада",
    "s": "Суспільне",
    "u": "https://suspilne.media/kropyvnytskiy/1454515-vidklucenna-elektriki-grafik-dla-kirovogradsini-na-19-listopada/",
@@ -1905,17 +1711,6 @@
    ]
   },
   {
-   "t": "Харарі: людям загрожує доля корів у світі ШІ",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/TECHNOLOGIES/kharari-ljudjam-zahrozhuje-dolja-koriv-u-sviti-shi.html",
-   "x": "Історик порівняв майбутнє людей із долею худоби, чиє життя визначає ринок, про існування якого вона не здогадується.",
-   "i": "https://zn.ua/img/article/7044/70_main.webp",
-   "d": "2026-11-18T19:23:00+00:00",
-   "c": [
-    "statti"
-   ]
-  },
-  {
    "t": "🤯Путін ОБЛАЖАВСЯ в Китаї! Такого АБСУРДУ ще НЕ БАЧИЛИ. ЕКСКЛЮЗИВНІ ДЕТАЛІ УДАРУ по Кримському мосту",
    "s": "24 Канал · відео",
    "u": "https://www.youtube.com/watch?v=Xc-qLUiAIsE",
@@ -1946,25 +1741,14 @@
    ]
   },
   {
-   "t": "Nvidia відхилила заклики повернути Дженсена Хуанга на посаду генерального директора",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/TECHNOLOGIES/nvidia-vidkhilila-zakliki-povernuti-dzhensena-khuanha-na-posadu-heneralnoho-direktora.html",
-   "x": "Виробник чипів шукає наступника на тлі повідомлень про розслідування американського регулятора.",
-   "i": "https://zn.ua/img/article/7044/71_main.webp",
-   "d": "2026-11-18T19:15:00+00:00",
+   "t": "«Епіцентр-Подоляни» у «золотому» сеті програли боротьбу за вихід в 1/16 фіналу Кубка виклику з волейболу",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sport/1454692-epicentr-podolani-u-zolotomu-seti-prograli-borotbu-za-vihid-v-116-finalu-kubka-vikliku-z-volejbolu/",
+   "x": "«Епіцентр-Подоляни»: матч-відповідь Кубка виклику з волейболу проти ЦСКА Софія, як пройшов матч, результат поєдинку, що означає для української команди",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-18T19:18:44+00:00",
    "c": [
-    "statti"
-   ]
-  },
-  {
-   "t": "Посланці Трампа попередили Росію: час для угоди щодо України спливає",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/POLITICS/poslantsi-trampa-poperedili-rosiju-chas-dlja-uhodi-shchodo-ukrajini-splivaje.html",
-   "x": "У США вважають, що час для угоди щодо України обмежений.",
-   "i": "https://zn.ua/img/article/7044/68_main.webp",
-   "d": "2026-11-18T19:15:00+00:00",
-   "c": [
-    "statti"
+    "holovne"
    ]
   },
   {
@@ -2215,14 +1999,12 @@
    ]
   },
   {
-   "t": "Росія системно застосовує хімзброю проти України: що вказано в доповіді, яку підтримав ЄС",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/war/rosija-sistemno-zastosovuje-khimzbroju-proti-ukrajini-shcho-vkazano-v-dopovidi-jaku-pidtrimav-jes.html",
-   "x": "У Брюсселі наголосили, що докази переконливі, а методологію українських розслідувань підтвердила Організація із заборони хімічної зброї.",
-   "i": "https://zn.ua/img/article/7044/69_main.webp",
+   "t": "Новини 18 листопада: план ЄС на 45 мільярдів євро, обвал нафтопереробки РФ",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/finances/finansuvannya-yes-naftopererobka-rf-kurs-yevro-golovne-za-18-listopada-827793/",
    "d": "2026-11-18T19:00:00+00:00",
    "c": [
-    "statti"
+    "ekonomika"
    ]
   },
   {
@@ -2278,6 +2060,15 @@
     "video"
    ],
    "v": 1
+  },
+  {
+   "t": "ЄЦБ побачив у гонці за ШІ небезпечні паралелі з кризою 2008 року",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/finances/yecb-pobachiv-u-borgovomu-bumi-shi-paraleli-z-finansovimi-bulbashkami-827789/",
+   "d": "2026-11-18T18:45:00+00:00",
+   "c": [
+    "ekonomika"
+   ]
   },
   {
    "t": "Лідери понад 30 країн обговорять розгортання багатонаціональних сил в Україні на засіданні \"Коаліції охочих\" у Берліні – ЗМІ",
@@ -2412,20 +2203,6 @@
    ]
   },
   {
-   "t": "Що Росія викрала з українських музеїв: у Києві відкрили виставку про втрати культурної спадщини",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/CULTURE/shcho-rosija-vikrala-z-ukrajinskikh-muzejiv-u-kijevi-vidkrili-vistavku-pro-vtrati-kulturnoji-spadshchini.html",
-   "x": "Експозиція розповідає про долю викрадених колекцій, знищених пам'яток і творів мистецтва, місцеперебування яких досі невідоме.",
-   "i": "https://zn.ua/img/article/7044/64_main.webp",
-   "d": "2026-11-18T18:28:00+00:00",
-   "c": [
-    "statti"
-   ],
-   "r": [
-    "kyiv"
-   ]
-  },
-  {
    "t": "Від 0,5 до 3 черг: в Укренерго назвали графіки відключення світла на 19 листопада",
    "s": "24 Канал",
    "u": "https://24tv.ua/vidklyuchennya-svitla-19-listopada-2026-grafiki-do-3-cherg-ukrayini_n3183246",
@@ -2435,20 +2212,6 @@
    "c": [
     "vazhlyve",
     "viyna"
-   ]
-  },
-  {
-   "t": "Невідомий під приводом продажу авто отримав від військового понад 450 тис. грн і залишив його без машини",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/sumy/1454706-nevidomij-pid-privodom-prodazu-avto-otrimav-vid-vijskovogo-ponad-450-tis-grn-i-zalisiv-jogo-bez-masini/",
-   "x": "Військовий з Сумщини купував через інтернет автомобіль для службових потреб, але повідомляє, що його обманули. Чоловік переказав невідомій особі 450 890 гривень, а авто так і не отримав",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-18T18:26:18+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "sumy"
    ]
   },
   {
@@ -2514,13 +2277,23 @@
    ]
   },
   {
+   "t": "На четвер оголосили цілодобові графіки відключень світла",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/energetika/elektroenergetika-ukrajini-pogodinni-vidklyuchennya-19-listopada-827792/",
+   "d": "2026-11-18T18:15:00+00:00",
+   "c": [
+    "ekonomika"
+   ]
+  },
+  {
    "t": "Українські дрони за 20 днів обвалили нафтопереробку РФ майже вдвічі",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/18/8063514/",
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/6/959581/46faef2899d4e2460400c54d41373948.jpeg",
    "d": "2026-11-18T18:14:00+00:00",
    "c": [
-    "vazhlyve"
+    "vazhlyve",
+    "ekonomika"
    ]
   },
   {
@@ -2542,17 +2315,6 @@
    "d": "2026-11-18T18:14:00+00:00",
    "c": [
     "zhyttia"
-   ]
-  },
-  {
-   "t": "Таємний подарунок: Трамп отримав від Навроцького трон із бурштину",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/WORLD/tajemnij-podarunok-tramp-otrimav-vid-navrotskoho-tron-iz-burshtinu.html",
-   "x": "Про особистий подарунок президенту США не знали навіть працівники польського посольства у Вашингтоні.",
-   "i": "https://zn.ua/img/article/7044/65_main.webp",
-   "d": "2026-11-18T18:14:00+00:00",
-   "c": [
-    "statti"
    ]
   },
   {
@@ -2586,17 +2348,6 @@
    "d": "2026-11-18T18:05:00+00:00",
    "c": [
     "mobilizatsiya"
-   ]
-  },
-  {
-   "t": "Уряд Польщі готується до нової хвилі біженців з України взимку",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/europe/urjad-polshchi-hotujetsja-do-novoji-khvili-bizhentsiv-z-ukrajini-vzimku.html",
-   "x": "Варшава розглядає три сценарії на тлі загрози тривалих перебоїв зі світлом і теплом у містах.",
-   "i": "https://zn.ua/img/article/7044/63_main.webp",
-   "d": "2026-11-18T18:03:00+00:00",
-   "c": [
-    "statti"
    ]
   },
   {
@@ -2648,6 +2399,19 @@
    ]
   },
   {
+   "t": "Суд стягнув з постачальника бронежилетів 35 мільйонів",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/oborona/shtrafni-sankciji-ukrtak-yua-maye-splatiti-agenciji-oboronnih-zakupivel-35-mln-grn-827791/",
+   "x": "Господарський суд Києва зобов'язав приватну компанію сплатити державному підприємству \"Агенція оборонних закупівель\" 35 млн грн штрафних санкцій за прострочення поставки бронежилетів.",
+   "d": "2026-11-18T17:54:00+00:00",
+   "c": [
+    "ekonomika"
+   ],
+   "r": [
+    "kyiv"
+   ]
+  },
+  {
    "t": "Є прогрес у питанні F-16, – Зеленський анонсував збільшення авіації",
    "s": "24 Канал",
    "u": "https://24tv.ua/progres-pitanni-f-16-zelenskiy-anonsuvav-zbilshennya-ukrayinskoyi_n3183225",
@@ -2656,6 +2420,15 @@
    "d": "2026-11-18T17:51:00+00:00",
    "c": [
     "viyna"
+   ]
+  },
+  {
+   "t": "РФ скуповує бензин від Індії до Марокко після ударів України по НПЗ",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/energetika/rf-rekordno-skupovuye-benzin-vid-indiji-do-marokko-pislya-udariv-ukrajini-po-npz-827790/",
+   "d": "2026-11-18T17:50:00+00:00",
+   "c": [
+    "ekonomika"
    ]
   },
   {
@@ -2735,6 +2508,19 @@
    ]
   },
   {
+   "t": "Росія має виплатити сумському виробнику упаковки три мільярди збитків",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/biznes/sudovi-kompensaciji-rf-zobov-yazana-viplatiti-tehnologiji-3-04-mlrd-grn-827788/",
+   "x": "Господарський суд Сумської області зобов'язав РФ відшкодувати виробнику упаковок для дитячого харчування, соків, побутової хімії 3,04 млрд грн збитків та упущеної вигоди.",
+   "d": "2026-11-18T17:26:00+00:00",
+   "c": [
+    "ekonomika"
+   ],
+   "r": [
+    "sumy"
+   ]
+  },
+  {
    "t": "Звинуватив збірну України: Мудрик вперше зізнався, як допінг міг потрапити у його організм",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/18/8063504/",
@@ -2758,17 +2544,6 @@
    ]
   },
   {
-   "t": "«Епіцентр-Подоляни» у «золотому» сеті програли боротьбу за вихід в 1/16 фіналу Кубка виклику з волейболу",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/sport/1454692-epicentr-podolani-u-zolotomu-seti-prograli-borotbu-za-vihid-v-116-finalu-kubka-vikliku-z-volejbolu/",
-   "x": "«Епіцентр-Подоляни»: матч-відповідь Кубка виклику з волейболу проти ЦСКА Софія, як пройшов матч, результат поєдинку, що означає для української команди",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-18T17:18:44+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "Зеленський розповів, що обговорював на зустрічі з главою МЗС Португалії",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/18/8063501/",
@@ -2788,6 +2563,16 @@
    ]
   },
   {
+   "t": "Давня справа: суд оголосив вирок \"ліснику Януковича\" та його дружині",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/biznes/davnya-sprava-sud-ogolosiv-virok-lisniku-yanukovicha-ta-yogo-druzhini-827787/",
+   "x": "Вищий антикорупційний суд оголосив вирок колишньому голові Державного агентства лісових ресурсів України та його дружині, звинувачених у одержанні неправомірної вигоди в розмірі 3,7 млн доларів та 10,8 млн євро.",
+   "d": "2026-11-18T17:14:00+00:00",
+   "c": [
+    "ekonomika"
+   ]
+  },
+  {
    "t": "Нинішній раунд переговорів може стати останнім шансом досягти миру, – Віткофф і Кушнер до Росії",
    "s": "24 Канал",
    "u": "https://24tv.ua/ssha-poperedili-rosiyu-pro-ostanniy-shans-uklasti-mirnu-ugodu_n3183193",
@@ -2797,6 +2582,15 @@
    "c": [
     "vazhlyve",
     "viyna"
+   ]
+  },
+  {
+   "t": "Проданий державою титановий гігант України збільшив збиток у 2,5 раза",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/biznes/privatizovana-oghk-narostila-zbitok-do-1-08-mlrd-grn-za-dev-yat-misyaciv-827786/",
+   "d": "2026-11-18T17:10:00+00:00",
+   "c": [
+    "ekonomika"
    ]
   },
   {
@@ -2961,6 +2755,19 @@
    ]
   },
   {
+   "t": "Атака на енергооб’єкти Одещини: світла немає у двох районах",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/biznes/ataka-na-energoob-yekti-odeshchini-svitla-nemaye-u-dvoh-rayonah-827785/",
+   "x": "Росіяни завдали удару по енергетичній інфраструктурі на півдні Одеської області та залишили без електроенергії мешканців двох районів.",
+   "d": "2026-11-18T16:36:00+00:00",
+   "c": [
+    "ekonomika"
+   ],
+   "r": [
+    "odesa"
+   ]
+  },
+  {
    "t": "Росіяни били дронами: у Чугуєві є влучання по дев'ятиповерхівці",
    "s": "24 Канал",
    "u": "https://24tv.ua/karta-trivog-ukrayini-18-listopada-2026-de-vibuhi-shho-vidomo_n3182456",
@@ -3032,7 +2839,8 @@
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/6/959464/46c0af3a7480a88ce2d9aa0d7445ba1c.jpeg",
    "d": "2026-11-18T16:09:00+00:00",
    "c": [
-    "vazhlyve"
+    "vazhlyve",
+    "ekonomika"
    ]
   },
   {
@@ -3108,6 +2916,19 @@
    "v": 1
   },
   {
+   "t": "Чиновника Держпраці, звинуваченого у хабарництві, тепер звинуватили у недостовірному декларуванні",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/biznes/chinovnika-derzhpraci-zvinuvachenogo-u-habarnictvi-teper-zvinuvatili-u-nedostovirnomu-deklaruvanni-827783/",
+   "x": "Прокуратура повідомила про підозру начальнику міжрегіонального управління Державної служби з питань праці в Івано-Франківську, який приховав від декларування понад майно на 12,7 мільйона гривень та фігурує у справі про…",
+   "d": "2026-11-18T15:50:00+00:00",
+   "c": [
+    "ekonomika"
+   ],
+   "r": [
+    "ivanofrankivsk"
+   ]
+  },
+  {
    "t": "Світоліна вперше розсекретила суму, яку віддала на допомогу Україні та ЗСУ",
    "s": "24 Канал",
    "u": "https://sportnews.24tv.ua/elina-svitolina-tenisistka-rozpovila-skilki-koshtiv-peredala_n3183128",
@@ -3156,6 +2977,16 @@
    ]
   },
   {
+   "t": "Ворог атакував об'єкти Нафтогазу у двох областях",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/biznes/vorog-atakuvav-ob-yekti-naftogazu-u-dvoh-oblastyah-827781/",
+   "x": "Росіяни завдали ударів по об'єктам Групи Нафтогаз у двох областях, працівники компанії неушкоджені.",
+   "d": "2026-11-18T15:12:00+00:00",
+   "c": [
+    "ekonomika"
+   ]
+  },
+  {
    "t": "Не поспішайте купувати готове філе! Як почистити оселедець за 5 хвилин",
    "s": "Українська правда. Життя",
    "u": "https://life.pravda.com.ua/food/yak-shvidko-ta-akuratno-pochistiti-oseledec-instrukciya-319152/",
@@ -3163,6 +2994,15 @@
    "d": "2026-11-18T15:07:00+00:00",
    "c": [
     "zhyttia"
+   ]
+  },
+  {
+   "t": "Rebuild Ukraine 2026: інтеграція української вітроенергетики в європейські ланцюги постачання",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/energetika/rebuild-ukraine-2026-integraciya-ukrajinskoji-vitroenergetiki-v-yevropeyski-lancyugi-postachannya-827778/",
+   "d": "2026-11-18T15:05:00+00:00",
+   "c": [
+    "ekonomika"
    ]
   },
   {
