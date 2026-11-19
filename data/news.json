@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T00:10:44+00:00",
+ "updated": "2026-11-19T00:20:40+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -158,6 +158,27 @@
  ],
  "top": [
   {
+   "t": "Принц Гаррі заявив, що готовий повернутися до армії через загрозу з боку Росії",
+   "u": "https://zn.ua/ukr/WORLD/prints-harri-zajaviv-shcho-hotovij-povernutisja-do-armiji-cherez-zahrozu-z-boku-rosiji.html",
+   "i": "https://zn.ua/img/article/7044/89_main.webp",
+   "n": 3,
+   "l": [
+    {
+     "s": "ZN.UA",
+     "u": "https://zn.ua/ukr/WORLD/prints-harri-zajaviv-shcho-hotovij-povernutisja-do-armiji-cherez-zahrozu-z-boku-rosiji.html"
+    },
+    {
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/18/8063529/"
+    },
+    {
+     "s": "Європейська правда",
+     "u": "https://www.eurointegration.com.ua/news/2026/11/18/7250321/"
+    }
+   ],
+   "d": "2026-11-18T23:59:00+00:00"
+  },
+  {
    "t": "Тримали в таємниці навіть від МЗС: Навроцький подарував Трампу бурштиновий трон",
    "u": "https://24tv.ua/navrotskiy-podaruvav-trampu-yuviley-burshtinove-krislo-detali_n3183313",
    "i": "https://24tv.ua/resources/photos/news/202611/3183313.jpg?v=1795037732000&q=100",
@@ -168,32 +189,15 @@
      "u": "https://24tv.ua/navrotskiy-podaruvav-trampu-yuviley-burshtinove-krislo-detali_n3183313"
     },
     {
-     "s": "ZN.UA",
-     "u": "https://zn.ua/ukr/WORLD/tajemnij-podarunok-tramp-otrimav-vid-navrotskoho-tron-iz-burshtinu.html"
-    },
-    {
      "s": "Суспільне",
      "u": "https://suspilne.media/1454717-prezident-polsi-navrockij-taemno-podaruvav-trampu-burstinove-krislo/"
+    },
+    {
+     "s": "ZN.UA",
+     "u": "https://zn.ua/ukr/WORLD/tajemnij-podarunok-tramp-otrimav-vid-navrotskoho-tron-iz-burshtinu.html"
     }
    ],
    "d": "2026-11-18T21:39:48+00:00"
-  },
-  {
-   "t": "Принц Гаррі заявив, що готовий повернутися до армії через загрозу з боку Росії",
-   "u": "https://zn.ua/ukr/WORLD/prints-harri-zajaviv-shcho-hotovij-povernutisja-do-armiji-cherez-zahrozu-z-boku-rosiji.html",
-   "i": "https://zn.ua/img/article/7044/89_main.webp",
-   "n": 2,
-   "l": [
-    {
-     "s": "ZN.UA",
-     "u": "https://zn.ua/ukr/WORLD/prints-harri-zajaviv-shcho-hotovij-povernutisja-do-armiji-cherez-zahrozu-z-boku-rosiji.html"
-    },
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/18/8063529/"
-    }
-   ],
-   "d": "2026-11-18T23:59:00+00:00"
   },
   {
    "t": "ОВА: Зросла кількість постраждалих через російську атаку по Запоріжжю",
@@ -262,6 +266,23 @@
     }
    ],
    "d": "2026-11-18T20:36:33+00:00"
+  },
+  {
+   "t": "NBC News: Республіканці у Конгресі США використовують допомогу Україні як важіль тиску на демократів",
+   "u": "https://www.pravda.com.ua/news/2026/11/18/8063526/",
+   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/f/959826/df47032d72b013a0620d9589f82ab1ee.jpeg",
+   "n": 2,
+   "l": [
+    {
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/18/8063526/"
+    },
+    {
+     "s": "Європейська правда",
+     "u": "https://www.eurointegration.com.ua/news/2026/11/18/7250320/"
+    }
+   ],
+   "d": "2026-11-18T19:45:00+00:00"
   },
   {
    "t": "Суд обрав запобіжний захід ще одному фігуранту справи про сутички у Петропавлівській Борщагівці",
@@ -670,6 +691,17 @@
    ]
   },
   {
+   "t": "Карлос Алькарас достроково вийшов у півфінал Підсумкового турніру ATP: як йому це вдалося",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sport/1454739-karlos-alkaras-dostrokovo-vijsov-u-pivfinal-pidsumkovogo-turniru-atp-ak-jomu-ce-vdalosa/",
+   "x": "Карлос Алькарас: іспанський тенісист, експерша ракетка світового рейтингу, вихід до півфіналу Підсумкового турніру ATP, результат іспанця",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-18T21:32:57+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "Ворог знову запустив дрони: які міста під прицілом ворога",
    "s": "24 Канал",
    "u": "https://24tv.ua/ataka-dronami-18112026-de-zaraz-trivoga_n3183269",
@@ -718,9 +750,11 @@
    "t": "Гегсет оголосив про посилення оборонного партнерства між США та Венесуелою",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/18/8063533/",
+   "i": "https://img.eurointegration.com.ua/images/doc/a/4/a427335--------2.jpg",
    "d": "2026-11-18T21:18:00+00:00",
    "c": [
-    "holovne"
+    "holovne",
+    "polityka"
    ]
   },
   {
@@ -855,6 +889,17 @@
     "video"
    ],
    "v": 1
+  },
+  {
+   "t": "ФІФА розглядає можливість залишити паузи на гідратацію на ЧС-2030 з футболу",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sport/1454730-fifa-rozgladae-mozlivist-zalisiti-pauzi-na-gidrataciu-na-cs-2030-z-futbolu/",
+   "x": "ФІФА: можливе збереження 3-хвилинних пауз під час проведення чемпіонату світу 2030 року, прибуток організації у випадку впровадження",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-18T21:00:00+00:00",
+   "c": [
+    "holovne"
+   ]
   },
   {
    "t": "Як “Матриця”, тільки ще заплутаніше: 4 фільми, де реальності не можна довіряти",
@@ -1044,12 +1089,34 @@
    ]
   },
   {
+   "t": "Міністр ветеранів Кім про заяву щодо ризиків після повернення військових: хочу, щоб ми були готові",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1454734-ministr-veteraniv-kim-pro-zaavu-sodo-rizikiv-pisla-povernenna-vijskovih-hocu-sob-mi-buli-gotovi/",
+   "x": "Міністр у справах ветеранів Віталій Кім про свою заяву про кримінальні ризики після повернення військовослужбовців з фронту - хоче, аби суспільство було готове до такого",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-18T20:25:53+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "\"Накласти на себе руки\": Мудрик розповів про свій стан, коли дізнався про позитивний допінг-тест",
    "s": "24 Канал",
    "u": "https://24tv.ua/sporttopnews/intervyu-mihayla-mudrika-futbolist-rozpoviv-pro-sviy-stan-pislya_n3183287",
    "x": "Український футболіст Михайло Мудрик розповів, який у нього був стан, коли він дізнався про свій позитивний допінг-тест. Гравцю збірної України було психологічно дуже важко.",
    "i": "https://24tv.ua/resources/photos/news/202611/3183287.jpg?v=1795033306000&q=100",
    "d": "2026-11-18T20:24:56+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "«Нічого не змінюється»: Чехія не дозволить в'їзд до країни спортсменам з Росії для участі у змаганнях",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sport/1454709-nicogo-ne-zminuetsa-cehia-ne-dozvolit-vizd-do-kraini-sportsmenam-z-rosii-dla-ucasti-u-zmagannah/",
+   "x": "Російським спортсменам не дозволять в'їзд до Чехії: рішення міністерства країни, заява спортивного арбітражного суду, чемпіонат світу з хокею",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-18T20:23:03+00:00",
    "c": [
     "holovne"
    ]
@@ -1435,6 +1502,17 @@
    ]
   },
   {
+   "t": "Принц Гаррі заявив про готовність знову служити в армії",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/18/7250321/",
+   "x": "Принц Гаррі заявив, що готовий знову служити в армії, а також закликав Європу \"усвідомити загрозу\", яку несе Росія.",
+   "i": "https://img.eurointegration.com.ua/images/doc/9/c/9ca734e------------.jpg",
+   "d": "2026-11-18T19:55:00+00:00",
+   "c": [
+    "polityka"
+   ]
+  },
+  {
    "t": "Рада Європи схвалила новий план підтримки реформ в Україні на 2027–2030 роки",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/europe/rada-jevropi-skhvalila-novij-plan-pidtrimki-reform-v-ukrajini-na-20272030-roki.html",
@@ -1615,6 +1693,28 @@
    ]
   },
   {
+   "t": "ЗМІ: республіканці у Конгресі США використовують допомогу Україні як важіль тиску на демократів",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/18/7250320/",
+   "x": "Провідні республіканці Палати представників США намагаються використати положення про підтримку України в законопроєкті про національну оборону як інструмент тиску на демократів; вони прагнуть домогтися вилучення норм…",
+   "i": "https://img.eurointegration.com.ua/images/doc/8/5/856a374-----------.jpg",
+   "d": "2026-11-18T19:38:00+00:00",
+   "c": [
+    "polityka"
+   ]
+  },
+  {
+   "t": "Президент Польщі Навроцький таємно подарував Трампу бурштинове крісло",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1454717-prezident-polsi-navrockij-taemno-podaruvav-trampu-burstinove-krislo/",
+   "x": "Президент Польщі Кароль Навроцький подарував президенту США Трампу на 80-річчя крісло, вироблене з бурштином. Подарунок був таємний, про нього не знало ні посольство Польщі у США, ні МЗС Польщі",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-18T19:37:48+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "На Чернігівщині попрощалися з Миколою Лесенком, Ярославом Максименком, Дмитром Погуляйком і Сергієм Піддубним",
    "s": "Суспільне",
    "u": "https://suspilne.media/chernihiv/1454558-na-cernigivsini-poprosalisa-z-mikolou-lesenkom-aroslavom-maksimenkom-dmitrom-pogulajkom-i-sergiem-piddubnim/",
@@ -1640,17 +1740,6 @@
    ],
    "r": [
     "luhansk"
-   ]
-  },
-  {
-   "t": "Карлос Алькарас достроково вийшов у півфінал Підсумкового турніру ATP: як йому це вдалося",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/sport/1454739-karlos-alkaras-dostrokovo-vijsov-u-pivfinal-pidsumkovogo-turniru-atp-ak-jomu-ce-vdalosa/",
-   "x": "Карлос Алькарас: іспанський тенісист, експерша ракетка світового рейтингу, вихід до півфіналу Підсумкового турніру ATP, результат іспанця",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-18T19:32:57+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
@@ -1720,6 +1809,20 @@
    "d": "2026-11-18T19:30:00+00:00",
    "c": [
     "holovne"
+   ]
+  },
+  {
+   "t": "Частина Сумщини без світла через аварійне розвантаження мереж",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sumy/1454727-castina-sumsini-bez-svitla-cerez-avarijne-rozvantazenna-merez/",
+   "x": "Частина мешканців Сумщини залишається без електропостачання через аварійне розвантаження електричних мереж. Також діють графіки погодинного відключення",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-18T19:28:24+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "sumy"
    ]
   },
   {
@@ -1905,9 +2008,11 @@
    "t": "Єврокомісію звинуватили у приховуванні листування щодо скасування закону про патенти",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/18/8063525/",
+   "i": "https://img.eurointegration.com.ua/images/doc/2/0/2048a42-european-commission.png",
    "d": "2026-11-18T19:12:00+00:00",
    "c": [
-    "holovne"
+    "holovne",
+    "polityka"
    ]
   },
   {
@@ -1934,6 +2039,17 @@
    ],
    "r": [
     "kyiv"
+   ]
+  },
+  {
+   "t": "У Польщі погодили зняття імунітету з голови Конституційного трибуналу та його заступника",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/18/7250319/",
+   "x": "Загальні збори суддів Конституційного трибуналу Польщі погодили зняття імунітету голови установи Богдана Свєнчковського та його заступника Бартоломея Соханського.",
+   "i": "https://img.eurointegration.com.ua/images/doc/f/f/ff8edbf-----------------.jpg",
+   "d": "2026-11-18T19:11:00+00:00",
+   "c": [
+    "polityka"
    ]
   },
   {
@@ -2031,17 +2147,6 @@
    ]
   },
   {
-   "t": "ФІФА розглядає можливість залишити паузи на гідратацію на ЧС-2030 з футболу",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/sport/1454730-fifa-rozgladae-mozlivist-zalisiti-pauzi-na-gidrataciu-na-cs-2030-z-futbolu/",
-   "x": "ФІФА: можливе збереження 3-хвилинних пауз під час проведення чемпіонату світу 2030 року, прибуток організації у випадку впровадження",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-18T19:00:00+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "Польща знала про підготовку РФ диверсії на кордоні та вжила заходів – Міноборони",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/18/8063521/",
@@ -2049,7 +2154,8 @@
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/0/959789/40ce692556178d6a448c1b724ddc6207.jpeg",
    "d": "2026-11-18T19:00:00+00:00",
    "c": [
-    "holovne"
+    "holovne",
+    "polityka"
    ]
   },
   {
@@ -2091,6 +2197,17 @@
    "c": [
     "holovne",
     "viyna"
+   ]
+  },
+  {
+   "t": "План на випадок перемоги Ле Пен, зустріч Трамп-Путін, новий уряд Латвії: новини дня",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/18/7250318/",
+   "x": "Західні розвідки вказують на намір Путіна вести війну щонайменше до кінця зими.",
+   "i": "https://img.eurointegration.com.ua/images/doc/f/7/f73fb2c-123-1.jpg",
+   "d": "2026-11-18T19:00:00+00:00",
+   "c": [
+    "polityka"
    ]
   },
   {
@@ -2291,6 +2408,17 @@
    ]
   },
   {
+   "t": "У Лісабоні студенти протестують проти підвищення плати за навчання",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/18/7250315/",
+   "x": "У середу, 18 листопада, у столиці Португалії Лісабоні студенти вийшли на протест проти підвищення плати за навчання.",
+   "i": "https://img.eurointegration.com.ua/images/doc/a/9/a9d104d-screenshot-2026-11-18-202945.png",
+   "d": "2026-11-18T18:29:00+00:00",
+   "c": [
+    "polityka"
+   ]
+  },
+  {
    "t": "Що Росія викрала з українських музеїв: у Києві відкрили виставку про втрати культурної спадщини",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/CULTURE/shcho-rosija-vikrala-z-ukrajinskikh-muzejiv-u-kijevi-vidkrili-vistavku-pro-vtrati-kulturnoji-spadshchini.html",
@@ -2342,28 +2470,6 @@
    ],
    "r": [
     "crimea"
-   ]
-  },
-  {
-   "t": "Міністр ветеранів Кім про заяву щодо ризиків після повернення військових: хочу, щоб ми були готові",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1454734-ministr-veteraniv-kim-pro-zaavu-sodo-rizikiv-pisla-povernenna-vijskovih-hocu-sob-mi-buli-gotovi/",
-   "x": "Міністр у справах ветеранів Віталій Кім про свою заяву про кримінальні ризики після повернення військовослужбовців з фронту - хоче, аби суспільство було готове до такого",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-18T18:25:53+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
-   "t": "«Нічого не змінюється»: Чехія не дозволить в'їзд до країни спортсменам з Росії для участі у змаганнях",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/sport/1454709-nicogo-ne-zminuetsa-cehia-ne-dozvolit-vizd-do-kraini-sportsmenam-z-rosii-dla-ucasti-u-zmagannah/",
-   "x": "Російським спортсменам не дозволять в'їзд до Чехії: рішення міністерства країни, заява спортивного арбітражного суду, чемпіонат світу з хокею",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-18T18:23:03+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
@@ -2422,6 +2528,17 @@
    "d": "2026-11-18T18:14:00+00:00",
    "c": [
     "vazhlyve"
+   ]
+  },
+  {
+   "t": "ЗМІ: з проєкту спільної заяви Британії та ЄС вилучили згадку про \"довірче партнерство\"",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/18/7250313/",
+   "x": "Велика Британія та Європейська комісія вилучили з останнього проєкту спільної заяви за підсумками майбутнього саміту згадки про формування \"довірчого партнерства\", що свідчить про те, що переговори щодо надання ЄС…",
+   "i": "https://img.eurointegration.com.ua/images/doc/3/7/3756878-britain.png",
+   "d": "2026-11-18T18:14:00+00:00",
+   "c": [
+    "polityka"
    ]
   },
   {
@@ -2516,6 +2633,17 @@
    "v": 1
   },
   {
+   "t": "Зеленський: Україна очікує від посланців Трампа на подробиці його переговорів у Китаї",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/18/7250312/",
+   "x": "Президент Володимир Зеленський заявив, що спецпредставники американського президента Дональда Трампа у Берліні передадуть Україні \"необхідну\" інформацію щодо перемовин президента США, які відбуваються в Китаї.",
+   "i": "https://img.eurointegration.com.ua/images/doc/b/c/bcaefb3-----------.jpg",
+   "d": "2026-11-18T17:56:00+00:00",
+   "c": [
+    "polityka"
+   ]
+  },
+  {
    "t": "Пенсія з грудня буде більшою: хто отримуватиме додаткові 150 гривень",
    "s": "24 Канал",
    "u": "https://24tv.ua/economy/shhomisyachna-avtomatichna-doplata-do-pensiyi-yak-otrimati-dodatkovi_n3182376",
@@ -2573,17 +2701,6 @@
    "v": 1
   },
   {
-   "t": "Президент Польщі Навроцький таємно подарував Трампу бурштинове крісло",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1454717-prezident-polsi-navrockij-taemno-podaruvav-trampu-burstinove-krislo/",
-   "x": "Президент Польщі Кароль Навроцький подарував президенту США Трампу на 80-річчя крісло, вироблене з бурштином. Подарунок був таємний, про нього не знало ні посольство Польщі у США, ні МЗС Польщі",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-18T17:37:48+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "🔥ПАНІКА В КРИМУ! Росіяни масово тікають💥КЕРЧЕНСЬКИЙ МІСТ РЕМОНТУ НЕ ПІДЛЯГАЄ 🤡УДАР ЗГАНЬБИВ пУТІНА",
    "s": "5 канал · відео",
    "u": "https://www.youtube.com/watch?v=NViWNN3sibw",
@@ -2596,20 +2713,6 @@
    "v": 1,
    "r": [
     "crimea"
-   ]
-  },
-  {
-   "t": "Частина Сумщини без світла через аварійне розвантаження мереж",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/sumy/1454727-castina-sumsini-bez-svitla-cerez-avarijne-rozvantazenna-merez/",
-   "x": "Частина мешканців Сумщини залишається без електропостачання через аварійне розвантаження електричних мереж. Також діють графіки погодинного відключення",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-18T17:28:24+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "sumy"
    ]
   },
   {
