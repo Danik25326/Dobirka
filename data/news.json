@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T22:10:42+00:00",
+ "updated": "2026-11-19T22:20:41+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -183,6 +183,23 @@
    "d": "2026-11-19T19:48:00+00:00"
   },
   {
+   "t": "Зеленський зустрівся з Віткоффом, кушнером та європейськими лідерами у Берліні",
+   "u": "https://suspilne.media/1455203-zelenskij-zustrivsa-z-vitkoffom-kusnerom-ta-evropejskimi-liderami-u-berlini/",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "n": 2,
+   "l": [
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/1455203-zelenskij-zustrivsa-z-vitkoffom-kusnerom-ta-evropejskimi-liderami-u-berlini/"
+    },
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/kushner-vitkoff-letyat-do-berlina-zustrich-iz-zelenskim-golovni_n3183447"
+    }
+   ],
+   "d": "2026-11-19T22:12:21+00:00"
+  },
+  {
    "t": "Зеленський обговорив із Віткоффом, Кушнером та європейськими радниками гарантії безпеки й підготовку багатосторонньої зустрічі",
    "u": "https://interfax.com.ua/news/general/1239540.html",
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/2/960467/427356b16d888ca73895145626d1fdf1.jpeg",
@@ -317,26 +334,57 @@
     }
    ],
    "d": "2026-11-19T19:44:00+00:00"
-  },
-  {
-   "t": "\"Коаліція охочих\" закликала Росію до енергетичного перемир’я на час зими",
-   "u": "https://www.pravda.com.ua/news/2026/11/19/8063702/",
-   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/c/960440/4cf20f2fb0a6ad2f9ea8d9b931bf6726.jpeg",
-   "n": 2,
-   "l": [
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/19/8063702/"
-    },
-    {
-     "s": "Суспільне",
-     "u": "https://suspilne.media/1455185-koalicia-ohocih-zaklikala-rosiu-pripiniti-udari-po-energetici-ukraini-na-zimu/"
-    }
-   ],
-   "d": "2026-11-19T19:42:00+00:00"
   }
  ],
  "items": [
+  {
+   "t": "Україна хоче провести переговори зі США та Європою на рівні команд — Зеленський",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/POLITICS/-ukrajina-khoche-provesti-perehovori-zi-ssha-ta-jevropoju-na-rivni-komand-zelenskij.html",
+   "x": "Зеленський зустрівся з Кушнером та Вітоффом.",
+   "i": "https://zn.ua/img/article/7046/37_main.webp",
+   "d": "2026-11-19T22:17:56+00:00",
+   "c": [
+    "statti"
+   ]
+  },
+  {
+   "t": "Росія погодилася на обмін понад тисячі українських полонених, — Зеленський",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/obmin-polonenimi-ukrayina-ochikuye-spiski_n3184095",
+   "x": "Україна та Росія проводили переговори в Абу-Дабі за посередництва США 10-11 листопада. Результатом домовленостей сторін став новий обмін полонених.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3184095.jpg?v=1795121617000&q=100",
+   "d": "2026-11-19T22:15:00+00:00",
+   "c": [
+    "holovne",
+    "vazhlyve"
+   ]
+  },
+  {
+   "t": "У Києві пошкоджені посольства і собор, Україна готується до чотиристоронніх переговорів. 1731 день війни",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1455197-u-kievi-poskodzeni-posolstva-i-sobor-ukraina-gotuetsa-do-cotiristoronnih-peregovoriv-1731-den-vijni/",
+   "x": "Росія атакувала Київ дронами, пошкоджені посольства і Володимирський собор. Україна готується до зустрічіті у чотиристоронньому форматі",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-19T22:14:03+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kyiv"
+   ]
+  },
+  {
+   "t": "Зеленський зустрівся з Віткоффом, кушнером та європейськими лідерами у Берліні",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1455203-zelenskij-zustrivsa-z-vitkoffom-kusnerom-ta-evropejskimi-liderami-u-berlini/",
+   "x": "Президент України Володимир Зеленський зустрівся з представниками Трампа Стівом Віткоффом та Джаредом Кушнером, а також з європейськими радниками з питань національної безпеки у Берліні",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-19T22:12:21+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
   {
    "t": "Найгарячіша ділянка — Костянтинівська. Фронт Донеччини та Луганщини 20 листопада 2026 року",
    "s": "Суспільне",
@@ -408,17 +456,6 @@
    ]
   },
   {
-   "t": "Трамп не поспішає атакувати Іран, але Пентагон уже готує сценарії ударів",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/usa/tramp-ne-pospishaje-atakuvati-iran-ale-pentahon-uzhe-hotuje-stsenariji-udariv.html",
-   "x": "Нетаньягу вимагає ударів по Ірану, але Трамп вирішив не поспішати.",
-   "i": "https://zn.ua/img/article/7046/35_main.webp",
-   "d": "2026-11-19T21:45:46+00:00",
-   "c": [
-    "statti"
-   ]
-  },
-  {
    "t": "Зеленський про Путіна в Китаї",
    "s": "Суспільне Новини · відео",
    "u": "https://www.youtube.com/shorts/PNt83BUbufE",
@@ -438,6 +475,17 @@
    "d": "2026-11-19T21:45:32+00:00",
    "c": [
     "holovne"
+   ]
+  },
+  {
+   "t": "Трамп не поспішає атакувати Іран, але Пентагон уже готує сценарії ударів",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/usa/tramp-ne-pospishaje-atakuvati-iran-ale-pentahon-uzhe-hotuje-stsenariji-udariv.html",
+   "x": "Нетаньягу вимагає ударів по Ірану, але Трамп вирішив не поспішати.",
+   "i": "https://zn.ua/img/article/7046/35_main.webp",
+   "d": "2026-11-19T21:45:00+00:00",
+   "c": [
+    "statti"
    ]
   },
   {
@@ -464,20 +512,6 @@
    ],
    "r": [
     "kyiv"
-   ]
-  },
-  {
-   "t": "Львівський «Барком» зазнав пʼятої поспіль поразки в чемпіонаті Польщі з волейболу",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/sport/1455195-lvivskij-barkom-zaznav-patoi-pospil-porazki-v-cempionati-polsi-z-volejbolu-rezultat-matcu/",
-   "x": "Львівський волейбольний клуб «Ястшембе Барком» поступився «ЗАКСА» в матчі сьомого туру чемпіонату Польщі: поразка стала для української команди пʼятою поспіль у сезоні",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-19T21:39:31+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "lviv"
    ]
   },
   {
@@ -697,17 +731,6 @@
    ]
   },
   {
-   "t": "Баскетболістка збірної України номінована на MVP листопадових матчів відбору на Євробаскет-2027",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/sport/1455021-basketbolistka-urkevicus-stala-pretendentkou-na-zvanna-mvp-vikna-vidboru-na-zinoce-evro-2027/",
-   "x": "Українська баскетболістка Тетяна Юркевічус увійшла до списку претенденток на звання найкращої гравчині вікна відбору другого раунду на жіночий Євробаскет-2027",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-19T20:59:06+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "Подушка безпеки тоншає: світ готується жити без Ормузької протоки",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/energetics/podushka-bezpeki-tonshaje-svit-hotujetsja-zhiti-bez-ormuzkoji-protoki.html",
@@ -766,6 +789,17 @@
    "x": "Пізньої осені, перед настанням стабільних морозів, кроти на городах та газонах стають особливо активними, адже готують глибокі зимові тунелі й активно поповнюють запаси їжі.",
    "i": "https://24tv.ua/resources/photos/news/202611/3184068.jpg?v=1795117952000&q=100",
    "d": "2026-11-19T20:45:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Зеленський розраховує отримати запрошення на саміт G20 від Трампа",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1455183-zelenskij-rozrahovue-otrimati-zaprosenna-na-samit-g20-vid-trampa/",
+   "x": "Зеленський зазначив, що очікує від Дональда Трампа запрошення для України на саміт G20. Партнери очікують, що американський президент запросить і російську делегацію",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-19T20:40:45+00:00",
    "c": [
     "holovne"
    ]
@@ -1024,6 +1058,20 @@
    "d": "2026-11-19T20:11:00+00:00",
    "c": [
     "holovne"
+   ]
+  },
+  {
+   "t": "На виплати військовим спрямують десятки мільярдів гривень: рішення уряду",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1455192-na-viplati-vijskovim-spramuut-desatki-milardiv-griven-risenna-uradu/",
+   "x": "Кабінет Міністрів спрямував додаткові 81,4 млрд гривень на потреби Міністерства оборони. Понад 90% цієї суми використають для забезпечення виплат військовослужбовцям",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-19T20:10:42+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "sumy"
    ]
   },
   {
@@ -1361,6 +1409,20 @@
    ]
   },
   {
+   "t": "Львівський «Барком» зазнав пʼятої поспіль поразки в чемпіонаті Польщі з волейболу",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sport/1455195-lvivskij-barkom-zaznav-patoi-pospil-porazki-v-cempionati-polsi-z-volejbolu-rezultat-matcu/",
+   "x": "Львівський волейбольний клуб «Ястшембе Барком» поступився «ЗАКСА» в матчі сьомого туру чемпіонату Польщі: поразка стала для української команди пʼятою поспіль у сезоні",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-19T19:39:31+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "lviv"
+   ]
+  },
+  {
    "t": "«Асті мене просто покорила»: що відомо про тварин, яких забрали після атаки РФ по території ветцентру у Чернігові",
    "s": "Суспільне",
    "u": "https://suspilne.media/chernihiv/1455034-asti-mene-prosto-pokorila-so-vidomo-pro-tvarin-akih-zabrali-pisla-ataki-rf-po-teritorii-vetcentru-u-cernigovi/",
@@ -1452,6 +1514,17 @@
    "d": "2026-11-19T19:30:00+00:00",
    "c": [
     "statti"
+   ]
+  },
+  {
+   "t": "Зеленський анонсував нові пакети підтримки",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1455181-zelenskij-anonsuvav-novi-paketi-pidtrimki/",
+   "x": "Президент Володимир Зеленський заявив, що за підсумками засідання коаліції охочих є домовленість про нові пакети підтримки для України",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-19T19:29:47+00:00",
+   "c": [
+    "holovne"
    ]
   },
   {
@@ -1888,6 +1961,17 @@
    ]
   },
   {
+   "t": "Баскетболістка збірної України номінована на MVP листопадових матчів відбору на Євробаскет-2027",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sport/1455021-basketbolistka-urkevicus-stala-pretendentkou-na-zvanna-mvp-vikna-vidboru-na-zinoce-evro-2027/",
+   "x": "Українська баскетболістка Тетяна Юркевічус увійшла до списку претенденток на звання найкращої гравчині вікна відбору другого раунду на жіночий Євробаскет-2027",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-19T18:59:06+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "У Чернівецькій області 20 листопада діятимуть графіки відключення електрики — обленерго",
    "s": "Суспільне",
    "u": "https://suspilne.media/chernivtsi/1455175-u-cerniveckij-oblasti-20-listopada-diatimut-grafiki-vidklucenna-elektriki-oblenergo-2/",
@@ -2103,17 +2187,6 @@
    ]
   },
   {
-   "t": "Зеленський розраховує отримати запрошення на саміт G20 від Трампа",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1455183-zelenskij-rozrahovue-otrimati-zaprosenna-na-samit-g20-vid-trampa/",
-   "x": "Зеленський зазначив, що очікує від Дональда Трампа запрошення для України на саміт G20. Партнери очікують, що американський президент запросить і російську делегацію",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-19T18:40:45+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "«Нептун», «Фламінго» та дрони: Fire Point розкрила деталі ураження мосту через Керченську протоку",
    "s": "Суспільне",
    "u": "https://suspilne.media/crimea/1455135-neptun-flamingo-ta-droni-fire-point-rozkrila-detali-urazenna-mostu-cerez-kercensku-protoku/",
@@ -2227,31 +2300,6 @@
    "v": 1
   },
   {
-   "t": "«Треба дати Жуку шанс»: у Чорноморську шукають дім для собаки, якого поранило під час атаки РФ на ринок",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/odesa/1454955-treba-dati-zuku-sans-u-cornomorsku-sukaut-dim-dla-sobaki-akogo-poranilo-pid-cas-ataki-rf-na-rinok/",
-   "x": "Після атаки РФ на Чорноморськ 11 листопада місцева жителька врятувала пораненого пекінеса Жука. Ветеринари витягли п'ять уламків. Собака, який вісім років жив на ланцюгу, тепер шукає нову родину",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-19T18:30:00+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
-   "t": "У Луцьку горіла квартира в багатоповерхівці: евакуювали 4 дорослих і дитину",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/lutsk/1455132-u-lucku-gorila-kvartira-v-bagatopoverhivci-evakuuvali-4-doroslih-i-ditinu/",
-   "x": "У Луцьку горіла квартира в дев'ятиповерховому будинку на вулиці Захисників Українки. Через сильне задимлення на вулицю евакуювали чотирьох дорослих і дитину",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-19T18:29:53+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "volyn"
-   ]
-  },
-  {
    "t": "Зеленський: Європа сяде за стіл переговорів із Росією",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/europe/zelenskij-jevropa-sjade-za-stil-perehovoriv-iz-rosijeju.html",
@@ -2363,20 +2411,6 @@
    ]
   },
   {
-   "t": "На виплати військовим спрямують десятки мільярдів гривень: рішення уряду",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1455192-na-viplati-vijskovim-spramuut-desatki-milardiv-griven-risenna-uradu/",
-   "x": "Кабінет Міністрів спрямував додаткові 81,4 млрд гривень на потреби Міністерства оборони. Понад 90% цієї суми використають для забезпечення виплат військовослужбовцям",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-19T18:10:42+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "sumy"
-   ]
-  },
-  {
    "t": "Мерц про мирні переговори та втрати РФ: «Ялтинський формат, напевно, не принесе миру»",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/POLITICS/merts-pro-mirni-perehovori-ta-vtrati-rf-jaltinskij-format-napevno-ne-prinese-miru.html",
@@ -2428,7 +2462,6 @@
    "i": "https://24tv.ua/resources/photos/news/202611/3184003.jpg?v=1795109617000&q=100",
    "d": "2026-11-19T18:03:00+00:00",
    "c": [
-    "holovne",
     "vazhlyve"
    ]
   },
@@ -2604,17 +2637,6 @@
    ]
   },
   {
-   "t": "Зеленський анонсував нові пакети підтримки",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1455181-zelenskij-anonsuvav-novi-paketi-pidtrimki/",
-   "x": "Президент Володимир Зеленський заявив, що за підсумками засідання коаліції охочих є домовленість про нові пакети підтримки для України",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-19T17:29:47+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "Зеленський: Європейці будуть в форматах перемовин з росіянами",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/19/8063685/",
@@ -2686,17 +2708,6 @@
    ],
    "r": [
     "kyiv"
-   ]
-  },
-  {
-   "t": "Трамп заявив, що не вирішуватиме питання миру без Зеленського",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/usa/tramp-zajaviv-shcho-ne-virishuvatime-pitannja-miru-bez-zelenskoho.html",
-   "x": "Місяць тому він радив Україні змінити главу держави, бо той нібито не вміє домовлятися.",
-   "i": "https://zn.ua/img/article/7046/11_main.webp",
-   "d": "2026-11-19T17:02:00+00:00",
-   "c": [
-    "statti"
    ]
   },
   {
@@ -4650,17 +4661,6 @@
    "d": "2026-11-18T09:34:00+00:00",
    "c": [
     "sport"
-   ]
-  },
-  {
-   "t": "Трамп прибув до Китаю, де його особисто зустрів Сі Цзіньпін: Путіна приймали інакше",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/geopolitics/tramp-pribuv-do-kitayu-poperedu-zustrich-iz-si-tszinpinom-putinim_n3182683",
-   "x": "Президент США Дональд Трамп прибув до Китаю для участі в саміті АТЕС. У Шеньчжені його особисто зустрів лідер КНР Сі Цзіньпін. Натомість російського диктатора Володимира Путіна, який також прибув до Китаю, зустрічав…",
-   "i": "https://24tv.ua/resources/photos/news/202611/3182683.jpg?v=1794993244000&q=100",
-   "d": "2026-11-18T09:21:00+00:00",
-   "c": [
-    "vazhlyve"
    ]
   },
   {
