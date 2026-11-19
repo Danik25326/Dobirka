@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T15:40:42+00:00",
+ "updated": "2026-11-19T15:50:44+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -158,7 +158,7 @@
  ],
  "top": [
   {
-   "t": "Росія атакувала Київ дронами: уламки впали на територію МЗС, посольства Нідерландів та Угорщини",
+   "t": "Росія атакувала Київ дронами: уламки впали на територію МЗС, посольства Нідерландів та Австрії",
    "u": "https://24tv.ua/ataka-kiyiv-19-listopada-ulamki-vpali-teritoriyu-mzs-poshkodzheno_n3183926",
    "i": "https://24tv.ua/resources/photos/news/202611/3183926.jpg?v=1795102144000&q=100",
    "n": 5,
@@ -169,7 +169,7 @@
     },
     {
      "s": "Суспільне",
-     "u": "https://suspilne.media/kyiv/1455081-u-kievi-vnaslidok-ataki-rf-poskodzena-budivla-mzs-ta-posolstva-niderlandiv-v-ukraini/"
+     "u": "https://suspilne.media/kyiv/1455081-u-kievi-vnaslidok-ataki-rf-poskodzena-budivla-posolstva-niderlandiv-v-ukraini-takoz-ulamki-vpali-na-teritorii-mzs/"
     },
     {
      "s": "ZN.UA",
@@ -185,6 +185,23 @@
     }
    ],
    "d": "2026-11-19T15:31:00+00:00"
+  },
+  {
+   "t": "У Центрі Курбаса виявили порушення: Мінкульт розпочне службову перевірку",
+   "u": "https://life.pravda.com.ua/culture/minkult-pereviryaye-centr-kurbasa-cherez-finansovi-ta-kadrovi-porushennya-319187/",
+   "i": "https://imglife.pravda.com.ua/life/images/doc/f/f/150329/ff9131cf1c4c5a783573901923856657.jpeg?w=390&q=90&f=jpeg",
+   "n": 2,
+   "l": [
+    {
+     "s": "Українська правда. Життя",
+     "u": "https://life.pravda.com.ua/culture/minkult-pereviryaye-centr-kurbasa-cherez-finansovi-ta-kadrovi-porushennya-319187/"
+    },
+    {
+     "s": "Інтерфакс-Україна",
+     "u": "https://interfax.com.ua/news/culture/1239297.html"
+    }
+   ],
+   "d": "2026-11-19T15:44:00+00:00"
   },
   {
    "t": "В ЮНЕСКО засудили російську атаку на історичний центр Одеси: пошкоджений палац Каліо",
@@ -325,6 +342,101 @@
  ],
  "items": [
   {
+   "t": "В Іспанії спалахнули протести, а тепер країна йде на дострокові вибори. Це спровокувала житлова криза — розповідаємо як",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1454455-v-ispanii-spalahnuli-protesti-a-teper-kraina-jde-na-dostrokovi-vibori-ce-sprovokuvala-zitlova-kriza-rozpovidaemo-ak/",
+   "x": "З 11 листопада в Іспанії проходять масові акції, учасники яких вимагають підняти зарплати і врегулювати ринок житла. Проблеми з ринком житла, зрештою, призвели до дострокових виборів. Розповідаємо про суть проблеми",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-19T15:50:09+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Де зустріти Новий рік 2027: найцікавіші туристичні напрямки в Україні",
+   "s": "24 Канал",
+   "u": "https://travel.24tv.ua/noviy-rik-2027-ukrayini-turoperatori-nazvali-svyatkovi-marshruti_n3183913",
+   "x": "Українські туроператори презентували святкові тури на Новий рік 2027 тривалістю 3 – 4 дні. Мандрівникам пропонують поїздки в Карпати, на Закарпаття та Поділля з термальними басейнами і святкуванням просто неба.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3183913.jpg?v=1795102043000&q=100",
+   "d": "2026-11-19T15:49:00+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "zakarpattia"
+   ]
+  },
+  {
+   "t": "Після трансплантації нирки житомирянка не може знайти ліки, які їй призначили пожиттєво: що кажуть лікарі",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/zhytomyr/1455092-pisla-transplantacii-nirki-zitomiranka-ne-moze-znajti-liki-aki-ij-priznacili-pozittevo-so-kazut-likari/",
+   "x": "Житомирянка Надія Ковальчук, яка перенесла пересадку нирки, не може отримати препарат «Програф», який має приймати пожиттєво. Суспільному жінка розповіла, що з жовтня ліків немає ані в аптеках, ані в лікарнях: що відомо",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-19T15:45:55+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "zhytomyr"
+   ]
+  },
+  {
+   "t": "У Полтаві виплатять понад 1 мільйон гривень компенсацій за пошкоджене обстрілами майно",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/poltava/1455096-u-poltavi-viplatat-ponad-1-miljon-griven-kompensacij-za-poskodzene-obstrilami-majno/",
+   "x": "У Полтаві погодили компенсації за 15 заявами власників пошкодженої обстрілами нерухомості. Загальна сума виплат — понад 1,09 млн гривень. За однією заявою відмовили",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-19T15:44:58+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "poltava"
+   ]
+  },
+  {
+   "t": "У Центрі Курбаса виявили порушення: Мінкульт розпочне службову перевірку",
+   "s": "Українська правда. Життя",
+   "u": "https://life.pravda.com.ua/culture/minkult-pereviryaye-centr-kurbasa-cherez-finansovi-ta-kadrovi-porushennya-319187/",
+   "i": "https://imglife.pravda.com.ua/life/images/doc/f/f/150329/ff9131cf1c4c5a783573901923856657.jpeg?w=390&q=90&f=jpeg",
+   "d": "2026-11-19T15:44:00+00:00",
+   "c": [
+    "zhyttia"
+   ]
+  },
+  {
+   "t": "Шевченко вперше відповів на звинувачення Мудрика",
+   "s": "24 Канал",
+   "u": "https://sportnews.24tv.ua/shevchenko-vpershe-vidpoviv-zvinuvachennya-mudrika_n3183944",
+   "x": "Андрій Шевченко відреагував на звинувачення Михайла Мудрика щодо допінгу.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3183944.jpg?v=1795103052000&q=100",
+   "d": "2026-11-19T15:43:13+00:00",
+   "c": [
+    "sport"
+   ]
+  },
+  {
+   "t": "\"Даремно приїхала з України, даремно любила свошника\": на зрадницю Більченко відкрили справу в РФ",
+   "s": "Українська правда. Життя",
+   "u": "https://life.pravda.com.ua/society/na-zradnicyu-vikladachku-bilchenko-vidkrili-spravu-v-rosiji-319188/",
+   "i": "https://imglife.pravda.com.ua/life/images/doc/b/9/150332/b9d969bff90e2db4d76b9ee46d9cb0ed.jpeg?w=390&q=90&f=jpeg",
+   "d": "2026-11-19T15:43:00+00:00",
+   "c": [
+    "zhyttia"
+   ]
+  },
+  {
+   "t": "Бутенко: у Міноборони обговорюють, чи позбавляти студентів відстрочки",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/EDUCATION/butenko-u-minoboroni-obhovorjujut-chi-pozbavljati-studentiv-vidstrochki.html",
+   "x": "В окремих приватних вишах частка студентів віком понад 25 років сягає 90%.",
+   "i": "https://zn.ua/img/article/7046/7_main.webp",
+   "d": "2026-11-19T15:40:00+00:00",
+   "c": [
+    "statti"
+   ]
+  },
+  {
    "t": "Колись під водою зник масив суші розміром з Північну Америку, а тепер там знаходять сліди людей",
    "s": "24 Канал",
    "u": "https://24tv.ua/tech/pid-vodoyu-lezhit-velichezna-teritoriya-de-kolis-zhili-lyudi_n3183610",
@@ -350,7 +462,7 @@
    ]
   },
   {
-   "t": "Українська кіноакадемія обрала новий склад Правління та Наглядової ради",
+   "t": "Українська кіноакадемія обрала новий склад правління та наглядової ради",
    "s": "Суспільне",
    "u": "https://suspilne.media/culture/1455078-ukrainska-kinoakademia-obrala-novij-sklad-pravlinna-ta-nagladovoi-radi/",
    "x": "Українська кіноакадемія оголосила результати виборів до Правління та Наглядової ради. До Правління увійшли 15 представників української кіноіндустрії.",
@@ -409,10 +521,10 @@
    ]
   },
   {
-   "t": "Росія атакувала Київ дронами: уламки впали на територію МЗС, посольства Нідерландів та Угорщини",
+   "t": "Росія атакувала Київ дронами: уламки впали на територію МЗС, посольства Нідерландів та Австрії",
    "s": "24 Канал",
    "u": "https://24tv.ua/ataka-kiyiv-19-listopada-ulamki-vpali-teritoriyu-mzs-poshkodzheno_n3183926",
-   "x": "Унаслідок російської атаки на Київ 19 листопада уламки безпілотника впали на територію Міністерства закордонних справ України. Крім того, пошкоджень зазнало посольство Нідерландів, розташоване в столиці.",
+   "x": "Унаслідок російської атаки на Київ 19 листопада уламки безпілотника впали на територію Міністерства закордонних справ України. Крім того, пошкоджень зазнали посольства Нідерландів та Австрії.",
    "i": "https://24tv.ua/resources/photos/news/202611/3183926.jpg?v=1795102144000&q=100",
    "d": "2026-11-19T15:31:00+00:00",
    "c": [
@@ -434,7 +546,7 @@
    ]
   },
   {
-   "t": "Британія та Норвегія профінансують бойові катери для України на понад 100 млн фунтів",
+   "t": "Британія та Норвегія профінансують бойові катери для України на понад 100 мільйонів фунтів",
    "s": "Суспільне",
    "u": "https://suspilne.media/1455071-britania-ta-norvegia-profinansuut-bojovi-kateri-dla-ukraini-na-ponad-100-mln-funtiv/",
    "x": "Велика Британія та Норвегія профінансують будівництво двох швидкісних бойових катерів для українських Військово-морських сил. Судна оснастять ракетним озброєнням та системами протиповітряної оборони",
@@ -516,8 +628,8 @@
   {
    "t": "У Києві внаслідок атаки РФ пошкоджена будівля посольства Нідерландів в Україні, також уламки впали на території МЗС",
    "s": "Суспільне",
-   "u": "https://suspilne.media/kyiv/1455081-u-kievi-vnaslidok-ataki-rf-poskodzena-budivla-mzs-ta-posolstva-niderlandiv-v-ukraini/",
-   "x": "Внаслідок російської денної атаки по Києву уламки російського дрона впали на територію Міністерства закордонних справ та посольства Нідерландів в Україні",
+   "u": "https://suspilne.media/kyiv/1455081-u-kievi-vnaslidok-ataki-rf-poskodzena-budivla-posolstva-niderlandiv-v-ukraini-takoz-ulamki-vpali-na-teritorii-mzs/",
+   "x": "Внаслідок російської денної атаки по Києву уламки російського дрона впали на територію Міністерства закордонних справ. Також пошкоджене посольство Нідерландів в Україні",
    "i": "https://cdn4.suspilne.media/images/default.jpg",
    "d": "2026-11-19T15:28:30+00:00",
    "c": [
@@ -542,17 +654,6 @@
    ]
   },
   {
-   "t": "«Будинок горить, а палій вимагає обговорити планування»: чого вимагає Москва і чому Європа має відмовити",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/POLITICS/budinok-horit-a-palij-vimahaje-obhovoriti-planuvannja-choho-vimahaje-moskva-i-chomu-jevropa-maje-vidmoviti.html",
-   "x": "Прем'єр-міністр Естонії застерігає: розмови про «архітектуру безпеки» з Москвою зроблять країни Балтії, Польщу та інші держави предметом торгу, тоді як пріоритетом має бути закінчення війни в Україні.",
-   "i": "https://zn.ua/img/article/7046/4_main.webp",
-   "d": "2026-11-19T15:27:10+00:00",
-   "c": [
-    "statti"
-   ]
-  },
-  {
    "t": "«Рекордне здорожчання»: про ціни на автогаз на черкаських заправках",
    "s": "Суспільне",
    "u": "https://suspilne.media/cherkasy/1454990-rekordne-zdorozcanna-pro-cini-na-avtogaz-na-cerkaskih-zapravkah/",
@@ -564,6 +665,17 @@
    ],
    "r": [
     "cherkasy"
+   ]
+  },
+  {
+   "t": "«Будинок горить, а палій вимагає обговорити планування»: чого вимагає Москва і чому Європа має відмовити",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/POLITICS/budinok-horit-a-palij-vimahaje-obhovoriti-planuvannja-choho-vimahaje-moskva-i-chomu-jevropa-maje-vidmoviti.html",
+   "x": "Прем'єр-міністр Естонії застерігає: розмови про «архітектуру безпеки» з Москвою зроблять країни Балтії, Польщу та інші держави предметом торгу, тоді як пріоритетом має бути закінчення війни в Україні.",
+   "i": "https://zn.ua/img/article/7046/4_main.webp",
+   "d": "2026-11-19T15:27:00+00:00",
+   "c": [
+    "statti"
    ]
   },
   {
@@ -1607,31 +1719,6 @@
    ]
   },
   {
-   "t": "Бізнес зможе долучитися до ремонту доріг на Полтавщині: як працюватиме новий проєкт",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/poltava/1454985-biznes-zmoze-dolucitisa-do-remontu-dorig-na-poltavsini-ak-pracuvatime-novij-proekt/",
-   "x": "Підприємства на Полтавщині зможуть фінансувати ремонт місцевих доріг або виконувати роботи власними силами. До експериментального проєкту планують залучити аграріїв, нафтогазові та переробні підприємства. Деталі проєкту",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-19T14:32:48+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "poltava"
-   ]
-  },
-  {
-   "t": "Не можна погоджуватися на вимоги Путіна щодо безпеки Європи — Фредеріксен",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1455056-ne-mozna-pogodzuvatis-na-vimogi-putina-sodo-bezpeki-evropi-frederiksen/",
-   "x": "Прем'єр-міністерка Данії Метте Фредеріксен заявила, що Європа «в жодному разі не повинна погоджуватися» на вимоги Росії щодо європейської безпеки",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-19T14:32:45+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "Ощадбанк за 10 міс.-2026 збільшив операційний дохід на 7,7%",
    "s": "Інтерфакс-Україна",
    "u": "https://interfax.com.ua/news/economic/1239289.html",
@@ -1763,20 +1850,6 @@
    ]
   },
   {
-   "t": "ДТП у Франківську. Нетверезий водій на Opel пошкодив п'ять припаркованих авто",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/ivano-frankivsk/1455042-dtp-u-frankivsku-netverezij-vodij-na-opel-poskodiv-pat-priparkovanih-avto/",
-   "x": "18 листопада у Франківську 40-річний водій Opel наїхав на п'ять припаркованих автомобілів. Механічні пошкодження отримали два Mercedes-Benz, Mazda, Volkswagen та Audi",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-19T14:25:31+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "ivanofrankivsk"
-   ]
-  },
-  {
    "t": "Нові знімки Кримського мосту: йому дедалі гірше",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/UKRAINE/novi-znimki-krimskoho-mostu-jomu-vse-hirshe.html",
@@ -1788,20 +1861,6 @@
    ],
    "r": [
     "crimea"
-   ]
-  },
-  {
-   "t": "«Для нашого міста — це унікальна памʼятка». Через ДТП у Дніпрі була пошкоджена огорожа особняка архітектора Тіссена",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/dnipro/1454899-dla-nasogo-mista-ce-unikalna-pamatka-cerez-dtp-u-dnipri-bula-poskodzena-ogoroza-osobnaka-arhitektora-tissena/",
-   "x": "Внаслідок аварії, яка сталася 16 листопада у середмісті Дніпра, пошкоджена історична огорожа особняка архітектора Дітріха Тіссена. Сама будівля є памʼяткою архітектури, а огорожа входить до переліку предметів її охорони",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-19T14:25:00+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "dnipro"
    ]
   },
   {
@@ -2096,17 +2155,6 @@
    ]
   },
   {
-   "t": "У Європі заборонять продаж частини шампунів: причина несподівана",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/zakordon24/zaborona-prodazh-pevnih-shampuniv-yes-chomu-yiyi-zaprovadzhuyut_n3183571",
-   "x": "Чимало виробників у ЄС навмисно додають мікропластик до складу шампунів та гелів – це може покращити їхню структуру. Але зовсім скоро продаж таких засобів у Європі заборонять.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3183571.jpg?v=1795085069000&q=100",
-   "d": "2026-11-19T13:59:00+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "⚡️НЕ УСПЕЛ Трамп ВЫЛЕТЕТЬ из Китая, А ТУТ ТАКОЕ! СКАНДАЛ в Белом доме ПОСЛЕ ВСТРЕЧИ с Путиным и Си",
    "s": "24 Канал · відео",
    "u": "https://www.youtube.com/watch?v=NgX1P-BBdVk",
@@ -2189,6 +2237,20 @@
    "d": "2026-11-19T13:46:00+00:00",
    "c": [
     "statti"
+   ]
+  },
+  {
+   "t": "«На щиті» додому повертається військовий Василь Процюк з Івано-Франківщини",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/ivano-frankivsk/1455086-na-siti-dodomu-povertaetsa-vijskovij-vasil-procuk-z-ivano-frankivsini/",
+   "x": "20 листопада у село Маркова, що на Івано-Франківщині, «на щиті» повертається військовослужбовець Василь Процюк. Він помер поблизу села Красне Дніпропетровської області",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-19T13:45:48+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "ivanofrankivsk"
    ]
   },
   {
@@ -2556,20 +2618,6 @@
    "c": [
     "holovne",
     "vazhlyve"
-   ]
-  },
-  {
-   "t": "Путін вперше прокоментував обвал Кримського мосту",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/war/putin-vpershe-vidreahuvav-na-obval-krimskoho-mostu-.html",
-   "x": "Реакція очікувана — погрожує помститися.",
-   "i": "https://zn.ua/img/article/7045/74_main.webp",
-   "d": "2026-11-19T12:47:52+00:00",
-   "c": [
-    "statti"
-   ],
-   "r": [
-    "crimea"
    ]
   },
   {
@@ -3052,16 +3100,6 @@
    ]
   },
   {
-   "t": "\"Мій рекорд – 3 хвилини 16 секунд\". Ексклюзивні деталі роботи бойового водолаза ССО",
-   "s": "Українська правда. Життя",
-   "u": "https://life.pravda.com.ua/society/miy-rekord-3-hvilini-16-sekund-eksklyuzivni-detali-roboti-boyovogo-vodolaza-sso-319164/",
-   "i": "https://imglife.pravda.com.ua/life/images/doc/b/8/150241/b88ce6d113551feeba5078b9fe579dcc.jpeg?w=390&q=90&f=jpeg",
-   "d": "2026-11-19T11:00:00+00:00",
-   "c": [
-    "zhyttia"
-   ]
-  },
-  {
    "t": "Мита США можуть стати нижчими: одна азійська країна виторгувала собі поступку",
    "s": "24 Канал",
    "u": "https://24tv.ua/economy/mita-ssha-dlya-tayilandu-yak-zminyatsya-tarifi-import-pislya_n3183590",
@@ -3137,16 +3175,6 @@
    ],
    "r": [
     "kharkiv"
-   ]
-  },
-  {
-   "t": "Премія \"Книги року BBC-2026\" оголосила короткі списки",
-   "s": "Українська правда. Життя",
-   "u": "https://life.pravda.com.ua/culture/ogolosheno-korotki-spiski-premiji-kniga-roku-bbc-2026-319169/",
-   "i": "https://imglife.pravda.com.ua/life/images/doc/0/b/150251/0b1173bbdf898f3865ada0730e727db5.jpeg?w=390&q=90&f=jpeg",
-   "d": "2026-11-19T10:29:00+00:00",
-   "c": [
-    "zhyttia"
    ]
   },
   {
