@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T03:40:39+00:00",
+ "updated": "2026-11-19T03:50:39+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -262,7 +262,7 @@
     },
     {
      "s": "Суспільне",
-     "u": "https://suspilne.media/dnipro/1454735-na-dnipropetrovsini-19-listopada-diatimut-pogodinni-grafiki-vidklucen-svitla/"
+     "u": "https://suspilne.media/kharkiv/1454723-u-harkovi-ta-oblasti-19-listopada-diatimut-grafiki-pogodinnih-vidklucen-svitla-rozklad/"
     }
    ],
    "d": "2026-11-18T20:45:00+00:00"
@@ -302,6 +302,23 @@
    "d": "2026-11-18T20:36:33+00:00"
   },
   {
+   "t": "На Дніпропетровщині 19 листопада діятимуть погодинні графіки відключень світла",
+   "u": "https://suspilne.media/dnipro/1454735-na-dnipropetrovsini-19-listopada-diatimut-pogodinni-grafiki-vidklucen-svitla/",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "n": 2,
+   "l": [
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/dnipro/1454735-na-dnipropetrovsini-19-listopada-diatimut-pogodinni-grafiki-vidklucen-svitla/"
+    },
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/vidklyuchennya-svitla-19-listopada-2026-grafiki-do-3-cherg-ukrayini_n3183246"
+    }
+   ],
+   "d": "2026-11-18T20:07:22+00:00"
+  },
+  {
    "t": "NBC News: Республіканці у Конгресі США використовують допомогу Україні як важіль тиску на демократів",
    "u": "https://www.pravda.com.ua/news/2026/11/18/8063526/",
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/f/959826/df47032d72b013a0620d9589f82ab1ee.jpeg",
@@ -317,26 +334,34 @@
     }
    ],
    "d": "2026-11-18T19:45:00+00:00"
-  },
-  {
-   "t": "Суд обрав запобіжний захід ще одному фігуранту справи про сутички у Петропавлівській Борщагівці",
-   "u": "https://interfax.com.ua/news/general/1238846.html",
-   "i": "https://media.interfax.com.ua/media/thumbs/images/2025/08/moxgd/WJprvqnpcUlD.jpg",
-   "n": 2,
-   "l": [
-    {
-     "s": "Інтерфакс-Україна",
-     "u": "https://interfax.com.ua/news/general/1238846.html"
-    },
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/18/8063505/"
-    }
-   ],
-   "d": "2026-11-18T18:56:46+00:00"
   }
  ],
  "items": [
+  {
+   "t": "На Кіровоградщині змінили погодинний графік відключення електрики на 19 листопада",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/kropyvnytskiy/1454626-na-kirovogradsini-zminili-pogodinnij-grafik-vidklucenna-elektriki-na-19-listopada/",
+   "x": "За розпорядженням Укренерго на Кіровоградщині змінили графік погодинних відключень електрики на 19 листопада. Про це повідомили на офіційному сайті Кіровоградобленерго",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-19T03:43:29+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kirovohrad"
+   ]
+  },
+  {
+   "t": "Зеленський: якби Трамп, Сі Цзіньпін та Путін хотіли, то війну в Україні можна було б завершити за одну зустріч",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1454748-zelenskij-akbi-tramp-si-czinpin-ta-putin-hotili-to-vijnu-v-ukraini-mozna-bulo-b-zaversiti-za-odnu-zustric/",
+   "x": "Президент України Володимир Зеленський заявив, що війну в Україні можна було б завершити за одну зустріч очільника Кремля Путіна з президентом США Дональдом Трампом та головою КНР Сі Цзіньпінем",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-19T03:41:55+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
   {
    "t": "Як захистити мости Києва від російських ракет: Храпчинський назвав неочевидне рішення",
    "s": "24 Канал",
@@ -1323,17 +1348,6 @@
    ]
   },
   {
-   "t": "Міністр ветеранів Кім про заяву щодо ризиків після повернення військових: хочу, щоб ми були готові",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1454734-ministr-veteraniv-kim-pro-zaavu-sodo-rizikiv-pisla-povernenna-vijskovih-hocu-sob-mi-buli-gotovi/",
-   "x": "Міністр у справах ветеранів Віталій Кім про свою заяву про кримінальні ризики після повернення військовослужбовців з фронту - хоче, аби суспільство було готове до такого",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-18T20:25:53+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "\"Накласти на себе руки\": Мудрик розповів про свій стан, коли дізнався про позитивний допінг-тест",
    "s": "24 Канал",
    "u": "https://24tv.ua/sporttopnews/intervyu-mihayla-mudrika-futbolist-rozpoviv-pro-sviy-stan-pislya_n3183287",
@@ -1938,17 +1952,6 @@
    ]
   },
   {
-   "t": "Президент Польщі Навроцький таємно подарував Трампу бурштинове крісло",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1454717-prezident-polsi-navrockij-taemno-podaruvav-trampu-burstinove-krislo/",
-   "x": "Президент Польщі Кароль Навроцький подарував президенту США Трампу на 80-річчя крісло, вироблене з бурштином. Подарунок був таємний, про нього не знало ні посольство Польщі у США, ні МЗС Польщі",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-18T19:37:48+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "На Чернігівщині попрощалися з Миколою Лесенком, Ярославом Максименком, Дмитром Погуляйком і Сергієм Піддубним",
    "s": "Суспільне",
    "u": "https://suspilne.media/chernihiv/1454558-na-cernigivsini-poprosalisa-z-mikolou-lesenkom-aroslavom-maksimenkom-dmitrom-pogulajkom-i-sergiem-piddubnim/",
@@ -1960,6 +1963,20 @@
    ],
    "r": [
     "chernihiv"
+   ]
+  },
+  {
+   "t": "У Луганські через знеструмлення обмежують подачу води до кількох годин на день — ОДА",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/donbas/1454721-u-luganski-cerez-znestrumlenna-obmezuut-podacu-vodi-do-kilkoh-godin-na-den-oda/",
+   "x": "В тимчасово окупованому Луганську через знеструмлення насосних станцій система працюватиме кілька годин зранку і ввечері. Про це повідомляє Луганська ОДА",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-18T19:33:24+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "luhansk"
    ]
   },
   {
@@ -2419,20 +2436,6 @@
    ]
   },
   {
-   "t": "Як у Полтавській області 19 листопада відключатимуть світло: графіки",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/poltava/1454702-ak-u-poltavskij-oblasti-19-listopada-vidklucatimut-svitlo-grafiki/",
-   "x": "У Полтавській області 19 листопада ввели погодинні відключення електроенергії. Дізнатися графіки відключення світла для своєї черги - у матеріалі",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-18T18:50:14+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "poltava"
-   ]
-  },
-  {
    "t": "🤡СІ ЖОРСТКО ПРИНИЗИВ пУТІНА👀 ДОГОВІРНЯК ПО УКРАЇНІ СКАСОВУЄТЬСЯ ❗ЄС РВЕТЬСЯ ДО ПЕРЕГОВОРІВ",
    "s": "5 канал · відео",
    "u": "https://www.youtube.com/watch?v=Tz85mkJ8WHw",
@@ -2452,20 +2455,6 @@
    "d": "2026-11-18T18:43:49+00:00",
    "c": [
     "holovne"
-   ]
-  },
-  {
-   "t": "У Чернівецькій області 19 листопада діятимуть графіки відключення електрики — обленерго",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/chernivtsi/1454488-u-cerniveckij-oblasti-19-listopada-diatimut-grafiki-vidklucenna-elektriki-oblenergo/",
-   "x": "У Чернівцях та Чернівецькій області діятиме графік відключення світла 19 листопада. Для яких груп вимикатимуть електрику - графік обленерго",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-18T18:41:45+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "chernivtsi"
    ]
   },
   {
@@ -2558,6 +2547,17 @@
    ],
    "r": [
     "crimea"
+   ]
+  },
+  {
+   "t": "Міністр ветеранів Кім про заяву щодо ризиків після повернення військових: хочу, щоб ми були готові",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1454734-ministr-veteraniv-kim-pro-zaavu-sodo-rizikiv-pisla-povernenna-vijskovih-hocu-sob-mi-buli-gotovi/",
+   "x": "Міністр у справах ветеранів Віталій Кім про свою заяву про кримінальні ризики після повернення військовослужбовців з фронту - хоче, аби суспільство було готове до такого",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-18T18:25:53+00:00",
+   "c": [
+    "holovne"
    ]
   },
   {
@@ -2746,17 +2746,14 @@
    "v": 1
   },
   {
-   "t": "У Луганські через знеструмлення обмежують подачу води до кількох годин на день — ОДА",
+   "t": "Президент Польщі Навроцький таємно подарував Трампу бурштинове крісло",
    "s": "Суспільне",
-   "u": "https://suspilne.media/donbas/1454721-u-luganski-cerez-znestrumlenna-obmezuut-podacu-vodi-do-kilkoh-godin-na-den-oda/",
-   "x": "В тимчасово окупованому Луганську через знеструмлення насосних станцій система працюватиме кілька годин зранку і ввечері. Про це повідомляє Луганська ОДА",
+   "u": "https://suspilne.media/1454717-prezident-polsi-navrockij-taemno-podaruvav-trampu-burstinove-krislo/",
+   "x": "Президент Польщі Кароль Навроцький подарував президенту США Трампу на 80-річчя крісло, вироблене з бурштином. Подарунок був таємний, про нього не знало ні посольство Польщі у США, ні МЗС Польщі",
    "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-18T17:33:24+00:00",
+   "d": "2026-11-18T17:37:48+00:00",
    "c": [
     "holovne"
-   ],
-   "r": [
-    "luhansk"
    ]
   },
   {
