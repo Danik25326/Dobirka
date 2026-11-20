@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T12:10:43+00:00",
+ "updated": "2026-11-20T12:21:06+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -158,10 +158,43 @@
  ],
  "top": [
   {
+   "t": "У Польщі впали дві російські крилаті ракети та один дрон, – Міноборони",
+   "u": "https://24tv.ua/polshhi-vpali-rosiyski-raketi-reaktivniy-dron-shho-vidomo-pro_n3196741",
+   "i": "https://24tv.ua/resources/photos/news/202611/3196741.jpg?v=1795176354000&q=100",
+   "n": 6,
+   "l": [
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/polshhi-vpali-rosiyski-raketi-reaktivniy-dron-shho-vidomo-pro_n3196741"
+    },
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/1455349-pid-cas-ataki-rf-na-ukrainu-u-polsi-prolunav-vibuh-pripuskaut-raketu-h-101-abo-reaktivnij-dron/"
+    },
+    {
+     "s": "Інтерфакс-Україна",
+     "u": "https://interfax.com.ua/news/general/1239808.html"
+    },
+    {
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/20/8063786/"
+    },
+    {
+     "s": "ZN.UA",
+     "u": "https://zn.ua/ukr/europe/u-polshchi-vpali-dvi-rosijski-raketi-kh-101-ta-reaktivnij-dron-i-data-intsidentu-ne-vipadkova-kosinjak-kamish.html"
+    },
+    {
+     "s": "Європейська правда",
+     "u": "https://www.eurointegration.com.ua/news/2026/11/20/7250444/"
+    }
+   ],
+   "d": "2026-11-20T12:13:00+00:00"
+  },
+  {
    "t": "Уночі ми уразили три пускові російської балістики – Зеленський",
    "u": "https://www.pravda.com.ua/news/2026/11/20/8063798/",
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/d/960792/9d41d47afc4e21288c3f134273015de0.jpeg",
-   "n": 3,
+   "n": 4,
    "l": [
     {
      "s": "Українська правда",
@@ -172,6 +205,10 @@
      "u": "https://24tv.ua/rosiyski-puskovi-ustanovki-balistiki-urazili-zsu-odnu-vdalosya_n3194611"
     },
     {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/1455408-zelenskij-povidomiv-pro-urazenna-puskovih-ustanovok-rosijskoi-balistiki/"
+    },
+    {
      "s": "Інтерфакс-Україна",
      "u": "https://interfax.com.ua/news/general/1239822.html"
     }
@@ -179,38 +216,89 @@
    "d": "2026-11-20T12:00:00+00:00"
   },
   {
-   "t": "Дві російські ракети і один дрон впали на території Польщі – Косіняк-Камиш",
-   "u": "https://interfax.com.ua/news/general/1239808.html",
-   "i": "https://media.interfax.com.ua/media/thumbs/images/2025/01/zwhpb/sa8z4tsr8Ioa.jpg",
+   "t": "Естонія з 1 грудня закриває кордон з Росією",
+   "u": "https://interfax.com.ua/news/general/1239880.html",
+   "i": "https://img.eurointegration.com.ua/images/doc/2/5/25296e3-smartcrop.jpg",
    "n": 2,
    "l": [
     {
      "s": "Інтерфакс-Україна",
-     "u": "https://interfax.com.ua/news/general/1239808.html"
+     "u": "https://interfax.com.ua/news/general/1239880.html"
     },
     {
-     "s": "ZN.UA",
-     "u": "https://zn.ua/ukr/europe/u-polshchi-vpali-dvi-rosijski-raketi-kh-101-ta-reaktivnij-dron-i-data-intsidentu-ne-vipadkova-kosinjak-kamish.html"
+     "s": "Європейська правда",
+     "u": "https://www.eurointegration.com.ua/news/2026/11/20/7250445/"
     }
    ],
-   "d": "2026-11-20T10:56:05+00:00"
+   "d": "2026-11-20T12:02:51+00:00"
   },
   {
-   "t": "Кількість постраждалих в Києві зросла до 17 осіб",
-   "u": "https://interfax.com.ua/news/general/1239786.html",
-   "i": "https://media.interfax.com.ua/media/thumbs/images/2026/11/kzhmc/HLTyvoN7Nv60.jpg",
+   "t": "У Києві від початку повномасштабної війни народилися понад 90 тисяч дітей – КМДА",
+   "u": "https://life.pravda.com.ua/society/u-kiyevi-z-2022-roku-narodilisya-ponad-90-tisyach-ditey-kmda-319203/",
+   "i": "https://imglife.pravda.com.ua/life/images/doc/d/b/150404/db7549308b345676e448c2a3ad3e5036.jpeg?w=390&q=90&f=jpeg",
+   "n": 2,
+   "l": [
+    {
+     "s": "Українська правда. Життя",
+     "u": "https://life.pravda.com.ua/society/u-kiyevi-z-2022-roku-narodilisya-ponad-90-tisyach-ditey-kmda-319203/"
+    },
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/kyiv/1455372-1520-dvien-i-14-trien-u-kievi-iz-pocatku-povnomasstabnogo-vtorgnenna-narodilisa-ponad-90-tis-ditej/"
+    }
+   ],
+   "d": "2026-11-20T12:01:00+00:00"
+  },
+  {
+   "t": "Україна отримала майже 8 млрд євро від ЄС у межах Ukraine Facility",
+   "u": "https://suspilne.media/1455439-ukraina-otrimala-majze-8-mlrd-evro-vid-es-u-mezah-ukraine-facility/",
+   "i": "https://cdn4.suspilne.media/images/23dca5c79aa74f93.jpg",
+   "n": 2,
+   "l": [
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/1455439-ukraina-otrimala-majze-8-mlrd-evro-vid-es-u-mezah-ukraine-facility/"
+    },
+    {
+     "s": "Інтерфакс-Україна",
+     "u": "https://interfax.com.ua/news/general/1239831.html"
+    }
+   ],
+   "d": "2026-11-20T11:50:07+00:00"
+  },
+  {
+   "t": "ЄС виділив Україні 7,9 млрд євро одним траншем за програмою Ukraine Facility",
+   "u": "https://www.pravda.com.ua/news/2026/11/20/8063795/",
+   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/c/960777/7c8398b3b160679d8b8564239dd6b9fe.jpeg",
+   "n": 2,
+   "l": [
+    {
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/20/8063795/"
+    },
+    {
+     "s": "Європейська правда",
+     "u": "https://www.eurointegration.com.ua/news/2026/11/20/7250449/"
+    }
+   ],
+   "d": "2026-11-20T11:43:00+00:00"
+  },
+  {
+   "t": "Зеленський після масованої атаки РФ розраховує на рішення Пентагону щодо постачання ракет PAC-2 і PAC-3",
+   "u": "https://interfax.com.ua/news/general/1239840.html",
+   "i": "https://media.interfax.com.ua/media/thumbs/images/2023/05/kIcWgD2MJW_4.jpg",
    "n": 2,
    "l": [
     {
      "s": "Інтерфакс-Україна",
-     "u": "https://interfax.com.ua/news/general/1239786.html"
+     "u": "https://interfax.com.ua/news/general/1239840.html"
     },
     {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/vibuhi-kiyevi-20-listopada-rosiya-zavdala-udaru-balistikoyu-novini_n3184112"
+     "s": "Європейська правда",
+     "u": "https://www.eurointegration.com.ua/news/2026/11/20/7250450/"
     }
    ],
-   "d": "2026-11-20T10:29:43+00:00"
+   "d": "2026-11-20T11:35:42+00:00"
   },
   {
    "t": "АЕС знизили потужність після атаки Росії: у Києві та 10 областях проблеми зі світлом",
@@ -262,26 +350,125 @@
     }
    ],
    "d": "2026-11-20T08:42:00+00:00"
-  },
-  {
-   "t": "Росія атакувала залізничну станцію \"Скнилів\" під Львовом: є жертви",
-   "u": "https://24tv.ua/ataka-stantsiyu-skniliv-20-listopada-skilki-lyudey-zaginuli_n3184165",
-   "i": "https://24tv.ua/resources/photos/news/202611/3184165.jpg?v=1795159094000&q=100",
-   "n": 2,
-   "l": [
-    {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/ataka-stantsiyu-skniliv-20-listopada-skilki-lyudey-zaginuli_n3184165"
-    },
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/20/8063746/"
-    }
-   ],
-   "d": "2026-11-20T07:29:00+00:00"
   }
  ],
  "items": [
+  {
+   "t": "Нафта дешевшає третій тиждень поспіль попри атаки на танкери в Ормузькій протоці",
+   "s": "24 Канал",
+   "u": "https://financy.24tv.ua/tsini-naftu-padayut-tretiy-tizhden-pospil-shho-varto-znati-naprikintsi_n3195633",
+   "x": "Єменські хусити продовжують атакувати Саудівську Аравію, а проходження нафтових танкерів через Ормузьку протоку досі супроводжується значними ризиками. Однак навіть ці обставини, що зазвичай сприяють подорожчанню…",
+   "i": "https://24tv.ua/resources/photos/news/202611/3195633.jpg?v=1795174147000&q=100",
+   "d": "2026-11-20T12:20:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "GTA 6: Як Rockstar змінила масову культуру (Відео)",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1455454-gta-6-ak-rockstar-zminila-masovu-kulturu-video/",
+   "x": "Чому Grand Theft Auto стала настільки культовою? У цьому випуску «Культуримо» розбираємо феномен GTA: від Vice City і San Andreas до GTA 5 та, безпосередньо, GTA 6.",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-20T12:19:51+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Заповідник «Софія Київська» допоможе захистити та зберегти культурну спадщину Криму",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/crimea/1455404-zapovidnik-sofia-kiivska-dopomoze-zahistiti-ta-zberegti-kulturnu-spadsinu-krimu/",
+   "x": "Постійна Представниця Президента України в Криму Ольга Куришко домовилась з директоркою заповідника Софія Київська Нелею Куковальською про захист, збереження культурної спадщини Криму і документування злочинів окупантів",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-20T12:16:00+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "crimea"
+   ]
+  },
+  {
+   "t": "Постіль після прання пахне затхлим: яку помилку виправити під час сушіння",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/lifehacks24/chomu-postil-pahne-zathlim-pislya-prannya-yak-pravilno-yiyi-sushiti_n3197016",
+   "x": "Випрана постільна білизна іноді набуває затхлого запаху ще до того, як висохне. Причиною буває надто щільне розвішування: підковдри та простирадла лежать одне на одному й довго залишаються вологими у складках.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3197016.jpg?v=1795176067000&q=100",
+   "d": "2026-11-20T12:15:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "В Україні викрили мережу шахрайських колцентрів, пов'язану з наркокартелем \"Хімпром\"",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/ukrayini-vikrili-koltsentri-narkokartelyu-himprom-16-pidozryuvanih_n3197192",
+   "x": "В Україні припинили діяльність транснаціональної мережі шахрайських колцентрів, яка була пов'язана з наркокартелем \"Хімпром\". Зловмисники ошукували громадян Європейського Союзу, а частину підозрюваних уже оголосили в…",
+   "i": "https://24tv.ua/resources/photos/news/202611/3197192.jpg?v=1795176429000&q=100",
+   "d": "2026-11-20T12:14:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Школи отримають доступ до тренувань із технологічного спорту в рамках меморандуму з F-Drones Simulator та Мінмолоді - ФТСУ",
+   "s": "Інтерфакс-Україна",
+   "u": "https://interfax.com.ua/news/sport/1239901.html",
+   "x": "Міністерство молоді та спорту, Федерація технологічного спорту та F-Drones Simulator підписали Меморандум про співпрацю, в рамках якого школи отримають доступ до програмного забезпечення для тренувань.",
+   "d": "2026-11-20T12:13:58+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "У Польщі впали дві російські крилаті ракети та один дрон, – Міноборони",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/polshhi-vpali-rosiyski-raketi-reaktivniy-dron-shho-vidomo-pro_n3196741",
+   "x": "Під час масованої російської атаки на Україну в ніч проти 20 листопада на території Польщі впали дві російські ракети та один безпілотник.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3196741.jpg?v=1795176354000&q=100",
+   "d": "2026-11-20T12:13:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Любителі котів можуть пожити у Греції абсолютно безкоштовно: що потрібно робити натомість",
+   "s": "24 Канал",
+   "u": "https://travel.24tv.ua/volonterstvo-gretsiyi-bezkoshtovnim-zhitlom-lyubiteliv-kotiv_n3196404",
+   "x": "Літо на грецькому острові, життя серед котів і можливість допомагати безпритульним тваринам – така пропозиція може зацікавити тих, хто мріє поєднати подорожі з волонтерством. Однак учасникам доведеться бути готовими до…",
+   "i": "https://24tv.ua/resources/photos/news/202611/3196404.jpg?v=1795175904000&q=100",
+   "d": "2026-11-20T12:13:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Вибивали вигаданий борг електрошокером та металевою скакалкою: у Дніпрі судитимуть трьох чоловіків",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/dnipro/1331110-vibivali-vigadanij-borg-elektrosokerom-ta-metalevou-skakalkou-u-dnipri-suditimut-troh-colovikiv/",
+   "x": "Зловмисники, погрожуючи зброєю, посадили чоловіка до машини, вдарили електрошокером, вивезли у гараж, де почали бити. Одним із методів, який спільники — побиття металевою скакалкою по принципу батога, завдали щонайменше…",
+   "i": "https://cdn4.suspilne.media/images/f57a167edf8c64f1.png",
+   "d": "2026-11-20T12:12:07+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "dnipro"
+   ]
+  },
+  {
+   "t": "🔥КРЫМ, а вот теперь НАЧАЛОСЬ! Вот, что ВСПЛЫЛО СРАЗУ ПОСЛЕ АТАКИ МОСТА. Пути в АУТЕ. АСЛАНЯН, ШАРП",
+   "s": "24 Канал · відео",
+   "u": "https://www.youtube.com/watch?v=WhPHYMPtd_s",
+   "x": "Ведущий 24 Канала Владислав Новиков ‪@novi_tv вместе с журналистом и ведущим программы \"Ходорковский LIVE\" Сергеем Асланяном ‪@garagass и военным обозревателем Давидом Шарпом ‪@DavidSharp-eu1on проанализировали…",
+   "i": "https://i4.ytimg.com/vi/WhPHYMPtd_s/hqdefault.jpg",
+   "d": "2026-11-20T12:10:31+00:00",
+   "c": [
+    "video"
+   ],
+   "v": 1
+  },
   {
    "t": "Операція \"Карфаген\": усе, що відомо",
    "s": "24 Канал",
@@ -306,7 +493,61 @@
    ]
   },
   {
-   "t": "На фоні стриманого образу: Гейлі Бібер показала колір манікюру, який повернула у тренди",
+   "t": "У Рогатині на Франківщині з міського озера витягнули тіло чоловіка",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/ivano-frankivsk/1455445-u-rogatini-na-frankivsini-z-miskogo-ozera-vitagnuli-tilo-colovika/",
+   "x": "20 листопада 2026 року з міського озера у Рогатині, що на Франківщині, надзвичайники витягнули тіло чоловіка. Вони передали його поліцейським",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-20T12:08:06+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Херсонщина отримає 53,5 млн грн від Черкаської області на мобільні укриття для школярів",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/kherson/1455430-hersonsina-otrimae-535-mln-grn-vid-cerkaskoi-oblasti-na-mobilni-ukritta-dla-skolariv/",
+   "x": "Черкаська область виділила Херсонщині 53,5 мільйона гривень на встановлення мобільних укриттів для школярів. За ці кошти придбають і встановлять 76 нових споруд",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-20T12:07:39+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kherson",
+    "cherkasy"
+   ]
+  },
+  {
+   "t": "У Миколаєві для стабілізації тепломереж після знеструмлення потрібно до 12 годин",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/mykolaiv/1455443-u-mikolaevi-dla-stabilizacii-teplomerez-pisla-znestrumlenna-potribno-do-12-godin/",
+   "x": "Через аварійне відключення електроенергії на Миколаївській ТЕЦ зупинилося насосне обладнання та стався скид теплоносія. На відновлення роботи тепломереж потрібно орієнтовно 10–12 годин",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-20T12:06:49+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "mykolaiv"
+   ]
+  },
+  {
+   "t": "Обіцяли до 2 тисячі доларів: в Одесі підозрюють чоловіка у підпалі авто на замовлення РФ",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/odesa/1455446-obicali-do-2-tisaci-dolariv-v-odesi-pidozruut-colovika-u-pidpali-avto-na-zamovlenna-rf/",
+   "x": "В Одесі затримали 39-річного чоловіка, якого підозрюють у підпалі Audi на замовлення РФ. Вогонь пошкодив ще три автомобілі. Підозрюваному загрожує до 10 років ув'язнення",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-20T12:06:40+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "odesa"
+   ]
+  },
+  {
+   "t": "На тлі стриманого образу: Гейлі Бібер показала колір манікюру, який повернула у тренди",
    "s": "24 Канал",
    "u": "https://24tv.ua/lady24/blakitniy-manikyur-geyli-biber-yak-povtoriti-golovniy-trend-sezonu_n3190580",
    "x": "Відома модель та засновниця бренду Rhode Гейлі Бібер знову задає тренди у світі краси. На саміті The New York Times DealBook у Нью-Йорку зірка з’явилася у вишуканому образі, доповнивши його ніжним блакитним манікюром…",
@@ -332,21 +573,32 @@
    ]
   },
   {
-   "t": "Як порівнювати TV, YouTube, радіо та зовнішню рекламу: що показує Медіаландшафт 2026",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/business/reklama-dlya-biznesu-porivnyannya-tsifr-tb-radio-digital_n3196418",
-   "x": "Аналітики презентували аналітичну модель Медіаландшафт 2026, яка показала реальну рекламну віддачу радіо, зовнішньої реклами, телебачення та YouTube в Україні. За однакового бюджету у 500 тисяч гривень різні канали…",
-   "i": "https://24tv.ua/resources/photos/news/202611/3196418.jpg?v=1795175829000&q=100",
-   "d": "2026-11-20T12:04:20+00:00",
+   "t": "Військова юстиція: чому військові суди та прокуратура не розв'язують проблем військовослужбовців",
+   "s": "Українська правда",
+   "u": "https://www.pravda.com.ua/news/2026/11/20/8063800/",
+   "d": "2026-11-20T12:04:00+00:00",
    "c": [
     "holovne"
    ]
   },
   {
-   "t": "Військова юстиція: чому військові суди та прокуратура не розв'язують проблем військовослужбовців",
-   "s": "Українська правда",
-   "u": "https://www.pravda.com.ua/news/2026/11/20/8063800/",
+   "t": "Як порівнювати TV, YouTube, радіо та зовнішню рекламу: що показує Медіаландшафт 2026",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/business/reklama-dlya-biznesu-porivnyannya-tsifr-tb-radio-digital_n3196418",
+   "x": "Аналітики презентували аналітичну модель Медіаландшафт 2026, яка показала реальну рекламну віддачу радіо, зовнішньої реклами, телебачення та YouTube в Україні. За однакового бюджету у 500 тисяч гривень різні канали…",
+   "i": "https://24tv.ua/resources/photos/news/202611/3196418.jpg?v=1795175829000&q=100",
    "d": "2026-11-20T12:04:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Визначилися пари 1/4 фіналу елітного дивізіону Ліги націй: результати жеребкування",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sport/1455432-viznacilisa-pari-14-finalu-elitnogo-divizionu-ligi-nacij-rezultati-zerebkuvanna/",
+   "x": "Відбулося жеребкування чвертьфінальних поєдинків Ліги націй з футболу, за його підсумками сформувалися чотири пари, які боротимуться за вихід у півфінал: Іспанія гратиме з Францією",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-20T12:03:25+00:00",
    "c": [
     "holovne"
    ]
@@ -385,18 +637,6 @@
    ]
   },
   {
-   "t": "Гроші вже у бюджеті: Україна отримала найбільший транш за Ukraine Facility",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/economy/dopomoga-vid-yes-yaku-rekordnu-sumu-otrimala-ukrayina-za-programoyu_n3195983",
-   "x": "Україна отримала масштабну фінансову підтримку від Європейського Союзу. Ці кошти мають допомогти державі покривати першочергові потреби під час війни.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3195983.jpg?v=1795174568000&q=100",
-   "d": "2026-11-20T12:01:56+00:00",
-   "c": [
-    "holovne",
-    "ekonomika"
-   ]
-  },
-  {
    "t": "Зеленський підсумував \"саміт трьох\": Путін не зміг",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/POLITICS/zelenskij-pidsumuvav-samit-trokh-putin-ne-zmih.html",
@@ -405,6 +645,31 @@
    "d": "2026-11-20T12:01:29+00:00",
    "c": [
     "statti"
+   ]
+  },
+  {
+   "t": "Гроші вже у бюджеті: Україна отримала найбільший транш за Ukraine Facility",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/economy/dopomoga-vid-yes-yaku-rekordnu-sumu-otrimala-ukrayina-za-programoyu_n3195983",
+   "x": "Україна отримала масштабну фінансову підтримку від Європейського Союзу. Ці кошти мають допомогти державі покривати першочергові потреби під час війни.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3195983.jpg?v=1795174568000&q=100",
+   "d": "2026-11-20T12:01:00+00:00",
+   "c": [
+    "holovne",
+    "ekonomika"
+   ]
+  },
+  {
+   "t": "У Києві від початку повномасштабної війни народилися понад 90 тисяч дітей – КМДА",
+   "s": "Українська правда. Життя",
+   "u": "https://life.pravda.com.ua/society/u-kiyevi-z-2022-roku-narodilisya-ponad-90-tisyach-ditey-kmda-319203/",
+   "i": "https://imglife.pravda.com.ua/life/images/doc/d/b/150404/db7549308b345676e448c2a3ad3e5036.jpeg?w=390&q=90&f=jpeg",
+   "d": "2026-11-20T12:01:00+00:00",
+   "c": [
+    "zhyttia"
+   ],
+   "r": [
+    "kyiv"
    ]
   },
   {
@@ -456,6 +721,45 @@
     "holovne",
     "vazhlyve",
     "viyna"
+   ]
+  },
+  {
+   "t": "У Луцьку тимчасово перекриють рух транспорту на вулиці Свободи",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/lutsk/1455438-u-lucku-timcasovo-perekriut-ruh-transportu-na-vulici-svobodi/",
+   "x": "Через ремонт тепломережі 23 листопада у Луцьку комунальники будуть змушені тимчасово перекрити рух транспорту на вулиці Свободи. Обмеження діятиме з 8:00 ранку",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-20T11:56:23+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "volyn"
+   ]
+  },
+  {
+   "t": "Росіяни масово запускають дрони «Молнія» по логістиці Сил оборони у напрямку Часового Яру — 24 ОМБр",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/donbas/1455419-rosiani-masovo-zapuskaut-droni-molnia-po-logistici-sil-oboroni-u-napramku-casovogo-aru-24-ombr/",
+   "x": "У напрямку Часового Яру війська РФ активізували малі піхотні групи, використовуючи негоду для просування. Водночас окупанти масово застосовують КАБи, FPV-дрони та ударні безпілотники «Молнія» для атак по позиціях і…",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-20T11:55:59+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Апеляційний суд залишив без змін вирок ексголові Господарського суду Сумщини — 8 років тюрми",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sumy/1455434-apelacijnij-sud-zalisiv-bez-zmin-virok-eksgolovi-gospodarskogo-sudu-sumsini-8-rokiv-turmi/",
+   "x": "20 листопада 2026 року АП ВАКС залишила без змін вирок ексголові Господарського суду Сумської області (наразі діючий суддя) О. Коваленку",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-20T11:54:20+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "sumy"
    ]
   },
   {
@@ -547,6 +851,17 @@
    ]
   },
   {
+   "t": "Україна отримала майже 8 млрд євро від ЄС у межах Ukraine Facility",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1455439-ukraina-otrimala-majze-8-mlrd-evro-vid-es-u-mezah-ukraine-facility/",
+   "x": "У рамках Ukraine Facility Україна отримала майже 8 млрд євро від ЄС. Це найбільший одноразовий транш за всю історію програми, повідомив голова уряду Корецький",
+   "i": "https://cdn4.suspilne.media/images/23dca5c79aa74f93.jpg",
+   "d": "2026-11-20T11:50:07+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "Відбулося жеребкування плей-оф Ліги націй",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/SPORT/704701-vidbulosja-zherebkuvannja-plej-of-lihi-natsij.html",
@@ -555,6 +870,87 @@
    "d": "2026-11-20T11:50:00+00:00",
    "c": [
     "statti"
+   ]
+  },
+  {
+   "t": "У Миколаєві через ремонт тепломереж тимчасово немає опалення в будинках",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/mykolaiv/1455424-u-mikolaevi-cerez-remont-teplomerez-timcasovo-nemae-opalenna-v-budinkah/",
+   "x": "У Миколаєві 20 листопада тимчасово припинили теплопостачання в будинках за кількома десятками адрес через ремонт тепломереж і підключення житла до опалення. Перелік адрес — у матеріалі",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-20T11:49:59+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "mykolaiv"
+   ]
+  },
+  {
+   "t": "Стало відомо про смерть чотирьох військовослужбовців з Рівненщини",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/rivne/1455312-stalo-vidomo-pro-smert-cotiroh-vijskovsluzbovciv-z-rivnensini/",
+   "x": "Стало відомо про смерть трьох військовслужбовців з Рівненщини — Дмитра Захаревича із Зарічненської громади, Олександра Дячука з Малинської, Олександра Тишковця з Рівного, Віктора Брикси з Сарненської",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-20T11:48:01+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "rivne"
+   ]
+  },
+  {
+   "t": "Депутат Кропивницької міськради Костянтин Яриніч повідомив про намір достроково скласти повноваження",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/kropyvnytskiy/1455390-deputat-kropivnickoi-miskradi-vid-evropejskoi-solidarnosti-planue-dostrokovo-sklasti-povnovazenna/",
+   "x": "Депутат Кропивницької міської ради від «Європейської солідарності» Костянтин Яриніч має намір достроково скласти повноваження. Причиною називає стан здоров'я.",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-20T11:47:28+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kirovohrad"
+   ]
+  },
+  {
+   "t": "1520 двієнь і 14 трієнь: у Києві із початку повномасштабного вторгнення народилися понад 90 тис. дітей",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/kyiv/1455372-1520-dvien-i-14-trien-u-kievi-iz-pocatku-povnomasstabnogo-vtorgnenna-narodilisa-ponad-90-tis-ditej/",
+   "x": "Із початку повномасштабного вторгнення в лікарнях Києва народилися понад 90 тис. дітей. Серед них — майже 47 тис. хлопчиків і понад 44 тис. дівчат. За цей час медики прийняли 1520 двієнь і 14 трієнь",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-20T11:47:01+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kyiv"
+   ]
+  },
+  {
+   "t": "У Миколаєві — негода: дерева падають на автівки, а в обленерго попереджають про можливі аварійні відключення",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/mykolaiv/1455431-u-mikolaevi-negoda-dereva-padaut-na-avtivki-a-u-oblenergo-poperedzaut-pro-mozlivi-avarijni-vidklucenna/",
+   "x": "У Миколаєві 20 листопада через пориви вітру 15–20 м/с падають дерева та пошкоджують припарковані автівки. Куди звертатися у разі негоди та що кажуть очевидці",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-20T11:46:15+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "mykolaiv"
+   ]
+  },
+  {
+   "t": "На Черкащині у вихідні прогнозують дощі, мороз та місцями ожеледицю",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/cherkasy/1455396-na-cerkasini-u-vihidni-prognozuut-dosi-moroz-ta-miscami-ozeledicu/",
+   "x": "На Черкащині синоптики 21 та 22 листопада прогнозують періодичні дощі, у ніч на неділю мороз та місцями на дорогах ожеледиця. Наступного тижня буде сніг",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-20T11:46:00+00:00",
+   "c": [
+    "holovne"
    ]
   },
   {
@@ -568,6 +964,53 @@
    ],
    "r": [
     "khmelnytskyi"
+   ]
+  },
+  {
+   "t": "«У нас був напис \"Діти\"». У Чернігові суд виніс вирок військову РФ за розстріл авто в березні 2022 у селі Слобода",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/chernihiv/1455335-u-nas-buv-napis-diti-u-cernigovi-sud-vinis-virok-vijskovu-rf-za-rozstril-avto-v-berezni-2022-u-seli-sloboda/",
+   "x": "У Чернігові суд виніс вирок військову РФ за розстріл авто в березні 2022 у селі Слобода. Тоді загинув 27-річний чоловік, а його батько зазнав поранень. Подробиці справи — розповідаємо у матеріалі",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-20T11:45:37+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "chernihiv"
+   ]
+  },
+  {
+   "t": "Актор Оуен Купер знявся в новому кліпі на пісню The Beatles In My Life",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/culture/1455393-aktor-ouen-kuper-znavsa-v-novomu-klipi-na-pisnu-the-beatles-in-my-life/",
+   "x": "Актор Оуен Купер знявся в кліпі The Beatles на оновлений мікс пісні In My Life з альбому Rubber Soul. Зйомки відбулися в Ліверпулі, а сюжет об'єднує покоління.",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-20T11:44:41+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Під час атаки РФ на Україну у Польщі пролунав вибух. Повітряний простір порушили дві Х-101 і реактивний дрон",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1455349-pid-cas-ataki-rf-na-ukrainu-u-polsi-prolunav-vibuh-pripuskaut-raketu-h-101-abo-reaktivnij-dron/",
+   "x": "ечник Оперативного командування Збройних сил повідомив, що об'єкт, який упав міг бути крилатою ракетою Ch-101 або реактивним безпілотником",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-20T11:44:21+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "У Балаклії чоловік ловив рибу сітками з човна: що йому загрожує",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/kharkiv/1455428-u-balaklii-colovik-loviv-ribu-sitkami-z-covna-so-jomu-zagrozue/",
+   "x": "У Балаклії на річці Ляхівка правоохоронці викрили чоловіка, який з човна ловив рибу сітками. У нього вилучили 109 рибин, відкрито кримінальне провадження",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-20T11:44:18+00:00",
+   "c": [
+    "holovne"
    ]
   },
   {
@@ -604,6 +1047,20 @@
    ]
   },
   {
+   "t": "В Івано-Франківську зафіксували температурний рекорд",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/ivano-frankivsk/1455402-v-ivano-frankivsku-zafiksuvali-temperaturnij-rekord-3/",
+   "x": "19 листопада максимальна температура повітря в Івано-Франківську становила 17,1⁰ тепла. Попередній рекорд зафіксували в місті у 2010 році — 17⁰ вище нуля",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-20T11:40:52+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "ivanofrankivsk"
+   ]
+  },
+  {
    "t": "ЗАРАЗ! Трагічні НОВИНИ зі ЛЬВОВА: ПРЯМЕ ВКЛЮЧЕННЯ з місця удару. Ось що НАКОЇЛА РФ кілька годин тому",
    "s": "24 Канал · відео",
    "u": "https://www.youtube.com/watch?v=CHOYYu_AyU0",
@@ -616,6 +1073,20 @@
    "v": 1,
    "r": [
     "lviv"
+   ]
+  },
+  {
+   "t": "На Калинівському ринку у Чернівцях планують встановити сонячну електростанцію",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/chernivtsi/1455352-na-kalinivskomu-rinku-u-cernivcah-planuut-vstanoviti-sonacnu-elektrostanciu/",
+   "x": "На Калинівському ринку у Чернівцях планують встановити сонячну електростанцію за понад 870 тисяч гривень. Вона має забезпечувати електроживлення адмінбудівлі під час відключень. Роботи планують завершити до кінця року",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-20T11:40:00+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "chernivtsi"
    ]
   },
   {
@@ -651,6 +1122,20 @@
    ]
   },
   {
+   "t": "Поранені через удар по Жовтих Водах, знищили 47 БпЛА, скасування потягів. Головні новини Дніпра та області 20 листопада",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/dnipro/1455238-poraneni-cerez-ataki-rf-znisili-47-bpla-golovni-novini-dnipra-ta-oblasti-20-listopada/",
+   "x": "Оперативні новини Дніпра та Дніпропетровської області за 20 листопада 2026 року читайте в хроніці подій від редакції Суспільне Дніпро",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-20T11:36:32+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "dnipro"
+   ]
+  },
+  {
    "t": "Зеленський після масованої атаки РФ розраховує на рішення Пентагону щодо постачання ракет PAC-2 і PAC-3",
    "s": "Інтерфакс-Україна",
    "u": "https://interfax.com.ua/news/general/1239840.html",
@@ -659,6 +1144,59 @@
    "d": "2026-11-20T11:35:42+00:00",
    "c": [
     "holovne"
+   ]
+  },
+  {
+   "t": "У Центральному та Дніпровському районах Херсона можливі перебої зі світлом — МВА",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/kherson/1455421-u-centralnomu-ta-dniprovskomu-rajonah-hersona-mozlivi-pereboi-zi-svitlom-mva/",
+   "x": "20 листопада 2026 року у Центральному та Дніпровському районах Херсона можливі перебої з електропостачанням. Що відомо про ситуацію",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-20T11:35:28+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kherson"
+   ]
+  },
+  {
+   "t": "Зеленський розраховує, що Пентагон розблокує постачання Україні ракет-перехоплювачів",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/20/7250450/",
+   "x": "Президент Володимир Зеленський після масованої російської атаки по Україні 20 листопада доручив МЗС та міністру оборони зв’язатися з партнерами для прискорення постачань засобів протиповітряної оборони.",
+   "i": "https://img.eurointegration.com.ua/images/doc/3/9/398ded4-ze2-20261119-220150-20261119-220522.jpg",
+   "d": "2026-11-20T11:34:00+00:00",
+   "c": [
+    "polityka"
+   ]
+  },
+  {
+   "t": "Підпалювали у Києві автомобілі за вказівками кураторів із РФ: правоохоронці затримали двох підозрюваних",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/kyiv/1455407-pidpaluvali-u-kievi-avtomobili-za-vkazivkami-kuratoriv-iz-rf-pravoohoronci-zatrimali-dvoh-pidozruvanih/",
+   "x": "У Києві правоохоронці затримали 17-річного та 24-річного хлопців. Їх підозрюють у тому, що вони підпалювали автомобілі за вказівками російських кураторів",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-20T11:33:31+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kyiv"
+   ]
+  },
+  {
+   "t": "Війська РФ атакували безпілотником цивільну інфраструктуру в Семенівці",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/chernihiv/1455417-vijska-rf-atakuvali-bezpilotnikom-civilnu-infrastrukturu-v-semenivci/",
+   "x": "Російські війська 20 листопада близько 12:50 вдарили безпілотником типу «Герань-5» по об'єкту цивільної інфраструктури у місті Семенівка на прикордонні Чернігівщини",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-20T11:32:58+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "chernihiv"
    ]
   },
   {
@@ -779,6 +1317,20 @@
    ]
   },
   {
+   "t": "У Кременчуці планують закупити 22 тисячі новорічних подарунків для дітей: скільки вони коштуватимуть",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/poltava/1455418-u-kremencuci-planuut-zakupiti-22-tisaci-novoricnih-podarunkiv-dla-ditej-skilki-voni-kostuvatimut/",
+   "x": "У Кременчуці планують закупити 22 тисячі новорічних подарунків для дітей. Вартість одного набору становитиме понад 300 гривень, загальна сума — до 7 мільйонів гривень",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-20T11:24:10+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "poltava"
+   ]
+  },
+  {
    "t": "Поки Трамп зближується з Путіним та Сі, середні держави шукають власний шлях — Reuters",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/WORLD/poki-tramp-zblizhujetsja-z-putinim-ta-si-seredni-derzhavi-shukajut-vlasnij-shljakh-reuters.html",
@@ -826,6 +1378,17 @@
    ]
   },
   {
+   "t": "ЄС виділив Україні рекордниий транш: майже 8 млрд євро",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/20/7250449/",
+   "x": "У п’ятницю, 20 листопада, Європейська комісія виділила Україні 7,9 млрд євро для задоволення фінансових потреб та забезпечення функціонування державної адміністрації країни, яка продовжує захищатися від агресивної війни…",
+   "i": "https://img.eurointegration.com.ua/images/doc/5/f/5fa85bd-ukraine-1.jpg",
+   "d": "2026-11-20T11:21:00+00:00",
+   "c": [
+    "polityka"
+   ]
+  },
+  {
    "t": "Корецький: Україна отримала EUR8 млрд від ЄС в межах Ukraine Facility",
    "s": "Інтерфакс-Україна",
    "u": "https://interfax.com.ua/news/general/1239831.html",
@@ -834,6 +1397,35 @@
    "d": "2026-11-20T11:20:06+00:00",
    "c": [
     "holovne"
+   ]
+  },
+  {
+   "t": "Укрзалізниця скасувала два потяги між Києвом та Дніпром, а також автомобілевози до Львова: причини",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/dnipro/1455368-ukrzaliznica-skasuvala-dva-potagi-miz-kievom-ta-dniprom-a-takoz-avtomobilevozi-do-lvova-pricini/",
+   "x": "Укрзалізниця скасувала два потяги інтерсіті, які курсували між Києвом та Дніпром. Обмеження тимчасові й пов'язані з безпековою ситуацією",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-20T11:20:00+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kyiv",
+    "lviv"
+   ]
+  },
+  {
+   "t": "Зупинив потяг на під'їзді та евакуював людей: в «Укрзалізниці» розповіли про удар по станції «Скнилів» у Львові",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/lviv/1455399-zupiniv-potag-na-pidizdi-ta-evakuuvav-ludej-v-ukrzaliznici-rozpovili-pro-udar-po-stancii-skniliv-u-lvovi/",
+   "x": "Вранці 20 листопада машиніст електропоїзда «Укрзалізниці» зупинив його на під'їзді до залізничної станції «Скнилів» та евакуював пасажирів. Внаслідок тієї атаки на станції загинуло двоє людей, також є травмовані.",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-20T11:18:43+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "lviv"
    ]
   },
   {
@@ -873,6 +1465,32 @@
    ]
   },
   {
+   "t": "У Франківську заочно засудили жительку Луганщини, яка допомагала проводити псевдореферендум",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/ivano-frankivsk/1455367-u-frankivsku-zaocno-zasudili-zitelku-lugansini-aka-dopomagala-provoditi-psevdoreferendum/",
+   "x": "В Івано-Франківську заочно засудили 57-річну жительку Луганщини, яка допомагала окупантам проводити псевдореферендум про приєднання захопленої частини області до РФ. Жінці призначили 10 років ув'язнення з конфіскацією…",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-20T11:17:35+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "ivanofrankivsk",
+    "luhansk"
+   ]
+  },
+  {
+   "t": "Норвегія закупить ракети ППО для захисту критичних об’єктів на 22 млрд крон",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/20/7250448/",
+   "x": "Уряд Норвегії планує придбати ракети протиповітряної оборони, які зможуть захищати авіабази та критичну інфраструктуру від повітряних загроз, на суму близько 22 мільярдів крон (понад 2 млрд євро).",
+   "i": "https://img.eurointegration.com.ua/images/doc/5/8/582520b-20240506-fh-8441-2.jpg",
+   "d": "2026-11-20T11:17:00+00:00",
+   "c": [
+    "polityka"
+   ]
+  },
+  {
    "t": "⚡ШЕЙТЕЛЬМАН: Ничего ПОДОБНОГО в этой ВОЙНЕ И НЕ ВИДЕЛИ! Страшная КАТАСТРОФА для Путина. Мост ПАЛ",
    "s": "24 Канал · відео",
    "u": "https://www.youtube.com/watch?v=HnaSvijTZ5s",
@@ -883,6 +1501,20 @@
     "video"
    ],
    "v": 1
+  },
+  {
+   "t": "Зник напередодні деокупації: на Харківщині заочно судили чоловіка, який обійняв посаду при окупантах",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/kharkiv/1455409-savyntsi-zaochnyi-vyrok-kolaborant/",
+   "x": "Балаклійський райсуд заочно виніс вирок жителю Савинців Ізюмського району, який у вересні 2022 року обійняв посаду в окупаційній адміністрації, а перед деокупацією втік",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-20T11:15:07+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kharkiv"
+   ]
   },
   {
    "t": "Святкова казка вже почалася: коли відкриються різдвяні ярмарки у популярних містах Європи",
@@ -904,6 +1536,42 @@
    "d": "2026-11-20T11:14:11+00:00",
    "c": [
     "holovne"
+   ]
+  },
+  {
+   "t": "Зеленський доручив МЗС прискорити постачання систем ППО та ракет для України",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1455415-zelenskij-doruciv-mzs-priskoriti-postacanna-sistem-ppo-ta-raket-dla-ukraini/",
+   "x": "Зеленський доручив МЗС прискорити постачання нових пакетів ППО від партнерів і повідомив про комунікацію з американськими партнерами щодо передачі Україні ракет PAC-2 і PAC-3",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-20T11:13:59+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Прем'єр Іспанії називає свій уряд \"одним із найчистіших в історії демократії\"",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/20/7250447/",
+   "x": "Прем'єр-міністр Іспанії Педро Санчес назвав свій уряд \"одним із найчистіших в історії демократії\" у відповідь на критику з боку лідера опозиції Альберто Нуньєса Фейхоо щодо корупційних скандалів.",
+   "i": "https://img.eurointegration.com.ua/images/doc/8/9/89d8bc3-qtgb-0pz.jpg",
+   "d": "2026-11-20T11:13:00+00:00",
+   "c": [
+    "polityka"
+   ]
+  },
+  {
+   "t": "У Львові судитимуть 42-річного чоловіка за зберігання та поширення дитячої порнографії",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/lviv/1455388-u-lvovi-suditimut-42-ricnogo-colovika-za-zberiganna-ta-posirenna-ditacoi-pornografii/",
+   "x": "42-річного львів'янина обвинувачують у зберіганні та поширенні дитячої порнографії через Telegram. Обвинувальний акт скерували до суду",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-20T11:12:13+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "lviv"
    ]
   },
   {
@@ -941,6 +1609,59 @@
    ]
   },
   {
+   "t": "На Одещині через падіння дерев травмувалися четверо людей",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/odesa/1455401-na-odesini-cerez-padinna-derev-travmuvalisa-troe-ludej/",
+   "x": "На Одещині 20 листопада через падіння дерев травмувалися троє людей. Синоптики прогнозують пориви вітру до 28 м/с на узбережжі. Жителів закликають обмежити перебування на вулиці",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-20T11:09:50+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "odesa"
+   ]
+  },
+  {
+   "t": "У Сумах добровольцям виплатили 176 тисяч гривень за знищені російські БпЛА",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sumy/1455403-u-sumah-dobrovolcam-viplatili-176-tisac-griven-za-zniseni-rosijski-bpla/",
+   "x": "176 тисяч гривень виплатили бійцям добровольчих формувань Сумської міської територіальної громади за знищення російських безпілотників. Про це повідомив заступник начальника Сумської МВА Геннадій Дем'яненко.",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-20T11:08:51+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "sumy"
+   ]
+  },
+  {
+   "t": "Зеленський про масовану атаку РФ: били групами ракет із паузами, щоб ускладнити розбір завалів і відновлення",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1455400-zelenskij-pro-masovanu-ataku-rf-bili-grupami-raket-iz-pauzami-sob-uskladniti-rozbir-zavaliv-i-vidnovlenna/",
+   "x": "Зеленський назвав нічну атаку РФ одним із наймасованіших ударів по Україні та заявив, що росіяни запускали ракети хвилями з паузами у 20–30 хвилин, аби ускладнити гасіння пожеж і розбір завалів",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-20T11:08:09+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Втрати Черкас: громада провела в останню путь військовослужбовця ЗСУ",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/cherkasy/1455370-vtrati-cerkas-gromada-provela-v-ostannu-put-vijskovosluzbovca-zsu/",
+   "x": "У Черкасах 20 листопада містяни провели в останню путь солдата Євгена Пономаренка. Він помер під час проходження базової загальновійськової підготовки",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-20T11:08:02+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "cherkasy"
+   ]
+  },
+  {
    "t": "У Росії знову рахують літри на заправках: ще більше регіонів вводять обмеження",
    "s": "24 Канал",
    "u": "https://24tv.ua/economy/defitsit-palnogo-rosiyi-chomu-vse-bilshe-regioniv-vvodyat-zhorstki_n3193935",
@@ -950,6 +1671,17 @@
    "c": [
     "holovne",
     "ekonomika"
+   ]
+  },
+  {
+   "t": "Зеленський повідомив про ураження пускових установок російської балістики",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1455408-zelenskij-povidomiv-pro-urazenna-puskovih-ustanovok-rosijskoi-balistiki/",
+   "x": "У ніч проти 20 листопада Сили оборони уразили три пускові установки балістики РФ: одна установка знищена, наслідки ураження щодо двох інших уточнюються, повідомив Зеленський",
+   "i": "https://cdn4.suspilne.media/images/23dca5c79aa74f93.jpg",
+   "d": "2026-11-20T11:07:48+00:00",
+   "c": [
+    "holovne"
    ]
   },
   {
@@ -1228,6 +1960,17 @@
    ]
   },
   {
+   "t": "Міністр оборони Німеччини не проти переговорів європейців у Москві",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/20/7250446/",
+   "x": "Міністр оборони Німеччини Борис Пісторіус заявив, що Європа не повинна відкидати можливість переговорів з Росією у Москві, якщо вони дадуть якийсь результат.",
+   "i": "https://img.eurointegration.com.ua/images/doc/9/6/96803d1-1536x864-cmsv2-873c4491-b180-56dd-b3a9-b3eed85e67e6-9324752.jpg",
+   "d": "2026-11-20T10:52:00+00:00",
+   "c": [
+    "polityka"
+   ]
+  },
+  {
    "t": "Мінінфраструктури проводить електронні консультації стосовно проєкту постанови із залучення приватних локомотивів для залізничних перевезень",
    "s": "Інтерфакс-Україна",
    "u": "https://interfax.com.ua/news/general/1239799.html",
@@ -1250,6 +1993,17 @@
    ],
    "r": [
     "kyiv"
+   ]
+  },
+  {
+   "t": "Уряд Естонії представив план закриття кордону з РФ",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/20/7250445/",
+   "x": "Уряд Естонії розкрив деталі плану щодо закриття кордону з РФ, яке почне діяти з 1 грудня.",
+   "i": "https://img.eurointegration.com.ua/images/doc/2/5/25296e3-smartcrop.jpg",
+   "d": "2026-11-20T10:50:00+00:00",
+   "c": [
+    "polityka"
    ]
   },
   {
@@ -1414,20 +2168,6 @@
    ]
   },
   {
-   "t": "На Кримському мосту лунали вибухи: усе про ураження та наслідки",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/udar-po-krimskomu-mostu-16112026-shho-zaraz-vidbuvayetsya-krimskomu_n3181369",
-   "x": "Уранці 16 листопада Кримський міст зазнав атаки безпілотників, унаслідок якої пошкоджено арку автомобільної частини. А вже 17 числа шляхопровід зазнав удару ракетою \"Фламінго\". Вночі 19 листопада на мості знову було…",
-   "i": "https://24tv.ua/resources/photos/news/202611/3181369.jpg?v=1794832862000&q=100",
-   "d": "2026-11-20T10:35:00+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "crimea"
-   ]
-  },
-  {
    "t": "Росіяни знову вдарили по столичному Подолу, одна людина поранена – ДСНС",
    "s": "Інтерфакс-Україна",
    "u": "https://interfax.com.ua/news/general/1239787.html",
@@ -1465,28 +2205,25 @@
    "v": 1
   },
   {
-   "t": "Замінять балетки й грубі черевики: це взуття стало головним хітом зими 2027",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/lady24/penni-loferi-golovniy-vzuttyeviy-trend-zimi-2027-yak-yih-nositi_n3185556",
-   "x": "Зірки світового стритстайлу обрали головну взуттєву базу сезону осінь-зима 2026/2027. Нею стали класичні пенні-лофери, запозичені з чоловічого гардероба.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3185556.jpg?v=1795160589000&q=100",
+   "t": "Що хотів отримати Трамп від саміту в Китаї та чи вдався Сі до \"приниження Путіна\"",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/20/7250441/",
+   "x": "Попри усі бажання Кремля, на саміті у Китаї не відбулося поділу світу \"на трьох\". У тому числі через те, що проти такого поділу виступає Китай.",
+   "i": "https://img.eurointegration.com.ua/images/doc/f/7/f70955e-trump-1.jpg",
    "d": "2026-11-20T10:30:00+00:00",
    "c": [
-    "holovne"
+    "polityka"
    ]
   },
   {
-   "t": "Кількість постраждалих в Києві зросла до 17 осіб",
-   "s": "Інтерфакс-Україна",
-   "u": "https://interfax.com.ua/news/general/1239786.html",
-   "x": "Внаслідок російського удару по Києву в ніч на п'ятницю, 20 листопада, постраждали 17 людей, повідомляє Київська міська військова адміністрація.",
-   "i": "https://media.interfax.com.ua/media/thumbs/images/2026/11/kzhmc/HLTyvoN7Nv60.jpg",
-   "d": "2026-11-20T10:29:43+00:00",
+   "t": "Повітряний простір Польщі порушили дві російські ракети та один дрон",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/20/7250444/",
+   "x": "Міністр оборони Польщі Владислав Косіняк-Камиш розповів, що польський повітряний простір порушили дві російські ракети та один реактивний дрон.",
+   "i": "https://img.eurointegration.com.ua/images/doc/a/0/a0a6a9c-jz3ums831jdgj89u2bo2zghf989tjhte.jpeg",
+   "d": "2026-11-20T10:27:00+00:00",
    "c": [
-    "holovne"
-   ],
-   "r": [
-    "kyiv"
+    "polityka"
    ]
   },
   {
@@ -1497,7 +2234,6 @@
    "i": "https://24tv.ua/resources/photos/news/202611/3192870.jpg?v=1795170130000&q=100",
    "d": "2026-11-20T10:25:08+00:00",
    "c": [
-    "holovne",
     "viyna"
    ],
    "r": [
@@ -1506,28 +2242,14 @@
    ]
   },
   {
-   "t": "Фанати розкрили божевільну деталь про Менді з GTA 6 – що приховує гаряча сусідка Джейсона",
-   "s": "24 Канал",
-   "u": "https://games.24tv.ua/mendi-gta-6-prihovuye-motoroshniy-sekret-shho-pokazalo-rozsliduvannya_n3187857",
-   "x": "Реліз GTA 6 викликав справжній фурор серед геймерів, а одна з другорядних персонажок уже встигла завоювати серця тисяч гравців. Щоправда, вона може виявитися не тою, за кого себе видає.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3187857.jpg?v=1795165434000&q=100",
-   "d": "2026-11-20T10:22:00+00:00",
+   "t": "У Брюсселі стартував другий саміт ЄС-Велика Британія",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/20/7250443/",
+   "x": "У п’ятницю, 20 листопада, у Брюсселі відбувається другий після Brexit саміт ЄС-Велика Британія, на якому сторони планують досягти домовленостей у низці сфер в рамках \"перезавантаження\" відносин.",
+   "i": "https://img.eurointegration.com.ua/images/doc/b/5/b5d6021-hxj1veaw8aadylg.jpeg",
+   "d": "2026-11-20T10:19:00+00:00",
    "c": [
-    "holovne"
-   ]
-  },
-  {
-   "t": "Легенда про чорта чи дно стародавнього моря: дивовижна історія велетенського каменя у Підкамені",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/interesting24/kamin-veleten-pidkameni-lvivshhini-legenda-pro-chorta-nauka-pro_n3184082",
-   "x": "Посеред мальовничих пагорбів Львівщини, поблизу селища Підкамінь, височіє неймовірна природна аномалія – гігантська вапнякова скеля заввишки 17 метрів, що перевищує стандартний п'ятиповерховий будинок.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3184082.jpg?v=1795119539000&q=100",
-   "d": "2026-11-20T10:20:00+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "lviv"
+    "polityka"
    ]
   },
   {
@@ -1555,7 +2277,7 @@
   {
    "t": "Коли цьогоріч учні у Києві підуть на зимові канікули",
    "s": "24 Канал",
-   "u": "https://24tv.ua/education/zimovi-kanikuli-shkolah-2026-koli-uchni-kiyevi-vidpochivatimut_n3181455",
+   "u": "https://24tv.ua/education/ru/zimnie-kanikuly-v-shkolah-v-2026-godu-kogda-ucheniki-v-kieve-budut-otdyhat-ot-ucheby_n3183905",
    "x": "Цьогоріч дати зимових канікул у школах України можуть відрізнятися у межах різних областей та міст. Здебільшого на відпочинок діти підуть у другій половині грудня.",
    "i": "https://24tv.ua/resources/photos/news/202611/3181455.jpg?v=1795099726000&q=100",
    "d": "2026-11-20T10:15:00+00:00",
@@ -1593,6 +2315,17 @@
    ],
    "r": [
     "kyiv"
+   ]
+  },
+  {
+   "t": "Глава МЗС Естонії відповів на ідею Путіна щодо переговорів в Москві",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/20/7250442/",
+   "x": "Міністр закордонних справ Естонії Маргус Тсахкна, коментуючи запрошення кремлівського правителя Владіміра Путіна європейським лідерам на переговори до Москви, наголосив, що жодний \"кремлівський туризм\" тут не допоможе.",
+   "i": "https://img.eurointegration.com.ua/images/doc/e/d/ed1c710-55266367792-3a48e69265-o1.jpg",
+   "d": "2026-11-20T10:10:00+00:00",
+   "c": [
+    "polityka"
    ]
   },
   {
@@ -1764,7 +2497,7 @@
   {
    "t": "Чемпіонат України з футболу: розклад і результати всіх матчів 13-го туру",
    "s": "24 Канал",
-   "u": "https://sportnews.24tv.ua/chempionat-ukrayini-futbolu-rozklad-rezultati-vsih-matchiv-13_n3191242",
+   "u": "https://sportnews.24tv.ua/ru/chempionat-ukrainy-po-futbolu-raspisanie-kalendar-matchej-13-go-tura-upl-20262027_n3192009",
    "x": "У п'ятницю, 20 листопада, розпочнеться 13-й тур чемпіонату України з футболу. Центральним протистоянням цього туру стане зустріч у Львові між Карпатами і Зорею.",
    "i": "https://24tv.ua/resources/photos/news/202611/3191242.jpg?v=1795167489000&q=100",
    "d": "2026-11-20T09:52:00+00:00",
@@ -1909,18 +2642,6 @@
    "r": [
     "crimea"
    ]
-  },
-  {
-   "t": "⚡️ЮНУС: Всё РЕШЕНО за спиной Кремля! ВОТ, ЧТО ТЩАТЕЛЬНО скрывали Трамп и Си. Ситуация ПАТОВАЯ",
-   "s": "24 Канал · відео",
-   "u": "https://www.youtube.com/watch?v=NmSuFJKA-o0",
-   "x": "Ведущий 24 Канала Игорь Гаврищак @IhorHavryshchak и политолог Рамиз Юнус проанализировали последние новости. Юнус раскрыл детали кулуарных договоренностей между Вашингтоном и Пекином. Пока Кремль пытается диктовать свои…",
-   "i": "https://i3.ytimg.com/vi/NmSuFJKA-o0/hqdefault.jpg",
-   "d": "2026-11-20T09:30:30+00:00",
-   "c": [
-    "video"
-   ],
-   "v": 1
   },
   {
    "t": "⚡РЕВА: ПУТІН РІЗКО ЗАМІНИВ ЦІЛЬ! 💣Уже не Донбас, А ВСЯ ЄВРОПА. Кремль готує ПАСТКУ ДЛЯ НАТО!",
@@ -2445,7 +3166,7 @@
   {
    "t": "Шевченко повідомив скандальні деталі в справі Мудрика",
    "s": "24 Канал",
-   "u": "https://sportnews.24tv.ua/doping-mihayla-mudrika-andriy-shevchenko-povidomiv-skandalni_n3184216",
+   "u": "https://sportnews.24tv.ua/ru/doping-mihaila-mudrika-andrej-shevchenko-rasskazal-o-skandalnyh_n3185356",
    "x": "Михайло Мудрик дав велике інтерв'ю, в якому звинуватив УАФ і збірну України у своєму допінгу. Президент УАФ Андрій Шевченко відповів футболісту.",
    "i": "https://24tv.ua/resources/photos/news/202611/3184216.jpg?v=1795160290000&q=100",
    "d": "2026-11-20T07:40:00+00:00",
@@ -3195,16 +3916,6 @@
    ]
   },
   {
-   "t": "Не вся кориця – кориця! Як відрізнити справжню спецію від касії",
-   "s": "Українська правда. Життя",
-   "u": "https://life.pravda.com.ua/food/koricya-chi-kasiya-chim-voni-vidriznyayutsya-ci-speciji-319190/",
-   "i": "https://imglife.pravda.com.ua/life/images/doc/8/e/150339/8e8ab7c03cafd127cb3634056454af20.jpeg?w=390&q=90&f=jpeg",
-   "d": "2026-11-19T16:37:00+00:00",
-   "c": [
-    "zhyttia"
-   ]
-  },
-  {
    "t": "Путін розлютився на Зеленського через удар по Кримському мосту, – Трамп",
    "s": "24 Канал",
    "u": "https://24tv.ua/geopolitics/ataka-krimskiy-mist-novini-putin-buv-rozlyucheniy_n3183960",
@@ -3268,7 +3979,7 @@
   {
    "t": "Шевченко вперше відповів на звинувачення Мудрика",
    "s": "24 Канал",
-   "u": "https://sportnews.24tv.ua/shevchenko-vpershe-vidpoviv-zvinuvachennya-mudrika_n3183944",
+   "u": "https://sportnews.24tv.ua/ru/shevchenko-vpervye-otvetil-na-obvinenija-mudrika_n3183946",
    "x": "Андрій Шевченко відреагував на звинувачення Михайла Мудрика щодо допінгу. Президент УАФ відкинув причетність збірної України до скандалу та висунув футболісту вимогу.",
    "i": "https://24tv.ua/resources/photos/news/202611/3183944.jpg?v=1795103052000&q=100",
    "d": "2026-11-19T15:43:00+00:00",
@@ -3324,7 +4035,7 @@
   {
    "t": "Зірка збірної України відкрив власний бізнес у Португалії",
    "s": "24 Канал",
-   "u": "https://sportnews.24tv.ua/georgiy-sudakov-futbolist-benfiki-vidkriv-vlasniy-biznes-portugaliyi_n3183869",
+   "u": "https://sportnews.24tv.ua/ru/georgij-sudakov-futbolist-benfiki-otkryl-sobstvennyj-biznes-portugalii_n3183879",
    "x": "Український півзахисник Георгій Судаков готує незвичайний бізнес-проєкт у Лісабоні. Футболіст Бенфіки оголосив про відкриття власного ігрового клубу.",
    "i": "https://24tv.ua/resources/photos/news/202611/3183869.jpg?v=1795098180000&q=100",
    "d": "2026-11-19T14:28:00+00:00",
@@ -3394,7 +4105,7 @@
   {
    "t": "Мудрик у скандальному інтерв'ю висловився про Зеленського",
    "s": "24 Канал",
-   "u": "https://sportnews.24tv.ua/mihaylo-mudrik-futbolist-vislovivsya-pro-zelenskogo_n3183810",
+   "u": "https://sportnews.24tv.ua/ru/mihail-mudrik-futbolist-vyskazalsja-o-zelenskom_n3183819",
    "x": "Михайло Мудрик несподівано заговорив про президента України Володимира Зеленського. Футболіст зізнався, що захоплюється главою держави.",
    "i": "https://24tv.ua/resources/photos/news/202611/3183810.jpg?v=1795095143000&q=100",
    "d": "2026-11-19T13:40:00+00:00",
@@ -3600,7 +4311,7 @@
   {
    "t": "\"Ці розмови спливали\": Мудрик розповів про свої стосунки з російськими дівчатами",
    "s": "24 Канал",
-   "u": "https://sportnews.24tv.ua/intervyu-mudrika-gordonu-futbolist-rozpoviv-pro-stosunki-rosiyankami_n3183542",
+   "u": "https://sportnews.24tv.ua/ru/intervju-mudrika-gordonu-futbolist-rasskazal-ob-otnoshenijah_n3183593",
    "x": "Вінгер Тоттенгема Михайло Мудрик дав перше велике інтерв'ю за 5 років. У ньому він, зокрема, розповів і про свої стосунки з російськими дівчатами.",
    "i": "https://24tv.ua/resources/photos/news/202611/3183542.jpg?v=1795083537000&q=100",
    "d": "2026-11-19T10:20:00+00:00",
@@ -3735,7 +4446,7 @@
   {
    "t": "Імовірність дуже висока: форвард збірної України може змінити клуб узимку",
    "s": "24 Канал",
-   "u": "https://sportnews.24tv.ua/artem-dovbik-ukrayinskiy-napadnik-mozhe-pereyti-ispanskiy-klub_n3183394",
+   "u": "https://sportnews.24tv.ua/ru/artem-dovbik-ukrainskij-napadajushhij-mozhet-perejti-ispanskij_n3183412",
    "x": "Нападник збірної України Артем Довбик цілком може змінити клуб узимку. Форвард може повернутись до Іспанії.",
    "i": "https://24tv.ua/resources/photos/news/202611/3183394.jpg?v=1795074137000&q=100",
    "d": "2026-11-19T07:44:00+00:00",
@@ -3845,7 +4556,7 @@
   {
    "t": "Відбір на Євро-2028: коли відбудеться жеребкування і в якому кошику Україна",
    "s": "24 Канал",
-   "u": "https://sportnews.24tv.ua/yevro-2028-kvalifikatsiya-koli-zherebkuvannya-yakomu-koshiku_n3182928",
+   "u": "https://sportnews.24tv.ua/ru/evro-2028-otborochnyj-turnir-kogda-sostoitsja-zherebevka-v-kakoj-korzine-okazhetsja-ukraina_n3183007",
    "x": "Підсумковий розклад сил у Лізі націй визначив, з якого кошику жеребкування кожна збірна починатиме свій кваліфікаційних шлях до фінальної частини Євро-2028. Україна ризикує отримати двох сильних суперників.",
    "i": "https://24tv.ua/resources/photos/news/202611/3182928.jpg?v=1795006438000&q=100",
    "d": "2026-11-19T04:00:00+00:00",
@@ -3900,7 +4611,7 @@
   {
    "t": "\"Кожен має випити таблетки\": Мудрик звинуватив збірну України у допінг-скандалі",
    "s": "24 Канал",
-   "u": "https://sportnews.24tv.ua/mihaylo-mudrik-futbolist-zvinuvativ-zbirnu-ukrayinu-doping-skandali_n3183221",
+   "u": "https://sportnews.24tv.ua/ru/mihail-mudrik-futbolist-obvinil-sbornuju-ukrainy-doping-skandale_n3183228",
    "x": "Михайло Мудрик уперше детально розповів про обставини позитивного допінг-тесту. Футболіст заявив, що заборонена речовина могла потрапити в його організм у збірній України.",
    "i": "https://24tv.ua/resources/photos/news/202611/3183221.jpg?v=1795023459000&q=100",
    "d": "2026-11-18T17:47:00+00:00",
@@ -3911,7 +4622,7 @@
   {
    "t": "Ще вчора гуділи на всю Європу: у мережі показали, як занепала база Дніпра",
    "s": "24 Канал",
-   "u": "https://sportnews.24tv.ua/fk-dnipro-merezhi-pokazali-yak-viglyadaye-kolishnya-baza-dniprovskogo_n3183194",
+   "u": "https://sportnews.24tv.ua/ru/fk-dnepr-seti-pokazali-vygljadit-byvshaja-baza-dneprovskogo-kluba_n3183201",
    "x": "Колишня база Дніпра, де тренувалися зірки українського футболу, нині перетворюється на руїни. У мережі показали моторошні кадри колись елітного комплексу.",
    "i": "https://24tv.ua/resources/photos/news/202611/3183194.jpg?v=1795020771000&q=100",
    "d": "2026-11-18T17:04:00+00:00",
@@ -3947,7 +4658,7 @@
   {
    "t": "\"Нікому на**ін не потрібні ці вибачення\": збірну України знищили після провалу в Лізі націй",
    "s": "24 Канал",
-   "u": "https://sportnews.24tv.ua/artem-milevskiy-kolishniy-futbolist-zhorstko-rozkritikuvav-zbirnu_n3183063",
+   "u": "https://sportnews.24tv.ua/ru/artem-milevskij-byvshij-futbolist-podverg-sbornuju-ukrainy-rezkoj_n3183070",
    "x": "Артем Мілевський жорстко розкритикував збірну України після невдалого виступу в Лізі націй. Колишній футболіст Динамо не вірить у вихід команди на Євро-2028 з такою грою.",
    "i": "https://24tv.ua/resources/photos/news/202611/3183063.jpg?v=1795012654000&q=100",
    "d": "2026-11-18T14:43:00+00:00",
@@ -3968,7 +4679,7 @@
   {
    "t": "Україна завершила виступи у Лізі націй – яку суму призових заробила команда",
    "s": "24 Канал",
-   "u": "https://sportnews.24tv.ua/liga-natsiy-ukrayina-yaku-sumu-prizovih-mozhe-otrimati-zbirna_n3146850",
+   "u": "https://sportnews.24tv.ua/ru/liga-nacij-ukraina-kakuju-summu-prizovyh-mozhet-poluchit-sbornaja-za-uchastie_n3146883",
    "x": "У Лізі націй збірна України не змогла підвищитися у класі до Ліги А і не отримала додатковий шанс кваліфікуватися на Євро-2028. Проте участь у турнірі принесла українській асоціації певну фінансову вигоду.",
    "i": "https://24tv.ua/resources/photos/news/202609/3146850.jpg?v=1790080489000&q=100",
    "d": "2026-11-18T13:43:00+00:00",
@@ -4023,7 +4734,7 @@
   {
    "t": "Збірна України дізналася всіх можливих суперників на шляху до Євро-2028",
    "s": "24 Канал",
-   "u": "https://sportnews.24tv.ua/yevro-2028-kvalifikatsiya-zherebkuvannya-sklad-koshikiv-yakomu_n3182827",
+   "u": "https://sportnews.24tv.ua/ru/evro-2028-otborochnyj-turnir-zherebevka-sostav-korzin-v-kakoj-korzine-nahoditsja-ukraina_n3182857",
    "x": "Після завершення усіх матчів групового етапу Ліги націй було сформовано остаточний склад кошиків для жеребкування відбору на Євро-2028. Україна, посівши третє місце у своєму квартеті, матиме складніших суперників.",
    "i": "https://24tv.ua/resources/photos/news/202611/3182827.jpg?v=1795000837000&q=100",
    "d": "2026-11-18T11:37:00+00:00",
@@ -4056,7 +4767,7 @@
   {
    "t": "Нижче за Росію: збірна України завершила 2026 рік за межами топ-30 рейтингу ФІФА",
    "s": "24 Канал",
-   "u": "https://sportnews.24tv.ua/reyting-fifa-yake-mistse-posidaye-zbirna-ukrayini-sogodni_n3182724",
+   "u": "https://sportnews.24tv.ua/ru/rejting-fifa-kakoe-mesto-zanimaet-sbornaja-ukrainy-segodnja_n3182753",
    "x": "Збірна України з футболу після матчу проти Грузії 17 листопада офіційно завершила сезон 2026 року. За підсумками року команда перебуває за межами топ-30 найкращих збірних світу.",
    "i": "https://24tv.ua/resources/photos/news/202611/3182724.jpg?v=1794995009000&q=100",
    "d": "2026-11-18T10:04:00+00:00",
@@ -4099,7 +4810,7 @@
   {
    "t": "Шевченко звернувся до українців після матчу України",
    "s": "24 Канал",
-   "u": "https://sportnews.24tv.ua/andriy-shevchenko-glava-uaf-viyshov-iz-zayavoyu-do-ukrayintsiv_n3182675",
+   "u": "https://sportnews.24tv.ua/ru/andrej-shevchenko-glava-uaf-obratilsja-s-zajavleniem-k-ukraincam_n3182692",
    "x": "Андрій Шевченко звернувся до вболівальників після матчу збірної України проти Грузії в межах Ліги націй УЄФА.",
    "i": "https://24tv.ua/resources/photos/news/202611/3182675.jpg?v=1794993407000&q=100",
    "d": "2026-11-18T09:47:00+00:00",
@@ -4110,7 +4821,7 @@
   {
    "t": "Ліга націй 2026: результати всіх матчів і підсумкова турнірна таблиця",
    "s": "24 Канал",
-   "u": "https://sportnews.24tv.ua/liga-natsiy-2026-turnirna-tablitsya-rozklad-matchiv-kalendar_n3146039",
+   "u": "https://sportnews.24tv.ua/ru/liga-nacij-2026-turnirnaja-tablica-raspisanie-matchej-i-kalendar-igr_n3147526",
    "x": "У листопаді у Європі завершився груповий етап футбольного турніру серед збірних – Ліга націй УЄФА 2026. Участь у змаганні взяла і збірна України.",
    "i": "https://24tv.ua/resources/photos/news/202609/3146039.jpg?v=1789992104000&q=100",
    "d": "2026-11-18T09:34:00+00:00",
@@ -4121,7 +4832,7 @@
   {
    "t": "Андрій Шевченко визначився з підтримкою кандидата у президенти ФІФА",
    "s": "24 Канал",
-   "u": "https://sportnews.24tv.ua/andriy-shevchenko-golosuvatime-za-filippa-diallo-viborah-prezidenta_n3182655",
+   "u": "https://sportnews.24tv.ua/ru/andrej-shevchenko-progolosuet-za-filippa-diallo-na-vyborah-prezidenta-fifa_n3182667",
    "x": "У березні 2027 року Джанні Інфантіно може нарешті втратити роботу у ФІФА під час виборів нового голови організації. Європейські асоціації визначилися зі своїм кандидатом, який стане головним суперником швейцарця.",
    "i": "https://24tv.ua/resources/photos/news/202611/3182655.jpg?v=1794991012000&q=100",
    "d": "2026-11-18T09:03:00+00:00",
@@ -4143,7 +4854,7 @@
   {
    "t": "Усі результати збірної України з футболу у 2026 році",
    "s": "24 Канал",
-   "u": "https://sportnews.24tv.ua/kalendar-matchiv-zbirnoyi-ukrayini-z-futbolu-2026-dati-superniki-shho-vidomo_n2985144",
+   "u": "https://sportnews.24tv.ua/ru/kalendar-matchej-sbornoj-ukrainy-po-futbolu-2026-daty-soperniki-chto-izvestno_n2985164",
    "x": "Збірна України з футболу у 2026 році зіграла 10 матчів, з яких було 7 офіційних. Команда брала участь у відборі на чемпіонат світу і Лізі націй.",
    "i": "https://24tv.ua/resources/photos/news/202601/2985144.jpg?v=1767868007000&q=100",
    "d": "2026-11-18T07:53:00+00:00",
@@ -4154,7 +4865,7 @@
   {
    "t": "Шевченко виніс суворий вирок збірній України за виступи у Лізі націй",
    "s": "24 Канал",
-   "u": "https://sportnews.24tv.ua/andriy-shevchenko-dav-otsinku-malderi-zbirniy-za-ligu-natsiy_n3182580",
+   "u": "https://sportnews.24tv.ua/ru/andrej-shevchenko-dal-ocenku-malderi-i-sbornoj-po-itogam-ligi-nacij_n3182585",
    "x": "Для тренерського штабу Андреа Мальдери у збірній України з футболу завершився перший етап роботи. Команда не змогла поборотися за вихід до дивізіону A Ліги націй, але й не допустила падіння вниз.",
    "i": "https://24tv.ua/resources/photos/news/202611/3182580.jpg?v=1794982433000&q=100",
    "d": "2026-11-18T06:45:00+00:00",
@@ -4176,7 +4887,7 @@
   {
    "t": "\"Мав забивати\": Синчук оцінив свою роль у матчі збірної України проти Грузії",
    "s": "24 Канал",
-   "u": "https://sportnews.24tv.ua/zbirna-ukrayini-lizi-natsiy-komentar-gennadiya-sinchuka-pro-match_n3182546",
+   "u": "https://sportnews.24tv.ua/ru/sbornaja-ukrainy-lige-nacij-kommentarij-gennadija-sinchuka-o_n3182549",
    "x": "Футболіст канадського ФК Монреаль Геннадій Синчук вперше з’явився у стартовому складі дорослої збірної України. Вінгер долучився до перемоги команди Андреа Мальдери над Грузією.",
    "i": "https://24tv.ua/resources/photos/news/202611/3182546.jpg?v=1794963311000&q=100",
    "d": "2026-11-18T04:00:00+00:00",
