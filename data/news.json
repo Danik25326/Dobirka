@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T07:20:45+00:00",
+ "updated": "2026-11-20T07:31:00+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -183,11 +183,15 @@
    "d": "2026-11-20T06:56:09+00:00"
   },
   {
-   "t": "Росія вдарила по залізничній станції у Львові: двоє загиблих та поранені",
-   "u": "https://zn.ua/ukr/UKRAINE/rosija-vdarila-po-zaliznichnij-stantsiji-u-lvovi-dvoje-zahiblikh-ta-poraneni.html",
-   "i": "https://zn.ua/img/article/7046/61_main.webp",
-   "n": 2,
+   "t": "Росія атакувала залізничну станцію \"Скнилів\" під Львовом: є жертви",
+   "u": "https://24tv.ua/ataka-stantsiyu-skniliv-20-listopada-skilki-lyudey-zaginuli_n3184165",
+   "i": "https://24tv.ua/resources/photos/news/202611/3184165.jpg?v=1795159094000&q=100",
+   "n": 3,
    "l": [
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/ataka-stantsiyu-skniliv-20-listopada-skilki-lyudey-zaginuli_n3184165"
+    },
     {
      "s": "ZN.UA",
      "u": "https://zn.ua/ukr/UKRAINE/rosija-vdarila-po-zaliznichnij-stantsiji-u-lvovi-dvoje-zahiblikh-ta-poraneni.html"
@@ -197,7 +201,7 @@
      "u": "https://www.pravda.com.ua/news/2026/11/20/8063746/"
     }
    ],
-   "d": "2026-11-20T07:14:54+00:00"
+   "d": "2026-11-20T07:29:44+00:00"
   },
   {
    "t": "Через атаку Росії є пошкодження інфраструктури та затримки поїздів – УЗ",
@@ -270,6 +274,33 @@
  ],
  "items": [
   {
+   "t": "Росія атакувала залізничну станцію \"Скнилів\" під Львовом: є жертви",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/ataka-stantsiyu-skniliv-20-listopada-skilki-lyudey-zaginuli_n3184165",
+   "x": "Вранці Росія масовано атакувала Львів ракетами і дронами. Окупанти вбили у місті двох людей.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3184165.jpg?v=1795159094000&q=100",
+   "d": "2026-11-20T07:29:44+00:00",
+   "c": [
+    "holovne",
+    "vazhlyve",
+    "viyna"
+   ],
+   "r": [
+    "lviv"
+   ]
+  },
+  {
+   "t": "Українська Прем'єр-ліга: результати всіх матчів 13-го туру, відео голів (оновлюється)",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/SPORT/704453-ukrajinska-premjer-liha-rezultati-vsikh-matchiv-13-ho-turu-video-holiv-onovljujetsja.html",
+   "x": "В Україні триває футбольний сезон.",
+   "i": "https://zn.ua/img/article/7044/53_main.webp",
+   "d": "2026-11-20T07:23:00+00:00",
+   "c": [
+    "statti"
+   ]
+  },
+  {
    "t": "🚨РАКЕТА рф У ПОЛЬЩІ🌉ТРИ МОСТИ КИЄВА ПІД УДАРОМ!💥Масована АТАКА ТРИВАЄ😭Є загuблі!",
    "s": "5 канал · відео",
    "u": "https://www.youtube.com/watch?v=cgU7KB6JyeM",
@@ -282,6 +313,21 @@
    "v": 1,
    "r": [
     "kyiv"
+   ]
+  },
+  {
+   "t": "💥У Путіна КРАХ після провалу в Китаї! В Криму ПЕКЛО через розгром мосту. Аксьонов ОШЕЛЕШИВ. 20.11",
+   "s": "24 Канал · відео",
+   "u": "https://www.youtube.com/watch?v=XiPQ3H82Fjk",
+   "x": "Ведучий 24 Каналу Ігор Гаврищак @IhorHavryshchak розповів про актуальні новини станом на ранок 20 листопада. Володимир Путін після тристоронніх переговорів із президентами США та Китаю, якими були провальними для РФ…",
+   "i": "https://i1.ytimg.com/vi/XiPQ3H82Fjk/hqdefault.jpg",
+   "d": "2026-11-20T07:15:19+00:00",
+   "c": [
+    "video"
+   ],
+   "v": 1,
+   "r": [
+    "crimea"
    ]
   },
   {
@@ -315,7 +361,7 @@
    "t": "Відключення світла на Львівщині 20 листопада: які графіки діятимуть після масованої атаки",
    "s": "24 Канал",
    "u": "https://24tv.ua/grafik-vidklyuchennya-svitla-lviv-grupa-de-yakoyi-godini-ne-bude_n2579848",
-   "x": "20 листопада, у Львівській області введуть графік погодинних відключень світла. Це пов'язано із масовими ворожими атаками.",
+   "x": "20 листопада, у Львівській області введуть графік погодинних відключень світла. Це пов'язано із масованою ворожою атакою.",
    "i": "https://24tv.ua/resources/photos/news/202406/2579848.jpg?v=1792221771000&q=100",
    "d": "2026-11-20T07:10:00+00:00",
    "c": [
@@ -332,7 +378,7 @@
    "u": "https://zn.ua/ukr/TECHNOLOGIES/spacex-rozrobila-miniatjurni-stilnikovi-vezhi-jaki-majut-usunuti-mertvi-zoni-zvjazku.html",
    "x": "Виробництво компактних базових станцій планують розпочати у 2027 році.",
    "i": "https://zn.ua/img/article/7046/59_main.webp",
-   "d": "2026-11-20T07:09:08+00:00",
+   "d": "2026-11-20T07:09:00+00:00",
    "c": [
     "statti"
    ]
@@ -366,8 +412,8 @@
    "t": "Росіяни атакували залізничну станцію у Львові: 2 загиблих",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/20/8063746/",
-   "x": "Дві людини загинули та ще щонайменше чотири постраждали внаслідок російських ударів по Львову 20 листопада.",
-   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/8/960602/084bb4e0661f48563d35f550be3155ed.jpeg",
+   "x": "Російський удар по станції \"Скнилів\" у Львові 20 листопада – двоє загиблих, четверо поранених. Пошкоджено енергообʼєкт у Стрийському районі.",
+   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/3/960604/53464f3f43964c6aaa66be463dda8981.jpeg",
    "d": "2026-11-20T07:07:00+00:00",
    "c": [
     "holovne",
@@ -381,7 +427,7 @@
    "t": "Світ не ділиться на трьох. Чому зустріч у Китаї стала для Путіна перемогою, але не проривом",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/articles/2026/11/20/8063745/",
-   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/9/960601/59e268def7a4b51e099ed351ad812d83.jpeg",
+   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/9/960611/39aa75c9606610019d02e7891cc5c5d0.jpeg",
    "d": "2026-11-20T07:03:00+00:00",
    "c": [
     "statti"
@@ -479,7 +525,6 @@
    "d": "2026-11-20T07:00:00+00:00",
    "c": [
     "holovne",
-    "vazhlyve",
     "viyna"
    ],
    "r": [
@@ -1704,18 +1749,6 @@
    ]
   },
   {
-   "t": "⚡️Путін АЖ ЗБЛІД після ЗУСТРІЧІ В КИТАЇ! ТЕРМІНОВО звернувся про УКРАЇНУ. Гляньте,ЩО ВИДАВ. НАЙКРАЩЕ",
-   "s": "24 Канал · відео",
-   "u": "https://www.youtube.com/watch?v=GShp5RXlyO0",
-   "x": "У найкращих ефірах 24 Каналу розповідаємо найцікавіші новини. Зокрема, російський диктатор Володимир Путін після зустрічі в Китаї оголосив безглуздими будь-які спроби змусити Росію поступитися в територіальних питаннях…",
-   "i": "https://i4.ytimg.com/vi/GShp5RXlyO0/hqdefault.jpg",
-   "d": "2026-11-20T04:00:05+00:00",
-   "c": [
-    "video"
-   ],
-   "v": 1
-  },
-  {
    "t": "Феномен львівської кави: як напій закріпився у місті і чому його спершу боялися?",
    "s": "Українська правда. Життя",
    "u": "https://life.pravda.com.ua/society/kavova-stolicya-ukrajini-koli-kava-z-yavilasya-u-lvovi-ta-hto-jiji-priviz-319178/",
@@ -1770,7 +1803,7 @@
    "s": "24 Канал",
    "u": "https://24tv.ua/rosiya-zavdala-udaru-po-harkovu-20-listopada-postrazhdav-medzaklad_n3184120",
    "x": "Російські військові завдали удару по медичному закладу у Шевченківському районі Харкова. На місці влучання є постраждалі.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3184120.jpg?v=1795142918000&q=100",
+   "i": "https://24tv.ua/resources/photos/news/202611/3184120.jpg?v=1795159581000&q=100",
    "d": "2026-11-20T02:57:00+00:00",
    "c": [
     "holovne",
@@ -1899,7 +1932,6 @@
    "i": "https://24tv.ua/resources/photos/news/202611/3183820.jpg?v=1795096990000&q=100",
    "d": "2026-11-20T01:01:00+00:00",
    "c": [
-    "holovne",
     "viyna"
    ]
   },
@@ -2116,20 +2148,6 @@
    "x": "Електрики ОСББ і ЖЕКів відповідатимуть за мережі в будинках, а енергетики — за розподільні лінії.",
    "i": "https://zn.ua/img/article/7046/36_main.webp",
    "d": "2026-11-19T21:40:00+00:00",
-   "c": [
-    "statti"
-   ],
-   "r": [
-    "kyiv"
-   ]
-  },
-  {
-   "t": "Російських послів викликають у Нідерландах і Швеції після інцидентів біля посольств у Києві",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/europe/rosijskikh-posliv-viklikajut-u-niderlandakh-i-shvetsiji-pislja-intsidentiv-bilja-posolstv-u-kijevi.html",
-   "x": "Усі інциденти обійшлися без постраждалих серед дипломатичного персоналу.",
-   "i": "https://zn.ua/img/article/7046/33_main.webp",
-   "d": "2026-11-19T21:24:00+00:00",
    "c": [
     "statti"
    ],
@@ -2556,20 +2574,20 @@
    ]
   },
   {
-   "t": "Фіктивний шлюб з іноземцем і сурогатне материнство: поліція викрила схему торгівлі дітьми",
+   "t": "Вечеря в одній сковороді: паста з ковбасками і фенхелем у вершково-томатному соусі",
    "s": "Українська правда. Життя",
-   "u": "https://life.pravda.com.ua/society/prodavali-ditey-vid-surogatnih-materiv-policiya-vikrila-shemu-319193/",
-   "i": "https://imglife.pravda.com.ua/life/images/doc/7/5/150352/758e8522643545f280e744cca4019d25.jpeg?w=390&q=90&f=jpeg",
+   "u": "https://life.pravda.com.ua/food/yak-prigotuvati-pikantnu-pastu-z-kovbaskami-ta-fenhelem-319191/",
+   "i": "https://imglife.pravda.com.ua/life/images/doc/0/2/150343/02975076e42a7db3a989c7134eb692fb.jpeg?w=390&q=90&f=jpeg",
    "d": "2026-11-19T18:00:00+00:00",
    "c": [
     "zhyttia"
    ]
   },
   {
-   "t": "Вечеря в одній сковороді: паста з ковбасками і фенхелем у вершково-томатному соусі",
+   "t": "Фіктивний шлюб з іноземцем і сурогатне материнство: поліція викрила схему торгівлі дітьми",
    "s": "Українська правда. Життя",
-   "u": "https://life.pravda.com.ua/food/yak-prigotuvati-pikantnu-pastu-z-kovbaskami-ta-fenhelem-319191/",
-   "i": "https://imglife.pravda.com.ua/life/images/doc/0/2/150343/02975076e42a7db3a989c7134eb692fb.jpeg?w=390&q=90&f=jpeg",
+   "u": "https://life.pravda.com.ua/society/prodavali-ditey-vid-surogatnih-materiv-policiya-vikrila-shemu-319193/",
+   "i": "https://imglife.pravda.com.ua/life/images/doc/7/5/150352/758e8522643545f280e744cca4019d25.jpeg?w=390&q=90&f=jpeg",
    "d": "2026-11-19T18:00:00+00:00",
    "c": [
     "zhyttia"
@@ -2719,8 +2737,7 @@
    "i": "https://24tv.ua/resources/photos/news/202611/3183960.jpg?v=1795105225000&q=100",
    "d": "2026-11-19T16:36:00+00:00",
    "c": [
-    "vazhlyve",
-    "viyna"
+    "vazhlyve"
    ],
    "r": [
     "crimea"
