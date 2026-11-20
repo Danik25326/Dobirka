@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T10:20:43+00:00",
+ "updated": "2026-11-20T10:31:12+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -183,11 +183,15 @@
    "d": "2026-11-20T10:05:00+00:00"
   },
   {
-   "t": "Росія вдарила по залізничній станції у Львові: двоє загиблих та поранені",
-   "u": "https://zn.ua/ukr/UKRAINE/rosija-vdarila-po-zaliznichnij-stantsiji-u-lvovi-dvoje-zahiblikh-ta-poraneni.html",
+   "t": "У Львові росіяни влучили по залізничній станції: є загиблі",
+   "u": "https://epravda.com.ua/infrastruktura/zaliznichna-infrastruktura-lvivshchini-udar-po-stanciji-skniliv-827848/",
    "i": "https://zn.ua/img/article/7046/61_main.webp",
-   "n": 3,
+   "n": 4,
    "l": [
+    {
+     "s": "Економічна правда",
+     "u": "https://epravda.com.ua/infrastruktura/zaliznichna-infrastruktura-lvivshchini-udar-po-stanciji-skniliv-827848/"
+    },
     {
      "s": "ZN.UA",
      "u": "https://zn.ua/ukr/UKRAINE/rosija-vdarila-po-zaliznichnij-stantsiji-u-lvovi-dvoje-zahiblikh-ta-poraneni.html"
@@ -201,7 +205,7 @@
      "u": "https://www.pravda.com.ua/news/2026/11/20/8063746/"
     }
    ],
-   "d": "2026-11-20T07:54:00+00:00"
+   "d": "2026-11-20T08:20:00+00:00"
   },
   {
    "t": "Вперше в аеропорту Жешува евакуювали диспетчерську вежу під час масованої атаки на Україну",
@@ -255,6 +259,40 @@
    "d": "2026-11-20T09:40:00+00:00"
   },
   {
+   "t": "Без світла 41 тисяча родин: ворог атакував важливий енергооб'єкт",
+   "u": "https://24tv.ua/economy/vidklyuchennya-svitla-odeshhini-yaki-rayoni-zalishilisya-bez_n3190087",
+   "i": "https://24tv.ua/resources/photos/news/202611/3190087.jpg?v=1795166148000&q=100",
+   "n": 2,
+   "l": [
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/economy/vidklyuchennya-svitla-odeshhini-yaki-rayoni-zalishilisya-bez_n3190087"
+    },
+    {
+     "s": "Економічна правда",
+     "u": "https://epravda.com.ua/energetika/ataka-rf-na-ob-yekt-dtek-zalishila-41-tisyachu-rodin-odeshchini-bez-svitla-827852/"
+    }
+   ],
+   "d": "2026-11-20T09:25:00+00:00"
+  },
+  {
+   "t": "Корецький: Цієї ночі під ударом були Київ і 9 областей, відомо про вісьмох загиблих, із них шість – у столиці",
+   "u": "https://interfax.com.ua/news/general/1239715.html",
+   "i": "https://media.interfax.com.ua/media/thumbs/images/2026/11/jlpsm/pBkEwDgvJI1c.jpg",
+   "n": 2,
+   "l": [
+    {
+     "s": "Інтерфакс-Україна",
+     "u": "https://interfax.com.ua/news/general/1239715.html"
+    },
+    {
+     "s": "Економічна правда",
+     "u": "https://epravda.com.ua/biznes/ciyeji-nochi-pid-udarom-buli-kijiv-i-dev-yat-oblastey-koreckiy-827851/"
+    }
+   ],
+   "d": "2026-11-20T08:42:52+00:00"
+  },
+  {
    "t": "Одна з найпотужніших атак: Ігнат назвав кількість запущених по Україні дронів та ракет",
    "u": "https://zn.ua/ukr/war/odna-z-najpotuzhnishikh-atak-ihnat-nazvav-kilkist-zapushchenikh-po-ukrajini-droniv-ta-raket.html",
    "i": "https://zn.ua/img/article/7046/75_main.webp",
@@ -272,21 +310,20 @@
    "d": "2026-11-20T08:42:00+00:00"
   },
   {
-   "t": "Ситуація вкрай складна: знеструмлено споживачів у Києві та 10 областях, запроваджено аварійні відключення",
-   "u": "https://www.pravda.com.ua/news/2026/11/20/8063736/",
-   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/6/960576/8606b14fcc4e382b9c5ca15a2131dad6.jpeg",
+   "t": "Доступ до Особистого кабінету на \"Єдиному вікні\" частково обмежено – ДМСУ",
+   "u": "https://epravda.com.ua/biznes/dostupu-do-osobistogo-kabinetu-na-yedinomu-vikni-chastkovo-obmezheno-dmsu-827849/",
    "n": 2,
    "l": [
     {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/20/8063736/"
+     "s": "Економічна правда",
+     "u": "https://epravda.com.ua/biznes/dostupu-do-osobistogo-kabinetu-na-yedinomu-vikni-chastkovo-obmezheno-dmsu-827849/"
     },
     {
-     "s": "ZN.UA",
-     "u": "https://zn.ua/ukr/energetics/situatsija-vkraj-skladna-pislja-ataki-rf-u-kijevi-ta-trokh-zakhidnikh-oblastjakh-vveli-avarijni-vidkljuchennja.html"
+     "s": "Інтерфакс-Україна",
+     "u": "https://interfax.com.ua/news/economic/1239693.html"
     }
    ],
-   "d": "2026-11-20T08:26:00+00:00"
+   "d": "2026-11-20T08:22:00+00:00"
   },
   {
    "t": "Посадовця СБУ підозрюють у зливі таємниці слідства та продажу закритих даних – НАБУ",
@@ -304,26 +341,66 @@
     }
    ],
    "d": "2026-11-20T07:56:42+00:00"
-  },
-  {
-   "t": "Через російську атаку пошкоджено об'єкти Київводоканалу: у столиці є перебої з водою",
-   "u": "https://24tv.ua/kiyivvodokanal-pislya-ataki-rosiyi-stolitsi-ye-pereboyi-vodoyu_n3185274",
-   "i": "https://24tv.ua/resources/photos/news/202611/3185274.jpg?v=1795160491000&q=100",
-   "n": 2,
-   "l": [
-    {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/kiyivvodokanal-pislya-ataki-rosiyi-stolitsi-ye-pereboyi-vodoyu_n3185274"
-    },
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/20/8063744/"
-    }
-   ],
-   "d": "2026-11-20T07:49:00+00:00"
   }
  ],
  "items": [
+  {
+   "t": "Замінять балетки й грубі черевики: це взуття стало головним хітом зими 2027",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/lady24/penni-loferi-golovniy-vzuttyeviy-trend-zimi-2027-yak-yih-nositi_n3185556",
+   "x": "Зірки світового стритстайлу обрали головною взуттєвою базою сезону осінь-зима 2026/2027. Нею стали класичні пенні-лофери, запозичені з чоловічого гардероба.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3185556.jpg?v=1795160589000&q=100",
+   "d": "2026-11-20T10:30:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Лідер документарних операцій: КРИСТАЛБАНК переміг у конкурсі \"Банк року – 2026\"",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/experts/lider-dokumentarnih-operaciy-kristalbank-peremig-u-konkursi-bank-roku-2026-827717/",
+   "d": "2026-11-20T10:30:00+00:00",
+   "c": [
+    "ekonomika"
+   ]
+  },
+  {
+   "t": "У Львові та Луцьку можливі перебої з водопостачанням: що відомо",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/vodopostachannya-lvovi-lutsku-de-mozhliviy-znizheniy-tisk-vodi_n3192870",
+   "x": "У Львові та Луцьку після російських атак і знеструмлень виникли проблеми з тиском води. В обох містах водопостачання продовжує працювати, однак у частині будинків можливе зниження тиску.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3192870.jpg?v=1795170130000&q=100",
+   "d": "2026-11-20T10:25:08+00:00",
+   "c": [
+    "holovne",
+    "viyna"
+   ],
+   "r": [
+    "lviv",
+    "volyn"
+   ]
+  },
+  {
+   "t": "Маск заявив, що почувається \"безглуздо\" через фінансування республіканців",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/svit/mask-poshkoduvav-pro-470-mln-na-respublikansku-partiyu-pid-chas-viboriv-u-ssha-827860/",
+   "x": "Ілон Маск заявив, що почувається \"доволі безглуздо\" через донати на суму майже 500 мільйонів доларів Республіканській партії під час проміжних виборів у США, а також заперечив свою причетність до політичного руху…",
+   "d": "2026-11-20T10:23:00+00:00",
+   "c": [
+    "ekonomika"
+   ]
+  },
+  {
+   "t": "Фанати розкрили божевільну деталь про Менді з GTA 6 – що приховує гаряча сусідка Джейсона",
+   "s": "24 Канал",
+   "u": "https://games.24tv.ua/mendi-gta-6-prihovuye-motoroshniy-sekret-shho-pokazalo-rozsliduvannya_n3187857",
+   "x": "Реліз GTA 6 викликав справжній фурор серед геймерів, а одна з другорядних персонажок уже встигла завоювати серця тисяч гравців. Щоправда, вона може виявитися не тою, за кого себе видає.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3187857.jpg?v=1795165434000&q=100",
+   "d": "2026-11-20T10:22:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
   {
    "t": "Легенда про чорта чи дно стародавнього моря: дивовижна історія велетенського каменя у Підкамені",
    "s": "24 Канал",
@@ -337,6 +414,37 @@
    "r": [
     "lviv"
    ]
+  },
+  {
+   "t": "Світові ринки накрив розпродаж попри рекордне IPO розробника Claude",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/finances/svitovi-fondovi-rinki-padayut-popri-rekordne-ipo-anthropic-827859/",
+   "d": "2026-11-20T10:20:00+00:00",
+   "c": [
+    "ekonomika"
+   ]
+  },
+  {
+   "t": "Сибіга прокоментував порушення повітряного простору Польщі ракетами, а Туск зібрав із цього приводу нараду",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/europe/sibiha-prokomentuvav-porushennja-povitrjanoho-prostoru-polshchi-raketami-a-tusk-zibrav-iz-tsoho-privodu-naradu.html",
+   "i": "https://zn.ua/img/article/7046/88_main.webp",
+   "d": "2026-11-20T10:19:00+00:00",
+   "c": [
+    "statti"
+   ]
+  },
+  {
+   "t": "⚡Зеленський КИНУВ ПРЯМИЙ ВИКЛИК Путіну! Термінове ЗВЕРНЕННЯ до Москви. У Кремлі вже КІПІШ",
+   "s": "24 Канал · відео",
+   "u": "https://www.youtube.com/watch?v=bt6goH2-jRg",
+   "x": "Президент України Володимир Зеленський кинув прямий виклик президенту Росії Володимиру Путіну через питання окупованих територій. Під час прес конференції в Берліні він заявив: якщо Кремль хоче обговорювати українську…",
+   "i": "https://i3.ytimg.com/vi/bt6goH2-jRg/hqdefault.jpg",
+   "d": "2026-11-20T10:15:30+00:00",
+   "c": [
+    "video"
+   ],
+   "v": 1
   },
   {
    "t": "Коли цьогоріч учні у Києві підуть на зимові канікули",
@@ -640,6 +748,15 @@
    ]
   },
   {
+   "t": "Акції виробника Winston і Camel обвалилися після втрати контролю над бізнесом у РФ",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/svit/akciji-japan-tobacco-vpali-na-10-pislya-vtrati-kontrolyu-nad-biznesom-u-rf-827857/",
+   "d": "2026-11-20T09:55:00+00:00",
+   "c": [
+    "ekonomika"
+   ]
+  },
+  {
    "t": "Саміт із Трампом і Путіним став дипломатичним тріумфом для Сі, але стратегія лідера Китаю ризикована — FT",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/china/samit-iz-trampom-i-putinim-stav-diplomatichnim-triumfom-dlja-si-ale-stratehija-lidera-kitaju-rizikovana-ft.html",
@@ -689,6 +806,16 @@
    ],
    "r": [
     "crimea"
+   ]
+  },
+  {
+   "t": "\"Дизель для Трампа\": два танкери замість США прибули до Бразилії",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/biznes/dizel-dlya-trampa-dva-tankeri-zamist-ssha-pribuli-do-braziliji-827858/",
+   "x": "Два танкери, які везли до США російське дизельне пальне у межах \"дизельної угоди\" президента США Дональда Трампа, зрештою прибули до Бразилії.",
+   "d": "2026-11-20T09:50:00+00:00",
+   "c": [
+    "ekonomika"
    ]
   },
   {
@@ -764,6 +891,16 @@
    "d": "2026-11-20T09:41:00+00:00",
    "c": [
     "holovne"
+   ]
+  },
+  {
+   "t": "Курс валют на 20 листопада: долар падає 4 день поспіль",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/finances/kursi-valyut-dolar-i-yevro-u-bankah-zrosli-slidom-za-kursom-nbu-827856/",
+   "x": "У п'ятницю, 20 листопада, курси долара та євро в банках зміцніли вслід за офіційним курсом Нацбанку.",
+   "d": "2026-11-20T09:41:00+00:00",
+   "c": [
+    "ekonomika"
    ]
   },
   {
@@ -1007,7 +1144,7 @@
    "u": "https://24tv.ua/realestate24/rosiyani-poshkodili-naystarishiy-zhitloviy-budinok-kiyeva-shho_n3190216",
    "x": "Російська атака на Київ пошкодила найстаріший житловий будинок столиці, якому вже 228 років. Історична споруда пережила дві великі пожежі, але тепер постраждала від обстрілу.",
    "i": "https://24tv.ua/resources/photos/news/202611/3190216.jpg?v=1795166162000&q=100",
-   "d": "2026-11-20T09:23:54+00:00",
+   "d": "2026-11-20T09:23:00+00:00",
    "c": [
     "holovne"
    ],
@@ -1024,6 +1161,16 @@
    "d": "2026-11-20T09:23:00+00:00",
    "c": [
     "holovne"
+   ]
+  },
+  {
+   "t": "Visa, Mastercard та JPMorgan розповіли про наслідки хакерської атаки",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/biznes/visa-mastercard-ta-jpmorgan-rozpovili-pro-naslidki-hakerskoji-ataki-827854/",
+   "x": "Хакери отримали дані клієнтів Visa, Mastercard та JPMorgan, однак це не спричинило перебоїв у роботі платіжних сервісів і не пов'язано із банківськими проблемами, які виникли на початку цього тижня.",
+   "d": "2026-11-20T09:23:00+00:00",
+   "c": [
+    "ekonomika"
    ]
   },
   {
@@ -1336,6 +1483,16 @@
    ]
   },
   {
+   "t": "Volkswagen хоче збільшити робочий тиждень та заморозити зарплати співробітникам",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/svit/volkswagen-obmezhuye-zarplati-i-zminyuye-robochiy-chas-dlya-skorochennya-vitrat-827853/",
+   "x": "Німецький автовиробник Volkswagen планує заморозити заробітні плати співробітникам на 2 роки та збільшити робочий час.",
+   "d": "2026-11-20T08:59:00+00:00",
+   "c": [
+    "ekonomika"
+   ]
+  },
+  {
    "t": "У Києві кількість загиблих зросла до 6, загалом росіяни вбили 8 людей і поранили 30",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/20/8063766/",
@@ -1348,17 +1505,6 @@
    ],
    "r": [
     "kyiv"
-   ]
-  },
-  {
-   "t": "\"Каже, що це податки\": Мудрик несподівано \"наїхав\" на Шевченка через гроші",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/sporttopnews/intervyu-mihayla-mudrika-dmitru-gordonu-za-shho-futbolist-nayihav_n3188612",
-   "x": "Михайло Мудрик дав велике скандальне інтерв'ю Дмитру Гордону. З-поміж усього він ще й \"наїхав\" на президента УАФ Андрія Шевченка через гроші.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3188612.jpg?v=1795164841000&q=100",
-   "d": "2026-11-20T08:56:00+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
@@ -1384,6 +1530,18 @@
    ]
   },
   {
+   "t": "РФ атакувала енергооб'єкт ДТЕК на Одещині: без світла десятки тисяч",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/energetika/ataka-rf-na-ob-yekt-dtek-zalishila-41-tisyachu-rodin-odeshchini-bez-svitla-827852/",
+   "d": "2026-11-20T08:55:00+00:00",
+   "c": [
+    "ekonomika"
+   ],
+   "r": [
+    "odesa"
+   ]
+  },
+  {
    "t": "Догляд вдома та соціальна адаптація: маломобільним ВПО та евакуйованим надаватимуть нову підтримку",
    "s": "Українська правда. Життя",
    "u": "https://life.pravda.com.ua/society/malomobilnim-vpo-nadavatimut-poslugi-doglyadu-vdoma-319194/",
@@ -1401,7 +1559,6 @@
    "i": "https://24tv.ua/resources/photos/news/202611/3188710.jpg?v=1795163742000&q=100",
    "d": "2026-11-20T08:54:59+00:00",
    "c": [
-    "holovne",
     "viyna"
    ],
    "r": [
@@ -1415,7 +1572,8 @@
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/b/960662/2b2f65a3ec730e812091bcb2857736a1.jpeg",
    "d": "2026-11-20T08:53:00+00:00",
    "c": [
-    "vazhlyve"
+    "vazhlyve",
+    "ekonomika"
    ]
   },
   {
@@ -1529,14 +1687,16 @@
    "v": 1
   },
   {
-   "t": "Аліна Гросу розсекретила, чим заробляє чоловік та як влаштований їхній сімейний бюджет",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/show24/alina-grosu-rozpovila-pro-cholovika-romana-polyanskogo-simeyniy_n3188641",
-   "x": "Співачка Аліна Гросу вже п'ять років перебуває у шлюбі, однак досі не показує чоловіка в соцмережах. Артистка пояснювала, що коханий не користується соціальними мережами.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3188641.jpg?v=1795163661000&q=100",
-   "d": "2026-11-20T08:39:00+00:00",
+   "t": "Цієї ночі під ударом були Київ і девʼять областей – Корецький",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/biznes/ciyeji-nochi-pid-udarom-buli-kijiv-i-dev-yat-oblastey-koreckiy-827851/",
+   "x": "Цієї ночі росіяни атакували Київ і девʼять областей України, пошкодивши мости та інші об'єкти.",
+   "d": "2026-11-20T08:40:00+00:00",
    "c": [
-    "holovne"
+    "ekonomika"
+   ],
+   "r": [
+    "kyiv"
    ]
   },
   {
@@ -1700,6 +1860,16 @@
    ]
   },
   {
+   "t": "Доступ до Особистого кабінету на \"Єдиному вікні\" частково обмежено – ДМСУ",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/biznes/dostupu-do-osobistogo-kabinetu-na-yedinomu-vikni-chastkovo-obmezheno-dmsu-827849/",
+   "x": "Державна митна служба України повідомляє про тимчасове обмеження доступу до окремих розділів Особистого кабінету на \"Єдиному вікні\".",
+   "d": "2026-11-20T08:22:00+00:00",
+   "c": [
+    "ekonomika"
+   ]
+  },
+  {
    "t": "ДМС тимчасово обмежила доступ до деяких розділів Особистого кабінету в \"Єдиному вікні\" через вразливості платформи",
    "s": "Інтерфакс-Україна",
    "u": "https://interfax.com.ua/news/economic/1239693.html",
@@ -1707,6 +1877,19 @@
    "d": "2026-11-20T08:21:09+00:00",
    "c": [
     "holovne"
+   ]
+  },
+  {
+   "t": "У Львові росіяни влучили по залізничній станції: є загиблі",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/infrastruktura/zaliznichna-infrastruktura-lvivshchini-udar-po-stanciji-skniliv-827848/",
+   "x": "Росіяни під час атаки вранці 20 листопада влучили по залізничній станції Скнилів на Львівщині, є загиблі та постраждалі.",
+   "d": "2026-11-20T08:20:00+00:00",
+   "c": [
+    "ekonomika"
+   ],
+   "r": [
+    "lviv"
    ]
   },
   {
@@ -1767,18 +1950,6 @@
    "r": [
     "crimea"
    ]
-  },
-  {
-   "t": "⚡️ШЕЙТЕЛЬМАН: НЕМЕДЛЕННО! После ЭТОГО Путина и Трампа ПОНЕСЛО: ДИКИЙ УКАЗ США поднял Киев. РАСКОЛ",
-   "s": "24 Канал · відео",
-   "u": "https://www.youtube.com/watch?v=wyC17wrd5r0",
-   "x": "Ведущий 24 Канала Игорь Гаврищак @IhorHavryshchak вместе с политтехнологом Михаилом Шейтельманом @sheitelman в прямом эфире обсудят заявления Дональда Трампа и Владимира Путина, решения Вашингтона и их возможные…",
-   "i": "https://i4.ytimg.com/vi/wyC17wrd5r0/hqdefault.jpg",
-   "d": "2026-11-20T08:09:53+00:00",
-   "c": [
-    "video"
-   ],
-   "v": 1
   },
   {
    "t": "Підняв знайдений на вулиці дрон: на Харківщині від вибуху загинув чоловік",
@@ -1921,6 +2092,19 @@
    "d": "2026-11-20T07:56:42+00:00",
    "c": [
     "holovne"
+   ]
+  },
+  {
+   "t": "РФ пошкодила щонайменше три підприємства на Житомирщині та Київщині",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/infrastruktura/rf-poshkodila-pidpriyemstva-na-zhitomirshchini-ta-u-brovarah-ye-poraneniy-827847/",
+   "d": "2026-11-20T07:55:00+00:00",
+   "c": [
+    "ekonomika"
+   ],
+   "r": [
+    "zhytomyr",
+    "kyivska"
    ]
   },
   {
@@ -2267,19 +2451,6 @@
    ]
   },
   {
-   "t": "«Ситуація вкрай складна»: після атаки РФ у Києві та трьох західних областях ввели аварійні відключення",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/energetics/situatsija-vkraj-skladna-pislja-ataki-rf-u-kijevi-ta-trokh-zakhidnikh-oblastjakh-vveli-avarijni-vidkljuchennja.html",
-   "i": "https://zn.ua/img/article/7046/57_main.webp",
-   "d": "2026-11-20T06:42:00+00:00",
-   "c": [
-    "statti"
-   ],
-   "r": [
-    "kyiv"
-   ]
-  },
-  {
    "t": "Ворог пошкодив залізничну інфраструктуру на деяких ділянках",
    "s": "24 Канал",
    "u": "https://24tv.ua/masovana-ataka-20-listopada-ukrzaliznitsi-zayavili-pro-zatrimku_n3184154",
@@ -2601,20 +2772,6 @@
    ],
    "r": [
     "kharkiv"
-   ]
-  },
-  {
-   "t": "Удар по Кримському мосту зіпсував плани Путіна: Чалий пояснив, що змінилося",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/krimskiy-mist-zustrich-kitayi-yak-poslabilisya-pozitsiyi-putina_n3183856",
-   "x": "Нові проблеми з Кримським мостом стали для Росії черговою військовою невдачею напередодні важливих міжнародних переговорів. Кремль намагається повернути Путіна до кола світових лідерів, однак ситуація на фронті та удари…",
-   "i": "https://24tv.ua/resources/photos/news/202611/3183856.jpg?v=1795097466000&q=100",
-   "d": "2026-11-20T02:01:00+00:00",
-   "c": [
-    "viyna"
-   ],
-   "r": [
-    "crimea"
    ]
   },
   {
