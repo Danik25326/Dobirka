@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T03:30:59+00:00",
+ "updated": "2026-11-21T03:40:42+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -221,6 +221,23 @@
    "d": "2026-11-20T23:03:00+00:00"
   },
   {
+   "t": "Нічний удар по Запоріжжю: під атакою опинився дитсадок, у багатоповерхівці поруч спалахнула пожежа",
+   "u": "https://zn.ua/ukr/war/nichnij-udar-po-zaporizhzhju-pid-atakoju-opinivsja-ditsadok-u-bahatopoverkhivtsi-poruch-spalakhnula-pozhezha.html",
+   "i": "https://zn.ua/img/article/7047/81_main.webp",
+   "n": 2,
+   "l": [
+    {
+     "s": "ZN.UA",
+     "u": "https://zn.ua/ukr/war/nichnij-udar-po-zaporizhzhju-pid-atakoju-opinivsja-ditsadok-u-bahatopoverkhivtsi-poruch-spalakhnula-pozhezha.html"
+    },
+    {
+     "s": "Інтерфакс-Україна",
+     "u": "https://interfax.com.ua/news/general/1240150.html"
+    }
+   ],
+   "d": "2026-11-21T03:32:00+00:00"
+  },
+  {
    "t": "Зі святом Введення в храм Пресвятої Богородиці 2026 – листівки,вірші та проза",
    "u": "https://24tv.ua/traditions24/privitannya-vvedennyav-hram-presvyatoyi-bogoroditsi-2026-kartinki_n3211711",
    "i": "https://24tv.ua/resources/photos/news/202611/3211711.jpg?v=1795203817000&q=100",
@@ -291,6 +308,20 @@
  ],
  "items": [
   {
+   "t": "Нічний удар по Запоріжжю: під атакою опинився дитсадок, у багатоповерхівці поруч спалахнула пожежа",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/war/nichnij-udar-po-zaporizhzhju-pid-atakoju-opinivsja-ditsadok-u-bahatopoverkhivtsi-poruch-spalakhnula-pozhezha.html",
+   "x": "Унаслідок удару поранення дістав 63-річний чоловік.",
+   "i": "https://zn.ua/img/article/7047/81_main.webp",
+   "d": "2026-11-21T03:32:00+00:00",
+   "c": [
+    "statti"
+   ],
+   "r": [
+    "zaporizhzhia"
+   ]
+  },
+  {
    "t": "З Днем ангела Марії 2026 – листівки, вірші та привітання своїми словами зі святом",
    "s": "24 Канал",
    "u": "https://24tv.ua/traditions24/privitannya-dnem-angela-mariyi-2026-kartinki-virshi-proza-shhob_n3211745",
@@ -299,6 +330,17 @@
    "d": "2026-11-21T03:30:00+00:00",
    "c": [
     "holovne"
+   ]
+  },
+  {
+   "t": "Монополія на свободу",
+   "s": "Українська правда",
+   "u": "https://www.pravda.com.ua/articles/2026/11/21/8063715/",
+   "x": "Як поняття свободи змінювали революції у Кубі, Індонезії, Алжирі, Гані та що це означає для України під час війни.",
+   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/4/960981/44108b7940eafc600c3b900f2f4d4c34.jpeg",
+   "d": "2026-11-21T03:30:00+00:00",
+   "c": [
+    "statti"
    ]
   },
   {
@@ -1700,17 +1742,6 @@
     "video"
    ],
    "v": 1
-  },
-  {
-   "t": "Понад 90% росіян не вважають Росію відповідальною за жертви в Україні: що показало опитування",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/war/ponad-90-rosijan-ne-vvazhajut-rosiju-vidpovidalnoju-za-zhertvi-v-ukrajini-shcho-pokazalo-opituvannja.html",
-   "x": "Частка росіян, які вважають, що країна рухається правильним шляхом, знизилася до 60%. Водночас більшість молоді підтримала б припинення бойових дій, але не повернення захоплених територій.",
-   "i": "https://zn.ua/img/article/7047/46_main.webp",
-   "d": "2026-11-20T19:18:14+00:00",
-   "c": [
-    "statti"
-   ]
   },
   {
    "t": "Удар по мостах та енергетиці | Загинули співробітники «Київводоканалу» | 20 листопада",
@@ -4092,17 +4123,6 @@
    "u": "https://www.pravda.com.ua/articles/2026/11/13/8062789/",
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/7/956617/d7ace6b8156e8b59129ed0e9abf420f1.jpeg",
    "d": "2026-11-13T17:13:00+00:00",
-   "c": [
-    "statti"
-   ]
-  },
-  {
-   "t": "8 людей, від яких залежатиме підтримка України: хто може отримати ключові посади у новому Конгресі США",
-   "s": "Українська правда",
-   "u": "https://www.pravda.com.ua/articles/2026/11/13/8062719/",
-   "x": "Проміжні вибори у США, які відбулись 3 листопада 2026 року і стали розгромними для Дональда Трампа, змінили баланс сил у Конгресі. Демократи здобули контроль над обома палатами, перехопивши більшість у республіканців.",
-   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/b/956292/9bd6bbac11755cd0f4ba711a968201b9.jpeg",
-   "d": "2026-11-13T16:00:00+00:00",
    "c": [
     "statti"
    ]
