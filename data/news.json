@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T08:31:01+00:00",
+ "updated": "2026-11-21T08:40:42+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -158,11 +158,15 @@
  ],
  "top": [
   {
-   "t": "До Різдва між Україною та Росією може бути ще одне припинення вогню — Меланія Трамп",
-   "u": "https://zn.ua/ukr/POLITICS/do-rizdva-mizh-ukrajinoju-ta-rosijeju-mozhe-buti-shche-odne-pripinennja-vohnju-melanija-tramp.html",
-   "i": "https://zn.ua/img/article/7048/4_main.webp",
-   "n": 3,
+   "t": "До Різдва між Україною та РФ може бути ще одне припинення вогню — Меланія Трамп",
+   "u": "https://suspilne.media/1455751-do-rizdva-miz-ukrainou-ta-rf-moze-buti-se-odne-pripinenna-vognu-melania-tramp/",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "n": 4,
    "l": [
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/1455751-do-rizdva-miz-ukrainou-ta-rf-moze-buti-se-odne-pripinenna-vognu-melania-tramp/"
+    },
     {
      "s": "ZN.UA",
      "u": "https://zn.ua/ukr/POLITICS/do-rizdva-mizh-ukrajinoju-ta-rosijeju-mozhe-buti-shche-odne-pripinennja-vohnju-melanija-tramp.html"
@@ -176,7 +180,28 @@
      "u": "https://24tv.ua/geopolitics/bilshe-peremirya-melaniya-tramp-vislovilasya-pro-viynu-ukrayini_n3211847"
     }
    ],
-   "d": "2026-11-21T08:02:46+00:00"
+   "d": "2026-11-21T08:09:49+00:00"
+  },
+  {
+   "t": "Росія завдала ракетного удару по Печенізькій дамбі: рух нею перекрито",
+   "u": "https://zn.ua/ukr/war/rosija-zavdala-raketnoho-udaru-po-pechenizkij-dambi-rukh-neju-perekrito.html",
+   "i": "https://zn.ua/img/article/7048/7_main.webp",
+   "n": 3,
+   "l": [
+    {
+     "s": "ZN.UA",
+     "u": "https://zn.ua/ukr/war/rosija-zavdala-raketnoho-udaru-po-pechenizkij-dambi-rukh-neju-perekrito.html"
+    },
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/rosiyska-raketna-ataka-harkivshhinu-vorog-poshkodiv-pechenizku_n3211849"
+    },
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/kharkiv/1455740-ruh-pecenizkou-dambou-na-harkivsini-perekrili-cerez-raketnij-udar-marsrut-obizdu/"
+    }
+   ],
+   "d": "2026-11-21T08:17:00+00:00"
   },
   {
    "t": "Кількість постраждалих від ударів по Кривому Рогу зросла до 58, у лікарнях перебувають 28 людей",
@@ -217,23 +242,6 @@
    "d": "2026-11-21T08:27:31+00:00"
   },
   {
-   "t": "Росія завдала ракетного удару по Печенізькій дамбі: рух нею перекрито",
-   "u": "https://zn.ua/ukr/war/rosija-zavdala-raketnoho-udaru-po-pechenizkij-dambi-rukh-neju-perekrito.html",
-   "i": "https://zn.ua/img/article/7048/7_main.webp",
-   "n": 2,
-   "l": [
-    {
-     "s": "ZN.UA",
-     "u": "https://zn.ua/ukr/war/rosija-zavdala-raketnoho-udaru-po-pechenizkij-dambi-rukh-neju-perekrito.html"
-    },
-    {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/rosiyska-raketna-ataka-harkivshhinu-vorog-poshkodiv-pechenizku_n3211849"
-    }
-   ],
-   "d": "2026-11-21T08:17:00+00:00"
-  },
-  {
    "t": "У Києві внаслідок падіння уламків постраждали двоє людей – Кличко",
    "u": "https://interfax.com.ua/news/general/1240182.html",
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/5/961226/351ca2f33a2785e8ed77d4a35bf479ad.jpeg",
@@ -249,6 +257,23 @@
     }
    ],
    "d": "2026-11-21T07:14:38+00:00"
+  },
+  {
+   "t": "Росія атакувала Київ балістикою та реактивними БпЛА: є постраждалі",
+   "u": "https://24tv.ua/kiyevi-progrimili-vibuhi-pid-chas-ataki-reaktivnih-bpla_n3211790",
+   "i": "https://24tv.ua/resources/photos/news/202611/3211790.jpg?v=1795214833000&q=100",
+   "n": 2,
+   "l": [
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/kiyevi-progrimili-vibuhi-pid-chas-ataki-reaktivnih-bpla_n3211790"
+    },
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/kyiv/1455702-postrazdali-dvi-ludini-vnoci-ta-zranku-rf-atakuvala-kiiv-dronami-ta-balistikou/"
+    }
+   ],
+   "d": "2026-11-21T07:05:00+00:00"
   },
   {
    "t": "Нічний удар по Запоріжжю: під атакою опинився дитсадок, у багатоповерхівці поруч спалахнула пожежа",
@@ -285,6 +310,23 @@
    "d": "2026-11-21T02:30:00+00:00"
   },
   {
+   "t": "Трамп не сказав, які гарантії безпеки готовий надати Україні: \"Спершу потрібно укласти угоду\"",
+   "u": "https://www.pravda.com.ua/news/2026/11/20/8063891/",
+   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/1/961159/a1154ecba0bed0d507f4c328506a9ce6.jpeg",
+   "n": 2,
+   "l": [
+    {
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/20/8063891/"
+    },
+    {
+     "s": "Європейська правда",
+     "u": "https://www.eurointegration.com.ua/news/2026/11/20/7250495/"
+    }
+   ],
+   "d": "2026-11-20T20:11:00+00:00"
+  },
+  {
    "t": "\"Для нас він ворог і вбивця\": Зеленський відреагував на слова Трампа про дружбу з Путіним",
    "u": "https://24tv.ua/zelenskiy-nazvav-putina-vorogom-vbivtseyu-reaktsiya-slova-trampa_n3211448",
    "i": "https://24tv.ua/resources/photos/news/202611/3211448.jpg?v=1795201491000&q=100",
@@ -304,6 +346,102 @@
  ],
  "items": [
   {
+   "t": "Поклали квіти й виконали гімн: у Кропивницькому відзначили День Гідності та Свободи",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/kropyvnytskiy/1455760-poklali-kviti-j-vikonali-gimn-u-kropivnickomu-vidznacili-den-gidnosti-ta-svobodi/",
+   "x": "21 листопада відзначили День Гідності та Свободи. До пам'ятного знаку Героям Небесної Сотні на площі Героїв Майдану та дошки Герою України Віктору Чміленку поклали квіти й виконали гімн",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-21T08:38:01+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kirovohrad"
+   ]
+  },
+  {
+   "t": "На Львівщині 21 листопада попрощаються із чотирма військовими",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/lviv/1455758-na-lvivsini-21-listopada-poprosautsa-iz-cotirma-vijskovimi/",
+   "x": "Мирон Драбик, Сергій Кобяков, Роман Мацан та Василь Похмурський захищали Україну в зоні бойових дій. Військових поховають на Львівщині.",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-21T08:37:46+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "lviv"
+   ]
+  },
+  {
+   "t": "Мене часто немає, – Усик чесно розповів про себе в ролі батька",
+   "s": "24 Канал",
+   "u": "https://sportnews.24tv.ua/usik-rozpoviv-pro-sebe-roli-batka-yak-otsiniv-sebe-bokser_n3211866",
+   "x": "Олександр Усик розповів про те, як він справляється з роллю батька. Спортсмен чесно зізнався, що не вважає себе абсолютно найкращим татом.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3211866.jpg?v=1795250042000&q=100",
+   "d": "2026-11-21T08:35:53+00:00",
+   "c": [
+    "holovne",
+    "sport"
+   ]
+  },
+  {
+   "t": "День Гідності: спогади учасників українських революцій з Тернопільщини",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/ternopil/1455685-den-gidnosti-spogadi-ucasnikiv-ukrainskih-revolucij-z-ternopilsini/",
+   "x": "21 листопада в Україні відзначають День Гідності та Свободи. Кореспонденти Суспільного записали спогади учасників українських революцій з Тернопільщини",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-21T08:33:40+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "ternopil"
+   ]
+  },
+  {
+   "t": "Чому топоніми зі словом «гвардія» треба перейменувати і скільки таких на Харківщині: відповідь представниці УІНП",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/kharkiv/1454994-comu-toponimi-zi-slovom-gvardia-treba-perejmenuvati-i-skilki-takih-na-harkivsini-vidpovid-predstavnici-uinp/",
+   "x": "Керівниця другого міжрегіонального відділу Українського інституту національної пам'яті Марія Тахтаулова у розмові з Українським Радіо Харкова розповіла, які вулиці та чому потрібно перейменувати у місті й області",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-21T08:33:39+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kharkiv"
+   ]
+  },
+  {
+   "t": "Після важкого поранення у госпіталі помер військовий з Чернівців Ігор Гангала",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/chernivtsi/1455750-pisla-vazkogo-poranenna-u-gospitali-pomer-vijskovij-z-cernivciv-igor-gangala/",
+   "x": "20 листопада у військовому госпіталі у Києві помер військовий з Чернівців Ігор Гангала. Перед тим боєць отримав поранення через ураження від FPV-дрона",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-21T08:33:10+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "chernivtsi"
+   ]
+  },
+  {
+   "t": "Відключення світла у Криму 21 листопада: де на ранок немає електроенергії та коли буде",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/crimea/1455744-vidklucenna-svitla-u-krimu-21-listopada-de-na-ranok-nemae-elektroenergii-ta-koli-bude/",
+   "x": "В окупованому Криму 21 листопада світло відключатимуть на 3–6 годин через обмеження споживання електроенергії. У пʼяти районах, Білогірську та Севастополі є знеструмлення",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-21T08:31:40+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "crimea"
+   ]
+  },
+  {
    "t": "⚡️Керченський МІСТ ДОБИЛИ НОВОЮ ТЕХНОЛОГІЄЮ! Україна ОБІЙШЛА МАСКА😎 Проти ЦІЄЇ СИСТЕМИ рОСІЯ БЕЗСИЛА",
    "s": "5 канал · відео",
    "u": "https://www.youtube.com/watch?v=tx7nPhmdFd4",
@@ -316,6 +454,21 @@
    "v": 1,
    "r": [
     "crimea"
+   ]
+  },
+  {
+   "t": "❗СТРАШНИЙ УДАР БАЛІСТИКОЮ по Кривому рогу! Ось КУДИ ВЛУЧИЛИ росіяни (ВІДЕО). Десятки поранених",
+   "s": "24 Канал · відео",
+   "u": "https://www.youtube.com/watch?v=XF5SAyLfARs",
+   "x": "У ніч на 21 листопада ворог атакував Київ – у Подільському районі загорілися два приватні будинки, двоє постраждалих, одного госпіталізовано. У Солом'янському районі уламки впали на відкриту територію без пожежі…",
+   "i": "https://i1.ytimg.com/vi/XF5SAyLfARs/hqdefault.jpg",
+   "d": "2026-11-21T08:30:04+00:00",
+   "c": [
+    "video"
+   ],
+   "v": 1,
+   "r": [
+    "kyiv"
    ]
   },
   {
@@ -338,6 +491,34 @@
    "d": "2026-11-21T08:30:00+00:00",
    "c": [
     "statti"
+   ]
+  },
+  {
+   "t": "До Дня Гідності та Свободи у Мукачеві організували зустріч молоді з військовослужбовцями",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/uzhhorod/1455756-do-dna-gidnosti-ta-svobodi-u-mukacevi-organizuvali-zustric-molodi-z-vijskovosluzbovcami/",
+   "x": "Про військову службу, тактичну медицину та побратимство говорили у Мукачівській бібліотеці. До Дня Гідності та Свободи тут організували зустріч ліцеїстів із військослужбовцями та ветеранами російсько-української війни",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-21T08:29:57+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "zakarpattia"
+   ]
+  },
+  {
+   "t": "«Зробив, доробив, завершив — і все»: історія майстра художньої обробки шкіри з Рівного",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/rivne/1455397-zrobiv-dorobiv-zaversiv-i-vse-istoria-majstra-hudoznoi-obrobki-skiri-z-rivnogo/",
+   "x": "Олександр Соловей майже 30 років працює з натуральною шкірою — кози, вівці, змії, ящірки і не тільки. Починав із дрібних виробів, які продавав у Ялті. За цей час майстер з Рівного створив приблизно 600 картин",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-21T08:29:32+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "rivne"
    ]
   },
   {
@@ -372,7 +553,7 @@
    "u": "https://zn.ua/ukr/usa/tramp-vlashtuvav-rubio-ta-vensu-proslukhovuvannja-na-rol-svoho-nastupnika-ap.html",
    "x": "Пресконференція в Білому домі перетворилася на своєрідний “кастинг”.",
    "i": "https://zn.ua/img/article/7048/8_main.webp",
-   "d": "2026-11-21T08:22:08+00:00",
+   "d": "2026-11-21T08:22:00+00:00",
    "c": [
     "statti"
    ]
@@ -381,9 +562,22 @@
    "t": "У селі в Англії проходить \"референдум\" за вихід з Великої Британії",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/21/8063919/",
+   "i": "https://img.eurointegration.com.ua/images/doc/4/b/4b7f54e-1ec7e940-e4fe-11f1-a8e4-b1e12a49db15.jpg.jpg",
    "d": "2026-11-21T08:20:00+00:00",
    "c": [
-    "holovne"
+    "holovne",
+    "polityka"
+   ]
+  },
+  {
+   "t": "Росія доручила сербському міністру боротися з \"іноземним втручанням\" у вибори",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/21/7250502/",
+   "x": "Міністр без портфеля у тимчасовому уряді Сербії та голова Сербської народної партії Ненад Попович був призначений координатором боротьби з \"іноземним втручанням у вибори\" в рамках міжнародного руху \"За свободу націй!\"…",
+   "i": "https://img.eurointegration.com.ua/images/doc/7/7/7756057-d0a2d48f-9215-40ad-e701-08debadc7311-cx0-cy4-cw0-w1023-r1-s.jpg",
+   "d": "2026-11-21T08:19:00+00:00",
+   "c": [
+    "polityka"
    ]
   },
   {
@@ -432,6 +626,20 @@
    ]
   },
   {
+   "t": "Армія РФ скинула дві керовані авіабомби на Білозерку на Херсонщині",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/kherson/1455753-armia-rf-skinula-dvi-kerovani-aviabombi-na-bilozerku-na-hersonsini/",
+   "x": "Російська армія атакувала Білозерку на Херсонщині двома керованими авіаційними бомбами. Інформації про наслідки атаки не надходило",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-21T08:13:01+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kherson"
+   ]
+  },
+  {
    "t": "Спав на залізному ліжку і вставав о 4-й ранку: як \"дідусь\" Франц Йосиф 68 років тримав імперію",
    "s": "24 Канал",
    "u": "https://24tv.ua/people/frants-yosif-kim-buv-imperator-avstro-ugorshhini-yakiy-praviv_n3211855",
@@ -467,6 +675,17 @@
    ]
   },
   {
+   "t": "До Різдва між Україною та РФ може бути ще одне припинення вогню — Меланія Трамп",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1455751-do-rizdva-miz-ukrainou-ta-rf-moze-buti-se-odne-pripinenna-vognu-melania-tramp/",
+   "x": "Перша леді США Меланія Трамп висловила сподівання, що Україна та Росія зможуть домовитися про нове припинення вогню до Різдва — тривають переговори",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-21T08:09:49+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "Росія вдарила ракетами по Печенізькій дамбі: рух тимчасово перекритий",
    "s": "24 Канал",
    "u": "https://24tv.ua/rosiyska-raketna-ataka-harkivshhinu-vorog-poshkodiv-pechenizku_n3211849",
@@ -482,7 +701,63 @@
    ]
   },
   {
-   "t": "Зеленський ЗВЕРНУВСЯ до Путіна ПІСЛЯ УДАРІВ по Україні! ДИКО ПРИГРОЗИВ Кримським мостом @24онлайн",
+   "t": "У Полтаві військового звільнили від кримінальної відповідальності за СЗЧ: він вирішив повернутися на службу",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/poltava/1455474-u-poltavi-vijskovogo-zvilnili-vid-kriminalnoi-vidpovidalnosti-za-szc-vin-virisiv-povernutisa-na-sluzbu/",
+   "x": "У Полтаві суд закрив справу про СЗЧ щодо військовослужбовця, який самовільно залишив частину у 2025 році. Чоловік добровільно звернувся до ДБР та вирішив повернутися на військову службу",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-21T08:08:37+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "poltava"
+   ]
+  },
+  {
+   "t": "«Вони дуже чекають»: на Волині започаткували суботні прогулянки із собаками з прихистку",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/lutsk/1454496-voni-duze-cekaut-na-volini-zapocatkuvali-subotni-progulanki-iz-sobakami-z-prihistku/",
+   "x": "У місті Ківерці на Волині започаткували суботні прогулянки із собаками з прихистку «Мокрий носик». Охочі можуть зареєструватися, обрати час вигулу та тварину",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-21T08:07:35+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "volyn"
+   ]
+  },
+  {
+   "t": "Внаслідок атаки армії РФ по Житомирщині горіли автівки, поранені двоє людей",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/zhytomyr/1455752-vnaslidok-ataki-armii-rf-po-zitomirsini-zagorilisa-avtivki-poraneni-dvoe-ludej/",
+   "x": "20 листопада російські військові атакували цивільну та енергетичну інфраструктуру у Звягельському та Коростенському районах Житомирщини. Поранені двоє людей, один яких є іноземним громадянином",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-21T08:06:02+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "zhytomyr"
+   ]
+  },
+  {
+   "t": "Мандате, прощавай: піар, необхідність чи хайп — чому черкаські депутати складають повноваження?",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/cherkasy/1455284-mandate-prosavaj-piar-neobhidnist-ci-hajp-comu-cerkaski-deputati-skladaut-povnovazenna/",
+   "x": "Шість років тому вони прийшли до влади у Черкасах. Хтось став депутатом міської, а хтось обласної ради. Усі присягали на вірність українському народові",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-21T08:06:00+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "cherkasy"
+   ]
+  },
+  {
+   "t": "ЖАХЛИВА АТАКА Кривого Рогу! Трагічні новини сколихнули Україну. Реакція Зеленського @24онлайн",
    "s": "24 Канал · відео",
    "u": "https://www.youtube.com/watch?v=B60VFRWQHQo",
    "x": "Ведучий 24 Каналу Андрій Дрозда @АндрійДрозда24 у прямому ефірі розповість про найважливіші новини станом на 09:00 за 21 листопада 2026 року. Зокрема, у Кривому Розі після удару є загиблі та десятки поранених, Київщину…",
@@ -493,7 +768,7 @@
    ],
    "v": 1,
    "r": [
-    "crimea"
+    "dnipro"
    ]
   },
   {
@@ -625,11 +900,39 @@
    "u": "https://24tv.ua/geopolitics/bilshe-peremirya-melaniya-tramp-vislovilasya-pro-viynu-ukrayini_n3211847",
    "x": "Меланія Трамп розповіла про свої головні очікування та побажання до зимових свят. Вона висловила сподівання на досягнення чергового припинення вогню в Україні до настання Різдва.",
    "i": "https://24tv.ua/resources/photos/news/202611/3211847.jpg?v=1795247148000&q=100",
-   "d": "2026-11-21T07:54:55+00:00",
+   "d": "2026-11-21T07:54:00+00:00",
    "c": [
     "holovne",
     "vazhlyve",
     "viyna"
+   ]
+  },
+  {
+   "t": "Травмувався водій мотоцикла в ДТП у Миколаєві — поліція",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/mykolaiv/1455747-travmuvavsa-vodij-motocikla-v-dtp-u-mikolaevi-policia/",
+   "x": "У Миколаєві 20 листопада зіткнулися мотоцикл і автомобіль. Внаслідок автопригоди водій мототранспорту травмувався, його ушпиталили",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-21T07:51:52+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "mykolaiv"
+   ]
+  },
+  {
+   "t": "Війська РФ атакували «Геранями» підприємство в Городні та вкотре було влучання в енергообʼєкт на Чернігівщині",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/chernihiv/1455743-vijska-rf-atakuvali-geranami-pidpriemstvo-v-gorodni-ta-vkotre-bulo-vlucanna-v-energoobekt-na-cernigivsini/",
+   "x": "Зранку 21 листопада війська РФ атакували «Геранями» підприємство в Городні, що на прикордонні Чернігівщини. На місці влучання спалахнула пожежа. Детальніше далі",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-21T07:51:36+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "chernihiv"
    ]
   },
   {
@@ -643,6 +946,20 @@
     "video"
    ],
    "v": 1
+  },
+  {
+   "t": "В Ужгороді відзначили День Гідності та Свободи",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/uzhhorod/1455745-v-uzgorodi-vidznacili-den-gidnosti-ta-svobodi/",
+   "x": "День Гідності та Свободи відзначили в Ужгороді. Захід відбувся на площі Народній. До нього долучилися студенти, пластуни, нацгвардійці та представники місцевої влади",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-21T07:50:22+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "zakarpattia"
+   ]
   },
   {
    "t": "\"Переглянути справу Мудрика\": Волочай прокоментував скандальне інтерв'ю футболіста Гордону",
@@ -659,9 +976,11 @@
    "t": "Фінляндія обмежувала повітряний та морський рух у частині Фінської затоки",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/21/8063917/",
+   "i": "https://img.eurointegration.com.ua/images/doc/a/5/a54d248-1780552191.jpg",
    "d": "2026-11-21T07:48:00+00:00",
    "c": [
-    "holovne"
+    "holovne",
+    "polityka"
    ]
   },
   {
@@ -671,6 +990,53 @@
    "x": "Міністр фінансів США Скотт Бессент в ефірі телеканалу Newsmax розкритикував європейські країни за закупівлю російської нафти, заявивши, що таким чином вони фінансують військову машину Росії та передали Володимиру Путіну…",
    "i": "https://media.interfax.com.ua/media/thumbs/images/2025/04/vtnal/IbTWLzsgsmqy.jpg",
    "d": "2026-11-21T07:45:44+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "«Нам без різниці, скільки ворога йде»: військовий — про штурми росіян на Покровському напрямку",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/donbas/1455730-nam-bez-riznici-skilki-voroga-jde-vijskovij-pro-sturmi-rosian-na-pokrovskomu-napramku/",
+   "x": "На Покровському напрямку російські війська посилили штурмові дії, збільшили використання дронів, артилерії та авіації. Окупанти шукають слабкі місця в обороні, але більшість атак вдається зупиняти ще на підходах до…",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-21T07:45:00+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "donetsk"
+   ]
+  },
+  {
+   "t": "Kola, Povin', Shmiska та Golubenko у добірці нових релізів від «Artилерії»",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/culture/1455412-kola-povin-shmiska-ta-golubenko-u-dobirci-novih-reliziv-vid-artilerii/",
+   "x": "У новій добірці — дебютний альбом Kola, спільна робота Shmiska та Golubenko, фабричний хіт від Povin', різдвяний мініальбом Юлі Юріної, оптимістичний EP від Last Past, неочікуваний вітчхаус від Tik Tu та багато іншого.",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-21T07:45:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "«Крок за кроком». Повернення Мудрика на поле відкладається ще на два тижні: пояснення тренера «Тоттенгема»",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sport/1455738-krok-za-krokom-povernenna-mudrika-na-pole-vidkladaetsa-se-na-dva-tizni-poasnenna-trenera-tottengema/",
+   "x": "Головний тренер «Тоттенгема» Роберто Де Дзербі повідомив, що український півзахисник Михайло Мудрик потребує ще двох тижнів на відновлення після травми гомілкостопу",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-21T07:42:55+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Сили ППО вночі знешкодили 117 російських дронів",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1455736-sili-ppo-vnoci-zneskodili-117-rosijskih-droniv-3/",
+   "x": "У ніч на 21 листопада (з 18:00 20 листопада) Росія атакувала Україну трьома балістичними ракетами Іскандер-М/KN-23/С-400 та 148 ударними БпЛА типу Shahed (87 із них – реактивні), Гербера, дронами-імітаторами типу…",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-21T07:42:47+00:00",
    "c": [
     "holovne"
    ]
@@ -724,6 +1090,20 @@
    ]
   },
   {
+   "t": "Міноборони РФ заявило про збиття дронів над Кримом 21 листопада",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/crimea/1455741-minoboroni-rf-zaavilo-pro-zbitta-droniv-nad-krimom-21-listopada/",
+   "x": "Міноборони Росії заявило, що вночі 21 листопада російська ППО знешкодила українські дрони над окупованим Кримом, де також вночі лунала повітряна тривога та чули вибухи під Феодосією",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-21T07:31:29+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "crimea"
+   ]
+  },
+  {
    "t": "Зеленський очікує єдності у підтримці України від новообраного Конгресу",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/21/8063916/",
@@ -732,7 +1112,8 @@
    "d": "2026-11-21T07:31:00+00:00",
    "c": [
     "holovne",
-    "vazhlyve"
+    "vazhlyve",
+    "polityka"
    ]
   },
   {
@@ -782,6 +1163,20 @@
    ]
   },
   {
+   "t": "Наслідки атаки на Кривий Ріг та Дніпровщину, збиті БпЛА. Головні новини Дніпра та області 21 листопада",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/dnipro/1455710-golovni-novini-dnipra-ta-oblasti-21-listopada/",
+   "x": "Оперативні новини Дніпра та Дніпропетровської області за 21 листопада 2026 року читайте в хроніці подій від редакції Суспільне Дніпро",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-21T07:28:01+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "dnipro"
+   ]
+  },
+  {
    "t": "З Днем Гідності та Свободи 2026 – листівки та привітання своїми словами",
    "s": "24 Канал",
    "u": "https://24tv.ua/traditions24/privitannya-dnem-gidnosti-svobodi-ukrayini-2026-kartinki-proza_n3211839",
@@ -806,6 +1201,31 @@
    ],
    "r": [
     "kyiv"
+   ]
+  },
+  {
+   "t": "В громаді на Тернопільщині діти розмалювали ящики з-під патронів для аукціону на підтримку ЗСУ",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/ternopil/1455338-v-gromadi-na-ternopilsini-diti-rozmaluvali-asiki-z-pid-patroniv-dla-aukcionu-na-pidtrimku-zsu/",
+   "x": "В Ланівцях на Тернопільщині діти розфарбували ящики з-під патронів, які передадуть волонтерам. Їх виставлять на благодійному ярмарку в місті Лісабон у Португалії, виручені кошти спрямують на потреби ЗСУ",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-21T07:22:00+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "ternopil"
+   ]
+  },
+  {
+   "t": "Обледеніння та сильний вітер. У високогір'ї Карпат третій день спостерігається шторм",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/ivano-frankivsk/1455725-obledeninna-ta-silnij-viter-u-visokogiri-karpat-tretij-den-sposterigaetsa-storm/",
+   "x": "21 листопада 2026 року у високогірʼї Карпат третій день поспіль спостерігається шторм. На вершині гори Піп Іван — обледеніння та вітер до 20 метрів за секунду",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-21T07:21:41+00:00",
+   "c": [
+    "holovne"
    ]
   },
   {
@@ -898,6 +1318,21 @@
    ]
   },
   {
+   "t": "«Луганська прописка давала прохід крізь кордони міліції на Майдані»: спогади учасника Революції гідності з Хмельницького",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/khmelnytskiy/1455466-luganska-propiska-davala-prohid-kriz-kordoni-milicii-na-majdani-spogadi-ucasnika-revolucii-gidnosti-z-hmelnickogo/",
+   "x": "Роман Федоренко родом із Луганська, під час Помаранчевої революції бився з «беркутами» за виборчі протоколи. Був учасником Революції гідності з 21 листопада — стояв у сотні Самооборони, пройшов штурм на Грушевського",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-21T07:14:41+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "luhansk",
+    "khmelnytskyi"
+   ]
+  },
+  {
    "t": "У Києві внаслідок падіння уламків постраждали двоє людей – Кличко",
    "s": "Інтерфакс-Україна",
    "u": "https://interfax.com.ua/news/general/1240182.html",
@@ -908,6 +1343,48 @@
    ],
    "r": [
     "kyiv"
+   ]
+  },
+  {
+   "t": "«Казав: \"Йду в армію, хочу бути корисним\"». У Самарському районі Дніпра представили історії 36 загиблих військових",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/dnipro/1455553-kazav-jdu-v-armiu-hocu-buti-korisnim-u-samarskomu-rajoni-dnipra-predstavili-istorii-36-zagiblih-vijskovih/",
+   "x": "У Самарському районі Дніпра на житловому масиві Придніпровськ відкрили третю частину проєкту «Історії Героїв». На Алеї пам'яті представили історії 36 загиблих військових",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-21T07:14:07+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "dnipro"
+   ]
+  },
+  {
+   "t": "Рух Печенізькою дамбою на Харківщині перекрили через ракетний удар: маршрут об'їзду",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/kharkiv/1455740-ruh-pecenizkou-dambou-na-harkivsini-perekrili-cerez-raketnij-udar-marsrut-obizdu/",
+   "x": "21 листопада через російський ракетний удар пошкоджено дорогу на Печенізькій дамбі. Проїзд перекритий, водіям пропонують маршрут об'їзду",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-21T07:12:56+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kharkiv"
+   ]
+  },
+  {
+   "t": "На Буковині прощаються з полеглим військовим Миколою Брагарем",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/chernivtsi/1455719-na-bukovini-prosautsa-z-poleglim-vijskovim-mikolou-bragarem/",
+   "x": "Військовий Микола Брагар загинув у листопаді минулого року під час виконання бойового завдання поблизу Покровська у Донецької області. З бійцем прощаються у Новоселиці",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-21T07:12:39+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "chernivtsi"
    ]
   },
   {
@@ -940,6 +1417,20 @@
    ]
   },
   {
+   "t": "Понад 50 вибухів, з них 20 в селі Камінь: війська РФ атакували прикордоння Чернігівщини",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/chernihiv/1455732-ponad-50-vibuhiv-z-nih-20-v-seli-kamin-vijska-rf-atakuvali-prikordonna-cernigivsini/",
+   "x": "Війська РФ протягом доби 20 листопада атакували чотири прикордонні громади Чернігівщини: Новгород-Сіверську, Семенівську, Сновську та Городнянську. Більше про це далі",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-21T07:10:59+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "chernihiv"
+   ]
+  },
+  {
    "t": "Чи треба ФОП платити ЄСВ, якщо немає доходу",
    "s": "24 Канал",
    "u": "https://24tv.ua/business/povinen-fop-platiti-yesv-yakshho-nemaye-dohodu-pravila-vinyatki_n3182104",
@@ -948,6 +1439,56 @@
    "d": "2026-11-21T07:10:00+00:00",
    "c": [
     "holovne"
+   ]
+  },
+  {
+   "t": "1732-й день війни. Хроніка подій в Одесі та на Одещині",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/odesa/1455729-1732-j-den-vijni-hronika-podij-v-odesi-ta-na-odesini/",
+   "x": "Що відбулося в Одесі та Одеській області 21 листопада 2026 року. Хроніка подій. Як минув 1732-й день повномасштабного вторгнення РФ в Україну",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-21T07:09:32+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "odesa"
+   ]
+  },
+  {
+   "t": "Володар «Золотого м'яча» Гаррі Кейн вибув на три місяці через травму",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sport/1455722-volodar-zolotogo-maca-garri-kejn-vibuv-na-tri-misaci-cerez-rozriv-zvazok-sikolotki/",
+   "x": "Нападник «Баварії» та володар «Золотого м'яча» Гаррі Кейн пропустить близько трьох місяців через розрив зв'язок лівої щиколотки, якого він зазнав у матчі Бундесліги проти «Кельна»",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-21T07:08:49+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "В Естонії повідомляли про загрозу дронів, задіювали авіацію союзників",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/21/7250500/",
+   "x": "Вранці у суботу Збройні сили Естонії попередили про можливу загрозу дронів у повітах Іда-Вірумаа та Ляене-Вірумаа, у небо було піднято авіацію союзників по НАТО.",
+   "i": "https://img.eurointegration.com.ua/images/doc/4/6/46c007e-drones-estonia.jpg",
+   "d": "2026-11-21T07:07:00+00:00",
+   "c": [
+    "polityka"
+   ]
+  },
+  {
+   "t": "Дощі, мокрий сніг і похолодання: якою буде погода на Житомирщині у вихідні",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/zhytomyr/1455423-dosi-mokrij-snig-i-poholodanna-akou-bude-pogoda-na-zitomirsini-u-vihidni/",
+   "x": "У вихідні, 21 та 22 листопада, на Житомирщині очікується зміна погодних умов. Температура повітря знизиться, місцями пройдуть дощі та мокрий сніг. У неділю вночі можливі морози",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-21T07:05:00+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "zhytomyr"
    ]
   },
   {
@@ -980,9 +1521,11 @@
    "t": "США оголосили нові санкції проти Ірану, націлені на нафтовий сектор",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/21/8063915/",
+   "i": "https://img.eurointegration.com.ua/images/doc/6/d/6df2f67-images---2026-11-21t081243.010.jpeg",
    "d": "2026-11-21T07:03:00+00:00",
    "c": [
-    "holovne"
+    "holovne",
+    "polityka"
    ]
   },
   {
@@ -1009,6 +1552,20 @@
    "d": "2026-11-21T07:02:00+00:00",
    "c": [
     "holovne"
+   ]
+  },
+  {
+   "t": "У неділю стане прохолодніше: прогноз погоди на вихідні для Кіровоградщини",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/kropyvnytskiy/1455679-u-nedilu-stane-proholodnise-prognoz-pogodi-na-vihidni-dla-kirovogradsini/",
+   "x": "В неділю, 22 листопада, дощу не очікують, однак максимальна денна температура повітря знизиться на вісім градусів, якщо порівнювати із суботою",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-21T07:01:47+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kirovohrad"
    ]
   },
   {
@@ -1192,7 +1749,7 @@
    "u": "https://24tv.ua/protokol-dopitu-generala-sbu-duki-shho-zyasuvali-zhurnalisti_n3211833",
    "x": "Генерал-майор СБУ Сергій Дука 4 листопада 2026 року побував на допиті в НАБУ в Києві, проте відмовився свідчити. Попри це, пізніше підозрюваний публічно заявив, що слідчі його жодного разу не допитували.",
    "i": "https://24tv.ua/resources/photos/news/202611/3211833.jpg?v=1795243063000&q=100",
-   "d": "2026-11-21T06:43:16+00:00",
+   "d": "2026-11-21T06:43:00+00:00",
    "c": [
     "holovne"
    ],
@@ -1223,6 +1780,31 @@
    "d": "2026-11-21T06:40:00+00:00",
    "c": [
     "statti"
+   ]
+  },
+  {
+   "t": "«Віддала за порятунок інших своє життя»: у Кривому Розі внаслідок удару РФ загинула 20-річна парамедикиня Аліна Зайченко",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/dnipro/1455757-viddala-za-poratunok-insih-svoe-zitta-u-krivomu-rozi-vnaslidok-udaru-rf-zaginula-20-ricna-paramedikina-alina-zajcenko/",
+   "x": "У Кривому Розі внаслідок російської атаки ввечері 20 листопада загинула 20-річна парамедикиня Аліна Зайченко. Дівчина прибула у складі бригади екстреної медичної допомоги на виклик до ресторану, по якому війська РФ…",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-21T06:36:35+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "У центрі Одеси відкрили мурал, присвячений ВМС ЗСУ",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/odesa/1455755-u-centri-odesi-vidkrili-mural-prisvacenij-vms-zsu/",
+   "x": "У центрі Одеси відкрили мурал «Вірність. Мужність. Сила», присвячений Військово-морським силам ЗСУ. Його автор — художник Олександр Корбан. Центральний образ стінопису — Нептун",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-21T06:32:05+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "odesa"
    ]
   },
   {
@@ -1303,6 +1885,31 @@
    ]
   },
   {
+   "t": "Російська армія сім разів атакувала на Гуляйпільському та Оріхівському напрямках — Генштаб ЗСУ",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/zaporizhzhia/1455759-rosijska-armia-sim-raziv-atakuvala-na-gulajpilskomu-ta-orihivskomu-napramkah-genstab-zsu/",
+   "x": "20 листопада російські військовослужбовці щонайменше сім разів атакували позиції Сил оборони України на Гуляйпільському та Оріхівському відтинках фронту",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-21T06:25:43+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Постраждали дві людини: вночі та зранку РФ атакувала Київ дронами та балістикою",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/kyiv/1455702-postrazdali-dvi-ludini-vnoci-ta-zranku-rf-atakuvala-kiiv-dronami-ta-balistikou/",
+   "x": "У Києві вибухи пролунали кілька разів за ніч і зранку. Внаслідок атаки дві людини постраждали. Одну з них госпіталізували",
+   "i": "https://cdn4.suspilne.media/images/23dca5c79aa74f93.jpg",
+   "d": "2026-11-21T06:22:53+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kyiv"
+   ]
+  },
+  {
    "t": "Трамп постійно критикує Зеленського щодо війни: Зеленський стверджує, що знає причину",
    "s": "24 Канал",
    "u": "https://24tv.ua/zayavi-trampa-zelenskiy-ne-rozpoviv-chomu-prezident-ssha-kritikuye_n3211823",
@@ -1338,6 +1945,20 @@
    ],
    "r": [
     "rivne"
+   ]
+  },
+  {
+   "t": "У Вінниці через атаку РФ 21 листопада пошкоджень зазнав об'єкт енергетичної інфраструктури",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/vinnytsia/1455754-u-vinnici-cerez-ataku-rf-21-listopada-poskodzen-zaznav-obekt-energeticnoi-infrastrukturi/",
+   "x": "Об'єкт енергетичної інфраструктури зазнав пошкоджень внаслідок російської атаки у Вінниці 21 листопада. У місті є відключення електроенергії",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-21T06:17:28+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "vinnytsia"
    ]
   },
   {
@@ -1427,18 +2048,6 @@
     "holovne",
     "viyna"
    ]
-  },
-  {
-   "t": "⚡️СВИТАН: ВОТ И ТОЧКА! Крымский мост УЖЕ НЕ СПАСТИ. Путин изменил ВСЁ ЗА СЕКУНДЫ: это КОНЕЦ",
-   "s": "24 Канал · відео",
-   "u": "https://www.youtube.com/watch?v=cgihqaapjhA",
-   "x": "Ведущий 24 Канала Владислав Соловьёв вместе с военным экспертом, полковником ВСУ в запасе Романом Свитаном обсудили ключевые события на фронте и в геополитике. Эксперт разобрал перспективы окончательного выведения из…",
-   "i": "https://i4.ytimg.com/vi/cgihqaapjhA/hqdefault.jpg",
-   "d": "2026-11-21T06:00:27+00:00",
-   "c": [
-    "video"
-   ],
-   "v": 1
   },
   {
    "t": "🙈«У НАС ДИЗЕЛЯ ЗАВАЛИСЬ!» Россиянин ПОПАЛСЯ на лжи! Один вопрос про НПЗ РАЗРУШИЛ всю сказку",
@@ -1685,6 +2294,20 @@
    ]
   },
   {
+   "t": "Втрати Дніпропетровщини у листопаді 2026 року: поіменний список загиблих військових",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/dnipro/1446389-vtrati-dnipropetrovsini-u-listopadi-2026-roku-poimennij-spisok-zagiblih-vijskovih/",
+   "x": "У листопада 2026 року стало відомо про загибель українських військових з Дніпропетровщини. Про їхню смерть офіційно повідомили міські голови, громади та підприємства, де вони працювали. Список не є вичерпним",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-21T05:08:19+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "dnipro"
+   ]
+  },
+  {
    "t": "21 листопада: Яке сьогодні свято, все про цей день",
    "s": "Інтерфакс-Україна",
    "u": "https://interfax.com.ua/news/general/1240164.html",
@@ -1728,17 +2351,6 @@
    "c": [
     "holovne",
     "vazhlyve"
-   ]
-  },
-  {
-   "t": "На честь Кличків назвали астероїд – що про це відомо",
-   "s": "24 Канал",
-   "u": "https://fight.24tv.ua/brati-klichki-asteroyid-shho-vidomo-pro-tse_n3211783",
-   "x": "На честь легендарних українських боксерів Віталія та Володимира Кличків названо астероїд головного поясу – 212723 Кличко (212723 Klitschko). Офіційну назву затвердив Міжнародний астрономічний союз та зареєстрував у…",
-   "i": "https://24tv.ua/resources/photos/news/202611/3211783.jpg?v=1795211156000&q=100",
-   "d": "2026-11-21T04:44:00+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
@@ -2260,6 +2872,31 @@
    ]
   },
   {
+   "t": "МЗС Естонії викликало тимчасового повіреного Росії через удари по Києву",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/20/7250496/",
+   "x": "У п’ятницю, 20 листопада, Міністерство закордонних справ Естонії викликало тимчасового повіреного Росії через атаку РФ на українську столицю.",
+   "i": "https://img.eurointegration.com.ua/images/doc/6/d/6d71e77---------2.jpg",
+   "d": "2026-11-20T19:58:00+00:00",
+   "c": [
+    "polityka"
+   ],
+   "r": [
+    "kyiv"
+   ]
+  },
+  {
+   "t": "Трамп про гарантії безпеки для України: \"Спершу потрібно укласти угоду\"",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/20/7250495/",
+   "x": "Президент США Дональд Трамп не сказав, які гарантії безпеки Вашингтон готовий надати Україні, бо вважає, що спершу потрібно \"укласти угоду\".",
+   "i": "https://img.eurointegration.com.ua/images/doc/2/9/293026f-------------.jpg",
+   "d": "2026-11-20T19:45:00+00:00",
+   "c": [
+    "polityka"
+   ]
+  },
+  {
    "t": "ЧАЛЕНКО | Трамп буде тиснути на ЄС, щоб позбавити Україну зброї? | Підсумки пресконференції Трампа",
    "s": "Суспільне Новини · відео",
    "u": "https://www.youtube.com/watch?v=_fAJPMJz0RE",
@@ -2309,6 +2946,17 @@
    "v": 1
   },
   {
+   "t": "Німеччина спрямує 30 млн євро внеску у програму \"Індустріальний Рамштайн\"",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/20/7250493/",
+   "x": "Німеччина зробить перший внесок на реалізацію програми \"Індустріальний Рамштайн\", що дозволить Україні закуповувати обладнання у німецьких виробників.",
+   "i": "https://img.eurointegration.com.ua/images/doc/5/8/58d04fc-----------------.jpg",
+   "d": "2026-11-20T19:28:00+00:00",
+   "c": [
+    "polityka"
+   ]
+  },
+  {
    "t": "Пенсія в Україні: як сума виплат залежить від року оформлення",
    "s": "24 Канал",
    "u": "https://24tv.ua/economy/pensiya-ukrayini-yak-data-zvernennya-vplivaye-rozmir-viplati_n3210509",
@@ -2332,6 +2980,17 @@
    "v": 1,
    "r": [
     "kyiv"
+   ]
+  },
+  {
+   "t": "Трамп сказав, що США не дозволять Ірану створити \"брудну бомбу\"",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/20/7250492/",
+   "x": "Президент Дональд Трамп заявив, що США \"не дозволять\" Ірану створити \"брудну бомбу\" та попередив: його адміністрація дізнається, якщо Тегеран займеться цим.",
+   "i": "https://img.eurointegration.com.ua/images/doc/b/9/b9e386c-------------.jpg",
+   "d": "2026-11-20T19:12:00+00:00",
+   "c": [
+    "polityka"
    ]
   },
   {
