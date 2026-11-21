@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T22:50:41+00:00",
+ "updated": "2026-11-21T23:01:14+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -183,7 +183,7 @@
    "d": "2026-11-21T16:43:00+00:00"
   },
   {
-   "t": "Трамп оприлюднив знімок рукостискання з Путіним із підписом «Мій друг»",
+   "t": "Трамп опублікував знімок рукостискання з Путіним із підписом «Мій друг»",
    "u": "https://suspilne.media/1455957-tramp-opriludniv-znimok-rukostiskanna-z-putinim-iz-pidpisom-mij-drug/",
    "i": "https://cdn4.suspilne.media/images/default.jpg",
    "n": 3,
@@ -319,7 +319,7 @@
      "u": "https://www.pravda.com.ua/news/2026/11/21/8063941/"
     }
    ],
-   "d": "2026-11-21T21:40:21+00:00"
+   "d": "2026-11-21T21:40:00+00:00"
   },
   {
    "t": "Бази даних ФБР вдруге за останні місяці зламали хакери – ЗМІ",
@@ -358,6 +358,17 @@
  ],
  "items": [
   {
+   "t": "Іран заявив про ракетно-дронові удари по базах США в Бахрейні: що відомо про наслідки",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/WORLD/iran-zajaviv-pro-raketno-dronovi-udari-po-bazakh-ssha-v-bakhrejni-shcho-vidomo-pro-naslidki.html",
+   "x": "Тегеран заявив про знищення двох радарів Patriot.",
+   "i": "https://zn.ua/img/article/7048/88_main.webp",
+   "d": "2026-11-21T22:50:07+00:00",
+   "c": [
+    "statti"
+   ]
+  },
+  {
    "t": "Український пілот винищувача Су-27 авіабомбою GBU знищив будівлю з операторами російських БпЛА",
    "s": "24 Канал",
    "u": "https://24tv.ua/pilot-su-27-znishhiv-aviabomboyu-gbu-bazu-operatoriv-bpla-armiyi_n3211931",
@@ -370,10 +381,10 @@
    ]
   },
   {
-   "t": "Трамп оприлюднив знімок рукостискання з Путіним із підписом «Мій друг»",
+   "t": "Трамп опублікував знімок рукостискання з Путіним із підписом «Мій друг»",
    "s": "Суспільне",
    "u": "https://suspilne.media/1455957-tramp-opriludniv-znimok-rukostiskanna-z-putinim-iz-pidpisom-mij-drug/",
-   "x": "Знімок із написом My Friend з'явився в Truth Social президента США. Раніше Зеленський у відповідь на такі слова Трампа заявив CNN, що для України Путін є ворогом і вбивцею",
+   "x": "Знімок із написом My Friend з'явився на сторінці президента США 21 листопада. Раніше Зеленський у відповідь на такі слова Трампа заявив CNN, що для України Путін є ворогом і вбивцею",
    "i": "https://cdn4.suspilne.media/images/default.jpg",
    "d": "2026-11-21T22:46:25+00:00",
    "c": [
@@ -488,20 +499,6 @@
    ]
   },
   {
-   "t": "Із наближенням зими активність РФ дещо знизилася — військовий про Покровський напрямок",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/donbas/1455953-iz-nablizennam-zimi-aktivnist-rf-deso-znizilasa-vijskovij-pro-pokrovskij-napramok/",
-   "x": "Темпи просування російських військ на Добропільському напрямку знизилися, однак ворог продовжує штурми та застосовує тактику інфільтрації малими групами",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-21T21:59:01+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "donetsk"
-   ]
-  },
-  {
    "t": "Іранські військові заявили про атаку на позиції США в Бахрейні",
    "s": "Суспільне",
    "u": "https://suspilne.media/1455947-iranski-vijskovi-zaavili-pro-ataku-na-pozicii-ssa-v-bahrejni/",
@@ -541,7 +538,7 @@
    "u": "https://zn.ua/ukr/europe/majzhe-polovina-nimtsiv-khoche-skorotiti-abo-pripiniti-dopomohu-ukrajini-opituvannja.html",
    "x": "Ставлення німців до підтримки України змінилося за роки війни.",
    "i": "https://zn.ua/img/article/7048/83_main.webp",
-   "d": "2026-11-21T21:40:21+00:00",
+   "d": "2026-11-21T21:40:00+00:00",
    "c": [
     "statti"
    ]
@@ -1138,6 +1135,20 @@
    ]
   },
   {
+   "t": "Із наближенням зими активність РФ дещо знизилася — військовий про Покровський напрямок",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/donbas/1455953-iz-nablizennam-zimi-aktivnist-rf-deso-znizilasa-vijskovij-pro-pokrovskij-napramok/",
+   "x": "Темпи просування російських військ на Добропільському напрямку знизилися, однак ворог продовжує штурми та застосовує тактику інфільтрації малими групами",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-21T19:59:01+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "donetsk"
+   ]
+  },
+  {
    "t": "Кошта запропонував зменшити семирічний бюджет ЄС ще на 40 млрд євро: що відомо про допомогу Україні",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/europe/koshta-zaproponuvav-zmenshiti-semirichnij-bjudzhet-jes-shche-na-40-mlrd-jevro-shcho-vidomo-pro-dopomohu-ukrajini.html",
@@ -1451,17 +1462,6 @@
    ]
   },
   {
-   "t": "Пов'язані з ФСБ хакери атакували Христо Грозєва та журналістів Le Monde — розслідування",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/WORLD/povjazani-z-fsb-khakeri-atakuvali-khristo-hrozjeva-ta-zhurnalistiv-le-monde-rozsliduvannja.html",
-   "x": "Російські хакери атакували журналістів через Signal і Telegram",
-   "i": "https://zn.ua/img/article/7048/74_main.webp",
-   "d": "2026-11-21T19:10:41+00:00",
-   "c": [
-    "statti"
-   ]
-  },
-  {
    "t": "США працюють над розширенням гуманітарних домовленостей між Україною та РФ — Трамп",
    "s": "Суспільне",
    "u": "https://suspilne.media/1455918-ssa-pracuut-nad-rozsirennam-gumanitarnih-domovlenostej-miz-ukrainou-ta-rf-tramp/",
@@ -1484,6 +1484,17 @@
    ],
    "r": [
     "odesa"
+   ]
+  },
+  {
+   "t": "Пов'язані з ФСБ хакери атакували Христо Грозєва та журналістів Le Monde — розслідування",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/WORLD/povjazani-z-fsb-khakeri-atakuvali-khristo-hrozjeva-ta-zhurnalistiv-le-monde-rozsliduvannja.html",
+   "x": "Російські хакери атакували журналістів через Signal і Telegram",
+   "i": "https://zn.ua/img/article/7048/74_main.webp",
+   "d": "2026-11-21T19:10:00+00:00",
+   "c": [
+    "statti"
    ]
   },
   {
@@ -2760,17 +2771,6 @@
     "video"
    ],
    "v": 1
-  },
-  {
-   "t": "БЕБ вилучило продукцію та обладнання на фабриці «групи Монако» з виробництва контрафактних цигарок — ZN.UA",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/anticorruption/beb-viluchilo-produktsiju-ta-obladnannja-na-fabritsi-hrupi-monako-znua.html",
-   "x": "Бюро також затримало тих, кого можна допитати.",
-   "i": "https://zn.ua/img/article/7048/56_main.webp",
-   "d": "2026-11-21T14:26:00+00:00",
-   "c": [
-    "statti"
-   ]
   },
   {
    "t": "Експерт розповів, що за корабель був уражений дроном у Фінській затоці",
