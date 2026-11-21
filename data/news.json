@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T20:10:46+00:00",
+ "updated": "2026-11-21T20:20:42+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -204,6 +204,65 @@
    "d": "2026-11-21T19:18:58+00:00"
   },
   {
+   "t": "Повітряний простір Молдови знову порушив безпілотник",
+   "u": "https://www.pravda.com.ua/news/2026/11/21/8063990/",
+   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/4/961657/c491f01de5df559324c49b120830fa37.jpeg",
+   "n": 3,
+   "l": [
+    {
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/21/8063990/"
+    },
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/1455931-reaktivnij-bezpilotnik-dvici-porusuvav-povitranij-prostir-moldovi/"
+    },
+    {
+     "s": "Європейська правда",
+     "u": "https://www.eurointegration.com.ua/news/2026/11/21/7250525/"
+    }
+   ],
+   "d": "2026-11-21T18:09:00+00:00"
+  },
+  {
+   "t": "Фінляндія підтвердила, що військовий корабель РФ атакувала Україна",
+   "u": "https://www.pravda.com.ua/news/2026/11/21/8063980/",
+   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/0/961589/2048e5ea2e583b8e8cebeaf9d5db7346.jpeg",
+   "n": 3,
+   "l": [
+    {
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/21/8063980/"
+    },
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/finskiy-zatotsi-dronom-urazili-rosiyske-sudno-sparta-ii-shho_n3212047"
+    },
+    {
+     "s": "Європейська правда",
+     "u": "https://www.eurointegration.com.ua/news/2026/11/21/7250522/"
+    }
+   ],
+   "d": "2026-11-21T15:37:00+00:00"
+  },
+  {
+   "t": "22 листопада на Харківщині діятимуть погодинні відключення світла: графіки",
+   "u": "https://suspilne.media/kharkiv/1455913-22-listopada-na-harkivsini-diatimut-pogodinni-vidklucenna-svitla-grafiki/",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "n": 2,
+   "l": [
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/kharkiv/1455913-22-listopada-na-harkivsini-diatimut-pogodinni-vidklucenna-svitla-grafiki/"
+    },
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/yak-vimikatimut-svitlo-21-listopada_n3206224"
+    }
+   ],
+   "d": "2026-11-21T20:18:38+00:00"
+  },
+  {
    "t": "Внаслідок атаки на Запоріжжя поранено дитину – ОВА",
    "u": "https://interfax.com.ua/news/general/1240350.html",
    "i": "https://media.interfax.com.ua/media/thumbs/images/2026/09/gvlei/4iqnBLk30PC5.jpg",
@@ -219,23 +278,6 @@
     }
    ],
    "d": "2026-11-21T19:52:54+00:00"
-  },
-  {
-   "t": "Реактивний безпілотник двічі порушував повітряний простір Молдови",
-   "u": "https://suspilne.media/1455931-reaktivnij-bezpilotnik-dvici-porusuvav-povitranij-prostir-moldovi/",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "n": 2,
-   "l": [
-    {
-     "s": "Суспільне",
-     "u": "https://suspilne.media/1455931-reaktivnij-bezpilotnik-dvici-porusuvav-povitranij-prostir-moldovi/"
-    },
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/21/8063990/"
-    }
-   ],
-   "d": "2026-11-21T19:38:19+00:00"
   },
   {
    "t": "Помер колишній голова ювелірного дому Bulgari Паоло Булгарі",
@@ -289,65 +331,95 @@
    "d": "2026-11-21T16:23:00+00:00"
   },
   {
-   "t": "Українська Прем'єр-ліга: результати всіх матчів 13-го туру, відео голів (оновлюється)",
-   "u": "https://zn.ua/ukr/SPORT/704453-ukrajinska-premjer-liha-rezultati-vsikh-matchiv-13-ho-turu-video-holiv-onovljujetsja.html",
-   "i": "https://zn.ua/img/article/7044/53_main.webp",
+   "t": "Заглибився на 4,1 кілометра: гелікоптер Росії міг порушити повітряний простір Фінляндії",
+   "u": "https://24tv.ua/geopolitics/rosiyskiy-gelikopter-mig-porushiti-povitryaniy-prostir-finlyandiyi_n3212082",
+   "i": "https://24tv.ua/resources/photos/news/202611/3212082.jpg?v=1795278229000&q=100",
    "n": 2,
    "l": [
-    {
-     "s": "ZN.UA",
-     "u": "https://zn.ua/ukr/SPORT/704453-ukrajinska-premjer-liha-rezultati-vsikh-matchiv-13-ho-turu-video-holiv-onovljujetsja.html"
-    },
     {
      "s": "24 Канал",
-     "u": "https://sportnews.24tv.ua/chempionat-ukrayini-futbolu-rozklad-rezultati-vsih-matchiv-13_n3191242"
-    }
-   ],
-   "d": "2026-11-21T16:09:00+00:00"
-  },
-  {
-   "t": "Фінляндія підтвердила, що військовий корабель РФ атакувала Україна",
-   "u": "https://www.pravda.com.ua/news/2026/11/21/8063980/",
-   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/0/961589/2048e5ea2e583b8e8cebeaf9d5db7346.jpeg",
-   "n": 2,
-   "l": [
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/21/8063980/"
+     "u": "https://24tv.ua/geopolitics/rosiyskiy-gelikopter-mig-porushiti-povitryaniy-prostir-finlyandiyi_n3212082"
     },
     {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/finskiy-zatotsi-dronom-urazili-rosiyske-sudno-sparta-ii-shho_n3212047"
+     "s": "Європейська правда",
+     "u": "https://www.eurointegration.com.ua/news/2026/11/21/7250521/"
     }
    ],
-   "d": "2026-11-21T15:37:00+00:00"
-  },
-  {
-   "t": "Зеленський розповів, як країни Європи долучаться до переговорів зі США та РФ",
-   "u": "https://www.pravda.com.ua/news/2026/11/21/8063977/",
-   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/d/961556/0db185dccb1d1c1550284c28bae3ca9c.jpeg",
-   "n": 2,
-   "l": [
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/21/8063977/"
-    },
-    {
-     "s": "Інтерфакс-Україна",
-     "u": "https://interfax.com.ua/news/general/1240301.html"
-    }
-   ],
-   "d": "2026-11-21T15:18:00+00:00"
+   "d": "2026-11-21T16:18:00+00:00"
   }
  ],
  "items": [
+  {
+   "t": "22 листопада на Харківщині діятимуть погодинні відключення світла: графіки",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/kharkiv/1455913-22-listopada-na-harkivsini-diatimut-pogodinni-vidklucenna-svitla-grafiki/",
+   "x": "22 листопада у Харківській області діятимуть погодинні відключення світла, повідомили в обленерго. Як світло вимикатимуть за чергами та підчергами, читайте",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-21T20:18:38+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kharkiv"
+   ]
+  },
+  {
+   "t": "До трьох зросла кількість поранених у Запоріжжі, серед них двоє дітей – ОВА",
+   "s": "Інтерфакс-Україна",
+   "u": "https://interfax.com.ua/news/general/1240356.html",
+   "x": "(оновлено від 21:46) Київ. 21 листопада. ІНТЕРФАКС-УКРАЇНА – Кількість поранених унаслідок атаки на Запоріжжя зросла до трьох, серед них двоє дітей, повідомив начальник Запорізької ОВА Михайло Семікін. \"Вибуховою хвилею…",
+   "d": "2026-11-21T20:17:31+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "zaporizhzhia"
+   ]
+  },
+  {
+   "t": "На Львівщині 22 листопада діятимуть графіки погодинного вимкнення світла",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/lviv/1455919-na-lvivsini-22-listopada-diatimut-grafiki-pogodinnogo-vimknenna-svitla/",
+   "x": "У неділю, 22 листопада, на Львівщині будуть діяти графіки погодинного відключення електроенергії. Як вимикатимуть світло за групами?",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-21T20:16:09+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "lviv"
+   ]
+  },
+  {
+   "t": "Вибухи поблизу бази Балтійського флоту: що відомо про атаку дронів",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/war/vibukhi-poblizu-bazi-baltijskoho-flotu-shcho-vidomo-pro-ataku-droniv.html",
+   "x": "Калінінградську область атакували безпілотники.",
+   "i": "https://zn.ua/img/article/7048/77_main.webp",
+   "d": "2026-11-21T20:10:38+00:00",
+   "c": [
+    "statti"
+   ]
+  },
+  {
+   "t": "😱ЯКОВЕНКО: Лавров ВЗОРВАЛСЯ в прямом эфире: ПОСЛАЛ ВСЕХ к Путину! Ну и ПОЗОРИЩЕ всплыло из Китая",
+   "s": "24 Канал · відео",
+   "u": "https://www.youtube.com/watch?v=DgTlCXBE1Vs",
+   "x": "На саммите глава МИД РФ Сергей Лавров устроил публичное хамство, в жёсткой форме отмахнувшись от услужливых вопросов, которые задавал российский пропагандист Евгений Попов. Попытка Кремля договориться о совместных шагах…",
+   "i": "https://i1.ytimg.com/vi/DgTlCXBE1Vs/hqdefault.jpg",
+   "d": "2026-11-21T20:10:20+00:00",
+   "c": [
+    "video"
+   ],
+   "v": 1
+  },
   {
    "t": "Польські слідчі встановили походження уламків російської ракети Х-101",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/europe/polski-slidchi-vstanovili-pokhodzhennja-ulamkiv-rosijskoji-raketi-kh-101.html",
    "x": "Слідчим вдалося встановити траєкторію її польоту.",
    "i": "https://zn.ua/img/article/7048/79_main.webp",
-   "d": "2026-11-21T20:09:02+00:00",
+   "d": "2026-11-21T20:09:00+00:00",
    "c": [
     "statti"
    ]
@@ -542,17 +614,6 @@
    ],
    "r": [
     "donetsk"
-   ]
-  },
-  {
-   "t": "Реактивний безпілотник двічі порушував повітряний простір Молдови",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1455931-reaktivnij-bezpilotnik-dvici-porusuvav-povitranij-prostir-moldovi/",
-   "x": "Під час російської атаки на Україну російський реактивний безпілотник двічі порушив повітряний простір Молдови поблизу українського села Троїцьке",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-21T19:38:19+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
@@ -1344,6 +1405,17 @@
    "v": 1
   },
   {
+   "t": "ЗМІ: бази даних ФБР вдруге за останні місяці зламали хакери",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/21/7250527/",
+   "x": "ФБР розслідує ймовірний злом своєї загальнонаціональної бази даних про злочини, яка є важливим каналом зв’язку між федеральними, штатними та місцевими правоохоронними органами.",
+   "i": "https://img.eurointegration.com.ua/images/doc/c/a/ca8107f-usa-resize.png",
+   "d": "2026-11-21T17:49:00+00:00",
+   "c": [
+    "polityka"
+   ]
+  },
+  {
    "t": "Рютте запевнив у готовності НАТО захищати кожен сантиметр території Польщі",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/europe/rjutte-zapevniv-u-hotovnosti-nato-zakhishchati-kozhen-santimetr-teritoriji-polshchi.html",
@@ -1470,6 +1542,17 @@
    ]
   },
   {
+   "t": "Реактивний безпілотник двічі порушував повітряний простір Молдови",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1455931-reaktivnij-bezpilotnik-dvici-porusuvav-povitranij-prostir-moldovi/",
+   "x": "Під час російської атаки на Україну російський реактивний безпілотник двічі порушив повітряний простір Молдови поблизу українського села Троїцьке",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-21T17:38:19+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "У Дніпрі спостерігається місячна корона: що це за явище та чим відмінне від гало",
    "s": "Суспільне",
    "u": "https://suspilne.media/dnipro/1455910-u-dnipri-sposterigaetsa-misacna-korona-so-ce-za-avise-ta-cim-vidminne-vid-galo/",
@@ -1569,6 +1652,17 @@
    ]
   },
   {
+   "t": "Туреччина просить країни Шенгену спростити візові процедури для її громадян",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/21/7250526/",
+   "x": "Дипломатичні представництва країн Шенгенської зони в Туреччині створили робочу групу для перегляду візових процедур щодо турецьких громадян після переговорів з Анкарою.",
+   "i": "https://img.eurointegration.com.ua/images/doc/6/b/6b86359-turkey-resize.png",
+   "d": "2026-11-21T17:22:00+00:00",
+   "c": [
+    "polityka"
+   ]
+  },
+  {
    "t": "«Виборюємо право бути вільними»: в Олександрії відбулася хода до Дня Гідності та Свободи",
    "s": "Суспільне",
    "u": "https://suspilne.media/kropyvnytskiy/1455901-viboruemo-pravo-buti-vilnimi-v-oleksandrii-vidbulasa-hoda-do-dna-gidnosti-ta-svobodi/",
@@ -1600,18 +1694,6 @@
    "c": [
     "holovne"
    ]
-  },
-  {
-   "t": "🔥 У КОНГРЕСІ США ВИБУХНУВ СКАНДАЛ! Трампа РОЗКРИТИКУВАЛИ за Путіна. Маску ПОГРОЖУЮТЬ санкціями",
-   "s": "24 Канал · відео",
-   "u": "https://www.youtube.com/watch?v=SRgk8an_fSM",
-   "x": "У Вашингтоні спалахнула нова хвиля критики Дональда Трампа після його зустрічі з Путіним і Сі Цзіньпіном у Китаї! Американські сенатори Джин Шахін і Кріс Кунс засудили російські провокації проти країн НАТО та…",
-   "i": "https://i4.ytimg.com/vi/SRgk8an_fSM/hqdefault.jpg",
-   "d": "2026-11-21T17:15:37+00:00",
-   "c": [
-    "video"
-   ],
-   "v": 1
   },
   {
    "t": "Кирило Марсак на сьомому місці довільної програми завершив дебютний сезон на етапах Гран-прі",
@@ -1659,6 +1741,20 @@
    ]
   },
   {
+   "t": "«Жодної хвилини не сидимо склавши руки»: як працює Херсонський краєзнавчий музей після 35 влучань у його будівлі",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/kherson/1453667-zodnoi-hvilini-ne-sidimo-sklavsi-ruki-ak-pracue-hersonskij-kraeznavcij-muzej-pisla-35-vlucan-u-jogo-budivli/",
+   "x": "Усі три будівлі Херсонського обласного краєзнавчого музею пошкоджені російськими обстрілами. Музейники розповіли, як рятували експонати і черепах, реставрували амфору після підриву ГЕС і показують виставки в інших містах",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-21T17:07:22+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kherson"
+   ]
+  },
+  {
    "t": "Масштабніше ніж в Олешках: Трамп анонсував нове перемир'я між Україною та Росією",
    "s": "24 Канал",
    "u": "https://24tv.ua/tramp-anonsuvav-rozshirennya-gumanitarnih-domovlenostey-mizh_n3212100",
@@ -1675,9 +1771,11 @@
    "t": "У Франції пройшла шоста хвиля загальнонаціональних протестів: кількість людей зменшується",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/21/8063988/",
+   "i": "https://img.eurointegration.com.ua/images/doc/1/3/13d3cfa-screenshot-2026-11-21-181452.png",
    "d": "2026-11-21T17:05:00+00:00",
    "c": [
-    "holovne"
+    "holovne",
+    "polityka"
    ]
   },
   {
@@ -1689,20 +1787,6 @@
    "d": "2026-11-21T17:02:34+00:00",
    "c": [
     "holovne"
-   ]
-  },
-  {
-   "t": "Міністри України та Угорщини вшанували пам'ять жертв сталінських репресій на Закарпатті",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/uzhhorod/1455902-ministri-ukraini-ta-ugorsini-vsanuvali-pamat-zertv-stalinskih-represij-na-zakarpatti/",
-   "x": "Пам'ять жертв сталінських репресій вшанували у Меморіальному парку у Сваляві на Закарпатті. У заході взяли участь віцепрем'єр-міністерка України з гуманітарної політики — міністерка культури України Тетяна Бережна",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-21T17:01:13+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "zakarpattia"
    ]
   },
   {
@@ -1778,6 +1862,17 @@
    ]
   },
   {
+   "t": "У Молдові безпілотник порушив повітряний простір країни",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/21/7250525/",
+   "x": "Вранці 21 листопада реактивний безпілотник двічі порушив повітряний простір Молдови на тлі російських атак на Україну.",
+   "i": "https://img.eurointegration.com.ua/images/doc/3/8/385766d-drone-resize.png",
+   "d": "2026-11-21T16:56:00+00:00",
+   "c": [
+    "polityka"
+   ]
+  },
+  {
    "t": "У Фінляндії збираються вигнати з країни російських лижників без права повернення",
    "s": "24 Канал",
    "u": "https://sportnews.24tv.ua/kubok-svitu-lizhnih-peregoniv-rosiyaniv-vizhenut-finlyandiyi_n3212092",
@@ -1812,34 +1907,6 @@
    "d": "2026-11-21T16:45:00+00:00",
    "c": [
     "holovne"
-   ]
-  },
-  {
-   "t": "Армія РФ майже 30 разів вдарила по Дніпропетровщині: поранено п'ятьох людей",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/dnipro/1455900-armia-rf-majze-30-raziv-vdarila-po-dnipropetrovsini-poraneno-patoh-ludej/",
-   "x": "Упродовж 21 листопада армія РФ завдала по Дніпропетровщині майже 30 ударів безпілотниками й артилерією. Внаслідок атак поранені п'ятеро чоловіків, пошкоджені будинки, авто, інфраструктура",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-21T16:44:52+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "dnipro"
-   ]
-  },
-  {
-   "t": "Розповісти віршик і отримати солодкий подарунок: де у Черкасах можна зустріти Святого Миколая?",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/cherkasy/1454879-rozpovisti-virsik-i-otrimati-solodkij-podarunok-de-u-cerkasah-mozna-zustriti-svatogo-mikolaa/",
-   "x": "Із 6 грудня у Черкасах можна буде зустріти Святого Миколая та отримати подарунок. У 2026 році в місті працюватиме резиденція і ялинка",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-21T16:43:00+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "cherkasy"
    ]
   },
   {
@@ -1887,9 +1954,11 @@
    "t": "У Європарламенті розкритикували проєкт довгострокового бюджету ЄС від Кошти",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/21/8063986/",
+   "i": "https://img.eurointegration.com.ua/images/doc/2/b/2ba804e-eu-money-resize.png",
    "d": "2026-11-21T16:38:00+00:00",
    "c": [
-    "holovne"
+    "holovne",
+    "polityka"
    ]
   },
   {
@@ -2238,6 +2307,17 @@
    ]
   },
   {
+   "t": "У Фінляндії підтвердили, що це Україна уразила військовий корабель РФ",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/21/7250522/",
+   "x": "Командувач прикордонної служби Фінляндії Ілля Ільїн заявив, що російське судно 21 листопада збили українські безпілотники.",
+   "i": "https://img.eurointegration.com.ua/images/doc/a/4/a483abf-913242433-1679521353544249-4833003009803971982-n-resize.png",
+   "d": "2026-11-21T15:24:00+00:00",
+   "c": [
+    "polityka"
+   ]
+  },
+  {
    "t": "Біля російського Геленджика тоне суховантаж: у мережі з'явилося відео",
    "s": "24 Канал",
    "u": "https://24tv.ua/bilya-gelendzhika-tone-suhovantazh_n3212053",
@@ -2311,17 +2391,14 @@
    ]
   },
   {
-   "t": "«Жодної хвилини не сидимо склавши руки»: як працює Херсонський краєзнавчий музей після 35 влучань у його будівлі",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/kherson/1453667-zodnoi-hvilini-ne-sidimo-sklavsi-ruki-ak-pracue-hersonskij-kraeznavcij-muzej-pisla-35-vlucan-u-jogo-budivli/",
-   "x": "Усі три будівлі Херсонського обласного краєзнавчого музею пошкоджені російськими обстрілами. Музейники розповіли, як рятували експонати і черепах, реставрували амфору після підриву ГЕС і показують виставки в інших містах",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-21T15:07:22+00:00",
+   "t": "Фінляндія підозрює військовий вертоліт РФ у порушенні її повітряного простору",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/21/7250521/",
+   "x": "Фінляндія підозрює російський вертоліт у порушенні свого повітряного простору 21 листопада о 12:34.",
+   "i": "https://img.eurointegration.com.ua/images/doc/8/9/8912446-finland.png",
+   "d": "2026-11-21T15:06:00+00:00",
    "c": [
-    "holovne"
-   ],
-   "r": [
-    "kherson"
+    "polityka"
    ]
   },
   {
@@ -2332,6 +2409,20 @@
    "d": "2026-11-21T15:04:00+00:00",
    "c": [
     "zhyttia"
+   ]
+  },
+  {
+   "t": "Міністри України та Угорщини вшанували пам'ять жертв сталінських репресій на Закарпатті",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/uzhhorod/1455902-ministri-ukraini-ta-ugorsini-vsanuvali-pamat-zertv-stalinskih-represij-na-zakarpatti/",
+   "x": "Пам'ять жертв сталінських репресій вшанували у Меморіальному парку у Сваляві на Закарпатті. У заході взяли участь віцепрем'єр-міністерка України з гуманітарної політики — міністерка культури України Тетяна Бережна",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-21T15:01:13+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "zakarpattia"
    ]
   },
   {
@@ -2475,6 +2566,20 @@
    ]
   },
   {
+   "t": "Міністр оборони Британії відвідав Київ і обговорив із Зеленським зміцнення української ППО",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/21/7250520/",
+   "x": "Міністр оборони Великої Британії Вес Стрітінг відвідав Київ та обговорив з президентом Володимиром Зеленським посилення української ППО, зокрема антибалістичними ракетами.",
+   "i": "https://img.eurointegration.com.ua/images/doc/0/4/04d6027-striting-zelenskyi-resize.png",
+   "d": "2026-11-21T14:41:00+00:00",
+   "c": [
+    "polityka"
+   ],
+   "r": [
+    "kyiv"
+   ]
+  },
+  {
    "t": "Мирні переговори щодо війни в Україні: що зараз відомо",
    "s": "24 Канал",
    "u": "https://24tv.ua/mirni-peregovori-ukrayini-rosiyi-ostanni-zayavi-putina-trampa_n3170603",
@@ -2506,6 +2611,17 @@
    "d": "2026-11-21T14:26:00+00:00",
    "c": [
     "statti"
+   ]
+  },
+  {
+   "t": "Експерт розповів, що за корабель був уражений дроном у Фінській затоці",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/21/7250519/",
+   "x": "Дрони уразили російський корабель у Фінській затоці – керівник проєкту Чорноморських стратегічних досліджень Андрій Клименко розповів, що йдеться про судно Sparta II, яке РФ використовувала для військових операцій.",
+   "i": "https://img.eurointegration.com.ua/images/doc/1/9/194ebc8-913242433-1679521353544249-4833003009803971982-n-resize.png",
+   "d": "2026-11-21T14:24:00+00:00",
+   "c": [
+    "polityka"
    ]
   },
   {
@@ -2648,6 +2764,17 @@
    "d": "2026-11-21T13:57:00+00:00",
    "c": [
     "vazhlyve"
+   ]
+  },
+  {
+   "t": "Зеленський розкрив деталі участі Європи у майбутніх переговорах зі США та Росією",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/21/7250518/",
+   "x": "Президент України Володимир Зеленський заявив, що усі країни ЄС матимуть можливість брати участь у підготовці переговорів Україна-Росія-США, хоч безпосередньо на них будуть присутні вісім представників.",
+   "i": "https://img.eurointegration.com.ua/images/doc/9/0/905d88e-usa-ukraine-russia-resize.png",
+   "d": "2026-11-21T13:57:00+00:00",
+   "c": [
+    "polityka"
    ]
   },
   {
@@ -2849,32 +2976,6 @@
    "x": "Президент зазначив, що поки до подібних пропозицій багато питань.",
    "i": "https://zn.ua/img/article/7048/49_main.webp",
    "d": "2026-11-21T12:51:00+00:00",
-   "c": [
-    "statti"
-   ]
-  },
-  {
-   "t": "Україна запропонувала евакуювати населення з Голої Пристані, Дніпрорудного та Василівки після операції в Олешках – Зеленський",
-   "s": "Інтерфакс-Україна",
-   "u": "https://interfax.com.ua/news/general/1240289.html",
-   "x": "Українська сторона передала американській стороні пропозицію організувати гуманітарну місію з евакуації жителів з низки прифронтових населених пунктів Херсонської та Запорізької областей після успіху такої операції в…",
-   "i": "https://media.interfax.com.ua/media/thumbs/images/2026/11/myegs/bgidEjdRX9OL.jpg",
-   "d": "2026-11-21T12:49:26+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "kherson",
-    "zaporizhzhia"
-   ]
-  },
-  {
-   "t": "Британія закликає союзників посилити підтримку України через провокації РФ у Європі",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/war/britanija-zaklikaje-sojuznikiv-posiliti-pidtrimku-ukrajini-cherez-provokatsiji-rf-u-jevropi.html",
-   "x": "Державний секретар з питань оборони Великої Британії назвав інцидент із російськими ракетами та реактивним безпілотником у Польщі обурливою провокацією і наголосив, що умови завершення війни мають бути прийнятними для…",
-   "i": "https://zn.ua/img/article/7048/48_main.webp",
-   "d": "2026-11-21T12:46:00+00:00",
    "c": [
     "statti"
    ]
