@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T18:01:14+00:00",
+ "updated": "2026-11-21T18:10:44+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -279,6 +279,23 @@
    "d": "2026-11-21T15:37:00+00:00"
   },
   {
+   "t": "Рютте запевнив, що НАТО захищатиме кожен сантиметр території Польщі",
+   "u": "https://24tv.ua/ryutte-zapevniv-shho-nato-zahishhatime-polshhu-shho-vidomo-pro_n3212113",
+   "i": "https://24tv.ua/resources/photos/news/202611/3212113.jpg?v=1795283754000&q=100",
+   "n": 2,
+   "l": [
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/ryutte-zapevniv-shho-nato-zahishhatime-polshhu-shho-vidomo-pro_n3212113"
+    },
+    {
+     "s": "ZN.UA",
+     "u": "https://zn.ua/ukr/europe/rjutte-zapevniv-u-hotovnosti-nato-zakhishchati-kozhen-santimetr-teritoriji-polshchi.html"
+    }
+   ],
+   "d": "2026-11-21T18:01:00+00:00"
+  },
+  {
    "t": "«Укрпошта» випустила марку, присвячену викраденим Росією дітей",
    "u": "https://suspilne.media/culture/1455903-ukrposta-vipustila-marku-prisvacenu-vikradenim-rosieu-ditej/",
    "i": "https://cdn4.suspilne.media/images/default.jpg",
@@ -345,26 +362,72 @@
     }
    ],
    "d": "2026-11-21T16:09:00+00:00"
-  },
-  {
-   "t": "Експерт розповів, який корабель був уражений дроном у Фінській затоці",
-   "u": "https://www.pravda.com.ua/news/2026/11/21/8063979/",
-   "i": "https://img.eurointegration.com.ua/images/doc/1/9/194ebc8-913242433-1679521353544249-4833003009803971982-n-resize.png",
-   "n": 2,
-   "l": [
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/21/8063979/"
-    },
-    {
-     "s": "Європейська правда",
-     "u": "https://www.eurointegration.com.ua/news/2026/11/21/7250519/"
-    }
-   ],
-   "d": "2026-11-21T15:26:00+00:00"
   }
  ],
  "items": [
+  {
+   "t": "Питання про військову базу США в Польщі може бути вирішене на початку грудня – міноборони Польщі",
+   "s": "Інтерфакс-Україна",
+   "u": "https://interfax.com.ua/news/general/1240336.html",
+   "x": "Рішення про розміщення військової бази США в Польщі може бути ухвалено на початку грудня, повідомив у п'ятницю польському телеканалу Polsat заступник міністра оборони Польщі Цезарій Томчик.",
+   "i": "https://media.interfax.com.ua/media/thumbs/images/2026/11/nwvdx/MlKLUEL8IVJM.jpg",
+   "d": "2026-11-21T18:08:10+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Історія Криму, кримськотатарська культура та пошук ідентичності: у Києві показують виставу «За Перекопом є земля»",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/crimea/1455864-istoria-krimu-krimskotatarska-kultura-ta-posuk-identicnosti-u-kievi-pokazuut-vistavu-za-perekopom-e-zemla/",
+   "x": "В Національному академічному драмтеатрі імені Лесі Українки в Києві наприкінці жовтня відбулася прем'єра вистави За Перекопом є земля за романом Анастасії Левкової",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-21T18:02:00+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "crimea",
+    "kyiv"
+   ]
+  },
+  {
+   "t": "Рютте запевнив, що НАТО захищатиме кожен сантиметр території Польщі",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/ryutte-zapevniv-shho-nato-zahishhatime-polshhu-shho-vidomo-pro_n3212113",
+   "x": "Генеральний секретар НАТО Марк Рютте запевнив, що Альянс готовий захищати Польщу на тлі чергового порушення її повітряного простору, про який напередодні повідомила польська сторона.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3212113.jpg?v=1795283754000&q=100",
+   "d": "2026-11-21T18:01:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "⚡️У Трампа звернулись щодо ЗСУ #shorts",
+   "s": "24 Канал · відео",
+   "u": "https://www.youtube.com/shorts/mCqYrYQP_ys",
+   "x": "24 Канал запускає подкасти! Шукайте нас на різних, зручних для вас платформах: https://linktr.ee/podcast24tv.ua",
+   "i": "https://i2.ytimg.com/vi/mCqYrYQP_ys/hqdefault.jpg",
+   "d": "2026-11-21T18:00:30+00:00",
+   "c": [
+    "video"
+   ],
+   "v": 1
+  },
+  {
+   "t": "Три громади Одещини отримали нові шкільні автобуси",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/odesa/1455906-tri-gromadi-odesini-otrimali-novi-skilni-avtobusi/",
+   "x": "Окнянська, Великодальницька та Дальницька громади Одещини отримали чотири шкільні автобуси. Транспорт закупили за підтримки ЄС у межах Ukraine Facility та співфінансування з місцевих бюджетів",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-21T18:00:00+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "odesa"
+   ]
+  },
   {
    "t": "Від сотенного УПА до угрупування \"Центр\": три покоління однієї боротьби",
    "s": "Українська правда",
@@ -455,7 +518,8 @@
    "s": "Європейська правда",
    "u": "https://www.eurointegration.com.ua/news/2026/11/21/7250527/",
    "x": "ФБР розслідує ймовірний злом своєї загальнонаціональної бази даних про злочини, яка є важливим каналом зв’язку між федеральними, штатними та місцевими правоохоронними органами.",
-   "d": "2026-11-21T17:49:21+00:00",
+   "i": "https://img.eurointegration.com.ua/images/doc/c/a/ca8107f-usa-resize.png",
+   "d": "2026-11-21T17:49:00+00:00",
    "c": [
     "polityka"
    ]
@@ -549,7 +613,7 @@
    ]
   },
   {
-   "t": "У Калінінграді раптово завили сирени через нібито \"підозрілий об'єкт з боку Литви\"",
+   "t": "Калінінградська область під атакою БпЛА: у Балтійську – вибухи, влада каже про \"об'єкт\" з Литви",
    "s": "24 Канал",
    "u": "https://24tv.ua/trivoga-kaliningradi-zavili-sireni-pislya-udariv-po-sudnu-rf_n3212109",
    "x": "У російському Калінінграді 21 листопада несподівано пролунали сигнали повітряної тривоги. Місцевих жителів закликали терміново перейти в безпечні місця.",
@@ -800,6 +864,20 @@
    "v": 1,
    "r": [
     "crimea"
+   ]
+  },
+  {
+   "t": "Планові відключення світла 22 листопада на Миколаївщині",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/mykolaiv/1455908-planovi-vidklucenna-svitla-22-listopada-na-mikolaivsini/",
+   "x": "На Миколаївщині 22 листопада деякі вулиці залишаться без електропостачання. Це пов'язано із капітальними ремонтами і реконструкціями",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-21T17:08:55+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "mykolaiv"
    ]
   },
   {
@@ -1494,34 +1572,6 @@
    ]
   },
   {
-   "t": "Військовий знищив два «шахеди» у небі над Миколаївщиною",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/mykolaiv/1455891-vijskovij-znisiv-dva-sahedi-u-nebi-nad-mikolaivsinou/",
-   "x": "Військовослужбовець знищив два «шахеди» уранці 21 листопада на Миколаївщині. Боєць збив повітряні цілі з переносного зенітного ракетного комплексу",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-21T16:08:50+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "mykolaiv"
-   ]
-  },
-  {
-   "t": "«Наша задача — виявити і подавити». Як командир взводу 128 ОВМБр «Дике поле» навчає протидіяти російським безпілотникам",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/dnipro/1455879-nasa-zadaca-viaviti-i-podaviti-ak-komandir-vzvodu-128-ovmbr-dike-pole-navcae-protidiati-rosijskim-bezpilotnikam/",
-   "x": "Власник столярної майстерні Сергій долучився до війська у 2023 році. Спочатку служив в іншій бригаді стрільцем-зенітником. Два роки виконував бойові завдання на Херсонському напрямку, де його група знищувала повітряні…",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-21T16:07:00+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "kherson"
-   ]
-  },
-  {
    "t": "Шість людей травмовано на Херсонщині внаслідок російських атак у суботу",
    "s": "Інтерфакс-Україна",
    "u": "https://interfax.com.ua/news/general/1240326.html",
@@ -1675,7 +1725,7 @@
    "s": "24 Канал",
    "u": "https://24tv.ua/rosiyani-atakuvali-zaliznichniy-vokzal-zhitomirshhini-shho-vidomo_n3212062",
    "x": "Російські війська 21 листопада завдали удару по залізничній інфраструктурі Житомирської області. Під атакою опинився вокзал в Овруцькій громаді.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3212062.jpg?v=1795275726000&q=100",
+   "i": "https://24tv.ua/resources/photos/news/202611/3212062.jpg?v=1795284616000&q=100",
    "d": "2026-11-21T15:46:00+00:00",
    "c": [
     "holovne"
@@ -1706,18 +1756,6 @@
    "c": [
     "statti"
    ]
-  },
-  {
-   "t": "😱РАШКИН: Трамп ОБЕЗУМЕЛ перед камерами! СКАНДАЛЬНОЕ решение МЕЛАНИИ. Путину ПЛОХО от СДЕЛКИ в Китае",
-   "s": "24 Канал · відео",
-   "u": "https://www.youtube.com/watch?v=VjTGIzuNgfw",
-   "x": "Подписывайтесь на каналы Рашкина: @RashkinReport @RASHKINREPORTNOVOSTI @rashkinreportinenglish Ведущая 24 Канала Ирина Узлова @UzlovaTalks и американский политический деятель Юрий Рашкин @RashkinReport обсудят последние…",
-   "i": "https://i3.ytimg.com/vi/VjTGIzuNgfw/hqdefault.jpg",
-   "d": "2026-11-21T15:38:45+00:00",
-   "c": [
-    "video"
-   ],
-   "v": 1
   },
   {
    "t": "Пенсіонерам доплатять до мінімальної пенсії вже у грудні: хто отримає більше грошей",
@@ -1910,20 +1948,6 @@
    ],
    "r": [
     "odesa"
-   ]
-  },
-  {
-   "t": "Планові відключення світла 22 листопада на Миколаївщині",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/mykolaiv/1455908-planovi-vidklucenna-svitla-22-listopada-na-mikolaivsini/",
-   "x": "На Миколаївщині 22 листопада деякі вулиці залишаться без електропостачання. Це пов'язано із капітальними ремонтами і реконструкціями",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-21T15:08:55+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "mykolaiv"
    ]
   },
   {
@@ -2140,17 +2164,6 @@
    ]
   },
   {
-   "t": "Трамп хоче завершити війну в Україні до січня: політолог пояснив, наскільки це реально",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/tramp-hoche-zavershiti-viynu-ukrayini-do-sichnya-politolog-poyasniv_n3212027",
-   "x": "Адміністрація Дональда Трампа прагне домогтися завершення бойових дій в Україні вже до січня 2027 року. Однак є питання, чи це взагалі реалістичний сценарій.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3212027.jpg?v=1795271330000&q=100",
-   "d": "2026-11-21T14:35:00+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "Мирні переговори щодо війни в Україні: що зараз відомо",
    "s": "24 Канал",
    "u": "https://24tv.ua/mirni-peregovori-ukrayini-rosiyi-ostanni-zayavi-putina-trampa_n3170603",
@@ -2257,10 +2270,10 @@
    ]
   },
   {
-   "t": "Росія без упину атакує Україну: у Києві пролунала тривога",
+   "t": "Росія без упину атаковала Україну: у Києві лунала тривога",
    "s": "24 Канал",
    "u": "https://24tv.ua/ataka-po-ukrayini-21-listopada-2026-kudi-letyat-shahedi-karta_n3211719",
-   "x": "Російська армія продовжує запускати по Україні різні повітряні цілі. Через загрозу атаки у низці регіонів лунає повітряна тривога.",
+   "x": "Російська армія продовжувала запускати по Україні різні повітряні цілі. Через загрозу атаки у низці регіонів лунала повітряна тривога.",
    "i": "https://24tv.ua/resources/photos/news/202611/3211719.jpg?v=1795204208000&q=100",
    "d": "2026-11-21T14:12:00+00:00",
    "c": [
@@ -2662,7 +2675,7 @@
   {
    "t": "Втрата пенсії по інвалідності загрожує тисячам чоловіків: яку дію не можна ігнорувати",
    "s": "24 Канал",
-   "u": "https://24tv.ua/economy/ru/pensiju-po-invalidnosti-otmenjat-komu-iz-muzhchin-zablokirujut-vyplaty-bez-povtornogo-medicinskogo-osmotra_n3182394",
+   "u": "https://24tv.ua/economy/pensiya-po-invalidnosti-skasuyut-komu-cholovikiv-zablokuyut-viplati_n3182366",
    "x": "Уряд кардинально змінює підхід до соціальної підтримки громадян, запускаючи жорсткий моніторинг державних нарахувань. Для частини отримувачів такі нововведення обернуться раптовим замороженням банківських рахунків.",
    "i": "https://24tv.ua/resources/photos/news/202611/3182366.jpg?v=1794931848000&q=100",
    "d": "2026-11-21T12:43:00+00:00",
@@ -3104,17 +3117,6 @@
    ]
   },
   {
-   "t": "Британія закликає союзників посилити підтримку України у відповідь на провокації РФ у Європі – Стрітінг",
-   "s": "Інтерфакс-Україна",
-   "u": "https://interfax.com.ua/news/general/1240238.html",
-   "x": "Велика Британія закликає союзників посилити підтримку України у відповідь на російські провокації в Європі, зокрема порушення повітряного простору Польщі російськими ракетами та БПЛА 20 листопада, заявив державний…",
-   "i": "https://media.interfax.com.ua/media/thumbs/images/2026/11/sudpr/Ri2Uikbe2Wfr.jpg",
-   "d": "2026-11-21T11:10:48+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "\"Ми на це не купимось\": в Англії не повірили звинуваченням Мудрика",
    "s": "24 Канал",
    "u": "https://sportnews.24tv.ua/intervyu-mudrika-chomu-angliyi-ne-viryat-slovam-futbolista_n3211916",
@@ -3177,7 +3179,7 @@
   {
    "t": "Зарплати у Новій пошті: скільки платять кур'єрам, операторам та водіям",
    "s": "24 Канал",
-   "u": "https://24tv.ua/business/ru/zarplaty-v-novoj-pochte-v-2026-godu-skolko-budut-platit-sotrudnikam_n3182306",
+   "u": "https://24tv.ua/business/zarplati-noviy-poshti-2026-rotsi-skilki-propnuyut-pratsivnikam_n3182302",
    "x": "Робота в Новій пошті охоплює десятки різних посад - від операторів відділень до водіїв і комплектувальників на терміналах. Зарплати залежать від обов'язків, навантаження та навіть від міста працевлаштування.",
    "i": "https://24tv.ua/resources/photos/news/202611/3182302.jpg?v=1794925381000&q=100",
    "d": "2026-11-21T10:40:00+00:00",
@@ -3237,7 +3239,7 @@
   {
    "t": "Підвищена мінімальна пенсія: кому нарахують майже 7 тисяч вже у грудні",
    "s": "24 Канал",
-   "u": "https://24tv.ua/economy/ru/uvelichennaja-minimalnaja-chernobylskaja-pensija-kto-poluchit-povyshennye-vyplaty-v-dekabre_n3182336",
+   "u": "https://24tv.ua/economy/pidvishhena-minimalna-chornobilska-pensiya-hto-otrimaye-pidvishheni_n3182277",
    "x": "Перший місяць зими принесе приємні фінансові зміни для частини українських родин. Держава готує спеціальні щомісячні гарантії, які стануть суттєвою підтримкою для сімейного бюджету.",
    "i": "https://24tv.ua/resources/photos/news/202611/3182277.jpg?v=1794927364000&q=100",
    "d": "2026-11-21T09:59:00+00:00",
@@ -3515,7 +3517,7 @@
   {
    "t": "Працювали рік, а зарахують два: які українці мають особливу пільгу",
    "s": "24 Канал",
-   "u": "https://24tv.ua/economy/ru/strahovoj-stazh-v-ukraine-komu-zachtut-odin-god-raboty-za-dva_n3182326",
+   "u": "https://24tv.ua/economy/strahoviy-stazh-ukrayini-komu-zarahuyut-odin-rik-roboti-za-dva_n3182276",
    "x": "Дефіцит відпрацьованих років часто стає головною перепоною для виходу на заслужений відпочинок. Проте держава передбачила особливий механізм, який дозволяє суттєво прискорити цей процес для окремих професій.",
    "i": "https://24tv.ua/resources/photos/news/202611/3182276.jpg?v=1794926806000&q=100",
    "d": "2026-11-21T06:58:00+00:00",
@@ -3588,7 +3590,7 @@
   {
    "t": "Стовідсоткова знижка на комуналку: хто з пенсіонерів може не платити ні копійки у листопаді",
    "s": "24 Канал",
-   "u": "https://24tv.ua/economy/ru/100-lgoty-na-kommunalnye-uslugi-kto-iz-pensionerov-osvobozhden-ot-oplaty-i-kak-oformit_n3205440",
+   "u": "https://24tv.ua/economy/100-pilgi-komunalku-hto-pensioneriv-zvilneniy-vid-splati-yak_n3205218",
    "x": "Для значної частини пенсіонерів оплата житлових послуг щомісяця стає серйозним випробуванням для гаманця. Проте діюче законодавство передбачає особливий механізм повної державної підтримки для окремих категорій громадян.",
    "i": "https://24tv.ua/resources/photos/news/202611/3205218.jpg?v=1795189757000&q=100",
    "d": "2026-11-21T05:49:00+00:00",
@@ -3695,7 +3697,7 @@
   {
    "t": "Доплата за стаж зросте: кому донарахують гроші вже з 1 січня",
    "s": "24 Канал",
-   "u": "https://24tv.ua/economy/ru/doplata-k-pensii-za-stazh-kak-izmenjatsja-vyplaty-s-1-janvarja-2027-goda_n3198414",
+   "u": "https://24tv.ua/economy/doplata-do-pensiyi-za-stazh-yak-zminyatsya-viplati-1-sichnya_n3196858",
    "x": "Урядовці готують масштабний перегляд соціальних стандартів, який напряму вплине на доходи людей поважного віку. Вже незабаром правила нарахування фінансових бонусів за роки сумлінної праці зазнають відчутних змін.",
    "i": "https://24tv.ua/resources/photos/news/202611/3196858.jpg?v=1795175798000&q=100",
    "d": "2026-11-20T20:56:00+00:00",
@@ -3769,7 +3771,7 @@
   {
    "t": "Пенсія в Україні: як сума виплат залежить від року оформлення",
    "s": "24 Канал",
-   "u": "https://24tv.ua/economy/ru/pensija-v-ukraine-kak-data-obrashhenija-vlijaet-na-razmer-vyplaty_n3211701",
+   "u": "https://24tv.ua/economy/pensiya-ukrayini-yak-data-zvernennya-vplivaye-rozmir-viplati_n3210509",
    "x": "Вихід на заслужений відпочинок може принести несподівані сюрпризи для гаманця. Річ у тім, що під час призначення пенсії держава бере до уваги не лише офіційні заробітки та накопичений страховий стаж.",
    "i": "https://24tv.ua/resources/photos/news/202611/3210509.jpg?v=1795202428000&q=100",
    "d": "2026-11-20T19:21:00+00:00",
@@ -3806,7 +3808,7 @@
   {
    "t": "Субсидія на комуналку у 2026 році: чи мають право на неї пенсіонери",
    "s": "24 Канал",
-   "u": "https://24tv.ua/economy/ru/subsidija-2026-imejut-li-pravo-na-pomoshh-pensionery_n3202223",
+   "u": "https://24tv.ua/economy/subsidiya-2026-mayut-pravo-dopomogu-pensioneri_n3201230",
    "x": "Право на отримання житлової субсидії має кожна родина. Але за умови, що витрати на комунальні послуги перевищують 15% середньомісячного сукупного доходу.",
    "i": "https://24tv.ua/resources/photos/news/202611/3201230.jpg?v=1795184444000&q=100",
    "d": "2026-11-20T18:35:00+00:00",
@@ -3849,7 +3851,7 @@
   {
    "t": "Масові перевірки пенсій: від пенсіонерів вимагатимуть довідки про доходи",
    "s": "24 Канал",
-   "u": "https://24tv.ua/economy/ru/proverka-pensionerov-komu-zablokirujut-vyplaty-i-kak-projti-verifikaciju_n3197676",
+   "u": "https://24tv.ua/economy/perevirka-pensioneriv-komu-zablokuyut-viplati-yak-proyti-verifikatsiyu_n3196821",
    "x": "Держава запускає безпрецедентний механізм контролю за соціальними видатками, який зачепить тисячі українських родин. Щоб не побачити нуль на банківській картці, багатьом доведеться діяти на випередження.",
    "i": "https://24tv.ua/resources/photos/news/202611/3196821.jpg?v=1795176111000&q=100",
    "d": "2026-11-20T17:55:00+00:00",
@@ -3860,7 +3862,7 @@
   {
    "t": "Дві виплати одночасно: чи можуть пенсіонери отримувати допомогу для ВПО",
    "s": "24 Канал",
-   "u": "https://24tv.ua/economy/ru/vyplaty-vpl-dlja-pensionerov-imejut-li-pozhilye-ljudi-pravo-na-pomoshh-ot-gosudarstva_n3204941",
+   "u": "https://24tv.ua/economy/viplati-vpo-dlya-pensioneriv-mayut-pravo-litni-lyudi-dopomogu_n3203122",
    "x": "Пенсіонери, які через війну залишили свої домівки, можуть розраховувати на додаткову фінансову підтримку від держави. Однак для переселенців діють певні умови, від яких залежить, чи продовжать їм виплачувати гроші.",
    "i": "https://24tv.ua/resources/photos/news/202611/3203122.jpg?v=1795185590000&q=100",
    "d": "2026-11-20T17:30:00+00:00",
@@ -3882,7 +3884,7 @@
   {
    "t": "Ціни на пальне пішли вниз: чи побачать українці бензин по 80 гривень",
    "s": "24 Канал",
-   "u": "https://24tv.ua/economy/ru/ceny-benzin-ukraine-snizhajutsja-budet-li-95-po-80-griven_n3201878",
+   "u": "https://24tv.ua/economy/tsini-benzin-ukrayini-znizhuyutsya-bude-95-po-80-griven_n3183719",
    "x": "На українському ринку пального намітилася тенденція до здешевлення після тривалого періоду високих цін. Зміни на світовому нафтовому ринку та зниження гуртової вартості закупівель створюють передумови для перегляду…",
    "i": "https://24tv.ua/resources/photos/news/202611/3183719.jpg?v=1795169072000&q=100",
    "d": "2026-11-20T17:00:00+00:00",
@@ -3903,7 +3905,7 @@
   {
    "t": "Заморожені активи Росії: у Москві зробили важливу заяву",
    "s": "24 Канал",
-   "u": "https://24tv.ua/economy/ru/zamorozhennye-aktivy-rossii-chto-moskva-trebuet-ot-euroclear_n3206807",
+   "u": "https://24tv.ua/economy/zamorozheni-aktivi-rosiyi-shho-moskva-vimagaye-vid-euroclear_n3205731",
    "x": "Країна-агресор продовжує шукати способи повернути доступ до своїх заблокованих фінансів у Європі. Наразі Росія намагається стягнути колосальну суму у розмірі 18,1 трильйона рублів.",
    "i": "https://24tv.ua/resources/photos/news/202611/3205731.jpg?v=1795193013000&q=100",
    "d": "2026-11-20T16:45:06+00:00",
@@ -3935,7 +3937,7 @@
   {
    "t": "Brexit відступає: Британія та ЄС домовилися спростити торгівлю",
    "s": "24 Канал",
-   "u": "https://24tv.ua/economy/ru/torgovye-soglashenija-mezhdu-velikobritaniej-i-es-kak-storony-uprostili-torgovlju-mezhdu-soboj_n3205754",
+   "u": "https://24tv.ua/economy/torgovi-domovlenosti-velikoyi-britaniyi-yes-yak-storoni-sprostili_n3205131",
    "x": "Велика Британія та Європейський Союз погодили нові правила торгівлі, які мають полегшити обмін товарами та зменшити витрати бізнесу. Ці домовленості мають стати частиною перезавантаження відносин після Brexit.",
    "i": "https://24tv.ua/resources/photos/news/202611/3205131.jpg?v=1795189119000&q=100",
    "d": "2026-11-20T16:09:00+00:00",
@@ -3968,7 +3970,7 @@
   {
    "t": "Залишилися без роботи у листопаді: на які виплати від держави можна розраховувати",
    "s": "24 Канал",
-   "u": "https://24tv.ua/economy/ru/posobie-po-bezrabotice-v-nojabre-2026-goda-skolko-platjat-ukraincam_n3197920",
+   "u": "https://24tv.ua/economy/dopomoga-po-bezrobittyu-listopadi-2026-skilki-platyat-ukrayintsyam_n3196794",
    "x": "Українці, які втратили роботу та отримали статус безробітного, можуть претендувати на фінансову допомогу від держави. У листопаді 2026 року розмір виплат залежить від страхового стажу, попередньої зарплати та обставин…",
    "i": "https://24tv.ua/resources/photos/news/202611/3196794.jpg?v=1795175805000&q=100",
    "d": "2026-11-20T16:00:00+00:00",
@@ -3979,7 +3981,7 @@
   {
    "t": "Зарплата в конверті обернеться втратою пенсії: про які ризики мовчать роботодавці",
    "s": "24 Канал",
-   "u": "https://24tv.ua/business/ru/zarplata-v-konverte-kak-jeto-povlijaet-na-utratu-stazha-vyplat-i-pensii_n3202800",
+   "u": "https://24tv.ua/business/zarplata-konverti-yak-tse-vpline-vtratu-stazhu-viplat-pensiyi_n3183872",
    "x": "Згода на тіньові виплати часто здається привабливим способом уникнути зайвих відрахувань та збільшити поточний дохід. Проте за примарною миттєвою вигодою криються серйозні ризики, здатні повністю позбавити людину…",
    "i": "https://24tv.ua/resources/photos/news/202611/3183872.jpg?v=1795164822000&q=100",
    "d": "2026-11-20T16:00:00+00:00",
@@ -4004,7 +4006,7 @@
   {
    "t": "Інфляція у Європі може знову зрости: на це впливають ціни на газ",
    "s": "24 Канал",
-   "u": "https://24tv.ua/economy/ru/infljacija-v-evrope-mozhet-li-ona-vyrasti-chto-izvestno_n3205091",
+   "u": "https://24tv.ua/economy/inflyatsiya-yevropi-mozhe-vona-zrosti-shho-vidomo_n3203645",
    "x": "Енергетична криза знову нагадує про себе, змушуючи європейських регуляторів бити на сполох. Вартість блакитного палива загрожує запустити ланцюгову реакцію, яка зачепить кожен сектор економіки.",
    "i": "https://24tv.ua/resources/photos/news/202611/3203645.jpg?v=1795187998000&q=100",
    "d": "2026-11-20T15:30:06+00:00",
@@ -4036,7 +4038,7 @@
   {
    "t": "Трамп вихваляється торгівельними угодами, але фермери невдоволені",
    "s": "24 Канал",
-   "u": "https://24tv.ua/economy/ru/torgovye-soglashenija-trampa-pochemu-padaet-jeksport-selhozprodukcii-ssha-v-aziju-i-pri-chem-zdes-poshliny_n3201954",
+   "u": "https://24tv.ua/economy/torgivelni-ugodi-trampa-chomu-padaye-eksport-agroproduktsiyi_n3200651",
    "x": "Цього тижня президент США Дональд Трамп в Азії похвалився низкою перемог у торгівлі сільськогосподарською продукцією. Однак гучні домовленості з країнами регіону поки не принесли очікуваного результату.",
    "i": "https://24tv.ua/resources/photos/news/202611/3200651.jpg?v=1795181192000&q=100",
    "d": "2026-11-20T14:08:00+00:00",
@@ -4047,7 +4049,7 @@
   {
    "t": "Страхування інвестицій від війни: коли запрацює новий фонд на 3 мільярди євро",
    "s": "24 Канал",
-   "u": "https://24tv.ua/economy/ru/fond-strahovanija-voennyh-riskov-kak-jetot-mehanizm-zashhitit-investicii-v-ukraine_n3201376",
+   "u": "https://24tv.ua/economy/fond-strahuvannya-voyennih-rizikiv-yak-mehanizm-zahistit-investitsiyi_n3200432",
    "x": "Російські атаки продовжують завдавати нищівних ударів по українських підприємствах, відлякуючи потенційних інвесторів. Проте вже незабаром правила гри на ринку кардинально зміняться завдяки новому фінансовому щиту.",
    "i": "https://24tv.ua/resources/photos/news/202611/3200432.jpg?v=1795180886000&q=100",
    "d": "2026-11-20T13:42:00+00:00",
@@ -4069,7 +4071,7 @@
   {
    "t": "Мережа EVA зазнала шалених збитків: найбільше постраждали доставка та онлайн-замовлення",
    "s": "24 Канал",
-   "u": "https://24tv.ua/economy/ru/set-eva-kakie-ubytki-ponesla-kompanija-rush_n3199894",
+   "u": "https://24tv.ua/economy/merezha-eva-yakih-zbitkiv-zaznala-kompaniya-rush_n3198039",
    "x": "ТОВ \"Руш\", яке володіє популярною мережею магазинів EVA, відзвітувало про 579,7 мільйона гривень збитків від початку 2026 року. Головною причиною стали наслідки війни.",
    "i": "https://24tv.ua/resources/photos/news/202611/3198039.jpg?v=1795180073000&q=100",
    "d": "2026-11-20T13:09:00+00:00",
@@ -4091,7 +4093,7 @@
   {
    "t": "Китай може врятувати світ від дефіциту пального, але чи захоче",
    "s": "24 Канал",
-   "u": "https://24tv.ua/economy/ru/deficit-topliva-v-mire-pochemu-kitaj-mozhet-ne-zahotet-uvelichit-postavki-topliva_n3199506",
+   "u": "https://24tv.ua/economy/defitsit-palnogo-sviti-chomu-kitay-mozhe-ne-zahotiti-zbilshiti_n3197421",
    "x": "Китай має достатньо потужностей, щоб збільшити виробництво бензину, дизеля та авіаційного пального. Однак для Пекіна важливіша власна енергетична безпека, тому обіцянка наростити експорт пального ще не гарантує швидких…",
    "i": "https://24tv.ua/resources/photos/news/202611/3197421.jpg?v=1795182677000&q=100",
    "d": "2026-11-20T12:59:00+00:00",
@@ -4127,7 +4129,7 @@
   {
    "t": "Бензин та дизель падають у ціні: що відбувається на АЗС України",
    "s": "24 Канал",
-   "u": "https://24tv.ua/economy/ru/ceny-na-toplivo-skolko-stoit-benzin-dizel-i-gaz-na-zapravkah-okko-wog-upg_n3172367",
+   "u": "https://24tv.ua/economy/tsini-palne-skilki-koshtuye-benzin-dizel-gaz-zapravkah-okko-wog_n3172282",
    "x": "Після загострення ситуації на Близькому Сході ціни на пальне в Україні суттєво піднялися. Задля стабілізації ринку уряд запровадив комплекс заходів, однак чи вдалося стримати подорожчання, читайте далі.",
    "i": "https://24tv.ua/resources/photos/news/202611/3172282.jpg?v=1793712207000&q=100",
    "d": "2026-11-20T12:09:00+00:00",
@@ -4149,7 +4151,7 @@
   {
    "t": "Гроші вже у бюджеті: Україна отримала найбільший транш за Ukraine Facility",
    "s": "24 Канал",
-   "u": "https://24tv.ua/economy/ru/pomoshh-ot-es-kakuju-rekordnuju-summu-poluchila-ukraina-v-ramkah-programmy-ukraine-facility_n3197076",
+   "u": "https://24tv.ua/economy/dopomoga-vid-yes-yaku-rekordnu-sumu-otrimala-ukrayina-za-programoyu_n3195983",
    "x": "Україна отримала масштабну фінансову підтримку від Європейського Союзу. Ці кошти мають допомогти державі покривати першочергові потреби під час війни.",
    "i": "https://24tv.ua/resources/photos/news/202611/3195983.jpg?v=1795174568000&q=100",
    "d": "2026-11-20T12:01:00+00:00",
@@ -4160,7 +4162,7 @@
   {
    "t": "Удар по Києву: російські ракети зруйнували кондитерський цех",
    "s": "24 Канал",
-   "u": "https://24tv.ua/economy/ru/obstrel-kieva-kakie-posledstvija-dlja-biznesa-posle-ataki_n3195580",
+   "u": "https://24tv.ua/economy/obstril-kiyeva-yaki-naslidki-dlya-biznesu-pislya-ataki_n3194139",
    "x": "Масований російський обстріл Києва 20 листопада призвів до значних пошкоджень виробничого приміщення на правому березі міста. Йдеться про кондитерський цех Milfey у столиці.",
    "i": "https://24tv.ua/resources/photos/news/202611/3194139.jpg?v=1795173985000&q=100",
    "d": "2026-11-20T11:27:00+00:00",
@@ -4174,7 +4176,7 @@
   {
    "t": "В Україні лишаються рекордні запаси зерна: як це вдарить по цінах та агробізнесу",
    "s": "24 Канал",
-   "u": "https://24tv.ua/economy/ru/jeksport-zerna-iz-ukrainy-chto-budet-s-cenami-iz-za-rekordnyh-zapasov_n3195365",
+   "u": "https://24tv.ua/economy/eksport-zerna-ukrayini-shho-bude-tsinami-cherez-rekordni-zapasi_n3195002",
    "x": "Вітчизняний аграрний сектор готується до серйозного випробування, яке змінить правила гри на ринку. Ситуація з експортом створює безпрецедентний тиск на внутрішню економіку та гаманці фермерів.",
    "i": "https://24tv.ua/resources/photos/news/202611/3195002.jpg?v=1795173132000&q=100",
    "d": "2026-11-20T11:21:00+00:00",
@@ -4185,7 +4187,7 @@
   {
    "t": "У Росії знову рахують літри на заправках: ще більше регіонів вводять обмеження",
    "s": "24 Канал",
-   "u": "https://24tv.ua/economy/ru/deficit-topliva-v-rossii-pochemu-vse-bolshe-regionov-vvodjat-zhestkie-ogranichenija_n3194927",
+   "u": "https://24tv.ua/economy/defitsit-palnogo-rosiyi-chomu-vse-bilshe-regioniv-vvodyat-zhorstki_n3193935",
    "x": "У Росії розширюється паливна криза і зачіпає нові регіони країни. Місцева влада дедалі частіше обмежує обсяги бензину й дизеля, які водії можуть придбати за один раз.",
    "i": "https://24tv.ua/resources/photos/news/202611/3193935.jpg?v=1795171050000&q=100",
    "d": "2026-11-20T11:08:00+00:00",
@@ -4229,7 +4231,7 @@
   {
    "t": "45 мільярдів уже замало: Зеленський розповів, скільки грошей Україна планує залучити у 2027 році",
    "s": "24 Канал",
-   "u": "https://24tv.ua/economy/ru/finansovaja-pomoshh-ukraine-skolko-sredstv-potrebuetsja-gosudarstvu-v-2027-godu_n3193900",
+   "u": "https://24tv.ua/economy/finansova-dopomoga-ukrayini-skilki-groshey-potribno-derzhavi_n3193351",
    "x": "Українська влада кардинально переглянула кошторис, необхідний для протистояння ворогу та підтримки країни. Апетити довелося суттєво збільшити через реалії на фронті та виклики в енергетичному секторі.",
    "i": "https://24tv.ua/resources/photos/news/202611/3193351.jpg?v=1795170185000&q=100",
    "d": "2026-11-20T10:36:00+00:00",
@@ -4254,7 +4256,7 @@
   {
    "t": "АЕС знизили потужність після атаки Росії: у Києві та 10 областях проблеми зі світлом",
    "s": "24 Канал",
-   "u": "https://24tv.ua/economy/ru/situacija-v-jenergosisteme-20-nojabrja-pochemu-ajes-snizili-moshhnost-gde-dejstvujut-avarijnye-otkljuchenija_n3192565",
+   "u": "https://24tv.ua/economy/situatsiya-energosistemi-20-listopada-chomu-aes-znizili-potuzhnist_n3190837",
    "x": "Вночі та вранці 20 листопада російські війська здійснили нову масштабну атаку на енергетичну інфраструктуру України. Внаслідок ударів споживачі у багатьох регіонах залишилися без світла, а на Харківщині поранені…",
    "i": "https://24tv.ua/resources/photos/news/202611/3190837.jpg?v=1795166630000&q=100",
    "d": "2026-11-20T10:05:00+00:00",
@@ -4296,7 +4298,7 @@
   {
    "t": "Експорт до ЄС: як Україна захопила ринок ріпакового шроту",
    "s": "24 Канал",
-   "u": "https://24tv.ua/economy/ru/jeksport-rapsovogo-shrota-kak-ukraina-zavoevala-rynok-es-v-2026-godu_n3191349",
+   "u": "https://24tv.ua/economy/eksport-ripakovogo-shrotu-yak-ukrayina-zahopila-rinok-yes-2026_n3191142",
    "x": "Ситуація на європейському аграрному ринку зазнає кардинальних змін через активність вітчизняних виробників. Поки інші країни втрачають свої позиції, український бізнес успішно освоює нові експортні ніші та збільшує…",
    "i": "https://24tv.ua/resources/photos/news/202611/3191142.jpg?v=1795167110000&q=100",
    "d": "2026-11-20T09:36:00+00:00",
@@ -4307,7 +4309,7 @@
   {
    "t": "Без світла 41 тисяча родин: ворог атакував важливий енергооб'єкт",
    "s": "24 Канал",
-   "u": "https://24tv.ua/economy/ru/otkljuchenie-sveta-v-odesskoj-oblasti-kakie-rajony-ostalis-bez-jelektrojenergii_n3190890",
+   "u": "https://24tv.ua/economy/vidklyuchennya-svitla-odeshhini-yaki-rayoni-zalishilisya-bez_n3190087",
    "x": "Ранок для деяких українців розпочався з чергового енергетичного терору з боку росіян. Ворожі обстріли знову змусили фахівців застосувати екстрені заходи для порятунку системи.",
    "i": "https://24tv.ua/resources/photos/news/202611/3190087.jpg?v=1795166148000&q=100",
    "d": "2026-11-20T09:25:00+00:00",
@@ -4318,7 +4320,7 @@
   {
    "t": "Мита США проти Китаю: як це обвалить ціни на сонячні панелі",
    "s": "24 Канал",
-   "u": "https://24tv.ua/economy/ru/solnechnye-paneli-iz-kitaja-pochemu-ceny-na-nih-rezko-upadut_n3190060",
+   "u": "https://24tv.ua/economy/sonyachni-paneli-kitayu-chomu-tsini-nih-rizko-vpadut_n3189691",
    "x": "Глобальний ринок альтернативної енергетики готується до серйозних цінових гойдалок через геополітичні рішення. Вже незабаром вартість популярного обладнання може суттєво змінитися, відкриваючи нові можливості для…",
    "i": "https://24tv.ua/resources/photos/news/202611/3189691.jpg?v=1795165182000&q=100",
    "d": "2026-11-20T09:07:00+00:00",
@@ -4362,7 +4364,7 @@
   {
    "t": "Російський дизель таки прибув до Америки, але не туди, де чекали",
    "s": "24 Канал",
-   "u": "https://24tv.ua/economy/ru/rossijskij-dizel-pochemu-tankery-pribyli-ne-v-ssha-a-v-druguju-stranu_n3189685",
+   "u": "https://24tv.ua/economy/rosiyskiy-dizel-chomu-tankeri-pribuli-ne-do-ssha-do-inshoyi-krayini_n3187832",
    "x": "Гучна енергетична угода між Вашингтоном та Москвою дала тріщину. Замість обіцяного порятунку американського ринку, судна з російським дизелем, які раніше пов'язували з поставками до США, прибули до Бразилії.",
    "i": "https://24tv.ua/resources/photos/news/202611/3187832.jpg?v=1795162811000&q=100",
    "d": "2026-11-20T08:59:00+00:00",
@@ -4387,7 +4389,7 @@
   {
    "t": "Заборона китайських авто у США: чому для Mercedes зроблять виняток",
    "s": "24 Канал",
-   "u": "https://24tv.ua/economy/ru/zapret-na-kitajskie-avtomobili-pochemu-ssha-delajut-iskljuchenie-dlja-mercedes_n3187375",
+   "u": "https://24tv.ua/economy/zaborona-kitayskih-avto-chomu-ssha-roblyat-vinyatok-dlya-mercedes_n3186322",
    "x": "Вашингтон готує безпрецедентний удар по автопрому з Піднебесної, закриваючи свій ринок для їхніх машин. Однак у жорстких правилах несподівано знайшлася лазівка для одного з найвідоміших європейських брендів.",
    "i": "https://24tv.ua/resources/photos/news/202611/3186322.jpg?v=1795161350000&q=100",
    "d": "2026-11-20T08:12:00+00:00",
@@ -4434,7 +4436,7 @@
   {
    "t": "Зарплати військовим 2026: Кабмін терміново виділив понад 81 мільярд",
    "s": "24 Канал",
-   "u": "https://24tv.ua/economy/ru/vyplaty-voennym-v-2026-godu-kuda-pravitelstvo-napravilo-dopolnitelnye-milliardy_n3184164",
+   "u": "https://24tv.ua/economy/viplati-viyskovim-2026-kudi-uryad-spryamuvav-dodatkovi-milyardi_n3184159",
    "x": "Держава продовжує шукати ресурси для безперебійного забезпечення сил оборони. Вже незабаром захисники отримають гарантовані фінансові надходження на свої рахунки.",
    "i": "https://24tv.ua/resources/photos/news/202611/3184159.jpg?v=1795157460000&q=100",
    "d": "2026-11-20T07:08:00+00:00",
@@ -4505,7 +4507,7 @@
   {
    "t": "Втрачена пенсія: як українцям повернути гроші",
    "s": "24 Канал",
-   "u": "https://24tv.ua/economy/ru/nepoluchennaja-pensija-kak-vernut-dengi-za-proshlye-gody_n3184108",
+   "u": "https://24tv.ua/economy/neotrimana-pensiya-yak-povernuti-groshi-za-minuli-roki_n3184097",
    "x": "Досягнення пенсійного віку ще не гарантує, що зароблені кошти автоматично опиняться у гаманці. Проте навіть тривала затримка виплат не завжди означає остаточну втрату грошей.",
    "i": "https://24tv.ua/resources/photos/news/202611/3184097.jpg?v=1795125564000&q=100",
    "d": "2026-11-20T04:57:00+00:00",
@@ -4544,7 +4546,7 @@
   {
    "t": "У грудні діятиме пенсійне обмеження: кому не виплатять більше встановленої суми",
    "s": "24 Канал",
-   "u": "https://24tv.ua/economy/ru/maksimalnaja-pensija-v-ukraine-kto-imeet-pravo-na-vyplaty-sverh-limita-v-dekabre_n3184000",
+   "u": "https://24tv.ua/economy/maksimalna-pensiya-ukrayini-hto-maye-pravo-viplati-ponad-limit_n3183783",
    "x": "Держава жорстко контролює верхню межу соціальних виплат, проте для обраних категорій громадян закон залишає приємні винятки. Вже наприкінці року правила нарахування коштів знову привернуть увагу тих, хто розраховує на…",
    "i": "https://24tv.ua/resources/photos/news/202611/3183783.jpg?v=1795108824000&q=100",
    "d": "2026-11-19T21:05:00+00:00",
@@ -4558,7 +4560,7 @@
   {
    "t": "Пенсіонерів звільнили від податку: хто може не платити в листопаді",
    "s": "24 Канал",
-   "u": "https://24tv.ua/economy/ru/nalog-na-zemlju-kto-iz-pensionerov-mozhet-ne-platit-ego-v-2026-godu_n3183458",
+   "u": "https://24tv.ua/economy/podatok-zemlyu-hto-pensioneriv-mozhe-ne-platiti-yogo-2026-rotsi_n3182640",
    "x": "Українське законодавство передбачає суттєві податкові пільги для пенсіонерів. Проте скористатися цією можливістю зможуть не всі. Кому саме з пенсіонерів доступна така опція, читайте далі.",
    "i": "https://24tv.ua/resources/photos/news/202611/3182640.jpg?v=1794989643000&q=100",
    "d": "2026-11-19T19:14:00+00:00",
