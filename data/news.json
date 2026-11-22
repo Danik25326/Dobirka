@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T20:20:44+00:00",
+ "updated": "2026-11-22T20:30:58+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -158,42 +158,42 @@
  ],
  "top": [
   {
-   "t": "У горах Румунії рятувальники знайшли загиблого та двох живих громадян України",
-   "u": "https://suspilne.media/1456148-u-gorah-rumunii-ratuvalniki-znajsli-zagiblogo-ta-dvoh-zivih-gromadan-ukraini/",
+   "t": "У горах Румунії рятувальники знайшли загиблого українця і двох живих",
+   "u": "https://www.pravda.com.ua/news/2026/11/22/8064084/",
    "i": "https://cdn4.suspilne.media/images/default.jpg",
    "n": 3,
    "l": [
     {
-     "s": "Суспільне",
-     "u": "https://suspilne.media/1456148-u-gorah-rumunii-ratuvalniki-znajsli-zagiblogo-ta-dvoh-zivih-gromadan-ukraini/"
-    },
-    {
      "s": "Українська правда",
      "u": "https://www.pravda.com.ua/news/2026/11/22/8064084/"
+    },
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/1456148-u-gorah-rumunii-ratuvalniki-znajsli-zagiblogo-ta-dvoh-zivih-gromadan-ukraini/"
     },
     {
      "s": "Європейська правда",
      "u": "https://www.eurointegration.com.ua/news/2026/11/22/7250553/"
     }
    ],
-   "d": "2026-11-22T18:19:04+00:00"
+   "d": "2026-11-22T17:23:00+00:00"
   },
   {
-   "t": "Відключення світла на Хмельниччині: повідомили графік на 23 листопада",
-   "u": "https://suspilne.media/khmelnytskiy/1456067-vidklucenna-svitla-na-hmelniccini-povidomili-grafik-na-23-listopada/",
+   "t": "23 листопада на Волині діятимуть графіки відключення світла",
+   "u": "https://suspilne.media/lutsk/1456142-23-svitla-na-volini-diatimut-grafiki-vidklucenna-svitla/",
    "i": "https://cdn4.suspilne.media/images/default.jpg",
    "n": 2,
    "l": [
     {
      "s": "Суспільне",
-     "u": "https://suspilne.media/khmelnytskiy/1456067-vidklucenna-svitla-na-hmelniccini-povidomili-grafik-na-23-listopada/"
+     "u": "https://suspilne.media/lutsk/1456142-23-svitla-na-volini-diatimut-grafiki-vidklucenna-svitla/"
     },
     {
      "s": "24 Канал",
      "u": "https://24tv.ua/grafiki-vidklyuchennya-svitla-23-listopada-rozklad-vid-ukrenergo_n3212481"
     }
    ],
-   "d": "2026-11-22T20:16:47+00:00"
+   "d": "2026-11-22T20:26:45+00:00"
   },
   {
    "t": "В Харкові внаслідок російського удару постраждали двоє людей - мер",
@@ -334,6 +334,110 @@
  ],
  "items": [
   {
+   "t": "Пенсія по інвалідності у грудні зміниться: скільки отримають українці з III групою",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/economy/yak-zroste-pensiya-po-invalidnosti-3-grupi-yakim-bude-rozmir_n3212318",
+   "x": "Останній місяць осені змушує багатьох українців уважніше перевіряти баланс на своїх банківських картках. Правила нарахування соціальної допомоги мають низку прихованих нюансів, які суттєво впливають на підсумковий дохід.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3212318.jpg?v=1795350531000&q=100",
+   "d": "2026-11-22T20:28:00+00:00",
+   "c": [
+    "holovne",
+    "ekonomika"
+   ]
+  },
+  {
+   "t": "Коли вимикатимуть електроенергію 23 листопада на Рівненщині",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/rivne/1456156-koli-vimikatimut-elektroenergiu-23-listopada-na-rivnensini/",
+   "x": "Графік погодинних знеструмлень діятимуть 23 листопада на Рівненщині. Його застосовують через наслідки російських атак на енергооб'єкти.",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T20:27:15+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "rivne"
+   ]
+  },
+  {
+   "t": "23 листопада на Волині діятимуть графіки відключення світла",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/lutsk/1456142-23-svitla-na-volini-diatimut-grafiki-vidklucenna-svitla/",
+   "x": "23 листопада енергетики планують обмежувати електропостачання побутовим споживачам за графіком. Також світло вимикатимуть для бізнеса і промисловості",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T20:26:45+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "volyn"
+   ]
+  },
+  {
+   "t": "Відключення електрики: графік для Кіровоградщини на 23 листопада",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/kropyvnytskiy/1456171-vidklucenna-elektriki-grafik-dla-kirovogradsini-na-23-listopada/",
+   "x": "На Кіровоградщині 23 листопада вимикатимуть електрику за погодинним графіком. Його застосовують, щоб зменшити навантаження на мережі та підтримати баланс енергосистеми",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T20:26:34+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kirovohrad"
+   ]
+  },
+  {
+   "t": "Найбільше атак у неділю на Костянтинівському та Покровському напрямках – Генштаб",
+   "s": "Українська правда",
+   "u": "https://www.pravda.com.ua/news/2026/11/22/8064099/",
+   "x": "На Костянтинівському та Покровському напрямках зафіксовано по 15 атак, тривають бої у кількох районах. Деталі щодо всіх напрямків – у зведенні.",
+   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/5/962155/f57bed51c64b0dc41ad37289c7d02e56.jpeg",
+   "d": "2026-11-22T20:25:00+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "donetsk"
+   ]
+  },
+  {
+   "t": "Не лише Відень: топ 28 міст Європи, які взимку перетворюються на справжню різдвяну казку",
+   "s": "24 Канал",
+   "u": "https://travel.24tv.ua/kudi-poyihati-rizdvyani-yarmarki-2026-rotsi-28-mist-yevropi-yaki_n3212461",
+   "x": "Різдво – це особлива пора, коли навіть звичайні вулиці перетворюються на казкові декорації. Якщо ви мрієте про різдвяну подорож за кордон, Європа пропонує чимало напрямків, де можна відчути справжню атмосферу свята.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3212461.jpg?v=1795371977000&q=100",
+   "d": "2026-11-22T20:25:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Карлос Алькарас вперше виграв ATP Finals і повторив історичне досягнення Джоковича та Федерера",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sport/1456169-karlos-alkaras-vperse-vigrav-atp-finals-i-povtoriv-istoricne-dosagnenna-dzokovica-ta-federera/",
+   "x": "Карлос Алькарас: іспанський тенісист, фінальний поєдинок Підсумкового турніру ATP, перша перемога в кар'єрі, як пройшов матч за трофей",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T20:21:37+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "У Миколаєві було чутно вибухи: що відомо",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/mykolaiv/1456175-u-mikolaevi-bulo-cutno-vibuhi-so-vidomo-3/",
+   "x": "У Миколаєві ввечері 22 листопада було чутно звуки вибухів. У Повітряних Силах попереджали про російські дрони в області. Вибухи чули кореспонденти Суспільного . Хроніка подій Повітряну тривогу в Миколаївському районі…",
+   "i": "https://cdn4.suspilne.media/images/23dca5c79aa74f93.jpg",
+   "d": "2026-11-22T20:20:00+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "mykolaiv"
+   ]
+  },
+  {
    "t": "Дзеркало не відпускало: павич так захопився собою, що господарям довелося кликати рятувальників",
    "s": "24 Канал",
    "u": "https://24tv.ua/trends24/pavich-vanniy-kimnati-ptah-zakohavsya-vlasne-vidobrazhennya-ne_n3183722",
@@ -342,6 +446,20 @@
    "d": "2026-11-22T20:19:00+00:00",
    "c": [
     "holovne"
+   ]
+  },
+  {
+   "t": "Графіки погодинних вимкнень електроенергії на Івано-Франківщині 23 листопада",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/ivano-frankivsk/1456173-grafiki-pogodinnih-vimknen-elektroenergii-na-ivano-frankivsini-23-listopada/",
+   "x": "23 листопада 2026 року на Івано-Франківщині для побутових споживачів і бізнесу діятимуть графіки погодинних вимкнень електроенергії. Світло вимикатимуть від 3,5 до 7 годин",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T20:16:58+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "ivanofrankivsk"
    ]
   },
   {
@@ -601,6 +719,17 @@
    "c": [
     "holovne",
     "vazhlyve"
+   ]
+  },
+  {
+   "t": "Трамп заявив, що схильний відновити удари по Ірану, якщо обидві країни не укладуть угоду про припинення війни",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1456164-tramp-zaaviv-so-shilnij-vidnoviti-udari-po-iranu-akso-obidvi-kraini-ne-ukladut-ugodu-pro-pripinenna-vijni/",
+   "x": "Трамп назвав поточні дипломатичні переговори з Тегераном беззмістовними та звинуватив іранських переговірників у затягуванні процесу",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T19:41:57+00:00",
+   "c": [
+    "holovne"
    ]
   },
   {
@@ -1174,17 +1303,6 @@
    ]
   },
   {
-   "t": "У горах Румунії рятувальники знайшли загиблого та двох живих громадян України",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1456148-u-gorah-rumunii-ratuvalniki-znajsli-zagiblogo-ta-dvoh-zivih-gromadan-ukraini/",
-   "x": "Троє громадян України, ймовірно, заблукали в горах поблизу держкордону. У повідомленні йдеться, що перед цим вони нібито нелегально перетнули кордон з України до Румунії",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-22T18:19:04+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "Росія припинила спроби повернутися до керівного органу ІКАО",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/POLITICS/rosija-pripinila-sprobi-povernutisja-do-kerivnoho-orhanu-isao.html",
@@ -1193,20 +1311,6 @@
    "d": "2026-11-22T18:18:00+00:00",
    "c": [
     "statti"
-   ]
-  },
-  {
-   "t": "Графіки погодинних вимкнень електроенергії на Івано-Франківщині 23 листопада",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/ivano-frankivsk/1456173-grafiki-pogodinnih-vimknen-elektroenergii-na-ivano-frankivsini-23-listopada/",
-   "x": "23 листопада 2026 року на Івано-Франківщині для побутових споживачів і бізнесу діятимуть графіки погодинних вимкнень електроенергії. Світло вимикатимуть від 3,5 до 7 годин",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-22T18:16:58+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "ivanofrankivsk"
    ]
   },
   {
@@ -1335,17 +1439,6 @@
    ]
   },
   {
-   "t": "Українська кіберспортивна команда NaVi стала чемпіонами світу з Brawl Stars",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/culture/1456151-ukrainska-kibersportivna-komanda-navi-stala-cempionami-svitu-z-brawl-stars/",
-   "x": "Кіберспортивна команда NAVI здобула перемогу на чемпіонаті світу з Brawl Stars World Finals 2026, виборовши чемпіонський титул у грандфіналі",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-22T18:01:46+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "У Харкові виявили вбитого чоловіка: у місті ввели спецоперацію",
    "s": "Суспільне",
    "u": "https://suspilne.media/kharkiv/1456158-u-harkovi-viavili-vbitogo-colovika-pravoohoronci-vstanovluut-obstavini-podii/",
@@ -1454,6 +1547,20 @@
    ]
   },
   {
+   "t": "У Херсоні відремонтували два укриття для понад 800 людей",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/kherson/1456155-u-hersoni-vidremontuvali-dva-ukritta-dla-ponad-800-ludej/",
+   "x": "У Дніпровському районі Херсона відремонтували два найпростіші укриття. Вони розраховані на понад 800 людей та готові до використання під час обстрілів",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T17:55:52+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kherson"
+   ]
+  },
+  {
    "t": "Два дні, а вражень на цілий тиждень: туристка розповіла про місто в Україні, яке вкрало її серце",
    "s": "24 Канал",
    "u": "https://travel.24tv.ua/turistka-rozpovila-kudi-piti-chernivtsyah-shhob-zakohatisya-misto_n3211957",
@@ -1541,17 +1648,6 @@
    "x": "У 18 років під час АТО/ООС Віталій Возіян ухвалив рішення укласти контракт з ЗСУ. Зараз він є заступником командира другого десантно-штурмового батальйону 80 ОДШБр. Про бої за Гостомель, Бучу, Курську операцію - в…",
    "i": "https://cdn4.suspilne.media/images/default.jpg",
    "d": "2026-11-22T17:45:00+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
-   "t": "Трамп заявив, що схильний відновити удари по Ірану, якщо обидві країни не укладуть угоду про припинення війни",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1456164-tramp-zaaviv-so-shilnij-vidnoviti-udari-po-iranu-akso-obidvi-kraini-ne-ukladut-ugodu-pro-pripinenna-vijni/",
-   "x": "Трамп назвав поточні дипломатичні переговори з Тегераном беззмістовними та звинуватив іранських переговірників у затягуванні процесу",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-22T17:41:57+00:00",
    "c": [
     "holovne"
    ]
@@ -1850,20 +1946,6 @@
    ]
   },
   {
-   "t": "Загинула людина: російські безпілотники атакували Білоцерківський район",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/kyiv/1456118-poranena-zinka-rosijski-bezpilotniki-atakuvali-bilocerkivskij-rajon/",
-   "x": "Удень, 22 листопада, російські безпілотники атакували Білоцерківський район Київської області. Внаслідок удару була поранена жінка. Їй надають медичну допомогу",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-22T17:09:50+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "kyivska"
-   ]
-  },
-  {
    "t": "Це незвичне село у Європі тягнеться аж на 9 кілометрів: причина незвична",
    "s": "24 Канал",
    "u": "https://24tv.ua/zakordon24/selo-solushova-polshhi-chim-vono-osoblive_n3212418",
@@ -1886,20 +1968,6 @@
    ]
   },
   {
-   "t": "Зустрілися у будинку для самотніх людей і закохалися: історія Сергія та Ніни із Житомирщини",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/zhytomyr/1455585-zustrilisa-u-budinku-dla-samotnih-ludej-i-zakohalisa-istoria-sergia-ta-nini-iz-zitomirsini/",
-   "x": "Сергій Фільєв і Ніна Кручко познайомилися у Кишинському інтернаті для одиноких непрацездатних людей на Житомирщині. Чоловік допомагав жінці після ампутації ніг вчитися ходити на протезах. Згодом просто дружба переросла…",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-22T17:03:21+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "zhytomyr"
-   ]
-  },
-  {
    "t": "У Польщі кажуть про дезінформацію РФ через нібито атаку України у Калінінградській області",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/22/8064083/",
@@ -1908,20 +1976,6 @@
    "c": [
     "holovne",
     "polityka"
-   ]
-  },
-  {
-   "t": "Дощ та мокрий сніг: на Черкащині синоптики попереджають про погіршення погоди",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/cherkasy/1456088-dos-ta-mokrij-snig-na-cerkasini-sinoptiki-poperedzaut-pro-pogirsenna-pogodi/",
-   "x": "У Черкасах та області вдень 23 листопада попереджають про значні дощі та мокрий сніг, а також пориви вітру 15-20 метрів на секунду",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-22T17:01:00+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "cherkasy"
    ]
   },
   {
@@ -1990,17 +2044,6 @@
    ]
   },
   {
-   "t": "У порту Лівії стався вибух на борту російського корабля: ймовірно, його атакували дрони",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1456135-u-portu-livii-stavsa-vibuh-na-bortu-rosijskogo-korabla-jmovirno-jogo-atakuvali-droni/",
-   "x": "За даними лівійського уряду, судно прямувало до Росії, а в порт Бенгазі зайшло для дозаправки та поповнення запасів у межах чинних двосторонніх угод про морську співпрацю між двома країнами",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-22T16:58:14+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "Реактивна «Герань-5» поцілила в супермаркет у Вишневому",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/war/reaktivna-heran-5-potsilila-v-supermarket-u-vishnevomu.html",
@@ -2039,20 +2082,6 @@
    "r": [
     "dnipro",
     "kharkiv"
-   ]
-  },
-  {
-   "t": "Двоє волинян отримуватимуть стипендії Кабміну для молодих вчених",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/lutsk/1455296-dvoe-volinan-otrimuvatimut-stipendii-kabminu-dla-molodih-vcenih/",
-   "x": "Волиняни Іван Ясюк та Ростислав Мартинюк отримуватимуть стипендії Кабміну для молодих учених. Іван Ясюк вивчає сферу будівництва та інфраструктурної інженерії, а Ростислав Мартинюк — фінанси",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-22T16:55:32+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "volyn"
    ]
   },
   {
@@ -2260,17 +2289,6 @@
    ]
   },
   {
-   "t": "Чому в домі холодно навіть при гарячих батареях: як шматок паперу виявить серйозну проблему",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/lifehacks24/yak-utepliti-vikna-dveri-zimu-efektivni-sposobi-usunuti-protyagi_n3212419",
-   "x": "Якщо взимку підлога в кімнаті залишається крижаною, а повітря швидко вистигає навіть за активного опалення, головними винуватцями зазвичай виявляються не батареї, а мікрощілини у віконних рамах і дверних отворах.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3212419.jpg?v=1795364540000&q=100",
-   "d": "2026-11-22T16:26:00+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "Прибув у клуб Циганкова: Шовковський несподівано відвідав базу європейського гранда",
    "s": "24 Канал",
    "u": "https://sportnews.24tv.ua/oleksandr-shovkovskiy-poyihav-noviy-klub-ekstrener-dinamo-vidvidav_n3212414",
@@ -2278,8 +2296,18 @@
    "i": "https://24tv.ua/resources/photos/news/202611/3212414.jpg?v=1795363496000&q=100",
    "d": "2026-11-22T16:20:00+00:00",
    "c": [
-    "holovne",
     "sport"
+   ]
+  },
+  {
+   "t": "У горах Румунії рятувальники знайшли загиблого та двох живих громадян України",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1456148-u-gorah-rumunii-ratuvalniki-znajsli-zagiblogo-ta-dvoh-zivih-gromadan-ukraini/",
+   "x": "Троє громадян України, ймовірно, заблукали в горах поблизу держкордону. У повідомленні йдеться, що перед цим вони нібито нелегально перетнули кордон з України до Румунії",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T16:19:04+00:00",
+   "c": [
+    "holovne"
    ]
   },
   {
@@ -2362,6 +2390,17 @@
    ]
   },
   {
+   "t": "Українська кіберспортивна команда NaVi стала чемпіонами світу з Brawl Stars",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/culture/1456151-ukrainska-kibersportivna-komanda-navi-stala-cempionami-svitu-z-brawl-stars/",
+   "x": "Кіберспортивна команда NAVI здобула перемогу на чемпіонаті світу з Brawl Stars World Finals 2026, виборовши чемпіонський титул у грандфіналі",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T16:01:46+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "🚨ПОЧАЛОСЯ! ПЕРШІ УДАРИ ПО КАЛІНІНГРАДЩИНІ💣Під прицілом балтійський флот💥Росіяни ОФІГІЛИ",
    "s": "5 канал · відео",
    "u": "https://www.youtube.com/watch?v=Z2rV84CPZYI",
@@ -2374,7 +2413,7 @@
    "v": 1
   },
   {
-   "t": "Люблять мюзикли: у заповідник перевезуть останніх шимпанзе, на яких ставили досліди у США",
+   "t": "Останні піддослідні шимпанзе у США йдуть на пенсію: у заповіднику їм показуватимуть кіно",
    "s": "Українська правда. Життя",
    "u": "https://life.pravda.com.ua/society/u-ssha-zvilnyat-ostannih-shimpanze-na-yakih-provodili-doslidi-319238/",
    "i": "https://imglife.pravda.com.ua/life/images/doc/2/d/150560/2d5a851cbe3e47c9861b47d4b4523b72.jpeg?w=390&q=90&f=jpeg",
@@ -2405,20 +2444,6 @@
    ],
    "r": [
     "kyivska"
-   ]
-  },
-  {
-   "t": "У Херсоні відремонтували два укриття для понад 800 людей",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/kherson/1456155-u-hersoni-vidremontuvali-dva-ukritta-dla-ponad-800-ludej/",
-   "x": "У Дніпровському районі Херсона відремонтували два найпростіші укриття. Вони розраховані на понад 800 людей та готові до використання під час обстрілів",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-22T15:55:52+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "kherson"
    ]
   },
   {
@@ -2537,15 +2562,6 @@
    "c": [
     "holovne",
     "vazhlyve"
-   ]
-  },
-  {
-   "t": "Втратив зір на війні, але повернувся до юридичної практики: як працевлаштовувати ветеранів після поранень",
-   "s": "Українська правда",
-   "u": "https://www.pravda.com.ua/news/2026/11/22/8064071/",
-   "d": "2026-11-22T15:17:00+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
@@ -4572,17 +4588,6 @@
    ],
    "r": [
     "odesa"
-   ]
-  },
-  {
-   "t": "Експорт до ЄС: як Україна захопила ринок ріпакового шроту",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/economy/eksport-ripakovogo-shrotu-yak-ukrayina-zahopila-rinok-yes-2026_n3191142",
-   "x": "Ситуація на європейському аграрному ринку зазнає кардинальних змін через активність вітчизняних виробників. Поки інші країни втрачають свої позиції, український бізнес успішно освоює нові експортні ніші та збільшує…",
-   "i": "https://24tv.ua/resources/photos/news/202611/3191142.jpg?v=1795167110000&q=100",
-   "d": "2026-11-20T09:36:00+00:00",
-   "c": [
-    "ekonomika"
    ]
   },
   {
