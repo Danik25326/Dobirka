@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T21:01:11+00:00",
+ "updated": "2026-11-22T21:10:43+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -234,21 +234,21 @@
    "d": "2026-11-22T20:45:26+00:00"
   },
   {
-   "t": "23 листопада на Волині діятимуть графіки відключення світла",
-   "u": "https://suspilne.media/lutsk/1456142-23-svitla-na-volini-diatimut-grafiki-vidklucenna-svitla/",
+   "t": "Відключення світла на Миколаївщині 23 листопада: графіки діятимуть протягом доби",
+   "u": "https://suspilne.media/mykolaiv/1456179-vidklucenna-svitla-na-mikolaivsini-23-listopada-grafiki-diatimut-protagom-dobi/",
    "i": "https://cdn4.suspilne.media/images/default.jpg",
    "n": 2,
    "l": [
     {
      "s": "Суспільне",
-     "u": "https://suspilne.media/lutsk/1456142-23-svitla-na-volini-diatimut-grafiki-vidklucenna-svitla/"
+     "u": "https://suspilne.media/mykolaiv/1456179-vidklucenna-svitla-na-mikolaivsini-23-listopada-grafiki-diatimut-protagom-dobi/"
     },
     {
      "s": "24 Канал",
      "u": "https://24tv.ua/grafiki-vidklyuchennya-svitla-23-listopada-rozklad-vid-ukrenergo_n3212481"
     }
    ],
-   "d": "2026-11-22T20:26:45+00:00"
+   "d": "2026-11-22T20:43:14+00:00"
   },
   {
    "t": "В Харкові внаслідок російського удару постраждали двоє людей - мер",
@@ -338,6 +338,16 @@
  ],
  "items": [
   {
+   "t": "У Польщі виявили не дві, а три російські ракети Х-101, які залетіли 20 листопада",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/europe/u-polshchi-vijavili-ne-dvi-a-tri-rosijski-raketi-kh-101-jaki-zaletili-20-listopada.html",
+   "i": "https://zn.ua/img/article/7049/61_main.webp",
+   "d": "2026-11-22T21:07:00+00:00",
+   "c": [
+    "statti"
+   ]
+  },
+  {
    "t": "Провів під завалами 14 годин: поліція показала кадри порятунку 7-річного хлопчика у Димері",
    "s": "24 Канал",
    "u": "https://24tv.ua/udar-po-budinku-dimeri-hlopchika-davida-vityagli-pid-zavaliv_n3212490",
@@ -351,6 +361,30 @@
    ]
   },
   {
+   "t": "⚡Трамп звернувся щодо ПЕРЕМИР'Я у війні в Україні #shorts",
+   "s": "24 Канал · відео",
+   "u": "https://www.youtube.com/shorts/N_CxJaOGn2U",
+   "x": "24 Канал запускає подкасти! Шукайте нас на різних, зручних для вас платформах: https://linktr.ee/podcast24tv.ua #24канал #новини​ #новости #війнавукраїні2026 #войнавукраине2026​ #новиниукраїни #новостиукраины…",
+   "i": "https://i3.ytimg.com/vi/N_CxJaOGn2U/hqdefault.jpg",
+   "d": "2026-11-22T21:00:30+00:00",
+   "c": [
+    "video"
+   ],
+   "v": 1
+  },
+  {
+   "t": "Украина спасла людей из Олешек. Реакция россиян | Чат рулетка",
+   "s": "5 канал · відео",
+   "u": "https://www.youtube.com/watch?v=5P1h-GIOUAY",
+   "x": "Підпишись на соціальні мереж і будь в курсі нових відео та ефірів: @Mykhailo_Medvediev t.me/medvedievmykhailo instagram.com/mykhailo.m95 Патреон: https://patreon.com/projects5 Долучайтеся до збору на рації для ЗСУ…",
+   "i": "https://i2.ytimg.com/vi/5P1h-GIOUAY/hqdefault.jpg",
+   "d": "2026-11-22T21:00:27+00:00",
+   "c": [
+    "video"
+   ],
+   "v": 1
+  },
+  {
    "t": "Поступове похолодання: синоптик розповів, коли температура знизиться",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/UKRAINE/postupove-pokholodannja-sinoptik-rozpoviv-koli-temperatura-znizitsja.html",
@@ -362,6 +396,18 @@
    ]
   },
   {
+   "t": "😮Лучше сядьте! Путин ВЗОРВАЛ СЕТЬ НОВЫМ СКАНДАЛЬНЫМ заявлением – все аж онемели. ФЕЙГИН",
+   "s": "24 Канал · відео",
+   "u": "https://www.youtube.com/watch?v=HohmnXIemcY",
+   "x": "На совместном стриме публицист Марк Фейгин @FeyginLive вместе с телеведущей Еленой Курбановой @Kurbanova_LIVE обсудили последние новости за 22 ноября. В фильме Кустурицы к юбилею патриарха Кирилла путин заявил, что…",
+   "i": "https://i1.ytimg.com/vi/HohmnXIemcY/hqdefault.jpg",
+   "d": "2026-11-22T20:55:37+00:00",
+   "c": [
+    "video"
+   ],
+   "v": 1
+  },
+  {
    "t": "Збройні сили Німеччини вперше випробували дрони-камікадзе в Литві",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/22/8064100/",
@@ -369,6 +415,17 @@
    "c": [
     "holovne",
     "polityka"
+   ]
+  },
+  {
+   "t": "Заблукали в горах Румунії: одного українця знайшли мертвим",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/UKRAINE/zablukali-v-horakh-rumuniji-odnoho-ukrajintsja-znajshli-mertvim.html",
+   "x": "Пошуково-рятувальна операція тривала в горах Марамурешу поблизу державного кордону.",
+   "i": "https://zn.ua",
+   "d": "2026-11-22T20:49:00+00:00",
+   "c": [
+    "statti"
    ]
   },
   {
@@ -421,6 +478,20 @@
    "v": 1
   },
   {
+   "t": "Відключення світла на Миколаївщині 23 листопада: графіки діятимуть протягом доби",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/mykolaiv/1456179-vidklucenna-svitla-na-mikolaivsini-23-listopada-grafiki-diatimut-protagom-dobi/",
+   "x": "У Миколаївській області 23 листопада діятимуть графіки погодинних відключень електроенергії. Обмеження електропостачання триватимуть протягом доби.",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T20:43:14+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "mykolaiv"
+   ]
+  },
+  {
    "t": "Денис Берінчик одержав першу перемогу після програшу титульного бою",
    "s": "Суспільне",
    "u": "https://suspilne.media/sport/1456162-denis-berincik-oderzav-persu-peremogu-pisla-prograsu-titulnogo-bou/",
@@ -443,6 +514,34 @@
    "d": "2026-11-22T20:41:00+00:00",
    "c": [
     "statti"
+   ]
+  },
+  {
+   "t": "На Закарпатті 23 листопада застосували графіки погодинних відключень електроенергії",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/uzhhorod/1456177-na-zakarpatti-23-listopada-zastosuvali-grafiki-pogodinnih-vidklucen-elektroenergii/",
+   "x": "На Закарпатті 23 листопада для споживачів запроваджують графіки погодинних відключень електроенергії. Про це повідомили у Закарпаттяобленерго.",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T20:38:42+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "zakarpattia"
+   ]
+  },
+  {
+   "t": "На Черкащині вимикатимуть світло: графіки на 23 листопада",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/cherkasy/1455994-na-cerkasini-vimikatimut-svitlo-grafiki-na-23-listopada/",
+   "x": "У Черкаській області 23 листопада для населення діятимуть погодинні графіки відключення світла. Про це повідомили у «Черкасиобленерго»",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T20:37:48+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "cherkasy"
    ]
   },
   {
@@ -1310,20 +1409,6 @@
    ]
   },
   {
-   "t": "Відключення світла на Миколаївщині 23 листопада: графіки діятимуть протягом доби",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/mykolaiv/1456179-vidklucenna-svitla-na-mikolaivsini-23-listopada-grafiki-diatimut-protagom-dobi/",
-   "x": "У Миколаївській області 23 листопада діятимуть графіки погодинних відключень електроенергії. Обмеження електропостачання триватимуть протягом доби.",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-22T18:43:14+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "mykolaiv"
-   ]
-  },
-  {
    "t": "УПЛ 2026/2027 – календар і результати всіх матчів",
    "s": "24 Канал",
    "u": "https://sportnews.24tv.ua/upl-sezon-2026-2027-turnirna-tablitsya-rozklad-matchiv-rezultati_n3113894",
@@ -1358,34 +1443,6 @@
    ],
    "r": [
     "dnipro"
-   ]
-  },
-  {
-   "t": "На Закарпатті 23 листопада застосували графіки погодинних відключень електроенергії",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/uzhhorod/1456177-na-zakarpatti-23-listopada-zastosuvali-grafiki-pogodinnih-vidklucen-elektroenergii/",
-   "x": "На Закарпатті 23 листопада для споживачів запроваджують графіки погодинних відключень електроенергії. Про це повідомили у Закарпаттяобленерго.",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-22T18:38:42+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "zakarpattia"
-   ]
-  },
-  {
-   "t": "На Черкащині вимикатимуть світло: графіки на 23 листопада",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/cherkasy/1455994-na-cerkasini-vimikatimut-svitlo-grafiki-na-23-listopada/",
-   "x": "У Черкаській області 23 листопада для населення діятимуть погодинні графіки відключення світла. Про це повідомили у «Черкасиобленерго»",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-22T18:37:48+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "cherkasy"
    ]
   },
   {
@@ -1549,18 +1606,6 @@
    ]
   },
   {
-   "t": "🤯Не УСПЕЛ Трамп ВЕРНУТЬСЯ из Китая, как ТУТ ТАКОЕ! Неожиданный УДАР от Си ИЗМЕНИЛ ВСЁ. Путин В АУТЕ",
-   "s": "24 Канал · відео",
-   "u": "https://www.youtube.com/watch?v=xlYA--w9CX8",
-   "x": "В лучших выпусках программы \"Моноблог о…\" на 24 Канале рассказываем о последних новостях с России. В частности, не так давно лидеры США, Китая и России провели первый трехсторонний саммит в Шэньчжэне. По результатам…",
-   "i": "https://i1.ytimg.com/vi/xlYA--w9CX8/hqdefault.jpg",
-   "d": "2026-11-22T18:15:30+00:00",
-   "c": [
-    "video"
-   ],
-   "v": 1
-  },
-  {
    "t": "ЗМІ: Кіпр вислав двох російських дипломатів за підозрою у шпигунстві",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/22/8064089/",
@@ -1689,21 +1734,6 @@
    ]
   },
   {
-   "t": "⚡Зеленський звернувся по КРИМСЬКОМУ МОСТУ #shorts",
-   "s": "24 Канал · відео",
-   "u": "https://www.youtube.com/shorts/jyMvjUArnYc",
-   "x": "24 Канал запускає подкасти! Шукайте нас на різних, зручних для вас платформах: https://linktr.ee/podcast24tv.ua",
-   "i": "https://i3.ytimg.com/vi/jyMvjUArnYc/hqdefault.jpg",
-   "d": "2026-11-22T18:00:32+00:00",
-   "c": [
-    "video"
-   ],
-   "v": 1,
-   "r": [
-    "crimea"
-   ]
-  },
-  {
    "t": "Житло здаватимуть дешевше за ринкову ціну: як працюватиме соціальна оренда",
    "s": "24 Канал",
    "u": "https://24tv.ua/realestate24/sotsialne-zhitlo-ukrayini-2026-rotsi-yak-pratsyuvatime-orenda_n3212449",
@@ -1753,6 +1783,20 @@
    "d": "2026-11-22T17:57:44+00:00",
    "c": [
     "holovne"
+   ]
+  },
+  {
+   "t": "У Херсоні відремонтували два укриття для понад 800 людей",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/kherson/1456155-u-hersoni-vidremontuvali-dva-ukritta-dla-ponad-800-ludej/",
+   "x": "У Дніпровському районі Херсона відремонтували два найпростіші укриття. Вони розраховані на понад 800 людей та готові до використання під час обстрілів",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T17:55:52+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kherson"
    ]
   },
   {
@@ -2496,20 +2540,6 @@
    ]
   },
   {
-   "t": "У Херсоні відремонтували два укриття для понад 800 людей",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/kherson/1456155-u-hersoni-vidremontuvali-dva-ukritta-dla-ponad-800-ludej/",
-   "x": "У Дніпровському районі Херсона відремонтували два найпростіші укриття. Вони розраховані на понад 800 людей та готові до використання під час обстрілів",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-22T15:55:52+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "kherson"
-   ]
-  },
-  {
    "t": "Росіяни вдарили по супермаркету Novus під Києвом: кількість загиблих зросла",
    "s": "24 Канал",
    "u": "https://24tv.ua/udar-po-novus-vishnevomu-22-listopada-skilki-lyudey-zaginuli_n3212399",
@@ -2782,16 +2812,6 @@
    ]
   },
   {
-   "t": "Ви дивитеся, вони вбивають: як «Голодні ігри» пояснюють диктатуру",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/ART/vi-divitesja-voni-vbivajut-jak-holodni-ihri-pojasnjujut-diktaturu.html",
-   "i": "https://zn.ua/img/article/7048/87_main.webp",
-   "d": "2026-11-22T15:00:00+00:00",
-   "c": [
-    "statti"
-   ]
-  },
-  {
    "t": "Росіяни вдарили по дільниці газової служби та двох АЗС, є постраждалі",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/22/8064066/",
@@ -2804,19 +2824,6 @@
    "r": [
     "dnipro",
     "zaporizhzhia"
-   ]
-  },
-  {
-   "t": "Сутички у Києво-Печерській лаврі: між вірянами УПЦ МП та активістами виник конфлікт через храм на честь московського церковного діяча",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/UKRAINE/sutichki-u-kijevo-pecherskij-lavri-mizh-virjanami-upts-mp-ta-aktivistami-vinik-konflikt-cherez-khram-na-chest-moskovskoho-tserkovnoho-dijacha.html",
-   "i": "https://zn.ua/img/article/7049/30_main.webp",
-   "d": "2026-11-22T14:56:00+00:00",
-   "c": [
-    "statti"
-   ],
-   "r": [
-    "kyiv"
    ]
   },
   {
@@ -3002,18 +3009,6 @@
    "r": [
     "kharkiv"
    ]
-  },
-  {
-   "t": "🚨НАДЗВИЧАЙНЕ ЗАСІДАННЯ НАТО!💥Альянс скликають через росіян👀| Час новин 22.11.2026",
-   "s": "5 канал · відео",
-   "u": "https://www.youtube.com/watch?v=tKW-zRA344s",
-   "x": "НАТО екстрено збирається через російські ракети в Польщі! Уже в понеділок Альянс вирішуватиме, як реагувати на загрозу. Чи наважиться на жорсткі кроки? Українські далекобійні дрони вироблятимуть у Британії! Нові…",
-   "i": "https://i1.ytimg.com/vi/tKW-zRA344s/hqdefault.jpg",
-   "d": "2026-11-22T14:00:07+00:00",
-   "c": [
-    "video"
-   ],
-   "v": 1
   },
   {
    "t": "Глава МЗС Словаччини натякнув, що за вторгненням у Чехословаччину стояли українці",
