@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T08:20:43+00:00",
+ "updated": "2026-11-22T08:31:05+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -158,11 +158,15 @@
  ],
  "top": [
   {
-   "t": "Трамп опублікував фото з Путіним з підписом \"мій друг\"",
-   "u": "https://www.pravda.com.ua/news/2026/11/22/8064000/",
-   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/c/961706/ac83af3b8c4c2762f51a5b6ed08e7cda.jpeg",
-   "n": 3,
+   "t": "Трамп знову назвав Путіна \"другом\" і розмістив фотопорівняння з Тегераном-1943",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/22/7250533/",
+   "i": "https://img.eurointegration.com.ua/images/doc/d/4/d458a6f-screenshot-2026-11-22-093637.png",
+   "n": 4,
    "l": [
+    {
+     "s": "Європейська правда",
+     "u": "https://www.eurointegration.com.ua/news/2026/11/22/7250533/"
+    },
     {
      "s": "Українська правда",
      "u": "https://www.pravda.com.ua/news/2026/11/22/8064000/"
@@ -176,14 +180,18 @@
      "u": "https://24tv.ua/tramp-oprilyudniv-foto-putinim-porivnyav-samit-shenchzheni-yaltoyu_n3212162"
     }
    ],
-   "d": "2026-11-21T23:26:00+00:00"
+   "d": "2026-11-22T07:40:00+00:00"
   },
   {
-   "t": "РФ за добу чотири рази атакувала дронами енергооб'єкти Житомирщини – ОВА",
-   "u": "https://interfax.com.ua/news/general/1240393.html",
-   "i": "https://media.interfax.com.ua/media/thumbs/images/2024/08/wztMFNYSlWX0.jpg",
-   "n": 2,
+   "t": "На Житомирщині російські БпЛА атакували енергетичну інфраструктуру",
+   "u": "https://suspilne.media/zhytomyr/1456017-na-zitomirsini-rosijski-bpla-atakuvali-energeticnu-infrastrukturu/",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "n": 3,
    "l": [
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/zhytomyr/1456017-na-zitomirsini-rosijski-bpla-atakuvali-energeticnu-infrastrukturu/"
+    },
     {
      "s": "Інтерфакс-Україна",
      "u": "https://interfax.com.ua/news/general/1240393.html"
@@ -193,7 +201,49 @@
      "u": "https://24tv.ua/rosiya-atakuvala-energetiku-zhitomirshhini-4-dronami-shho-vidomo_n3212222"
     }
    ],
-   "d": "2026-11-22T08:02:26+00:00"
+   "d": "2026-11-22T08:26:58+00:00"
+  },
+  {
+   "t": "У Хорватії тисячі людей протестували через смерть у психіатричній лікарні",
+   "u": "https://www.pravda.com.ua/news/2026/11/22/8064015/",
+   "i": "https://img.eurointegration.com.ua/images/doc/4/f/4f139c8-o-40008776-1280.jpg",
+   "n": 3,
+   "l": [
+    {
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/22/8064015/"
+    },
+    {
+     "s": "Європейська правда",
+     "u": "https://www.eurointegration.com.ua/news/2026/11/22/7250530/"
+    },
+    {
+     "s": "ZN.UA",
+     "u": "https://zn.ua/ukr/europe/smert-u-psikhiatrichnij-likarni-tisjachi-khorvativ-vijshli-na-protest-u-zahrebi.html"
+    }
+   ],
+   "d": "2026-11-22T07:01:00+00:00"
+  },
+  {
+   "t": "Під завалами можуть бути люди: на Київщині дрон РФ влучив у п'ятиповерхівку",
+   "u": "https://suspilne.media/kyiv/1455980-pid-zavalami-mozut-buti-ludi-na-kiivsini-dron-rf-vluciv-u-patipoverhivku/",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "n": 3,
+   "l": [
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/kyiv/1455980-pid-zavalami-mozut-buti-ludi-na-kiivsini-dron-rf-vluciv-u-patipoverhivku/"
+    },
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/rosiya-atakuvala-dronom-budinok-kiyivshhini-yaki-naslidki_n3212190"
+    },
+    {
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/22/8064011/"
+    }
+   ],
+   "d": "2026-11-22T06:17:29+00:00"
   },
   {
    "t": "У центрі Івано-Франківська сталася стрілянина, чоловіка поранено – поліція",
@@ -230,21 +280,55 @@
    "d": "2026-11-22T07:20:00+00:00"
   },
   {
-   "t": "У Хорватії тисячі людей протестували через смерть у психіатричній лікарні",
-   "u": "https://www.pravda.com.ua/news/2026/11/22/8064015/",
-   "i": "https://zn.ua/img/article/7048/91_main.webp",
+   "t": "НАТО збереться у Брюсселі через російські ракети у Польщі",
+   "u": "https://www.pravda.com.ua/news/2026/11/22/8064016/",
+   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/8/961762/f8155f8a1e1d8baff27ecd0f403f291a.jpeg",
    "n": 2,
    "l": [
     {
      "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/22/8064015/"
+     "u": "https://www.pravda.com.ua/news/2026/11/22/8064016/"
     },
     {
-     "s": "ZN.UA",
-     "u": "https://zn.ua/ukr/europe/smert-u-psikhiatrichnij-likarni-tisjachi-khorvativ-vijshli-na-protest-u-zahrebi.html"
+     "s": "Європейська правда",
+     "u": "https://www.eurointegration.com.ua/news/2026/11/22/7250529/"
     }
    ],
-   "d": "2026-11-22T07:01:00+00:00"
+   "d": "2026-11-22T07:15:00+00:00"
+  },
+  {
+   "t": "Внаслідок атаки на Лозову постраждала жінка, виникли пожежі – ДСНС",
+   "u": "https://interfax.com.ua/news/general/1240387.html",
+   "i": "https://media.interfax.com.ua/media/thumbs/images/2026/11/aflre/bBWqN7uN68AZ.jpg",
+   "n": 2,
+   "l": [
+    {
+     "s": "Інтерфакс-Україна",
+     "u": "https://interfax.com.ua/news/general/1240387.html"
+    },
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/kharkiv/1455988-u-lozovij-cerez-rosijsku-ataku-vinikli-pozezi-na-750-kv-metriv-postrazdala-zinka/"
+    }
+   ],
+   "d": "2026-11-22T07:07:59+00:00"
+  },
+  {
+   "t": "Литва відкинула заяви про причетність до дронової атаки у Калінінградській області",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/22/7250531/",
+   "i": "https://img.eurointegration.com.ua/images/doc/a/1/a16b77b-bb370517-9e4c-47a0-9833-2206ec1d1dac.jpg",
+   "n": 2,
+   "l": [
+    {
+     "s": "Європейська правда",
+     "u": "https://www.eurointegration.com.ua/news/2026/11/22/7250531/"
+    },
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/litva-sprostuvala-prichetnist-do-ataki-bezpilotnikiv-kaliningradsku_n3212195"
+    }
+   ],
+   "d": "2026-11-22T06:57:00+00:00"
   },
   {
    "t": "У Мексиці затримали наркобарона, який входив до списку десяти найбільш розшукуваних ФБР злочинців",
@@ -262,77 +346,98 @@
     }
    ],
    "d": "2026-11-22T06:54:00+00:00"
-  },
-  {
-   "t": "Українські middle та deep strike дрони для Сил оборони вироблятимуть у Великій Британії",
-   "u": "https://24tv.ua/military/ukrayina-britaniya-spilno-viroblyatimut-dalekobiyni-droni-dlya_n3212203",
-   "i": "https://24tv.ua/resources/photos/news/202611/3212203.jpg?v=1795329532000&q=100",
-   "n": 2,
-   "l": [
-    {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/military/ukrayina-britaniya-spilno-viroblyatimut-dalekobiyni-droni-dlya_n3212203"
-    },
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/21/8063992/"
-    }
-   ],
-   "d": "2026-11-22T06:34:00+00:00"
-  },
-  {
-   "t": "Росія атакувала Україну 186 дронами: влучання зафіксували на 18 локаціях",
-   "u": "https://www.pravda.com.ua/news/2026/11/22/8064012/",
-   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/6/961748/66319405d5ed594f49f6a8b089cdae95.jpeg",
-   "n": 2,
-   "l": [
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/22/8064012/"
-    },
-    {
-     "s": "Інтерфакс-Україна",
-     "u": "https://interfax.com.ua/news/general/1240384.html"
-    }
-   ],
-   "d": "2026-11-22T06:27:00+00:00"
-  },
-  {
-   "t": "Зруйновано з 1 по 5 поверхи: Росія вдарила по будинку на Київщині, під завалами можуть бути люди",
-   "u": "https://24tv.ua/rosiya-atakuvala-dronom-budinok-kiyivshhini-yaki-naslidki_n3212190",
-   "i": "https://24tv.ua/resources/photos/news/202611/3212190.jpg?v=1795327772000&q=100",
-   "n": 2,
-   "l": [
-    {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/rosiya-atakuvala-dronom-budinok-kiyivshhini-yaki-naslidki_n3212190"
-    },
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/22/8064011/"
-    }
-   ],
-   "d": "2026-11-22T06:05:00+00:00"
-  },
-  {
-   "t": "22 листопада: Яке сьогодні свято, все про цей день",
-   "u": "https://interfax.com.ua/news/general/1240372.html",
-   "i": "https://media.interfax.com.ua/media/thumbs/images/2026/08/fbiih/PIMx5EPTX9S_.jpg",
-   "n": 2,
-   "l": [
-    {
-     "s": "Інтерфакс-Україна",
-     "u": "https://interfax.com.ua/news/general/1240372.html"
-    },
-    {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/traditions24/svyato-22-listopada-yake-sogodni-tserkovne-svyato-kogo-imenini_n3211868"
-    }
-   ],
-   "d": "2026-11-22T05:03:27+00:00"
   }
  ],
  "items": [
+  {
+   "t": "Школи Одеси тиждень працюватимуть дистанційно через перебої з електропостачанням",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/odesa/1456015-skoli-odesi-tizden-pracuvatimut-distancijno-cerez-pereboi-z-elektropostacannam/",
+   "x": "З 23 до 27 листопада школи Одеси працюватимуть дистанційно через перебої з теплом, світлом і водою. У дитсадках залишать чергові групи для дітей працівників критичної інфраструктури.",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T08:30:07+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "odesa"
+   ]
+  },
+  {
+   "t": "На Львівщині 22 листопада попрощаються із трьома військовими",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/lviv/1456014-na-lvivsini-22-listopada-poprosautsa-iz-troma-vijskovimi/",
+   "x": "22 листопада на Львівщині відбудеться прощання із трьома військовослужбовцями. Сергій Бояновський, Андрій Проць та Ігор Квасній захищали Україну на передовій.",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T08:30:04+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "lviv"
+   ]
+  },
+  {
+   "t": "Затишний шик у гардеробі: які в'язані жилети в моді та як їх стилізувати",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/lady24/modni-vyazani-zhileti-yaki-modeli-uviyshli-trend-stilni-formuli_n3212099",
+   "x": "В'язані речі завжди мали особливу цінність у світі стилю, і навіть висока мода ніколи не оминала увагою вишукану фактурну пряжу. Сьогодні дизайнери роблять ключову ставку на затишні жилети, пропонуючи носити моделі з…",
+   "i": "https://24tv.ua/resources/photos/news/202611/3212099.jpg?v=1795280079000&q=100",
+   "d": "2026-11-22T08:30:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "У селі на Черкащині унаслідок нічного нападу загинули домашні тварини: хто це був та як відрізнити вовка?",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/cherkasy/1455447-u-seli-na-cerkasini-unaslidok-nicnogo-napadu-zaginuli-domasni-tvarini-hto-ce-buv-ta-ak-vidrizniti-vovka/",
+   "x": "У селі Будище повідомили про напад вовків на домашніх тварин. Староста села спростував інформацію і сказав, що напали здичавілі собаки",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T08:27:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "На Житомирщині російські БпЛА атакували енергетичну інфраструктуру",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/zhytomyr/1456017-na-zitomirsini-rosijski-bpla-atakuvali-energeticnu-infrastrukturu/",
+   "x": "Упродовж доби 21 листопада російські військові атакували енергетичну інфраструктуру Житомирщини, завдавши чотирьох ударів безпілотниками по енергетичних об'єктах області",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T08:26:58+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "zhytomyr"
+   ]
+  },
+  {
+   "t": "Українська Прем'єр-ліга: результати всіх матчів 13-го туру, відео голів (оновлюється)",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/SPORT/704453-ukrajinska-premjer-liha-rezultati-vsikh-matchiv-13-ho-turu-video-holiv-onovljujetsja.html",
+   "x": "В Україні триває футбольний сезон.",
+   "i": "https://zn.ua/img/article/7044/53_main.webp",
+   "d": "2026-11-22T08:24:00+00:00",
+   "c": [
+    "statti"
+   ]
+  },
+  {
+   "t": "Відключення світла у Криму 22 листопада: де на ранок немає електроенергії та коли буде",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/crimea/1456001-vidklucenna-svitla-u-krimu-22-listopada-de-na-ranok-nemae-elektroenergii-ta-koli-bude/",
+   "x": "У шести районах окупованого Криму на ранок 22 листопада є нові знеструмлення. Графіки відключення світла не діють. Орієнтовно електроенергія зʼявиться за три години, передає окупаційна компанія Крименерго",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T08:22:00+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "crimea"
+   ]
+  },
   {
    "t": "Не лише \"синуля\": як красиво й ніжно звертатися до хлопчика українською",
    "s": "24 Канал",
@@ -359,7 +464,7 @@
    ]
   },
   {
-   "t": "Одеса та прилеглі райони залишаються без стабільного електропостачання через пошкодження",
+   "t": "В Одесі та прилеглих районах масштабний блекаут через російські удари",
    "s": "24 Канал",
    "u": "https://24tv.ua/odesi-skladna-situatsiya-zi-svitlom-pislya-rosiyskih-atak-shho_n3212224",
    "x": "Російські атаки завдали серйозних пошкоджень енергетичній інфраструктурі Одещини. Через руйнування магістральних електромереж енергетики поки не можуть передати споживачам необхідний обсяг електроенергії, а повне…",
@@ -374,6 +479,18 @@
    ]
   },
   {
+   "t": "⚡️НЕ УСПЕЛ Путин ВЕРНУТСЯ с Китая, КАК ТУТ ТАКОЕ! В США готовят КОНЧИНУ для Кремля. ГАЛЛЯМОВ, ЮНУС",
+   "s": "24 Канал · відео",
+   "u": "https://www.youtube.com/watch?v=ScqawgTGQQE",
+   "x": "Ведущий 24 Канала Игорь Гаврищак @IhorHavryshchak вместе с политологом Аббасом Галлямовым @AbbasGallyamovPolitics и политологом Рамизом Юнусом разобрали последствия переговоров в Китае, удары по Крымскому мосту и новые…",
+   "i": "https://i4.ytimg.com/vi/ScqawgTGQQE/hqdefault.jpg",
+   "d": "2026-11-22T08:15:19+00:00",
+   "c": [
+    "video"
+   ],
+   "v": 1
+  },
+  {
    "t": "Залишились лічені дні: доки студенти мають підтвердити сертифікати на гранти",
    "s": "24 Канал",
    "u": "https://24tv.ua/education/granti-navchannya-2026-doki-treba-pidtverditi-sertifikati_n3200148",
@@ -382,6 +499,20 @@
    "d": "2026-11-22T08:14:00+00:00",
    "c": [
     "holovne"
+   ]
+  },
+  {
+   "t": "У гірських громадах Буковини випав сніг — фото",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/chernivtsi/1455998-u-girskih-gromadah-bukovini-vipav-snig-foto/",
+   "x": "Перший сніг у Чернівецькій області випав у Селятинській та Конятинській громадах. Яку погоду прогнозують синоптики на 22 листопада",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T08:13:04+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "chernivtsi"
    ]
   },
   {
@@ -399,9 +530,25 @@
    "t": "Тисячі людей вийшли на марш у Лісабоні на тлі зростання вартості життя",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/22/8064020/",
+   "i": "https://img.eurointegration.com.ua/images/doc/a/d/ad54fea-screenshot-2026-11-22-094854.png",
    "d": "2026-11-22T08:11:00+00:00",
    "c": [
+    "holovne",
+    "polityka"
+   ]
+  },
+  {
+   "t": "До 9 годин запізнення: поїзди до та із Закарпаття їдуть із затримками",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/uzhhorod/1456010-do-9-godin-zapiznenna-poizdi-do-ta-iz-zakarpatta-idut-iz-zatrimkami/",
+   "x": "22 листопада деякі поїзди, які прямують до та із Закарпаття, затримуються. Найбільше — поїзд №39/40 Дніпро-Головний — Солотвино-1, який затримується на 8 годин 51 хвилину.",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T08:06:16+00:00",
+   "c": [
     "holovne"
+   ],
+   "r": [
+    "zakarpattia"
    ]
   },
   {
@@ -426,6 +573,21 @@
     "video"
    ],
    "v": 1
+  },
+  {
+   "t": "Найгарячіша ділянка — Покровська. Фронт Донеччини та Луганщини 22 листопада 2026 року",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/donbas/1441931-najgaracisa-dilanka-pokrovska-front-doneccini-ta-lugansini-22-listopada-2026-roku/",
+   "x": "Хроніка боїв на фронті в Донецькій та Луганській областях, дані Генштабу у листопаді 2026, мапа і ситуація на фронті, чи захопили Костянтинівку, що на Покровському напрямку, звільнення біля Лимана — фото, відео…",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T08:03:11+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "donetsk",
+    "luhansk"
+   ]
   },
   {
    "t": "РФ за добу чотири рази атакувала дронами енергооб'єкти Житомирщини – ОВА",
@@ -518,6 +680,20 @@
    ]
   },
   {
+   "t": "«Набридло слухати казки — вирішив побачити на власні очі»: понад 150 днів був на позиціях військовий з Хмельницького",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/khmelnytskiy/1455319-nabridlo-sluhati-kazki-virisiv-pobaciti-na-vlasni-oci-ponad-150-dniv-buv-na-poziciah-vijskovij-z-hmelnickogo/",
+   "x": "Понад 150 днів безперервно провів на позиціях військовий «Хомка». Чоловік добровільно долучився до війська, коли йому було понад 50 років. У цивільному житті мав роботу, не потребував грошей. Хотів побачити війну на…",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T07:57:00+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "khmelnytskyi"
+   ]
+  },
+  {
    "t": "У центрі Івано-Франківська сталася стрілянина, чоловіка поранено – поліція",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/22/8064019/",
@@ -529,6 +705,31 @@
    ],
    "r": [
     "ivanofrankivsk"
+   ]
+  },
+  {
+   "t": "Військовий вертоліт РФ міг порушити повітряний простір Фінляндії",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1456007-vijskovij-vertolit-rf-mig-porusiti-povitranij-prostir-finlandii/",
+   "x": "Фінляндія розслідує ймовірне порушення свого повітряного простору російським військовим вертольотом 21 листопада. За даними Міноборони країни, повітряне судно могло проникнути на фінську територію на відстань до 4,1…",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T07:54:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "У Великій Бабці на Харківщині після гасіння пожежі в будинку знайшли тіло чоловіка: що відомо",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/kharkiv/1456004-u-velikij-babci-na-harkivsini-pisla-gasinna-pozezi-v-budinku-znajsli-tilo-colovika-so-vidomo/",
+   "x": "У селі Велика Бабка Чугуївського району під час побутової пожежі в приватному будинку загинув чоловік. Вогонь охопив площу в 10 кв. метрів",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T07:52:23+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kharkiv"
    ]
   },
   {
@@ -569,6 +770,20 @@
    ]
   },
   {
+   "t": "Віднайшла понад 150 тіл воїнів: собака-пошуківеця з Павлограда Жах отримала відзнаку на церемонії «Чотирилапі захисники»",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/dnipro/1455993-vidnajsla-ponad-150-til-voiniv-sobaka-posukiveca-z-pavlograda-zah-otrimala-vidznaku-na-ceremonii-cotirilapi-zahisniki/",
+   "x": "Вівчарка-пошуківеця Жах та її провідниця Карина Колісниченко із Павлоградського рятувального кінологічного загону «Антарєс» отримала відзнаку від Кінологічної спілки України на церемонії «Чотирилапі захисники»",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T07:50:00+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "dnipro"
+   ]
+  },
+  {
    "t": "\"Майже у кожному турі\": Енріке прокоментував травму зіркового одноклубника Забарного",
    "s": "24 Канал",
    "u": "https://24tv.ua/sporttopnews/dezire-due-trener-illi-zabarnogo-prokomentuvav-travmu-zirki-pszh_n3212213",
@@ -577,6 +792,34 @@
    "d": "2026-11-22T07:50:00+00:00",
    "c": [
     "holovne"
+   ]
+  },
+  {
+   "t": "В Одесі через відсутність водопостачання працюватимуть автоцистерни: адреси",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/odesa/1456005-v-odesi-cerez-vidsutnist-vodopostacanna-pracuvatimut-avtocisterni-adresi/",
+   "x": "В Одесі 22 листопада з 9:00 організують підвіз води у чотирьох районах міста. Де розмістять автоцистерни — перелік адрес у матеріалі.",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T07:49:29+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "odesa"
+   ]
+  },
+  {
+   "t": "Травмувався чоловік внаслідок пожежі в Миколаєві — ДСНС",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/mykolaiv/1456003-travmuvavsa-colovik-vnaslidok-pozezi-v-mikolaevi-dsns/",
+   "x": "У Миколаєві 21 листопада горів одноповерховий будинок. Внаслідок цього травмувався чоловік. Загалом рятувальники загасили чотири пожежі в регіоні, одна з них виникла через російську атаку",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T07:47:52+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "mykolaiv"
    ]
   },
   {
@@ -592,6 +835,31 @@
    "v": 1
   },
   {
+   "t": "«Дитина вчепилася в мене, вся труситься»: жителі Запоріжжя розповіли, як пережили обстріл РФ 21 листопада",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/zaporizhzhia/1455983-ditina-vcepilasa-v-mene-vsa-trusitsa-ziteli-zaporizza-rozpovili-ak-perezili-obstril-rf-21-listopada/",
+   "x": "Увечері 21 листопада росіяни вдарили по Вознесенівському району Запоріжжя: троє поранених, пошкоджено понад 20 будинків – свідчення очевидців",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T07:43:17+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "zaporizhzhia"
+   ]
+  },
+  {
+   "t": "Трамп знову назвав Путіна \"другом\" і розмістив фотопорівняння з Тегераном-1943",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/22/7250533/",
+   "x": "Президент США Дональд Трамп опублікував у Truth Social серію фотографій зі свого нещодавнього візиту до Китаю.",
+   "i": "https://img.eurointegration.com.ua/images/doc/d/4/d458a6f-screenshot-2026-11-22-093637.png",
+   "d": "2026-11-22T07:40:00+00:00",
+   "c": [
+    "polityka"
+   ]
+  },
+  {
    "t": "\"Шахеди\" знов атакують Україну: де зберігається небезпека",
    "s": "24 Канал",
    "u": "https://24tv.ua/ataka-shahedami-2-listopada-de-lunayut-vibuhi-yaki-naslidki_n3212120",
@@ -605,13 +873,67 @@
    ]
   },
   {
+   "t": "Як зберігають школу Сластіона у Бодакві, що стала пам'яткою національного значення",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/poltava/1455374-ak-zberigaut-skolu-slastiona-u-bodakvi-so-stala-pamatkou-nacionalnogo-znacenna/",
+   "x": "Земська школа у Бодакві Полтавської області зведена сто років тому за проєктом Сластіона. Побудована у стилі українського модерну. У листопаді 2026 року отримала статус пам'ятки національного значення. У чому…",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T07:36:38+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "poltava"
+   ]
+  },
+  {
+   "t": "Четверта перемога Ферстаппена, прорив Піастрі на подіум з 17-го місця і колапс «Феррарі»: результати Гран-прі Лас-Вегаса",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sport/1455982-cetverta-peremoga-ferstappena-proriv-piastri-na-podium-z-17-go-misca-i-kolaps-ferrari-rezultati-gran-pri-las-vegasa/",
+   "x": "Гран-прі Лас-Вегасу в сезоні-2026 Формули-1 завершилося перемогою Макса Ферстаппена з перевагою над другим місцем у 0.6 секунди, Ферстаппен здобув четверту перемогу в сезоні-2026",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T07:35:57+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Горів одноповерховий будинок: в пожежі на Волині загинув 60-річний чоловік",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/lutsk/1456000-goriv-odnopoverhovij-budinok-v-pozezi-na-volini-zaginuv-60-ricnij-colovik/",
+   "x": "Зранку 22 листопада в селі Риковичі Володимирського району горів одноповерховий будинок. Всередині рятувальники знайшли тіло 60-річного чоловіка",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T07:35:23+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "volyn"
+   ]
+  },
+  {
    "t": "Уражене дроном біля Фінляндії російське судно досі не загасили",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/22/8064017/",
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/e/4/961777/e42d275b712a6c836552364bfea9c153.jpeg",
    "d": "2026-11-22T07:32:00+00:00",
    "c": [
+    "holovne",
+    "polityka"
+   ]
+  },
+  {
+   "t": "В Одесі через відсутність світла не працює електротранспорт: як курсують автобуси",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/odesa/1455981-v-odesi-cerez-vidsutnist-svitla-ne-pracue-elektrotransport-ak-kursuut-avtobusi/",
+   "x": "Через відсутність електроенергії в Одесі зупинився міський електротранспорт. На маршрути трамваїв і тролейбусів вивели автобуси, також збільшили їх кількість на окремих міських маршрутах.",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T07:30:34+00:00",
+   "c": [
     "holovne"
+   ],
+   "r": [
+    "odesa"
    ]
   },
   {
@@ -672,6 +994,20 @@
    ]
   },
   {
+   "t": "12 градусів морозу, багато снігу. У високогір'ї Карпат четвертий день вирує шторм",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/ivano-frankivsk/1455989-12-gradusiv-morozu-bagato-snigu-u-visokogiri-karpat-cetvertij-den-virue-storm/",
+   "x": "На Івано-Франківщині у високогір'ї Карпат четвертий день штормить. Зранку 22 листопада на горі Піп Іван Чорногірський вітер — 17 метрів за секунду, температура повітря — 12° морозу, багато снігу",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T07:21:30+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "ivanofrankivsk"
+   ]
+  },
+  {
    "t": "Відключення у більшості областей: як діятимуть графіки 22 листопада",
    "s": "24 Канал",
    "u": "https://24tv.ua/avariyni-vidklyuchennya-svitla-v-ukrayini-grafiki-ta-perelik-mist_n2175821",
@@ -697,6 +1033,48 @@
    ]
   },
   {
+   "t": "Вибухи у Криму 22 листопада: у Севастополі та в морі працювала російська ППО",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/crimea/1455995-vibuhi-u-krimu-22-listopada-u-sevastopoli-ta-v-mori-pracuvala-rosijska-ppo/",
+   "x": "Ввечері 21 листопада та вночі 22 листопада в окупованому Криму працювала російська ППО. У Севастополі два рази оголошували повітряну тривогу, повідомили Міноборони РФ та губернатор Севастополя Михайло Развожаєв",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T07:19:24+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "crimea"
+   ]
+  },
+  {
+   "t": "Російські війська атакували з різних видів зброї три прикордонні громади Чернігівщини",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/chernihiv/1455987-rosijski-vijska-atakuvali-z-riznih-vidiv-zbroi-tri-prikordonni-gromadi-cernigivsini/",
+   "x": "Російські війська протягом доби 21 листопада атакували три прикордонні громади Чернігівщини: Новгород-Сіверську, Семенівську та Сновську. Під вогнем опинилися щонайменше 13 населених пунктів на прикордонні",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T07:17:49+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "chernihiv"
+   ]
+  },
+  {
+   "t": "Дев'ятеро людей постраждали від російських обстрілів Сумщини за добу",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sumy/1455996-devatero-ludej-postrazdali-vid-rosijskih-obstriliv-sumsini-za-dobu/",
+   "x": "З ранку 21 до ранку 22 листопада російські війська обстріляли 19 населених пунктів в 11 територіальних громадах Сумської області. Дев'ятеро цивільних зазнали поранень",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T07:16:36+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "sumy"
+   ]
+  },
+  {
    "t": "🔥Путіну ПЕРЕКРИЛИ КРИМ! Міст РОЗНЕСЛИ, останню трасу НАКРИЛИ дрони! У Кремлі ПАНІКА 22.11",
    "s": "24 Канал · відео",
    "u": "https://www.youtube.com/watch?v=m-NBMfaiO9E",
@@ -709,6 +1087,17 @@
    "v": 1,
    "r": [
     "crimea"
+   ]
+  },
+  {
+   "t": "У Краснодарі після атаки дронів спалахнула пожежа: під ударом могло опинитися управління Росгвардії",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1455997-u-krasnodari-pisla-ataki-droniv-spalahnula-pozeza-pid-udarom-moglo-opinitisa-upravlinna-rosgvardii/",
+   "x": "У ніч проти 22 листопада у російському Краснодарі пролунали численні вибухи, після яких місцеві жителі повідомили про задимлення. За даними ASTRA, ймовірне місце займання розташоване за адресою Головного управління…",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T07:15:16+00:00",
+   "c": [
+    "holovne"
    ]
   },
   {
@@ -746,6 +1135,20 @@
    ]
   },
   {
+   "t": "У Кіровоградській області на три дні перекриють залізничний переїзд на перегоні Павлиш-Лікарівка",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/kropyvnytskiy/1455451-u-kirovogradskij-oblasti-na-tri-dni-perekriut-zaliznicnij-pereizd-na-peregoni-pavlis-likarivka/",
+   "x": "У Кіровоградські області тимчасово перекриють рух автотранспорту через залізничний переїзд на перегоні Павлиш — Лікарівка. Обмеження діятиме з 24 до 27 листопада 2026 року у зв'язку з ремонтними роботами",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T07:09:21+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kirovohrad"
+   ]
+  },
+  {
    "t": "Мексика затримала одного з найрозшукуваніших наркобаронів ФБР: загинули 11 людей",
    "s": "24 Канал",
    "u": "https://24tv.ua/meksika-zatrimala-narkobarona-zi-spisku-fbr-pid-chas-operatsiyi_n3212206",
@@ -754,6 +1157,20 @@
    "d": "2026-11-22T07:08:42+00:00",
    "c": [
     "holovne"
+   ]
+  },
+  {
+   "t": "На Тернопільщині зустріли звільненого з російського полону Володимира Зварича",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/ternopil/1455991-na-ternopilsini-zustrili-zvilnenogo-z-rosijskogo-polonu-volodimira-zvarica/",
+   "x": "У Товстенській громаді на Тернопільщині 21 листопада зустріли жителя села Кошилівці Володимира Зварича, який повернувся з російського полону. Захисник потрапив у неволю після поранення, яке отримав під час бойових дій",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T07:08:20+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "ternopil"
    ]
   },
   {
@@ -768,6 +1185,48 @@
    ],
    "r": [
     "kharkiv"
+   ]
+  },
+  {
+   "t": "Хуртовини та ожеледиця: прогноз погоди на Львівщині на 22 листопада",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/lviv/1455934-hurtovini-ta-ozeledica-prognoz-pogodi-na-lvivsini-na-22-listopada/",
+   "x": "У неділю, 22 листопада, на Львівщині прогнозують мокрий сніг, а вдень — слабкі хуртовини. Максимальна температура повітря вдень становитиме 6° тепла.",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T07:04:00+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "lviv"
+   ]
+  },
+  {
+   "t": "Втрати Дніпропетровщини у листопаді 2026 року: поіменний список загиблих військових",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/dnipro/1446389-vtrati-dnipropetrovsini-u-listopadi-2026-roku-poimennij-spisok-zagiblih-vijskovih/",
+   "x": "У листопада 2026 року стало відомо про загибель українських військових з Дніпропетровщини. Про їхню смерть офіційно повідомили міські голови, громади та підприємства, де вони працювали. Список не є вичерпним",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T07:02:43+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "dnipro"
+   ]
+  },
+  {
+   "t": "Полеглі герої: за тиждень стало відомо про загибель 31 оборонця із Вінниччини",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/vinnytsia/1455869-polegli-geroi-za-tizden-stalo-vidomo-pro-zagibel-31-oboronca-iz-vinniccini/",
+   "x": "Від 16 по 22 листопада 2026 року Суспільному стало відомо про загибель військовослужбовців із Вінницької області. Список, біографії та інформація про оборонців, які загинули на фронті",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T07:01:00+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "vinnytsia"
    ]
   },
   {
@@ -866,6 +1325,17 @@
    ]
   },
   {
+   "t": "Литва відкинула заяви про причетність до дронової атаки у Калінінградській області",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/22/7250531/",
+   "x": "Глава МЗС Литви Кястутіс Будріс відкинув твердження про нібито причетність Литви до атаки безпілотників у Калінінградській області Росії у суботу.",
+   "i": "https://img.eurointegration.com.ua/images/doc/a/1/a16b77b-bb370517-9e4c-47a0-9833-2206ec1d1dac.jpg",
+   "d": "2026-11-22T06:57:00+00:00",
+   "c": [
+    "polityka"
+   ]
+  },
+  {
    "t": "У Мексиці затримали наркобарона, який входив до списку десяти найбільш розшукуваних ФБР злочинців",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/WORLD/u-meksitsi-zatrimali-narkobarona-jakij-vkhodiv-do-spisku-desjati-najbilsh-rozshukuvanikh-fbr-zlochintsiv.html",
@@ -892,6 +1362,31 @@
    ]
   },
   {
+   "t": "Російський БпЛА влучив по жилому будинку у селі Будище, що на прикордонні Чернігівщини",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/chernihiv/1455985-rosijskij-bpla-vluciv-po-zilomu-budinku-u-seli-budise-so-na-prikordonni-cernigivsini/",
+   "x": "Влучання безпілотника «Молнія» по жилому будинку зафіксували 21 листопада у селі Будище Новгород-Сіверського району на Чернігівщині. Внаслідок цього пошкоджений дах будинку",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T06:49:39+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "chernihiv"
+   ]
+  },
+  {
+   "t": "«Клуб такого рівня мав би поводитися інакше». Профспілка розкритикувала «Баварію» через тиск на Мусіалу: що відбувається",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sport/1455954-klub-takogo-rivna-mav-bi-povoditisa-inakse-profspilka-rozkritikuvala-bavariu-cerez-tisk-na-musialu-so-vidbuvaetsa/",
+   "x": "Джамал Мусіала: міжнародна профспілка FIFPRO звинуватила «Баварію» у вчиненні тиску на футболіста збірної Німеччини, що відбувається, що казали в «Баварії» та як реагує FIFPRO",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T06:47:25+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "⚡НАКИ: На подступах в Крым АДИЩЕ! ВСУ бомбят МОСТЫ РФ ОДИН ЗА ДРУГИМ. Вот и главная тактика Украины",
    "s": "24 Канал · відео",
    "u": "https://www.youtube.com/watch?v=abHGY9xXWUI",
@@ -904,12 +1399,51 @@
    "v": 1
   },
   {
+   "t": "У Хорватії тисячі протестували через резонансну смерть у психіатричній лікарні",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/22/7250530/",
+   "x": "У суботу ввечері тисячі людей зібралися в столиці Хорватії, щоб висловити протест проти смерті 32-річного Крістіана Йосіпа Періса в психіатричній лікарні, вимагаючи притягнення винних до відповідальності та кращого…",
+   "i": "https://img.eurointegration.com.ua/images/doc/4/f/4f139c8-o-40008776-1280.jpg",
+   "d": "2026-11-22T06:43:00+00:00",
+   "c": [
+    "polityka"
+   ]
+  },
+  {
+   "t": "У Лозовій на Харківщині через російську атаку виникли дві пожежі: постраждала 89-річна жінка",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/kharkiv/1455988-u-lozovij-cerez-rosijsku-ataku-vinikli-pozezi-na-750-kv-metriv-postrazdala-zinka/",
+   "x": "Уночі росіяни атакували Лозову на Харківщині реактивними безпілотниками. Виникли дві пожежі на території приватного сектору та підприємства, пошкоджені будинки, постраждала 89-річна жінка",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T06:40:41+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kharkiv"
+   ]
+  },
+  {
    "t": "Новий в.о. президента Сербії пропустить саміт ЄС-Західні Балкани",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/22/8064013/",
    "d": "2026-11-22T06:40:00+00:00",
    "c": [
     "holovne"
+   ]
+  },
+  {
+   "t": "Вінниця прощається з трьома загиблими військовими: що відомо про захисників",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/vinnytsia/1455990-vinnica-prosaetsa-z-troma-zagiblimi-vijskovimi-so-vidomo-pro-zahisnikiv/",
+   "x": "Вінниця 22 листопада прощається з трьома захисниками — Василем Безносюком, Олександром Радовим та Русланом Прушинським. Воїни служили у різних підрозділах і загинули на фронті",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T06:39:24+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "vinnytsia"
    ]
   },
   {
@@ -924,6 +1458,34 @@
    ],
    "r": [
     "dnipro"
+   ]
+  },
+  {
+   "t": "Армія РФ атакувала Словʼянськ авіабомбами: відомо про пʼятьох поранених",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/donbas/1455984-armia-rf-atakuvala-slovansk-aviabombami-vidomo-pro-patoh-poranenih/",
+   "x": "У Словʼянську через російський авіаудар в ніч на 22 листопада поранені пʼятеро людей. У місті пошкоджені корпус університету, медзаклад, гуртожиток, супермаркет, церква",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T06:35:33+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "donetsk"
+   ]
+  },
+  {
+   "t": "Постріли у центрі Івано-Франківська. Слідчі з'ясовують обставини конфлікту",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/ivano-frankivsk/1455979-postrili-u-centri-ivano-frankivska-slidci-zasovuut-obstavini-konfliktu/",
+   "x": "Увечері 21 листопада на «стометрівці» у Франківську під час конфлікту між трьома чоловіками пролунав постріл, 34-річному містянину поранили ногу. Поліція розслідує інцидент",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T06:35:24+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "ivanofrankivsk"
    ]
   },
   {
@@ -949,6 +1511,17 @@
    ],
    "r": [
     "sumy"
+   ]
+  },
+  {
+   "t": "Росія атакувала Україну 186 дронами, серед них 72 реактивні: як відпрацювала ППО",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1455986-rosia-atakuvala-ukrainu-186-dronami-sered-nih-72-reaktivni-ak-vidpracuvala-ppo/",
+   "x": "У ніч на 22 листопада російські війська здійснили масовану атаку на Україну із застосуванням 186 безпілотників різних типів. Протиповітряна оборона знешкодила 161 ціль, однак зафіксовано влучання на 18 локаціях та…",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T06:32:51+00:00",
+   "c": [
+    "holovne"
    ]
   },
   {
@@ -1035,6 +1608,17 @@
    ]
   },
   {
+   "t": "НАТО збереться на зустріч у Брюсселі через вторгнення російських ракет до Польщі",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/22/7250529/",
+   "x": "У понеділок у штаб-квартирі НАТО в Брюсселі відбудеться засідання Північноатлантичної ради, обговорення стосуватиметься порушення повітряного простору Польщі російськими ракетами.",
+   "i": "https://img.eurointegration.com.ua/images/doc/b/b/bb9444f-img-5f153b916dcdf2352a0043f16ad0bd62.jpg",
+   "d": "2026-11-22T06:27:00+00:00",
+   "c": [
+    "polityka"
+   ]
+  },
+  {
    "t": "Справжня причина передачі Криму у 1954: як Хрущов змусив Київ рятувати зруйнований півострів",
    "s": "24 Канал",
    "u": "https://24tv.ua/history/chomu-hrushhov-viddav-krim-ukrayini-1954-rotsi-pravda-mifi_n3211804",
@@ -1081,6 +1665,34 @@
    "x": "Під завалами зруйнованого внаслідок атаки будинку в селищі Димер на Київщині можуть перебувати семеро людей, повідомляє ДСНС України.",
    "i": "https://media.interfax.com.ua/media/thumbs/images/2026/11/fjgct/NTH3ug-FhtS-.jpg",
    "d": "2026-11-22T06:20:51+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kyivska"
+   ]
+  },
+  {
+   "t": "Помер під час відпустки у лікарні: на Буковині прощаються з полеглим військовим Проданом",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/chernivtsi/1455975-pomer-pid-cas-vidpustki-u-likarni-na-bukovini-prosautsa-z-poleglim-vijskovim-prodanom/",
+   "x": "У неділю, 22 листопада, у Романківцях у Чернівецькій області прощаються з полеглим військовим Сергієм Проданом. Він помер під час відпустки у лікарні",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T06:20:00+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "chernivtsi"
+   ]
+  },
+  {
+   "t": "Під завалами можуть бути люди: на Київщині дрон РФ влучив у п'ятиповерхівку",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/kyiv/1455980-pid-zavalami-mozut-buti-ludi-na-kiivsini-dron-rf-vluciv-u-patipoverhivku/",
+   "x": "Внаслідок влучання дрона у п'ятиповерхівці виникла пожежа та зруйновано квартири з першого по п'ятий поверх. Окрім того, ушкоджень зазнало приміщення магазину",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T06:17:29+00:00",
    "c": [
     "holovne"
    ],
@@ -1151,6 +1763,17 @@
    ]
   },
   {
+   "t": "Новий в.о. президента Сербії пропустить саміт ЄС-Західні Балкани у Брюсселі",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/22/7250528/",
+   "x": "Новообраний спікер парламенту та виконувач обов’язків президента Сербії Александар Чупич не братиме участі у саміті ЄС-Західні Балкани, який відбудеться в Брюсселі наступного тижня.",
+   "i": "https://img.eurointegration.com.ua/images/doc/8/5/8549b02-screenshot-2026-11-22-081434.png",
+   "d": "2026-11-22T06:14:00+00:00",
+   "c": [
+    "polityka"
+   ]
+  },
+  {
    "t": "Внаслідок обстрілів Слов'янська поранено п'ятьох людей – Лях",
    "s": "Інтерфакс-Україна",
    "u": "https://interfax.com.ua/news/general/1240379.html",
@@ -1162,6 +1785,34 @@
    ],
    "r": [
     "donetsk"
+   ]
+  },
+  {
+   "t": "Мокрий сніг та дощ: яку погоду передбачають синоптики 22 листопада",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/rivne/1455976-mokrij-snig-ta-dos-aku-pogodu-peredbacaut-sinoptiki-22-listopada/",
+   "x": "22 листопада на Рівненщині синоптики прогнозують хмарну погоду з проясненнями та невеликий мокрий сніг з дощем. Температура повітря сягатиме вдень до 5° тепла",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T06:09:10+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "rivne"
+   ]
+  },
+  {
+   "t": "Головні новини Дніпра та області 22 листопада",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/dnipro/1455978-golovni-novini-dnipra-ta-oblasti-22-listopada-2/",
+   "x": "Оперативні новини Дніпра та Дніпропетровської області за 22 листопада 2026 року читайте в хроніці подій від редакції Суспільне Дніпро",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T06:08:29+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "dnipro"
    ]
   },
   {
@@ -1291,18 +1942,6 @@
    "r": [
     "kyivska"
    ]
-  },
-  {
-   "t": "⚡ПОСЛЕ АТАКИ на Крымский мост! НЕ УСПЕЛ ПУТИН ОБЪЯВИТЬ а тут ТАКОЕ. Срочное ЗАЯВЛЕНИЕ Москвы.Лучшее",
-   "s": "24 Канал · відео",
-   "u": "https://www.youtube.com/watch?v=U_YFE3CyAwc",
-   "x": "В результате спецоперации СБУ и Сил обороны поражен Крымский мост: обрушены арка и автомобильный пролет, повреждена железная дорога. Также украинские дроны и ракеты пробили российскую ПВО, перерезав главный…",
-   "i": "https://i2.ytimg.com/vi/U_YFE3CyAwc/hqdefault.jpg",
-   "d": "2026-11-22T05:30:30+00:00",
-   "c": [
-    "video"
-   ],
-   "v": 1
   },
   {
    "t": "🔥ЧЕРНИК: КЕРЧЕНСЬКИЙ МІСТ У ПАСТЦІ! 💣Ще кілька УДАРІВ І ОПОРИ РУХНУТЬ. Крим стане ОСТРОВОМ",
@@ -1478,17 +2117,6 @@
    "u": "https://24tv.ua/traditions24/svyato-22-listopada-yake-sogodni-tserkovne-svyato-kogo-imenini_n3211868",
    "x": "22 листопада віряни вшановують пам'ять святого апостола Филимона. Він проповідував християнство серед народу.",
    "i": "https://24tv.ua/resources/photos/news/202611/3211868.jpg?v=1795249291000&q=100",
-   "d": "2026-11-22T04:30:00+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
-   "t": "Кубок світу з біатлону – календар сезону 2026/2027",
-   "s": "24 Канал",
-   "u": "https://sportnews.24tv.ua/kubok-svitu-biatlonu-kalendar-sezonu-20262027_n3182248",
-   "x": "Новий біатлонний сезон триватиме з листопада 2026 року до березня 2027 року. На вболівальників очікують як етапи Кубку світу, так і чемпіонат світу.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3182248.jpg?v=1794922688000&q=100",
    "d": "2026-11-22T04:30:00+00:00",
    "c": [
     "holovne"
@@ -2029,17 +2657,6 @@
    ]
   },
   {
-   "t": "Українські дрони далекого ураження вироблятимуть у Британії",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/war/ukrajinski-droni-dalekoho-urazhennja-virobljatimut-u-britaniji.html",
-   "x": "Міністри оборони двох країн також обговорили прискорення постачання ракет LMM для України.",
-   "i": "https://zn.ua/img/article/7048/80_main.webp",
-   "d": "2026-11-21T21:09:00+00:00",
-   "c": [
-    "statti"
-   ]
-  },
-  {
    "t": "Прикинулся русским солдатом | Чат рулетка",
    "s": "5 канал · відео",
    "u": "https://www.youtube.com/watch?v=FS4bjWZKApk",
@@ -2283,6 +2900,17 @@
    ]
   },
   {
+   "t": "ЗМІ: бази даних ФБР вдруге за останні місяці зламали хакери",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/21/7250527/",
+   "x": "ФБР розслідує ймовірний злом своєї загальнонаціональної бази даних про злочини, яка є важливим каналом зв’язку між федеральними, штатними та місцевими правоохоронними органами.",
+   "i": "https://img.eurointegration.com.ua/images/doc/c/a/ca8107f-usa-resize.png",
+   "d": "2026-11-21T17:49:00+00:00",
+   "c": [
+    "polityka"
+   ]
+  },
+  {
    "t": "Прощання з журналісткою Христиною Лисенко, яка загинула через удар РФ по Одесі",
    "s": "Суспільне Новини · відео",
    "u": "https://www.youtube.com/watch?v=P63pr2eMciI",
@@ -2310,6 +2938,17 @@
    ]
   },
   {
+   "t": "Туреччина просить країни Шенгену спростити візові процедури для її громадян",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/21/7250526/",
+   "x": "Дипломатичні представництва країн Шенгенської зони в Туреччині створили робочу групу для перегляду візових процедур щодо турецьких громадян після переговорів з Анкарою.",
+   "i": "https://img.eurointegration.com.ua/images/doc/6/b/6b86359-turkey-resize.png",
+   "d": "2026-11-21T17:22:00+00:00",
+   "c": [
+    "polityka"
+   ]
+  },
+  {
    "t": "Масштабніше ніж в Олешках: Трамп анонсував нове перемир'я між Україною та Росією",
    "s": "24 Канал",
    "u": "https://24tv.ua/tramp-anonsuvav-rozshirennya-gumanitarnih-domovlenostey-mizh_n3212100",
@@ -2332,6 +2971,17 @@
     "video"
    ],
    "v": 1
+  },
+  {
+   "t": "У Молдові безпілотник порушив повітряний простір країни",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/21/7250525/",
+   "x": "Вранці 21 листопада реактивний безпілотник двічі порушив повітряний простір Молдови на тлі російських атак на Україну.",
+   "i": "https://img.eurointegration.com.ua/images/doc/3/8/385766d-drone-resize.png",
+   "d": "2026-11-21T16:56:00+00:00",
+   "c": [
+    "polityka"
+   ]
   },
   {
    "t": "Військовим готують нові виплати з січня: що зміниться для пенсіонерів",
