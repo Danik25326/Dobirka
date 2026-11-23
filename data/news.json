@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T03:01:16+00:00",
+ "updated": "2026-11-23T03:10:42+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -531,6 +531,17 @@
    ]
   },
   {
+   "t": "Росія почала відбуксовувати судно, уражене дроном у Фінській затоці",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1456187-rosia-pocala-vidbuksovuvati-sudno-urazene-dronom-u-finskij-zatoci/",
+   "x": "Після двох днів гасіння, Росія почала відбуксовувати вантажне судно Sparta II, яке зазнало атаки безпілотників у Балтійському морі біля Фінляндії",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T23:30:19+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "Польща пов’язала обидва замахи на репера Kyivstoner із російською розвідкою",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/europe/polshcha-povjazala-obidva-zamakhi-na-kyivstoner-iz-rosijskoju-rozvidkoju.html",
@@ -840,17 +851,6 @@
    "d": "2026-11-22T21:36:00+00:00",
    "c": [
     "statti"
-   ]
-  },
-  {
-   "t": "Росія почала відбуксовувати судно, уражене дроном у Фінській затоці",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1456187-rosia-pocala-vidbuksovuvati-sudno-urazene-dronom-u-finskij-zatoci/",
-   "x": "Після двох днів гасіння, Росія почала відбуксовувати вантажне судно Sparta II, яке зазнало атаки безпілотників у Балтійському морі біля Фінляндії",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-22T21:30:19+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
@@ -1890,7 +1890,6 @@
    "t": "Директор Національної розвідки США захищає Трампа, який назвав Путіна своїм \"другом\"",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/22/8064091/",
-   "i": "https://img.eurointegration.com.ua/images/doc/d/f/dfb0b99-skynews-putin-trump-7410047.jpg",
    "d": "2026-11-22T19:02:00+00:00",
    "c": [
     "holovne",
@@ -2214,7 +2213,6 @@
    "t": "ЗМІ: Кіпр вислав двох російських дипломатів за підозрою у шпигунстві",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/22/8064089/",
-   "i": "https://img.eurointegration.com.ua/images/doc/c/f/cf6da21-rwsiki-presveia-kypros-mk.jpg",
    "d": "2026-11-22T18:13:00+00:00",
    "c": [
     "holovne",
