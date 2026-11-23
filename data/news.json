@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T01:10:50+00:00",
+ "updated": "2026-11-23T01:20:40+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -341,6 +341,17 @@
   }
  ],
  "items": [
+  {
+   "t": "Єменські хусити заявили про удар по нафтопереробному заводу в Саудівській Аравії",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/WORLD/jemenski-khusiti-zajavili-pro-udar-po-naftopererobnomu-zavodu-v-saudivskij-araviji.html",
+   "x": "Ер-Ріяд одразу не прокоментував повідомлення про влучання на узбережжі Червоного моря.",
+   "i": "https://zn.ua/img/article/7049/70_main.webp",
+   "d": "2026-11-23T01:09:00+00:00",
+   "c": [
+    "statti"
+   ]
+  },
   {
    "t": "Через стрілянину на концерті у Каліфорнії поранено 9 людей",
    "s": "Суспільне",
@@ -1758,7 +1769,6 @@
    "t": "Директор Національної розвідки США захищає Трампа, який назвав Путіна своїм \"другом\"",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/22/8064091/",
-   "i": "https://img.eurointegration.com.ua/images/doc/d/f/dfb0b99-skynews-putin-trump-7410047.jpg",
    "d": "2026-11-22T19:02:00+00:00",
    "c": [
     "holovne",
@@ -2082,7 +2092,6 @@
    "t": "ЗМІ: Кіпр вислав двох російських дипломатів за підозрою у шпигунстві",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/22/8064089/",
-   "i": "https://img.eurointegration.com.ua/images/doc/c/f/cf6da21-rwsiki-presveia-kypros-mk.jpg",
    "d": "2026-11-22T18:13:00+00:00",
    "c": [
     "holovne",
@@ -2881,16 +2890,6 @@
    "v": 1
   },
   {
-   "t": "За тиждень Нацбанк продав $1,46 мільярда на міжбанку",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/finances/za-tizhden-nbu-prodav-1-46-mlrd-dolariv-na-mizhbanku-827911/",
-   "x": "За тиждень з 16 по 20 листопада Національний банк (НБУ) продав на міжбанку 1,462 млрд дол., при цьому не купував валюту.",
-   "d": "2026-11-22T16:00:00+00:00",
-   "c": [
-    "ekonomika"
-   ]
-  },
-  {
    "t": "Останні піддослідні шимпанзе у США йдуть на пенсію: у заповіднику їм показуватимуть кіно",
    "s": "Українська правда. Життя",
    "u": "https://life.pravda.com.ua/society/u-ssha-zvilnyat-ostannih-shimpanze-na-yakih-provodili-doslidi-319238/",
@@ -2898,6 +2897,16 @@
    "d": "2026-11-22T16:00:00+00:00",
    "c": [
     "zhyttia"
+   ]
+  },
+  {
+   "t": "За тиждень Нацбанк продав $1,46 мільярда на міжбанку",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/finances/za-tizhden-nbu-prodav-1-46-mlrd-dolariv-na-mizhbanku-827911/",
+   "x": "За тиждень з 16 по 20 листопада Національний банк (НБУ) продав на міжбанку 1,462 млрд дол., при цьому не купував валюту.",
+   "d": "2026-11-22T16:00:00+00:00",
+   "c": [
+    "ekonomika"
    ]
   },
   {
@@ -3162,6 +3171,16 @@
    ]
   },
   {
+   "t": "Актор Том Фелтон запросив українського морпіха до кіностудії, де знімали \"Гаррі Поттера\"",
+   "s": "Українська правда. Життя",
+   "u": "https://life.pravda.com.ua/society/ukrajinskogo-vojina-zaprosili-v-kinostudiyu-de-znimali-garri-pottera-319237/",
+   "i": "https://imglife.pravda.com.ua/life/images/doc/c/3/150557/c35142c1744a38bbcbff31dcd26fac18.jpeg?w=390&q=90&f=jpeg",
+   "d": "2026-11-22T14:55:00+00:00",
+   "c": [
+    "zhyttia"
+   ]
+  },
+  {
    "t": "Росіяни вдарили по дільниці газової служби та двох АЗС",
    "s": "Економічна правда",
    "u": "https://epravda.com.ua/energetika/rosiya-vdarila-po-dilnici-gazovoji-sluzhbi-ta-dvoh-azs-v-ukrajini-827912/",
@@ -3173,16 +3192,6 @@
    "r": [
     "dnipro",
     "zaporizhzhia"
-   ]
-  },
-  {
-   "t": "Актор Том Фелтон запросив українського морпіха до кіностудії, де знімали \"Гаррі Поттера\"",
-   "s": "Українська правда. Життя",
-   "u": "https://life.pravda.com.ua/society/ukrajinskogo-vojina-zaprosili-v-kinostudiyu-de-znimali-garri-pottera-319237/",
-   "i": "https://imglife.pravda.com.ua/life/images/doc/c/3/150557/c35142c1744a38bbcbff31dcd26fac18.jpeg?w=390&q=90&f=jpeg",
-   "d": "2026-11-22T14:55:00+00:00",
-   "c": [
-    "zhyttia"
    ]
   },
   {
