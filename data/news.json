@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T07:10:44+00:00",
+ "updated": "2026-11-23T07:20:44+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -158,6 +158,31 @@
  ],
  "top": [
   {
+   "t": "Польські слідчі підтвердили порушення повітряного простору трьома російськими ракетами",
+   "u": "https://24tv.ua/polski-slidchi-vstanovili-shho-povitryaniy-prostir-polshhi-porushili_n3212545",
+   "i": "https://24tv.ua/resources/photos/news/202611/3212545.jpg?v=1795416696000&q=100",
+   "n": 4,
+   "l": [
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/polski-slidchi-vstanovili-shho-povitryaniy-prostir-polshhi-porushili_n3212545"
+    },
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/1456170-u-polsi-vstanovili-so-povitranij-prostir-kraini-porusili-tri-rosijski-raketi-h-101/"
+    },
+    {
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/22/8064097/"
+    },
+    {
+     "s": "Європейська правда",
+     "u": "https://www.eurointegration.com.ua/news/2026/11/22/7250561/"
+    }
+   ],
+   "d": "2026-11-23T07:13:00+00:00"
+  },
+  {
    "t": "Кіпр вислав двох російських дипломатів через підозру в шпигунстві",
    "u": "https://suspilne.media/1456189-kipr-vislav-dvoh-rosijskih-diplomativ-cerez-pidozru-v-spigunstvi/",
    "i": "https://cdn4.suspilne.media/images/default.jpg",
@@ -181,6 +206,27 @@
     }
    ],
    "d": "2026-11-23T01:16:39+00:00"
+  },
+  {
+   "t": "У Києві уламки БпЛА впали на територію двох навчальних закладів",
+   "u": "https://zn.ua/ukr/war/u-kijevi-ulamki-bpla-vpali-na-teritoriju-dvokh-navchalnikh-zakladiv.html",
+   "i": "https://zn.ua/img/article/7049/82_main.webp",
+   "n": 3,
+   "l": [
+    {
+     "s": "ZN.UA",
+     "u": "https://zn.ua/ukr/war/u-kijevi-ulamki-bpla-vpali-na-teritoriju-dvokh-navchalnikh-zakladiv.html"
+    },
+    {
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/23/8064126/"
+    },
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/kiyevi-progrimili-vibuhi_n3212523"
+    }
+   ],
+   "d": "2026-11-23T07:11:00+00:00"
   },
   {
    "t": "На Дніпропетровщині 23 листопада діють погодинні графіки відключень світла",
@@ -267,27 +313,6 @@
    "d": "2026-11-23T05:25:00+00:00"
   },
   {
-   "t": "У Польщі встановили, що повітряний простір країни порушили три російські ракети Х-101",
-   "u": "https://suspilne.media/1456170-u-polsi-vstanovili-so-povitranij-prostir-kraini-porusili-tri-rosijski-raketi-h-101/",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "n": 3,
-   "l": [
-    {
-     "s": "Суспільне",
-     "u": "https://suspilne.media/1456170-u-polsi-vstanovili-so-povitranij-prostir-kraini-porusili-tri-rosijski-raketi-h-101/"
-    },
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/22/8064097/"
-    },
-    {
-     "s": "Європейська правда",
-     "u": "https://www.eurointegration.com.ua/news/2026/11/22/7250561/"
-    }
-   ],
-   "d": "2026-11-22T20:35:21+00:00"
-  },
-  {
    "t": "У горах Румунії рятувальники знайшли загиблого та двох живих громадян України",
    "u": "https://suspilne.media/1456148-u-gorah-rumunii-ratuvalniki-znajsli-zagiblogo-ta-dvoh-zivih-gromadan-ukraini/",
    "i": "https://cdn4.suspilne.media/images/default.jpg",
@@ -309,6 +334,23 @@
    "d": "2026-11-22T18:19:04+00:00"
   },
   {
+   "t": "У Словаччині коаліція опозиційних партій істотно випереджає партію Фіцо – опитування",
+   "u": "https://www.pravda.com.ua/news/2026/11/23/8064133/",
+   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/9/962280/f943b79f3f3c7701680a7422c227259c.jpeg",
+   "n": 2,
+   "l": [
+    {
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/23/8064133/"
+    },
+    {
+     "s": "Європейська правда",
+     "u": "https://www.eurointegration.com.ua/news/2026/11/23/7250569/"
+    }
+   ],
+   "d": "2026-11-23T07:13:00+00:00"
+  },
+  {
    "t": "Кількість загиблих у Димері зросла до 11 осіб",
    "u": "https://interfax.com.ua/news/general/1240558.html",
    "i": "https://media.interfax.com.ua/media/thumbs/images/2026/11/ttyhb/hl0m0mSTPnBi.jpg",
@@ -324,43 +366,141 @@
     }
    ],
    "d": "2026-11-23T06:39:51+00:00"
-  },
-  {
-   "t": "Росіяни понад 10 разів атакували Дніпропетровщину, поранені двоє людей – ОВА",
-   "u": "https://interfax.com.ua/news/general/1240534.html",
-   "i": "https://media.interfax.com.ua/media/thumbs/images/2026/01/lgpku/JiX0WiRq5mLY.jpg",
-   "n": 2,
-   "l": [
-    {
-     "s": "Інтерфакс-Україна",
-     "u": "https://interfax.com.ua/news/general/1240534.html"
-    },
-    {
-     "s": "Суспільне",
-     "u": "https://suspilne.media/dnipro/1456197-rf-atakuvala-dva-rajoni-dnipropetrovsini-poraneni-dvoe-ludej/"
-    }
-   ],
-   "d": "2026-11-23T06:28:32+00:00"
-  },
-  {
-   "t": "У Києві уламки російських дронів впали на території освітніх закладів",
-   "u": "https://www.pravda.com.ua/news/2026/11/23/8064126/",
-   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/1/962221/6109d418fb375deca772ec783851a03d.jpeg",
-   "n": 2,
-   "l": [
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/23/8064126/"
-    },
-    {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/kiyevi-progrimili-vibuhi_n3212523"
-    }
-   ],
-   "d": "2026-11-23T06:01:00+00:00"
   }
  ],
  "items": [
+  {
+   "t": "До 7 годин затримка: поїзди до та із Закарпаття їдуть із затримками",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/uzhhorod/1456230-do-7-godin-zatrimka-poizdi-do-ta-iz-zakarpatta-idut-iz-zatrimkami/",
+   "x": "23 листопада деякі поїзди, які прямують до та із Закарпаття, затримуються. Найбільше — поїзд №141/142 Чернігів — Рахів, який затримується на 6 годин 57 хвилин.",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-23T07:19:22+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "zakarpattia"
+   ]
+  },
+  {
+   "t": "Росія завдає нових ударів по Україні: де зараз летять \"Шахеди\"",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/ataka-po-ukrayini-23-listopada-2026-de-zaraz-letyat-shahedi-karta_n3212475",
+   "x": "Російські війська атакують Україні ударними дронами та іншими повітряними цілями. Через загрозу обстрілу тривогу оголосили у низці областей.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3212475.jpg?v=1795375594000&q=100",
+   "d": "2026-11-23T07:19:00+00:00",
+   "c": [
+    "holovne",
+    "viyna"
+   ]
+  },
+  {
+   "t": "Єдиний український виробник солі \"Катіон Інвест\" планує почати роботу за річними контрактами",
+   "s": "Інтерфакс-Україна",
+   "u": "https://interfax.com.ua/news/economic/1240582.html",
+   "x": "ТОВ \"Катіон-Інвест\" (с.Теребля, Тячівський р-н, Закарпатська обл.), яке є єдиним виробником технічної солі в Україні, планує почати роботу з клієнтами за річними контрактами, щоб мати більш прогнозований графік роботи…",
+   "d": "2026-11-23T07:18:24+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "zakarpattia"
+   ]
+  },
+  {
+   "t": "Травм зазнали водійка та шестеро пасажирів: на Чернігівщині мікроавтобус в'їхав у придорожнє дерево",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/chernihiv/1456229-travm-zaznali-vodijka-ta-sestero-pasaziriv-na-cernigivsini-mikroavtobus-vihav-u-pridorozne-derevo/",
+   "x": "У селі Сновської громади на Чернігівщині 22 листопада сталася ДТП. Водійка мікроавтобуса Volkswagen T-5 не впоралася з керуванням та зіткнулася з придорожнім деревом.",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-23T07:17:48+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "chernihiv"
+   ]
+  },
+  {
+   "t": "ЗСУ просунулися на Сумщині та Харківщині, росіяни тиснуть на Донеччині: огляд фронту від ISW",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/oglyad-frontu-vid-isw-sili-oboroni-prosunulisya-harkivshhini_n3212542",
+   "x": "На кількох ділянках фронту тривають активні бої. Українські військові проводять контратаки на Сумщині та Харківщині, тоді як російські війська намагаються повернути втрачені позиції на Лиманському напрямку та…",
+   "i": "https://24tv.ua/resources/photos/news/202611/3212542.jpg?v=1795417231000&q=100",
+   "d": "2026-11-23T07:16:39+00:00",
+   "c": [
+    "holovne",
+    "viyna"
+   ],
+   "r": [
+    "sumy",
+    "kharkiv"
+   ]
+  },
+  {
+   "t": "😲Сразу после ВСТРЕЧИ в КИТАЕ! БЕЛКОВСКИЙ: Всплыло ТАКОЕ, чего никто не ждал. Вот как УНИЗИЛИ Путина",
+   "s": "24 Канал · відео",
+   "u": "https://www.youtube.com/watch?v=Sgf_NTZOJKs",
+   "x": "Правозащитник и блогер Марк Фейгин @FeyginLive на стриме со Станиславом Белковским @BelkovskiyS обсудили главные новости в мире. В частности, обсудили саммит Азиатско-Тихоокеанского экономического сотрудничества и…",
+   "i": "https://i4.ytimg.com/vi/Sgf_NTZOJKs/hqdefault.jpg",
+   "d": "2026-11-23T07:15:11+00:00",
+   "c": [
+    "video"
+   ],
+   "v": 1
+  },
+  {
+   "t": "У Словаччині коаліція опозиційних партій істотно випереджає партію Фіцо – опитування",
+   "s": "Українська правда",
+   "u": "https://www.pravda.com.ua/news/2026/11/23/8064133/",
+   "x": "Опозиційна коаліція випередила Smer на 7 пунктів, за неї проголосували б 24,1% виборців за даними Ipsos для Denník N.",
+   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/9/962280/f943b79f3f3c7701680a7422c227259c.jpeg",
+   "d": "2026-11-23T07:13:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Польські слідчі підтвердили порушення повітряного простору трьома російськими ракетами",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/polski-slidchi-vstanovili-shho-povitryaniy-prostir-polshhi-porushili_n3212545",
+   "x": "У Польщі уточнили, скільки російських повітряних об'єктів перетнули кордон країни під час атаки на Україну 20 листопада. Результати розслідування відрізняються від того, що польські посадовці повідомляли спочатку.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3212545.jpg?v=1795416696000&q=100",
+   "d": "2026-11-23T07:13:00+00:00",
+   "c": [
+    "holovne",
+    "viyna"
+   ]
+  },
+  {
+   "t": "Єдиний український виробник солі \"Катіон Інвест\" планує реалізувати проєкт фотосепарації на $1,1 млн",
+   "s": "Інтерфакс-Україна",
+   "u": "https://interfax.com.ua/news/economic/1240640.html",
+   "x": "ТОВ \"Катіон Інвест\" (с.Теребля, Тячівський р-н, Закарпатська обл.), єдиний виробник технічної солі в Україні, підготувало проєкт встановлення модуля фотосепарації вартістю $1,1 млн, що дасть можливість підприємству…",
+   "i": "https://media.interfax.com.ua/media/thumbs/images/2026/11/ysjfx/6ULK2RRQ85f2.jpg",
+   "d": "2026-11-23T07:11:18+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "zakarpattia"
+   ]
+  },
+  {
+   "t": "У Києві уламки БпЛА впали на територію двох навчальних закладів",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/war/u-kijevi-ulamki-bpla-vpali-na-teritoriju-dvokh-navchalnikh-zakladiv.html",
+   "x": "Про постраждалих не повідомлялося.",
+   "i": "https://zn.ua/img/article/7049/82_main.webp",
+   "d": "2026-11-23T07:11:00+00:00",
+   "c": [
+    "statti"
+   ],
+   "r": [
+    "kyiv"
+   ]
+  },
   {
    "t": "На Дніпропетровщині 23 листопада діють погодинні графіки відключень світла",
    "s": "Суспільне",
@@ -401,6 +541,17 @@
    ],
    "r": [
     "kirovohrad"
+   ]
+  },
+  {
+   "t": "Фінські депутати підтримують ідею укріплення кордону з РФ за досвідом України",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/23/7250571/",
+   "x": "Фінські депутати висловлюють підтримку ідеї розглянути можливість будівництва танкових загороджень та інших укріплень у мирний час уздовж кордону з Росією.",
+   "i": "https://img.eurointegration.com.ua/images/doc/6/0/608cee9-----------------.jpg",
+   "d": "2026-11-23T07:05:00+00:00",
+   "c": [
+    "polityka"
    ]
   },
   {
@@ -469,6 +620,21 @@
    ]
   },
   {
+   "t": "🤯Ходарьонок ЛЕДЬ НЕ РЕВЕ! РОЗІРВАВ ефір ЗІЗНАННЯМ після ПІДРИВУ МОСТУ в Криму. Всі АЖ ЗАТИХЛИ",
+   "s": "24 Канал · відео",
+   "u": "https://www.youtube.com/watch?v=2p5skvHQGrQ",
+   "x": "У новому огляді російської пропаганди ведуча 24 Каналу Катерина Соляр ‪@soliarqueen розібрала нові випади російських рупорів, тривожні зізнання та реакція Кремля на удари по стратегічних цілях. Поки в Москві намагаються…",
+   "i": "https://i3.ytimg.com/vi/2p5skvHQGrQ/hqdefault.jpg",
+   "d": "2026-11-23T07:00:12+00:00",
+   "c": [
+    "video"
+   ],
+   "v": 1,
+   "r": [
+    "crimea"
+   ]
+  },
+  {
    "t": "Невеликий сніг: прогноз погоди на Львівщині на 23 листопада",
    "s": "Суспільне",
    "u": "https://suspilne.media/lviv/1456165-nevelikij-snig-prognoz-pogodi-na-lvivsini-na-23-listopada/",
@@ -505,14 +671,14 @@
    ]
   },
   {
-   "t": "Троє дітей поранені через російський удар по залізниці у Люботині",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/kharkiv/1456222-troe-ditej-poraneni-cerez-rosijskij-udar-po-zaliznici-u-lubotini/",
-   "x": "Ввечері 22 листопада РФ вдарила БпЛА «Герань-5» по залізничній інфраструктурі в Люботині. Поранені двоє дівчат 13 і 15 років та 17-річний хлопець, у 38-річної жінки — гостра реакція на стрес",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-23T06:57:19+00:00",
+   "t": "15 осіб постраждали внаслідок пожежі в лікарні Берліна",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/23/7250570/",
+   "x": "У неділю ввечері внаслідок пожежі в лікарні берлінського району Ліхтенберг постраждали 15 осіб.",
+   "i": "https://img.eurointegration.com.ua/images/doc/9/d/9d0902c-59214385-e57d-4259-909a-bd2c3297e424-w1840-r1.5-fpx67.08-fpy49.99.png",
+   "d": "2026-11-23T06:59:00+00:00",
    "c": [
-    "holovne"
+    "polityka"
    ]
   },
   {
@@ -1526,17 +1692,6 @@
    ]
   },
   {
-   "t": "Удар по супермаркету у Вишневому, в Димері триває рятувальна операція. 1734 день війни",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1456183-udar-po-supermarketu-u-visnevomu-v-dimeri-trivae-ratuvalna-operacia-1734-den-vijni/",
-   "x": "Російські війська вдарили по житловому будинку в Димері, загинуло щонайменше пʼятеро людей. У Вишневому РФ влучила по супермаркету",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-23T05:13:32+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "Через планові роботи у Дніпрі, Кривому Розі та Кам'янському 23 листопада не буде світла: адреси",
    "s": "Суспільне",
    "u": "https://suspilne.media/dnipro/1456152-cerez-planovi-roboti-u-dnipri-krivomu-rozi-ta-kamanskomu-23-listopada-ne-bude-svitla-adresi/",
@@ -1633,6 +1788,17 @@
     "holovne",
     "mobilizatsiya",
     "vazhlyve"
+   ]
+  },
+  {
+   "t": "Троє дітей поранені через російський удар по залізниці у Люботині",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/kharkiv/1456222-troe-ditej-poraneni-cerez-rosijskij-udar-po-zaliznici-u-lubotini/",
+   "x": "Ввечері 22 листопада РФ вдарила БпЛА «Герань-5» по залізничній інфраструктурі в Люботині. Поранені двоє дівчат 13 і 15 років та 17-річний хлопець, у 38-річної жінки — гостра реакція на стрес",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-23T04:57:19+00:00",
+   "c": [
+    "holovne"
    ]
   },
   {
@@ -1963,6 +2129,17 @@
    ]
   },
   {
+   "t": "Удар по супермаркету у Вишневому, в Димері триває рятувальна операція. 1734 день війни",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1456183-udar-po-supermarketu-u-visnevomu-v-dimeri-trivae-ratuvalna-operacia-1734-den-vijni/",
+   "x": "Російські війська вдарили по житловому будинку в Димері, загинуло щонайменше пʼятеро людей. У Вишневому РФ влучила по супермаркету",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-23T03:13:32+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "Демократи забезпечили собі історичну більшість за понад 30 років у Палаті представників США",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/23/8064115/",
@@ -2279,18 +2456,6 @@
    ]
   },
   {
-   "t": "Росія завдає нових ударів по Україні: де зараз летять \"Шахеди\"",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/ataka-po-ukrayini-23-listopada-2026-de-zaraz-letyat-shahedi-karta_n3212475",
-   "x": "Російські війська атакують Україні ударними дронами та іншими повітряними цілями. Через загрозу обстрілу тривогу оголосили у низці областей.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3212475.jpg?v=1795375594000&q=100",
-   "d": "2026-11-22T22:28:00+00:00",
-   "c": [
-    "holovne",
-    "viyna"
-   ]
-  },
-  {
    "t": "Російський дрон зруйнував частину дитячого садка в Харкові: є постраждалі",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/UKRAINE/rosijskij-dron-zrujnuvav-chastinu-ditjachoho-sadka-v-kharkovi-je-postrazhdali.html",
@@ -2503,8 +2668,8 @@
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/4/962169/240b5ced5e4bd0f1b503318780d29e6a.jpeg",
    "d": "2026-11-22T21:20:00+00:00",
    "c": [
-    "holovne",
-    "vazhlyve"
+    "vazhlyve",
+    "holovne"
    ]
   },
   {
