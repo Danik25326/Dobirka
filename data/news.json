@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T13:40:47+00:00",
+ "updated": "2026-11-23T13:50:50+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -333,6 +333,27 @@
    "d": "2026-11-23T01:16:39+00:00"
   },
   {
+   "t": "РФ за два дні атакувала чотири енергооб'єкти ДТЕК на Дніпропетровщині",
+   "u": "https://interfax.com.ua/news/general/1240988.html",
+   "i": "https://media.interfax.com.ua/media/thumbs/images/2025/03/arbjv/mwkfs-hfc4U8.jpg",
+   "n": 3,
+   "l": [
+    {
+     "s": "Інтерфакс-Україна",
+     "u": "https://interfax.com.ua/news/general/1240988.html"
+    },
+    {
+     "s": "Економічна правда",
+     "u": "https://epravda.com.ua/biznes/za-dva-dni-rosiyani-atakuvali-chotiri-energoob-yekti-na-dnipropetrovshchini-827937/"
+    },
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/dnipro/1456439-na-dnipropetrovsini-cerez-ataki-rf-bez-svitla-zalisilisa-353-tisaci-osel-poskodzeno-cotiri-energoobekti-dtek/"
+    }
+   ],
+   "d": "2026-11-23T13:43:57+00:00"
+  },
+  {
    "t": "У ЄС розповіли, як викликали посла РФ через атаки на посольства в Києві",
    "u": "https://suspilne.media/1456457-u-es-rozpovili-ak-viklikali-posla-rf-cerez-ataki-na-posolstva-v-kievi/",
    "i": "https://cdn4.suspilne.media/images/default.jpg",
@@ -354,49 +375,166 @@
    "d": "2026-11-23T13:35:36+00:00"
   },
   {
-   "t": "НАБУ і САП повідомили про нову підозру ексвіцепрем'єру Чернишову",
-   "u": "https://suspilne.media/1456437-nabu-i-sap-povidomii-pro-novu-pidozru-eksvicepremeru-cernisovu/",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "t": "Статус критично важливих підприємств і бронювання продовжили до 20 грудня: кого стосується",
+   "u": "https://zn.ua/ukr/UKRAINE/status-kritichno-vazhlivikh-pidprijemstv-i-bronjuvannja-prodovzhili-do-20-hrudnja-koho-stosujetsja.html",
+   "i": "https://zn.ua/img/article/7050/33_main.webp",
    "n": 3,
    "l": [
-    {
-     "s": "Суспільне",
-     "u": "https://suspilne.media/1456437-nabu-i-sap-povidomii-pro-novu-pidozru-eksvicepremeru-cernisovu/"
-    },
     {
      "s": "ZN.UA",
-     "u": "https://zn.ua/ukr/anticorruption/nabu-ta-sap-povidomili-chernishovu-pro-novu-pidozru.html"
-    },
-    {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/pidozra-eksvitsepremyeru-nabu-vikrilo-fiktivne-pratsevlashtuvannya_n3212794"
-    }
-   ],
-   "d": "2026-11-23T12:52:30+00:00"
-  },
-  {
-   "t": "150 мільйонів гривень застави: апеляція ВАКС передала гроші за Галущенка до АРМА",
-   "u": "https://24tv.ua/150-milyoniv-zastavi-galushhenka-vaks-peredav-groshi-arma_n3212815",
-   "i": "https://24tv.ua/resources/photos/news/202611/3212815.jpg?v=1795433942000&q=100",
-   "n": 3,
-   "l": [
-    {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/150-milyoniv-zastavi-galushhenka-vaks-peredav-groshi-arma_n3212815"
-    },
-    {
-     "s": "Суспільне",
-     "u": "https://suspilne.media/1456346-apelacia-vaks-peredala-v-arma-150-mln-griven-zastavi-vnesenoi-za-galusenka/"
+     "u": "https://zn.ua/ukr/UKRAINE/status-kritichno-vazhlivikh-pidprijemstv-i-bronjuvannja-prodovzhili-do-20-hrudnja-koho-stosujetsja.html"
     },
     {
      "s": "Економічна правда",
-     "u": "https://epravda.com.ua/biznes/arma-peredayut-150-milyoniv-zastavi-za-galushchenka-827922/"
+     "u": "https://epravda.com.ua/biznes/uryad-do-20-grudnya-prodovzhiv-bronyuvannya-na-pidpriyemstvah-u-yakih-zakinchivsya-status-kritichnosti-827938/"
+    },
+    {
+     "s": "Інтерфакс-Україна",
+     "u": "https://interfax.com.ua/news/economic/1240863.html"
     }
    ],
-   "d": "2026-11-23T12:17:00+00:00"
+   "d": "2026-11-23T13:11:00+00:00"
   }
  ],
  "items": [
+  {
+   "t": "Петиція до Кабміну про заборону випуску пісень із нецензурною лайкою не набрала голосів",
+   "s": "Інтерфакс-Україна",
+   "u": "https://interfax.com.ua/news/culture/1240989.html",
+   "x": "Петиція на сайті Кабінету міністрів України із закликом заборонити випуск пісень із нецензурною лайкою не набрала необхідну для розгляду кількість голосів.",
+   "i": "https://media.interfax.com.ua/media/thumbs/images/2022/02/0Skl7I6uPmOg.jpg",
+   "d": "2026-11-23T13:50:37+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Рятувальники дістали з-під завалів міської лікарні у Словʼянську тіло загиблого чоловіка",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/donbas/1456475-ratuvalniki-distali-z-pid-zavaliv-miskoi-likarni-u-slovansku-tilo-zagiblogo-colovika/",
+   "x": "ДСНС Донеччини повідомили, що під завалами адміністративної будівлі міської лікарні у Словʼянську знайшли тіло загиблого чоловіка. Окупанти вдарили по медзакладу зранку 22 листопада 2026 року",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-23T13:49:19+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "donetsk"
+   ]
+  },
+  {
+   "t": "Окупанти готують експозицію у Херсонесі Таврійському з понад 9 тисяч артефактів",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/crimea/1456480-okupanti-gotuut-ekspoziciu-u-hersonesi-tavrijskomu-z-ponad-9-tisac-artefaktiv/",
+   "x": "В окупованому Севастополі готують експозицію Херсонеса Таврійського з понад 9 тисяч артефактів, зокрема знахідок із розкопок після 2014 року",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-23T13:49:00+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kherson"
+   ]
+  },
+  {
+   "t": "В Одесі частина шкіл і дитсадків відновить роботу з 24 листопада після дводобового знеструмлення",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/odesa/1456483-v-odesi-castina-skil-i-ditsadkiv-vidnovit-robotu-z-24-listopada-pisla-dvodobovogo-znestrumlenna/",
+   "x": "З 24 листопада частина шкіл і дитсадків Одеси повернеться до звичного режиму роботи після відновлення теплопостачання. Батькам радять уточнювати формат навчання в адміністраціях закладів",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-23T13:45:03+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "odesa"
+   ]
+  },
+  {
+   "t": "НБУ встановив курс долара на 24 листопада: що зміниться для українців",
+   "s": "24 Канал",
+   "u": "https://financy.24tv.ua/kurs-dolara-24-listopada-2026-podorozhchaye-valyuta-ukrayini_n3212885",
+   "x": "До завершення осені залишаються лічені дні, а попереду – зима й традиційне збільшення витрат напередодні свят. Банки та обмінники вже оновлюють розцінки на іноземну валюту, тоді як регулятор встановив власні показники…",
+   "i": "https://24tv.ua/resources/photos/news/202611/3212885.jpg?v=1795439320000&q=100",
+   "d": "2026-11-23T13:44:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "РФ за два дні атакувала чотири енергооб'єкти ДТЕК на Дніпропетровщині",
+   "s": "Інтерфакс-Україна",
+   "u": "https://interfax.com.ua/news/general/1240988.html",
+   "x": "Російська армія протягом останніх двох днів чотири рази атакувала енергетичні об'єкти ДТЕКа у Дніпропетровській області, повідомив енергохолдинг у понеділок.",
+   "i": "https://media.interfax.com.ua/media/thumbs/images/2025/03/arbjv/mwkfs-hfc4U8.jpg",
+   "d": "2026-11-23T13:43:57+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "dnipro"
+   ]
+  },
+  {
+   "t": "Справа «Карфаген-2»: апеляцію генерала Дуки призначили на 26 листопада",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/anticorruption/sprava-karfahen-2-apeljatsiju-henerala-duki-priznachili-na-26-listopada.html",
+   "x": "Апеляційні скарги на запобіжні заходи у справі «Карфаген-2» розглянуть у два дні.",
+   "i": "https://zn.ua/img/article/7050/37_main.webp",
+   "d": "2026-11-23T13:42:22+00:00",
+   "c": [
+    "statti"
+   ]
+  },
+  {
+   "t": "8-й корпус ДШВ спростував чутки про \"прорив кордону\" та \"нову Курську операцію\" на Північно-Слобожанському напрямку",
+   "s": "Інтерфакс-Україна",
+   "u": "https://interfax.com.ua/news/general/1240986.html",
+   "x": "Інформація про нібито прорив державного кордону та початок нової української операції в Курській області РФ не відповідає дійсності, заявив відділ комунікацій 8-го корпусу Десантно-штурмових військ Збройних сил України.",
+   "d": "2026-11-23T13:42:15+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "На Полтавщині підтвердили загибель двох військових: Олександра Писаренка та Антона Рули",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/poltava/1456455-na-poltavsini-pidtverdili-zagibel-dvoh-vijskovih-oleksandra-pisarenka-ta-antona-ruli/",
+   "x": "На Полтавщині підтвердили загибель двох військових — Олександра Писаренка з Комишнянської громади та Антона Рули з Миргородської громади. Обидва загинули під час виконання бойових завдань",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-23T13:42:01+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "poltava"
+   ]
+  },
+  {
+   "t": "Премʼєр Угорщини виступив проти прив’язки бюджету ЄС до фінансування України",
+   "s": "Українська правда",
+   "u": "https://www.pravda.com.ua/news/2026/11/23/8064225/",
+   "x": "Прем'єр-міністр Угорщини Петер Мадяр заявив, що фінансування України на наступний рік не повинно залежати від схвалення семирічного бюджету Європейського Союзу",
+   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/c/962651/7c7453f1ae85dd837e0414272e48e9f7.jpeg",
+   "d": "2026-11-23T13:42:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Реактивні дрони атакували центр Києва: горить автомобіль, є поранені",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/war/reaktivni-droni-atakuvali-tsentr-kijeva-horit-avtomobil-je-poraneni-.html",
+   "x": "Під удар потрапили три райони міста.",
+   "i": "https://zn.ua/img/article/7050/36_main.webp",
+   "d": "2026-11-23T13:40:00+00:00",
+   "c": [
+    "statti"
+   ],
+   "r": [
+    "kyiv"
+   ]
+  },
   {
    "t": "Мінкультури передало монастирю ПЦУ 8 пов'язаних із Ближніми і Дальніми печерами Лаври корпусів",
    "s": "Інтерфакс-Україна",
@@ -490,6 +628,15 @@
    ],
    "r": [
     "kherson"
+   ]
+  },
+  {
+   "t": "ТОП 7 криптогаманців: обираємо найкращий для зберігання криптовалюти в 2027",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/finances/top-7-kriptogamanciv-obirayemo-naykrashchiy-dlya-zberigannya-kriptovalyuti-v-2027-827832/",
+   "d": "2026-11-23T13:35:00+00:00",
+   "c": [
+    "ekonomika"
    ]
   },
   {
@@ -635,6 +782,19 @@
    ]
   },
   {
+   "t": "У Києві ворог поцілив у критичну інфраструктуру",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/biznes/u-kiyevi-vorog-pociliv-u-kritichnu-infrastrukturu-827939/",
+   "x": "Росіяни поцілили у обʼєкт критичної інфраструктури у Києві, на його території зайнялися автівки.",
+   "d": "2026-11-23T13:30:00+00:00",
+   "c": [
+    "ekonomika"
+   ],
+   "r": [
+    "kyiv"
+   ]
+  },
+  {
    "t": "Німеччина збільшила військову допомогу Україні майже в шість разів: скільки заплановано на 2027 рік",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/ECONOMICS/nimechchina-zbilshila-vijskovu-dopomohu-ukrajini-majzhe-v-shist-raziv-skilki-zaplanovano-na-2027-rik.html",
@@ -679,7 +839,8 @@
    "i": "https://24tv.ua/resources/photos/news/202611/3212915.jpg?v=1795440802000&q=100",
    "d": "2026-11-23T13:27:00+00:00",
    "c": [
-    "holovne"
+    "holovne",
+    "viyna"
    ],
    "r": [
     "kyiv"
@@ -911,12 +1072,23 @@
    ]
   },
   {
+   "t": "Верховний суд Іспанії надав амністію лідеру сепаратистів Каталонії",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/23/7250610/",
+   "x": "У понеділок Верховний суд виніс ухвалу, якою застосовує амністію до глави регіонального уряду Каталонії і лідеру сепаратистської партії Junts Карлеса Пучдемона та остаточно закриває справу щодо референдуму про…",
+   "i": "https://img.eurointegration.com.ua/images/doc/1/c/1c7355a-ef-235318-16510648.jpeg",
+   "d": "2026-11-23T13:17:00+00:00",
+   "c": [
+    "polityka"
+   ]
+  },
+  {
    "t": "Довела Могилевську до сліз: 19-річна онука екссекретаря РНБО вразила виступом на \"Голосі країни\"",
    "s": "24 Канал",
    "u": "https://24tv.ua/show24/onuchka-oleksiya-danilova-mariya-vistupila-golosi-krayini-14_n3212901",
    "x": "Дев'ятнадцятирічна Марія Данілова, онучка колишнього секретаря РНБО Олексія Данілова, стала учасницею сліпих прослуховувань шоу \"Голос країни-14\".",
    "i": "https://24tv.ua/resources/photos/news/202611/3212901.jpg?v=1795439664000&q=100",
-   "d": "2026-11-23T13:16:17+00:00",
+   "d": "2026-11-23T13:16:00+00:00",
    "c": [
     "holovne"
    ]
@@ -1123,6 +1295,17 @@
    ]
   },
   {
+   "t": "Прем’єр Бельгії встановив дедлайн для бюджетних переговорів, інакше уряд піде у відставку",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/23/7250609/",
+   "x": "Прем’єр-міністр Бельгії Барт де Вевер встановив 31 грудня як крайній термін для досягнення його урядом угоди щодо бюджету на наступний рік; у разі невдачі кабінет міністрів піде у відставку.",
+   "i": "https://img.eurointegration.com.ua/images/doc/5/5/5544309-30193913-29a0-428f-b2ab-cd1eeef1d5fc.jpg",
+   "d": "2026-11-23T13:06:00+00:00",
+   "c": [
+    "polityka"
+   ]
+  },
+  {
    "t": "Їм уже 16 і 14 років: Сандра Буллок показала дітей, яких рідко можна побачити",
    "s": "24 Канал",
    "u": "https://kino.24tv.ua/sandra-bullok-pokazala-doroslih-ditey-yakih-rokami-prihovuvala_n3212810",
@@ -1132,6 +1315,16 @@
    "c": [
     "holovne",
     "kino"
+   ]
+  },
+  {
+   "t": "Уряд до 20 грудня продовжив бронювання на підприємствах, у яких закінчився статус критичності",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/biznes/uryad-do-20-grudnya-prodovzhiv-bronyuvannya-na-pidpriyemstvah-u-yakih-zakinchivsya-status-kritichnosti-827938/",
+   "x": "Уряд продовжив до 20 грудня бронювання на підприємствах, у яких статус критичності закінчився або закінчується під час перегляду правил бронювання.",
+   "d": "2026-11-23T13:05:00+00:00",
+   "c": [
+    "ekonomika"
    ]
   },
   {
@@ -1271,6 +1464,17 @@
    ]
   },
   {
+   "t": "Чому реформи на шляху до ЄС часто не працюють і як Україні покращити їхню якість",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/23/7250611/",
+   "x": "4 листопада Європейська комісія оприлюднила звіт щодо України за 2026 рік. Його можна читати як черговий перелік виконаних і невиконаних рекомендацій.",
+   "i": "https://img.eurointegration.com.ua/images/doc/8/e/8e6915c-eu-1.jpg",
+   "d": "2026-11-23T13:00:00+00:00",
+   "c": [
+    "polityka"
+   ]
+  },
+  {
    "t": "Десята планета: на краю Сонячної системи виявили докази існування «ще однієї» Землі",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/TECHNOLOGIES/desjata-planeta-na-kraju-sonjachnoji-sistemi-vijavili-dokazi-isnuvannja-shche-odnijeji-zemli.html",
@@ -1300,7 +1504,6 @@
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/23/8064210/",
    "x": "У понеділок Європейська комісія розпочала антимонопольне розслідування щодо однієї з європейських компаній, що займаються розливом Coca-Cola через підозри, що вона перешкоджала роздрібним торговцям купувати напої за…",
-   "i": "https://img.eurointegration.com.ua/images/doc/3/6/367648a-twpysc---c16x9x50px50p--e116bf35e43071b3da27cd96d7b974c6.jpg",
    "d": "2026-11-23T12:55:00+00:00",
    "c": [
     "holovne",
@@ -1616,6 +1819,19 @@
    ]
   },
   {
+   "t": "За два дні росіяни атакували чотири енергооб’єкти на Дніпропетровщині – ДТЕК",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/biznes/za-dva-dni-rosiyani-atakuvali-chotiri-energoob-yekti-na-dnipropetrovshchini-827937/",
+   "x": "За два дні ворог атакував чотири енергооб'єкти ДТЕК на Дніпропетровщині, по більшості з них ворог бив уже не раз.",
+   "d": "2026-11-23T12:43:00+00:00",
+   "c": [
+    "ekonomika"
+   ],
+   "r": [
+    "dnipro"
+   ]
+  },
+  {
    "t": "Стало відомо про смерть дванадцяти військових з Рівненщини",
    "s": "Суспільне",
    "u": "https://suspilne.media/rivne/1456278-stalo-vidomo-pro-smert-dvanadcati-vijskovih-z-rivnensini-3/",
@@ -1839,6 +2055,16 @@
    ]
   },
   {
+   "t": "Vodafone Україна залучить позику та погашення та викуп євробондів",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/biznes/finansuvannya-vodafone-ukrajina-zaluchennya-350-mln-dol-dlya-dostrokovogo-vikupu-obligaciy-827936/",
+   "x": "Оператор мобільного зв'язку Vodafone Україна планує залучити позику на погашення своїх єврооблігацій у лютому 2027 року.",
+   "d": "2026-11-23T12:32:00+00:00",
+   "c": [
+    "ekonomika"
+   ]
+  },
+  {
    "t": "Втрати Харківщини у листопаді 2026 року: згадуємо загиблих захисників поіменно",
    "s": "Суспільне",
    "u": "https://suspilne.media/kharkiv/1444067-vtrati-harkivsini-u-listopadi-2026-roku-zgaduemo-zagiblih-zahisnikiv-poimenno/",
@@ -1993,6 +2219,19 @@
    ]
   },
   {
+   "t": "Ворог атакував залізничну та енергетичну інфраструктуру – Корецький",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/biznes/vorog-atakuvav-zaliznichnu-ta-energetichnu-infrastrukturu-827935/",
+   "x": "Росіяни від учорашнього вечора атакують залізничну, енергетичну та цивільну інфраструктуру, наслідки зафіксовані у дванадцяти областях і Києві.",
+   "d": "2026-11-23T12:27:00+00:00",
+   "c": [
+    "ekonomika"
+   ],
+   "r": [
+    "kyiv"
+   ]
+  },
+  {
    "t": "Український бізнес наростив експорт за підтримки держави: які товари продавали найбільше",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/ECONOMICS/ukrajinskij-biznes-narostili-eksport-za-pidtrimki-derzhavi-jaki-tovari-prodavali-najbilshe.html",
@@ -2085,7 +2324,6 @@
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/23/8064205/",
    "x": "Польща завершує переговори зі своїми партнерами щодо будівництва першої атомної електростанції та планує підписати остаточний контракт на її проєктування та будівництво на початку 2027 року.",
-   "i": "https://img.eurointegration.com.ua/images/doc/d/5/d560bf1-poland-plans-deep-excavations-for-nuclea-1792613060564.jpg",
    "d": "2026-11-23T12:25:00+00:00",
    "c": [
     "holovne",
@@ -2174,6 +2412,16 @@
    "d": "2026-11-23T12:20:00+00:00",
    "c": [
     "polityka"
+   ]
+  },
+  {
+   "t": "Аптека в укритті, а не укриття в аптеці",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/power/umovi-dlya-roboti-aptek-pid-chas-trivog-zmini-do-licenziynih-vimog-827934/",
+   "x": "Близько 18 тис. аптек мають гарантувати безпеку відвідувачів і працівників під час повітряних тривог, але більшість із них на перших поверхах житлових будинків облаштувати укриття не можуть. Вихід — дозволити аптекам…",
+   "d": "2026-11-23T12:20:00+00:00",
+   "c": [
+    "ekonomika"
    ]
   },
   {
@@ -2430,8 +2678,8 @@
    "i": "https://24tv.ua/resources/photos/news/202611/3212784.jpg?v=1795432668000&q=100",
    "d": "2026-11-23T12:09:00+00:00",
    "c": [
-    "holovne",
-    "kino"
+    "kino",
+    "holovne"
    ],
    "r": [
     "donetsk"
@@ -2683,7 +2931,8 @@
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/a/962561/9a74d3bf555582df7eb2c8f8e93e62ba.jpeg",
    "d": "2026-11-23T11:56:00+00:00",
    "c": [
-    "vazhlyve"
+    "vazhlyve",
+    "ekonomika"
    ]
   },
   {
@@ -2696,6 +2945,16 @@
    "c": [
     "viyna",
     "holovne"
+   ]
+  },
+  {
+   "t": "В уряді хочуть знову підвищити тарифи на вантажні перевезення залізницею",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/power/zaliznichni-tarifi-pidvishchennya-koeficiyentiv-na-vantazhoperevezennya-z-2027-827932/",
+   "x": "Міністерство з відновлення, інфраструктури та транспорту України опублікувало оприлюднило проєкт наказу щодо зміни тарифних коефіцієнтів на вантажні залізничні перевезення з 1 січня 2027 року.",
+   "d": "2026-11-23T11:55:00+00:00",
+   "c": [
+    "ekonomika"
    ]
   },
   {
@@ -3452,7 +3711,8 @@
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/b/962533/8b57237ce7312ec9cf093df236130434.jpeg",
    "d": "2026-11-23T11:21:00+00:00",
    "c": [
-    "vazhlyve"
+    "vazhlyve",
+    "ekonomika"
    ],
    "r": [
     "kyiv"
@@ -3629,6 +3889,19 @@
    ],
    "r": [
     "mykolaiv"
+   ]
+  },
+  {
+   "t": "Захисні об'єкти на Київщині досі не передали Держвідновленню після \"скандалу з крокодилом\"",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/energetika/zahist-pidstanciy-na-kijivshchini-dosi-ne-peredali-na-dobudovu-827928/",
+   "x": "Недобудовані об'єкти захисту енергетики на Київщині ще не передали Агентству відновлення – щодо цього ведеться комунікація з Київською обласною військовою адміністрацією",
+   "d": "2026-11-23T11:10:00+00:00",
+   "c": [
+    "ekonomika"
+   ],
+   "r": [
+    "kyivska"
    ]
   },
   {
@@ -3889,6 +4162,18 @@
    ]
   },
   {
+   "t": "Британський офтальмологічний центр та Німецька очна клініка впроваджують нові стандарти лікування катаракти в Києві",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/biznes/britanskiy-oftalmologichniy-centr-ta-nimecka-ochna-klinika-vprovadzhuyut-novi-standarti-likuvannya-katarakti-v-kiyevi-827806/",
+   "d": "2026-11-23T11:00:00+00:00",
+   "c": [
+    "ekonomika"
+   ],
+   "r": [
+    "kyiv"
+   ]
+  },
+  {
    "t": "Перший щит безпеки українських громад: як розвиток добровільних пожежних команд змінює систему цивільного захисту України",
    "s": "Українська правда. Життя",
    "u": "https://life.pravda.com.ua/projects/sila-pidtrimki/pershiy-shchit-bezpeki-ukrajinskih-gromad-319242/",
@@ -3956,6 +4241,16 @@
    ]
   },
   {
+   "t": "У Росії Новошахтинський НПЗ зупинився після масштабного удару",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/biznes/u-rosiji-novoshahtinskiy-npz-zupinivsya-pislya-masshtabnogo-udaru-827929/",
+   "x": "У Росії Новошахтинський завод нафтопродуктів зупинився після масштабного удару ракетами та БПЛА.",
+   "d": "2026-11-23T10:58:00+00:00",
+   "c": [
+    "ekonomika"
+   ]
+  },
+  {
    "t": "Голова Ради Стефанчук та президент Бундесрату Вюст обговорили співпрацю євроінтеграційних комітетів",
    "s": "Інтерфакс-Україна",
    "u": "https://interfax.com.ua/news/political/1240842.html",
@@ -3995,8 +4290,8 @@
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/2/962518/52c57e49a5778e7a58affe70945bb273.jpeg",
    "d": "2026-11-23T10:54:00+00:00",
    "c": [
-    "holovne",
-    "vazhlyve"
+    "vazhlyve",
+    "holovne"
    ]
   },
   {
@@ -4056,6 +4351,16 @@
    "c": [
     "viyna",
     "holovne"
+   ]
+  },
+  {
+   "t": "Націоналізація Сенс банку: делегація НБУ почне консультації щодо арбітражу з Альфа-груп Фрідмана",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/power/nacionalniy-bank-konsultaciji-shchodo-spravi-abh-holdings-s-a-proti-ukrajini-827927/",
+   "x": "Делегація Національного банку відбула з робочим візитом до Великої Британії, де проведе консультації в межах підготовки до слухань у справі колишніх власників націоналізованого Сенс банку ABH Holdings S.A. (ABHH) проти…",
+   "d": "2026-11-23T10:51:00+00:00",
+   "c": [
+    "ekonomika"
    ]
   },
   {
@@ -7426,18 +7731,6 @@
    ]
   },
   {
-   "t": "Нафтовий тил Росії під тиском: Мусієнко пояснив наслідки ударів",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/udari-po-npz-rosiyi-yak-ukrayina-poslablyuye-naftovu-galuz-poyasniv_n3212556",
-   "x": "Українські безпілотники системно атакують нафтову інфраструктуру Росії. Це створює проблеми з постачанням пального для російського війська та може завдати Москві багатомільярдних збитків.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3212556.jpg?v=1795418689000&q=100",
-   "d": "2026-11-23T07:59:30+00:00",
-   "c": [
-    "viyna",
-    "holovne"
-   ]
-  },
-  {
    "t": "У Великій Британії перебуває близько 350 тисяч українців – посол",
    "s": "Інтерфакс-Україна",
    "u": "https://interfax.com.ua/news/general/1240681.html",
@@ -7445,6 +7738,18 @@
    "i": "https://media.interfax.com.ua/media/thumbs/images/2026/11/kukst/mwXBRmI-DyZP.jpg",
    "d": "2026-11-23T07:59:08+00:00",
    "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Нафтовий тил Росії під тиском: Мусієнко пояснив наслідки ударів",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/udari-po-npz-rosiyi-yak-ukrayina-poslablyuye-naftovu-galuz-poyasniv_n3212556",
+   "x": "Українські безпілотники системно атакують нафтову інфраструктуру Росії. Це створює проблеми з постачанням пального для російського війська та може завдати Москві багатомільярдних збитків.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3212556.jpg?v=1795418689000&q=100",
+   "d": "2026-11-23T07:59:00+00:00",
+   "c": [
+    "viyna",
     "holovne"
    ]
   },
