@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T03:31:04+00:00",
+ "updated": "2026-11-23T03:40:43+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -242,6 +242,23 @@
    "d": "2026-11-22T18:19:04+00:00"
   },
   {
+   "t": "Російський Новошахтинськ опинився під атакою: у районі заводу нафтопродуктів спалахнула пожежа",
+   "u": "https://zn.ua/ukr/war/rosijskij-novoshakhtinsk-opinivsja-pid-atakoju-u-rajoni-zavodu-naftoproduktiv-spalakhnula-pozhezha.html",
+   "i": "https://zn.ua/img/article/7049/73_main.webp",
+   "n": 2,
+   "l": [
+    {
+     "s": "ZN.UA",
+     "u": "https://zn.ua/ukr/war/rosijskij-novoshakhtinsk-opinivsja-pid-atakoju-u-rajoni-zavodu-naftoproduktiv-spalakhnula-pozhezha.html"
+    },
+    {
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/23/8064111/"
+    }
+   ],
+   "d": "2026-11-23T03:39:00+00:00"
+  },
+  {
    "t": "Кількість загиблих в Димері зросла до 9 осіб, з-під завалів врятували жінку – ОВА",
    "u": "https://interfax.com.ua/news/general/1240515.html",
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/6/962198/6619d326c6080d2f4c673ffc8e194cbc.jpeg",
@@ -325,26 +342,31 @@
     }
    ],
    "d": "2026-11-22T20:54:00+00:00"
-  },
-  {
-   "t": "В Харкові внаслідок російського удару постраждали двоє людей - мер",
-   "u": "https://interfax.com.ua/news/general/1240502.html",
-   "i": "https://media.interfax.com.ua/media/thumbs/images/2025/12/exhaq/8ZhEg_8RpCaN.jpg",
-   "n": 2,
-   "l": [
-    {
-     "s": "Інтерфакс-Україна",
-     "u": "https://interfax.com.ua/news/general/1240502.html"
-    },
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/22/8064090/"
-    }
-   ],
-   "d": "2026-11-22T19:47:52+00:00"
   }
  ],
  "items": [
+  {
+   "t": "Російський Новошахтинськ опинився під атакою: у районі заводу нафтопродуктів спалахнула пожежа",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/war/rosijskij-novoshakhtinsk-opinivsja-pid-atakoju-u-rajoni-zavodu-naftoproduktiv-spalakhnula-pozhezha.html",
+   "x": "Новошахтинський завод нафтопродуктів — одне з великих нафтопереробних підприємств на півдні Росії.",
+   "i": "https://zn.ua/img/article/7049/73_main.webp",
+   "d": "2026-11-23T03:39:00+00:00",
+   "c": [
+    "statti"
+   ]
+  },
+  {
+   "t": "Де навчався старший син Віталія Кличка",
+   "s": "24 Канал",
+   "u": "https://fight.24tv.ua/starshiy-sin-vitaliya-klichka-yaka-osvita-yegora-danielya-de_n3212499",
+   "x": "Діти колишнього боксера Віталія Кличка здобували освіту за кордоном. Зокрема, його старший син Єгор-Даніель закінчив британський університет, а до цього навчався у школах Німеччини та США.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3212499.jpg?v=1795384107000&q=100",
+   "d": "2026-11-23T03:35:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
   {
    "t": "Кулеба відповів, чи пропонував Зеленський йому стати послом України у США",
    "s": "24 Канал",
@@ -354,6 +376,20 @@
    "d": "2026-11-23T03:30:00+00:00",
    "c": [
     "holovne"
+   ]
+  },
+  {
+   "t": "Беззахисна енергетика, або Хто провалив будівництво захисту на енергопідстанціях Київщини",
+   "s": "Українська правда",
+   "u": "https://www.pravda.com.ua/articles/2026/11/23/8064104/",
+   "x": "3 березня 2026 року президент Володимир Зеленський провів засідання Ради національної безпеки і оборони, на якому затвердили \"плани стійкості\" для українських регіонів, окрім столиці.",
+   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/8/962173/58bcd70b7f7d2e1ceae23fc3ecba958d.jpeg",
+   "d": "2026-11-23T03:30:00+00:00",
+   "c": [
+    "statti"
+   ],
+   "r": [
+    "kyivska"
    ]
   },
   {
@@ -734,17 +770,6 @@
    "c": [
     "holovne",
     "viyna"
-   ]
-  },
-  {
-   "t": "«Він не друг»: голова розвідки США прокоментував заяву Трампа про Путіна",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1456185-vin-ne-drug-golova-rozvidki-ssa-prokomentuvav-zaavu-trampa-pro-putina/",
-   "x": "Директор національної розвідки США Джей Клейтон заявив, що очільник Кремля Володимир Путін не є другом США, коли йдеться про Україну",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-22T22:16:16+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
@@ -1398,6 +1423,17 @@
    ],
    "r": [
     "khmelnytskyi"
+   ]
+  },
+  {
+   "t": "«Він не друг»: голова розвідки США прокоментував заяву Трампа про Путіна",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1456185-vin-ne-drug-golova-rozvidki-ssa-prokomentuvav-zaavu-trampa-pro-putina/",
+   "x": "Директор національної розвідки США Джей Клейтон заявив, що очільник Кремля Володимир Путін не є другом США, коли йдеться про Україну",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-22T20:16:16+00:00",
+   "c": [
+    "holovne"
    ]
   },
   {
@@ -2392,8 +2428,8 @@
    "i": "https://24tv.ua/resources/photos/news/202611/3212448.jpg?v=1795370315000&q=100",
    "d": "2026-11-22T17:58:00+00:00",
    "c": [
-    "holovne",
-    "vazhlyve"
+    "vazhlyve",
+    "holovne"
    ],
    "r": [
     "dnipro"
@@ -5156,17 +5192,6 @@
    "x": "12 листопада 2026 року пішов із життя В'ячеслав Брюховецький – літературознавець, педагог, журналіст, громадський діяч, один із засновників Народного Руху України та почесний президент Національного університету…",
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/a/956982/9aa34557bbee98b0491cb224b5725a12.jpeg",
    "d": "2026-11-15T03:30:00+00:00",
-   "c": [
-    "statti"
-   ]
-  },
-  {
-   "t": "Формула незламності",
-   "s": "Українська правда",
-   "u": "https://www.pravda.com.ua/articles/2026/11/14/8062765/",
-   "x": "Російські удари 2026-го року посилились, але крах тилу та капітуляція України малоймовірні. Аналіз історичних паралелей і настроїв у суспільстві.",
-   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/3/956691/83ea2104edb8f12191030dcd17fdf0da.jpeg",
-   "d": "2026-11-14T03:30:00+00:00",
    "c": [
     "statti"
    ]
