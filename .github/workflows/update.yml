@@ -21,6 +21,11 @@ jobs:
       - run: python scripts/fetch.py
       - run: python scripts/widgets.py
         continue-on-error: true
+      - name: Тривоги
+        continue-on-error: true
+        env:
+          ALERTS_IN_UA_TOKEN: ${{ secrets.ALERTS_IN_UA_TOKEN }}
+        run: python scripts/alerts.py
       - run: python scripts/build_pages.py
       - name: Telegram
         continue-on-error: true
