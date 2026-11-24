@@ -27,5 +27,21 @@
       "type": "image/png",
       "purpose": "maskable"
     }
+  ],
+  "id": "/",
+  "categories": [
+    "news"
+  ],
+  "shortcuts": [
+    {
+      "name": "Прямі ефіри",
+      "short_name": "Ефіри",
+      "url": "/live.html"
+    },
+    {
+      "name": "Архів новин",
+      "short_name": "Архів",
+      "url": "/arhiv/"
+    }
   ]
 }
