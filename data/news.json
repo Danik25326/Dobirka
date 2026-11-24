@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T00:01:16+00:00",
+ "updated": "2026-11-24T00:10:44+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -245,6 +245,31 @@
    "d": "2026-11-23T15:07:17+00:00"
   },
   {
+   "t": "Фінляндія викликала російського посла через порушення повітряного простору",
+   "u": "https://zn.ua/ukr/europe/finljandija-viklikala-rosijskoho-posla-cherez-porushennja-povitrjanoho-prostoru.html",
+   "i": "https://zn.ua/img/article/7051/81_main.webp",
+   "n": 4,
+   "l": [
+    {
+     "s": "ZN.UA",
+     "u": "https://zn.ua/ukr/europe/finljandija-viklikala-rosijskoho-posla-cherez-porushennja-povitrjanoho-prostoru.html"
+    },
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/1456536-mzs-finlandii-viklikalo-posla-rf-cerez-ataki-na-ukrainu-ta-incidenti-v-polsi-j-danii/"
+    },
+    {
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/23/8064238/"
+    },
+    {
+     "s": "Європейська правда",
+     "u": "https://www.eurointegration.com.ua/news/2026/11/23/7250615/"
+    }
+   ],
+   "d": "2026-11-24T00:04:15+00:00"
+  },
+  {
    "t": "Є дані від української розвідки про підготовку нових ударів РФ по Україні — Зеленський",
    "u": "https://suspilne.media/1456634-e-dani-vid-ukrainskoi-rozvidki-pro-pidgotovku-novih-udariv-rf-po-ukraini-zelenskij/",
    "i": "https://cdn4.suspilne.media/images/default.jpg",
@@ -389,30 +414,34 @@
     }
    ],
    "d": "2026-11-23T23:09:00+00:00"
-  },
-  {
-   "t": "Росія змінила дату та причину смерті журналістки Вікторії Рощиної: що показали документи",
-   "u": "https://24tv.ua/smert-viktoriyi-roshhinoyi-poloni-vitoku-rosstatu-znayshli-zmineniy_n3213209",
-   "i": "https://24tv.ua/resources/photos/news/202611/3213209.jpg?v=1795467162000&q=100",
-   "n": 3,
-   "l": [
-    {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/smert-viktoriyi-roshhinoyi-poloni-vitoku-rosstatu-znayshli-zmineniy_n3213209"
-    },
-    {
-     "s": "Суспільне",
-     "u": "https://suspilne.media/1456608-u-rosii-kilka-raziv-zminuvali-datu-ta-pricinu-smerti-zurnalistki-viktorii-rosinoi-rozsliduvanna/"
-    },
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/23/8064285/"
-    }
-   ],
-   "d": "2026-11-23T21:15:00+00:00"
   }
  ],
  "items": [
+  {
+   "t": "У Києві після зіткнення з легковиком перекинулася швидка: є постраждалий",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/UKRAINE/u-kijevi-pislja-zitknennja-z-lehkovikom-perekinulasja-shvidka-je-postrazhdalij.html",
+   "x": "ДТП сталася у Голосіївському районі.",
+   "i": "https://zn.ua/img/article/7051/83_main.webp",
+   "d": "2026-11-24T00:07:10+00:00",
+   "c": [
+    "statti"
+   ],
+   "r": [
+    "kyiv"
+   ]
+  },
+  {
+   "t": "Фінляндія викликала російського посла через порушення повітряного простору",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/europe/finljandija-viklikala-rosijskoho-posla-cherez-porushennja-povitrjanoho-prostoru.html",
+   "x": "Небезпечні та безрозсудні дії Росії в Європі є неприйнятними, заявило Міністерство закордонних справ Фінляндії.",
+   "i": "https://zn.ua/img/article/7051/81_main.webp",
+   "d": "2026-11-24T00:04:15+00:00",
+   "c": [
+    "statti"
+   ]
+  },
   {
    "t": "ЄС заощадив 132 млрд доларів на імпорті газу й нафти з 2022 року",
    "s": "ZN.UA",
@@ -1017,6 +1046,16 @@
    ]
   },
   {
+   "t": "У невизнаному Придністров’ї повідомляють про падіння безпілотника",
+   "s": "Українська правда",
+   "u": "https://www.pravda.com.ua/news/2026/11/23/8064310/",
+   "d": "2026-11-23T21:10:00+00:00",
+   "c": [
+    "holovne",
+    "polityka"
+   ]
+  },
+  {
    "t": "Призер Олімпіади Понсілуома пропустить старт Кубка світу з біатлону: його замінить дебютант",
    "s": "Суспільне",
    "u": "https://suspilne.media/sport/1456633-prizer-olimpiadi-ponsiluoma-propustit-start-kubka-svitu-z-biatlonu-jogo-zaminit-debutant/",
@@ -1025,17 +1064,6 @@
    "d": "2026-11-23T21:10:00+00:00",
    "c": [
     "holovne"
-   ]
-  },
-  {
-   "t": "У невизнаному Придністров’ї повідомляють про падіння безпілотника",
-   "s": "Українська правда",
-   "u": "https://www.pravda.com.ua/news/2026/11/23/8064310/",
-   "i": "https://img.eurointegration.com.ua/images/doc/1/3/1333c89-drone-resize.png",
-   "d": "2026-11-23T21:10:00+00:00",
-   "c": [
-    "holovne",
-    "polityka"
    ]
   },
   {
@@ -1490,7 +1518,6 @@
    "t": "НАТО передає Польщі спеціальний літак раннього попередження про загрози",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/23/8064307/",
-   "i": "https://img.eurointegration.com.ua/images/doc/0/7/07e62dd-nato-resize.png",
    "d": "2026-11-23T20:17:00+00:00",
    "c": [
     "holovne",
@@ -15033,32 +15060,6 @@
    ],
    "r": [
     "chernihiv"
-   ]
-  },
-  {
-   "t": "Троє українців незаконно перетнули румунський кордон: одного з них знайшли загиблим у горах",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/gorah-rumuniyi-ryatuvalniki-znayshli-zagiblogo-ukrayintsya-dvoh_n3212643",
-   "x": "У горах Марамуреш румунські прикордонники та рятувальники 22 листопада розшукали трьох громадян України. Двох чоловіків вдалося евакуювати живими, тоді як третій загинув від виснаження у засніженій місцевості.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3212643.jpg?v=1795425682000&q=100",
-   "d": "2026-11-23T09:29:22+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
-   "t": "Захист енергетики Київщини: підрядникам заборгували понад 1 мільярд гривень",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/economy/zahist-energetiki-kiyivshhini-chomu-pidryadnikam-zaborguvali_n3212654",
-   "x": "Будівництво укриттів для критичної інфраструктури столичного регіону опинилося під серйозною загрозою через масштабні фінансові проблеми. Підприємці, які взялися рятувати ситуацію власним коштом, тепер опинилися на межі…",
-   "i": "https://24tv.ua/resources/photos/news/202611/3212654.jpg?v=1795425659000&q=100",
-   "d": "2026-11-23T09:29:00+00:00",
-   "c": [
-    "ekonomika",
-    "holovne"
-   ],
-   "r": [
-    "kyivska"
    ]
   }
  ]
