@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T21:30:58+00:00",
+ "updated": "2026-11-24T21:40:41+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -316,31 +316,6 @@
    "d": "2026-11-24T12:03:00+00:00"
   },
   {
-   "t": "Російський дрон атакував залізничну станцію Коростень: одна людина загинула, двоє поранені",
-   "u": "https://suspilne.media/zhytomyr/1456765-rosijskij-dron-atakuvav-zaliznicnu-stanciu-korosten-odna-ludina-zaginula-dvoe-poraneni/",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "n": 4,
-   "l": [
-    {
-     "s": "Суспільне",
-     "u": "https://suspilne.media/zhytomyr/1456765-rosijskij-dron-atakuvav-zaliznicnu-stanciu-korosten-odna-ludina-zaginula-dvoe-poraneni/"
-    },
-    {
-     "s": "Інтерфакс-Україна",
-     "u": "https://interfax.com.ua/news/general/1241359.html"
-    },
-    {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/udar-drona-po-stantsiyi-korosten-bilya-vokzalu-stoyav-elektropoyizd_n3213359"
-    },
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/24/8064352/"
-    }
-   ],
-   "d": "2026-11-24T09:20:53+00:00"
-  },
-  {
    "t": "Польща вручила послу Росії різку ноту протесту",
    "u": "https://zn.ua/ukr/europe/polshcha-vruchila-poslu-rosiji-rizku-notu-protestu.html",
    "i": "https://zn.ua/img/article/7054/3_main.webp",
@@ -402,9 +377,75 @@
     }
    ],
    "d": "2026-11-24T18:51:00+00:00"
+  },
+  {
+   "t": "Молдова хоче відновити судноплавство річкою Прут, щоб покращити сполучення з Румунією та Україною",
+   "u": "https://suspilne.media/1457076-moldova-hoce-vidnoviti-sudnoplavstvo-rickou-prut-sob-pokrasiti-spolucenna-z-rumunieu-ta-ukrainou/",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "n": 3,
+   "l": [
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/1457076-moldova-hoce-vidnoviti-sudnoplavstvo-rickou-prut-sob-pokrasiti-spolucenna-z-rumunieu-ta-ukrainou/"
+    },
+    {
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/24/8064461/"
+    },
+    {
+     "s": "Європейська правда",
+     "u": "https://www.eurointegration.com.ua/news/2026/11/24/7250715/"
+    }
+   ],
+   "d": "2026-11-24T18:37:54+00:00"
   }
  ],
  "items": [
+  {
+   "t": "«Ми самі даємо Путіну надію»: Джонсон запропонував відправити війська в Україну, не чекаючи на перемир'я",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/POLITICS/mi-sami-dajemo-putinu-nadiju-dzhonson-zaproponuvav-vidpraviti-vijska-v-ukrajinu-ne-chekajuchi-na-peremirja.html",
+   "x": "Захід має зробити те, на що досі не наважувався.",
+   "i": "https://zn.ua/img/article/7054/1_main.webp",
+   "d": "2026-11-24T21:39:43+00:00",
+   "c": [
+    "statti"
+   ]
+  },
+  {
+   "t": "Мирні переговори щодо війни в Україні: що зараз відомо",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/mirni-peregovori-ukrayini-rosiyi-ostanni-zayavi-putina-trampa_n3170603",
+   "x": "У листопаді заплановані тристоронні переговори України, Росії та США. Крім того, можуть відбутися зустрічі Путіна та Трампа. На цьому тлі з'являються нові заяви та інформація зі ЗМІ щодо війни в Україні.",
+   "i": "https://24tv.ua/resources/photos/news/202610/3170603.jpg?v=1793361690000&q=100",
+   "d": "2026-11-24T21:35:00+00:00",
+   "c": [
+    "holovne",
+    "viyna"
+   ]
+  },
+  {
+   "t": "Чому вечір неділі найкращий для бронювання: 5 хитрощів, які зекономлять на відпустці",
+   "s": "24 Канал",
+   "u": "https://travel.24tv.ua/more-za-rozumnu-tsinu-yak-turisti-ekonomlyat-vidpusttsi_n3213896",
+   "x": "Пляжна відпустка не обов’язково має бути дорогою, навіть якщо йдеться про популярний курорт. Насправді є чимало способів скоротити витрати, не відмовляючись від комфортного відпочинку.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3213896.jpg?v=1795541717000&q=100",
+   "d": "2026-11-24T21:34:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "\"Який у цьому сенс\": Ф'юрі поставив жорстку умову щодо бою з Усиком",
+   "s": "24 Канал",
+   "u": "https://fight.24tv.ua/tayson-fyuri-zrobiv-zayavu-shhodo-tretogo-poyedinku-oleksandrom_n3213788",
+   "x": "Колишній чемпіон світу в надважкій вазі Тайсон Ф'юрі висловився щодо можливого третього поєдинку з українцем Олександром Усиком. Британський боксер заявив, що погодиться на трилогію лише за умови чесного ставлення до…",
+   "i": "https://24tv.ua/resources/photos/news/202611/3213788.jpg?v=1795534402000&q=100",
+   "d": "2026-11-24T21:32:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
   {
    "t": "Президент ФІФА Інфантіно хотів продати права на чемпіонат світу брату Кушнера на 96 років",
    "s": "ZN.UA",
@@ -532,9 +573,11 @@
    "t": "Мадяр на Закарпатті повторив, що не підтримує включення фінансування України до бюджету ЄС",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/24/8064506/",
+   "i": "https://img.eurointegration.com.ua/images/doc/2/a/2a138f3-madyar-resize.png",
    "d": "2026-11-24T21:00:00+00:00",
    "c": [
-    "holovne"
+    "holovne",
+    "polityka"
    ],
    "r": [
     "zakarpattia"
@@ -1501,7 +1544,8 @@
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/c/963789/cc0ac7fb5442d153017eda98b6b00456.jpeg",
    "d": "2026-11-24T19:46:00+00:00",
    "c": [
-    "holovne"
+    "holovne",
+    "vazhlyve"
    ]
   },
   {
@@ -1533,17 +1577,6 @@
    ]
   },
   {
-   "t": "У Туреччині розбився військовий вертоліт: загинули п'ятеро військових",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/WORLD/u-turechchini-rozbivsja-vijskovij-vertolit-zahinuli-pjatero-vijskovikh.html",
-   "x": "Військовий гелікоптер упав у провінції Ескішехір.",
-   "i": "https://zn.ua/img/article/7053/87_main.webp",
-   "d": "2026-11-24T19:43:00+00:00",
-   "c": [
-    "statti"
-   ]
-  },
-  {
    "t": "Мадяр чекає, що Україна виконає домовленості щодо меншин на пів року раніше за план",
    "s": "Європейська правда",
    "u": "https://www.eurointegration.com.ua/news/2026/11/24/7250742/",
@@ -1555,6 +1588,17 @@
    ],
    "r": [
     "zakarpattia"
+   ]
+  },
+  {
+   "t": "У Туреччині розбився військовий вертоліт: загинули п'ятеро військових",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/WORLD/u-turechchini-rozbivsja-vijskovij-vertolit-zahinuli-pjatero-vijskovikh.html",
+   "x": "Військовий гелікоптер упав у провінції Ескішехір.",
+   "i": "https://zn.ua/img/article/7053/87_main.webp",
+   "d": "2026-11-24T19:43:00+00:00",
+   "c": [
+    "statti"
    ]
   },
   {
@@ -2568,8 +2612,8 @@
    "i": "https://24tv.ua/resources/photos/news/202611/3213933.jpg?v=1795544546000&q=100",
    "d": "2026-11-24T18:23:00+00:00",
    "c": [
-    "holovne",
-    "viyna"
+    "viyna",
+    "holovne"
    ],
    "r": [
     "kyiv"
@@ -9812,6 +9856,18 @@
    ]
   },
   {
+   "t": "Україна оголосить МАГАТЕ демарш через призначення підсанкційного росіянина на керівну посаду",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/ukrayina-ogolosit-magate-demarsh-yaka-prichina_n3213616",
+   "x": "Міністр закордонних справ Андрій Сибіга 24 листопада доручив оголосити МАГАТЕ демарш і надіслати ноту протесту. Причиною стало призначення росіянина Олексія Ферапонтова на керівну посаду в агентстві.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3213616.jpg?v=1795524438000&q=100",
+   "d": "2026-11-24T12:48:00+00:00",
+   "c": [
+    "viyna",
+    "holovne"
+   ]
+  },
+  {
    "t": "Ресторани у Києві масово зачиняються через війну – ЗМІ",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/24/8064418/",
@@ -9824,18 +9880,6 @@
    ],
    "r": [
     "kyiv"
-   ]
-  },
-  {
-   "t": "Україна оголосить МАГАТЕ демарш через призначення підсанкційного росіянина на керівну посаду",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/ukrayina-ogolosit-magate-demarsh-yaka-prichina_n3213616",
-   "x": "Міністр закордонних справ Андрій Сибіга 24 листопада доручив оголосити МАГАТЕ демарш і надіслати ноту протесту. Причиною стало призначення росіянина Олексія Ферапонтова на керівну посаду в агентстві.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3213616.jpg?v=1795524438000&q=100",
-   "d": "2026-11-24T12:48:00+00:00",
-   "c": [
-    "viyna",
-    "holovne"
    ]
   },
   {
@@ -15119,52 +15163,6 @@
    ],
    "r": [
     "zhytomyr"
-   ]
-  },
-  {
-   "t": "Швидка перекинулася в Києві після ДТП: постраждали водій і пацієнт",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/kyiv/1456710-svidka-perekinulasa-v-kievi-pisla-dtp-postrazdali-vodij-i-pacient/",
-   "x": "У Голосіївському районі Києва швидка зіткнулася з Hyundai та перекинулася на бік. Травмувалися 58-річний водій спецавтомобіля та 33-річний пацієнт, обох госпіталізували",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-24T08:47:51+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "kyiv"
-   ]
-  },
-  {
-   "t": "Курс валют на 24 листопада: долар почав зростати після тижневого падіння",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/finances/kursi-valyut-dolar-zris-u-bankah-yevro-deshevshaye-popri-zrostannya-oficiynogo-kursu-827966/",
-   "x": "У вівторок, 24 листопада, готівковий курс долара в банках зріс, євро попри підвищення офіційного курсу продовжує дешевшати.",
-   "d": "2026-11-24T08:47:00+00:00",
-   "c": [
-    "ekonomika"
-   ]
-  },
-  {
-   "t": "Тягнув живіт і кидало в жар: вагітна дружина Остапчука потрапила до лікарні в Канаді",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/show24/vagitna-katerina-ostapchuk-potrapila-do-likarni-kanadi-shho-stalosya_n3213348",
-   "x": "Вагітна дружина українського шоумена Володимира Остапчука Катерина терміново звернулася до канадської лікарні через різке погіршення самопочуття.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3213348.jpg?v=1795509381000&q=100",
-   "d": "2026-11-24T08:47:00+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
-   "t": "Росіяни атакували залізничну станцію Коростень: одна людина загинула, двоє поранених",
-   "s": "Українська правда",
-   "u": "https://www.pravda.com.ua/news/2026/11/24/8064352/",
-   "x": "Ворожий БПЛА атакував залізничну станцію Коростень, причому уламки вбили одну людину, ще двоє зазнали поранень.",
-   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/d/963065/2d11b4e79ad82475d302445ef68f0816.jpeg",
-   "d": "2026-11-24T08:46:00+00:00",
-   "c": [
-    "vazhlyve"
    ]
   }
  ]
