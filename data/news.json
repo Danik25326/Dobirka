@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T23:40:43+00:00",
+ "updated": "2026-11-24T23:50:42+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -341,6 +341,27 @@
    "d": "2026-11-24T12:03:00+00:00"
   },
   {
+   "t": "Мадяр чекає, що Україна виконає домовленості щодо меншин на пів року раніше",
+   "u": "https://www.pravda.com.ua/news/2026/11/25/8064515/",
+   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/c/963816/cc0ecb63077a6da115b34f65e95a55be.jpeg",
+   "n": 3,
+   "l": [
+    {
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/25/8064515/"
+    },
+    {
+     "s": "Інтерфакс-Україна",
+     "u": "https://interfax.com.ua/news/general/1241816.html"
+    },
+    {
+     "s": "Європейська правда",
+     "u": "https://www.eurointegration.com.ua/news/2026/11/24/7250742/"
+    }
+   ],
+   "d": "2026-11-24T23:47:00+00:00"
+  },
+  {
    "t": "Працювала перукаркою: СБУ затримала агентку, яка наводила удари по Слов'янську",
    "u": "https://24tv.ua/sbu-zatrimala-perukarku-zi-slovyanska-yaka-koriguvala-udari-rosiyi_n3213490",
    "i": "https://24tv.ua/resources/photos/news/202611/3213490.jpg?v=1795516101000&q=100",
@@ -381,30 +402,21 @@
     }
    ],
    "d": "2026-11-24T21:06:01+00:00"
-  },
-  {
-   "t": "Польща вручила послу Росії різку ноту протесту",
-   "u": "https://zn.ua/ukr/europe/polshcha-vruchila-poslu-rosiji-rizku-notu-protestu.html",
-   "i": "https://zn.ua/img/article/7054/3_main.webp",
-   "n": 3,
-   "l": [
-    {
-     "s": "ZN.UA",
-     "u": "https://zn.ua/ukr/europe/polshcha-vruchila-poslu-rosiji-rizku-notu-protestu.html"
-    },
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/24/8064478/"
-    },
-    {
-     "s": "Європейська правда",
-     "u": "https://www.eurointegration.com.ua/news/2026/11/24/7250727/"
-    }
-   ],
-   "d": "2026-11-24T20:46:00+00:00"
   }
  ],
  "items": [
+  {
+   "t": "Мадяр чекає, що Україна виконає домовленості щодо меншин на пів року раніше",
+   "s": "Українська правда",
+   "u": "https://www.pravda.com.ua/news/2026/11/25/8064515/",
+   "x": "Петер Мадяр повідомив про домовленість з Володимиром Зеленським щодо посилення мовних і культурних прав угорської нацменшини до 2027 року.",
+   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/c/963816/cc0ecb63077a6da115b34f65e95a55be.jpeg",
+   "d": "2026-11-24T23:47:00+00:00",
+   "c": [
+    "holovne",
+    "vazhlyve"
+   ]
+  },
   {
    "t": "Зеленський заявив, що Гегсет блокує передачу Україні 48 ракет для Patriot",
    "s": "ZN.UA",
@@ -4087,8 +4099,8 @@
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/e/963743/3e04ee5033676a8bbbdc660eb1d29ab1.jpeg",
    "d": "2026-11-24T17:36:00+00:00",
    "c": [
-    "holovne",
-    "vazhlyve"
+    "vazhlyve",
+    "holovne"
    ],
    "r": [
     "zakarpattia"
@@ -15158,17 +15170,6 @@
    "c": [
     "ekonomika",
     "holovne"
-   ]
-  },
-  {
-   "t": "Ціни на хліб: наскільки подорожчає головний продукт цієї зими",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/economy/ru/ceny-na-hleb-naskolko-podorozhaet-jetot-produkt-v-ukraine-zimoj_n3213387",
-   "x": "Українські пекарі готуються до перегляду цінників на полицях супермаркетів через складну зиму. Виробники попереджають, що без цього кроку галузь просто не виживе в умовах постійних атак.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3213380.jpg?v=1795510878000&q=100",
-   "d": "2026-11-24T09:06:00+00:00",
-   "c": [
-    "ekonomika"
    ]
   }
  ]
