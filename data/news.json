@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T00:10:44+00:00",
+ "updated": "2026-11-24T00:20:43+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -418,12 +418,28 @@
  ],
  "items": [
   {
+   "t": "У Києві пролунали вибухи під час атаки реактивних дронів",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/ataka-reaktivnih-droniv-kiyiv-24-listopada-misti-prolunali-vibuhi_n3213241",
+   "x": "У ніч проти 24 листопада Київ опинився під повітряною атакою із застосуванням швидкісних безпілотників. У місті прогриміли вибухи.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3213241.jpg?v=1795479421000&q=100",
+   "d": "2026-11-24T00:20:10+00:00",
+   "c": [
+    "holovne",
+    "vazhlyve",
+    "viyna"
+   ],
+   "r": [
+    "kyiv"
+   ]
+  },
+  {
    "t": "У Києві після зіткнення з легковиком перекинулася швидка: є постраждалий",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/UKRAINE/u-kijevi-pislja-zitknennja-z-lehkovikom-perekinulasja-shvidka-je-postrazhdalij.html",
    "x": "ДТП сталася у Голосіївському районі.",
    "i": "https://zn.ua/img/article/7051/83_main.webp",
-   "d": "2026-11-24T00:07:10+00:00",
+   "d": "2026-11-24T00:07:00+00:00",
    "c": [
     "statti"
    ],
@@ -15047,20 +15063,6 @@
     "video"
    ],
    "v": 1
-  },
-  {
-   "t": "Понад 350 російських дронів збили у небі над Чернігівщиною протягом тижня",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/chernihiv/1456311-ponad-350-rosijskih-droniv-zbili-u-nebi-nad-cernigivsinou-protagom-tizna/",
-   "x": "Понад 350 російських дронів збили Сили оборони України у небі над Чернігівщиною протягом минулого тижня, з 16 до 22 листопада. Про це повідомив начальник Чернігівської ОВА В'ячеслав Чаус.",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-23T09:29:37+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "chernihiv"
-   ]
   }
  ]
 }
