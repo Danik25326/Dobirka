@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T04:10:42+00:00",
+ "updated": "2026-11-24T04:20:44+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -216,6 +216,56 @@
    "d": "2026-11-23T15:07:17+00:00"
   },
   {
+   "t": "Науседа підтримав 22-й пакет санкцій ЄС, зокрема заборону для російських спортсменів",
+   "u": "https://interfax.com.ua/news/general/1241234.html",
+   "i": "https://24tv.ua/resources/photos/news/202611/3213068.jpg?v=1795451228000&q=100",
+   "n": 4,
+   "l": [
+    {
+     "s": "Інтерфакс-Україна",
+     "u": "https://interfax.com.ua/news/general/1241234.html"
+    },
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/economy/novi-sanktsiyi-proti-rosiyi-shho-teper-zminitsya-dlya-rosiyan_n3213068"
+    },
+    {
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/23/8064256/"
+    },
+    {
+     "s": "Європейська правда",
+     "u": "https://www.eurointegration.com.ua/news/2026/11/23/7250623/"
+    }
+   ],
+   "d": "2026-11-24T04:14:53+00:00"
+  },
+  {
+   "t": "Двоє загиблих і 22 поранених: Росія завдала руйнівних ударів по Запоріжжю",
+   "u": "https://24tv.ua/udar-po-zaporizhzhyu-24-listopada-dvoye-zagiblih-ponad-20-postrazhdalih_n3213251",
+   "i": "https://24tv.ua/resources/photos/news/202611/3213251.jpg?v=1795493188000&q=100",
+   "n": 4,
+   "l": [
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/udar-po-zaporizhzhyu-24-listopada-dvoye-zagiblih-ponad-20-postrazhdalih_n3213251"
+    },
+    {
+     "s": "Інтерфакс-Україна",
+     "u": "https://interfax.com.ua/news/general/1241232.html"
+    },
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/dnipro/1456590-dvoe-zagiblih-troe-poranenih-rf-zavdala-ponad-40-udariv-po-sesti-rajonah-dnipropetrovsini/"
+    },
+    {
+     "s": "ZN.UA",
+     "u": "https://zn.ua/ukr/war/rosijani-zavdali-udaru-po-zaporizhzhju-je-zahibli-.html"
+    }
+   ],
+   "d": "2026-11-24T04:14:00+00:00"
+  },
+  {
    "t": "Фінляндія викликала російського посла через порушення повітряного простору",
    "u": "https://zn.ua/ukr/europe/finljandija-viklikala-rosijskoho-posla-cherez-porushennja-povitrjanoho-prostoru.html",
    "i": "https://zn.ua/img/article/7051/81_main.webp",
@@ -364,51 +414,61 @@
     }
    ],
    "d": "2026-11-23T14:36:00+00:00"
-  },
-  {
-   "t": "Таджикистан вийшов із Міжнародного кримінального",
-   "u": "https://suspilne.media/1456655-tadzikistan-vijsov-iz-miznarodnogo-kriminalnogo/",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "n": 3,
-   "l": [
-    {
-     "s": "Суспільне",
-     "u": "https://suspilne.media/1456655-tadzikistan-vijsov-iz-miznarodnogo-kriminalnogo/"
-    },
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/23/8064299/"
-    },
-    {
-     "s": "Європейська правда",
-     "u": "https://www.eurointegration.com.ua/news/2026/11/23/7250643/"
-    }
-   ],
-   "d": "2026-11-24T01:07:47+00:00"
-  },
-  {
-   "t": "Уряд доручив містам підготуватися до перебоїв із водопостачанням через російські удари",
-   "u": "https://zn.ua/ukr/ECONOMICS/urjad-doruchiv-mistam-pidhotuvatisja-do-perebojiv-iz-vodopostachannjam-cherez-rosijski-udari.html",
-   "i": "https://zn.ua/img/article/7051/71_main.webp",
-   "n": 3,
-   "l": [
-    {
-     "s": "ZN.UA",
-     "u": "https://zn.ua/ukr/ECONOMICS/urjad-doruchiv-mistam-pidhotuvatisja-do-perebojiv-iz-vodopostachannjam-cherez-rosijski-udari.html"
-    },
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/23/8064311/"
-    },
-    {
-     "s": "Суспільне",
-     "u": "https://suspilne.media/1456645-urad-uhvaliv-risenna-dla-minimizacii-pereboiv-roboti-vodopostacanna-i-kanalizacii-pid-cas-obstriliv/"
-    }
-   ],
-   "d": "2026-11-23T23:09:00+00:00"
   }
  ],
  "items": [
+  {
+   "t": "Головні новини Донецької та Луганської областей 24 листопада 2026 року",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/donbas/1456610-golovni-novini-doneckoi-ta-luganskoi-oblastej-24-listopada-2026-roku/",
+   "x": "Новини Донбасу: події в Донецькій області 24 листопада 2026 року, ситуація в Луганській області. Обстріли, загиблі, інформація з окупації. Краматорськ, Слов'янськ, Костянтинівка, Дружківка, Добропілля 24.11.2026 —…",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-24T04:18:19+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "donetsk",
+    "luhansk"
+   ]
+  },
+  {
+   "t": "⚡БЕЛКОВСКИЙ: Срочно с Китая! СИ СКАЗАЛ ЭТО. Для Украины ВСЁ ИЗМЕНИЛОСЬ в мгновение. Вот что ДАЛЬШЕ",
+   "s": "24 Канал · відео",
+   "u": "https://www.youtube.com/watch?v=2PNQaWYvGHI",
+   "x": "Правозащитник и блогер Марк Фейгин @FeyginLive на стриме со Станиславом Белковским @BelkovskiyS обсудили главные новости в мире. В частности, после саммита Азиатско-Тихоокеанского экономического сотрудничества китайский…",
+   "i": "https://i3.ytimg.com/vi/2PNQaWYvGHI/hqdefault.jpg",
+   "d": "2026-11-24T04:15:00+00:00",
+   "c": [
+    "video"
+   ],
+   "v": 1
+  },
+  {
+   "t": "Науседа підтримав 22-й пакет санкцій ЄС, зокрема заборону для російських спортсменів",
+   "s": "Інтерфакс-Україна",
+   "u": "https://interfax.com.ua/news/general/1241234.html",
+   "x": "Президент Литви Гітанас Науседа заявив, що підтримує запропонований Єврокомісією 22-й пакет санкцій проти Росії.",
+   "d": "2026-11-24T04:14:53+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Двоє загиблих і 22 поранених: Росія завдала руйнівних ударів по Запоріжжю",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/udar-po-zaporizhzhyu-24-listopada-dvoye-zagiblih-ponad-20-postrazhdalih_n3213251",
+   "x": "Російські війська в ніч проти 24 листопада атакували Запоріжжя, внаслідок чого двоє людей загинули, а 22 дістали поранення. Серед травмованих опинилися двоє дітей віком 6 та 16 років.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3213251.jpg?v=1795493188000&q=100",
+   "d": "2026-11-24T04:14:00+00:00",
+   "c": [
+    "holovne",
+    "viyna"
+   ],
+   "r": [
+    "zaporizhzhia"
+   ]
+  },
   {
    "t": "Внаслідок атаки на Запоріжжя загинули двоє людей, 22 поранено – ОВА",
    "s": "Інтерфакс-Україна",
@@ -1145,6 +1205,17 @@
    ]
   },
   {
+   "t": "«Брентфорд» Ярмолюка розгромив «Евертон» Миколенка у першому українському «дербі» сезону в АПЛ",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sport/1456646-brentford-armoluka-rozgromiv-everton-mikolenka-u-persomu-ukrainskomu-derbi-sezonu-v-apl/",
+   "x": "«Брентфорд» переміг «Евертон» у матчі англійської Прем'єр-ліги з рахунком 3:0. Обидва українці — Єгор Ярмолюк та Віталій Миколенко — розпочали зустріч у стартових складах своїх команд",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-23T22:12:30+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "Росія запустила нові групи БпЛА: у яких областях є небезпека",
    "s": "24 Канал",
    "u": "https://24tv.ua/ataka-dronami-24-listopada-kudi-letyat-shahedi-karta-trivog-novini_n3213168",
@@ -1166,21 +1237,6 @@
    "c": [
     "holovne",
     "viyna"
-   ]
-  },
-  {
-   "t": "Найгарячіша ділянка — Покровська. Фронт Донеччини та Луганщини 24 листопада 2026 року",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/donbas/1441931-najgaracisa-dilanka-pokrovska-front-doneccini-ta-lugansini-24-listopada-2026-roku/",
-   "x": "Хроніка боїв на фронті в Донецькій та Луганській областях, дані Генштабу у листопаді 2026, мапа і ситуація на фронті, чи захопили Костянтинівку, що на Покровському напрямку, звільнення біля Лимана — фото, відео…",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-23T22:06:47+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "donetsk",
-    "luhansk"
    ]
   },
   {
@@ -1294,6 +1350,17 @@
    ]
   },
   {
+   "t": "«ХІТ» з перемоги стартував у плейоф Ліги чемпіонів з футзалу: результат",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sport/1456644-hit-rozpocav-plej-of-ligi-cempioniv-z-futzalu-peremogou-nad-italijskim-l84/",
+   "x": "Чемпіон України з футзалу «ХІТ» провів перший матч 1/8 фіналу Ліги чемпіонів проти італійського клубу L84, у виїзному поєдинку українці мінімально перемогли завдяки голу Олександра Педяша",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-23T21:45:09+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "Уряд доручив містам пришвидшити встановлення резервного живлення на водоканалах і підготувати підвезення води – Корецький",
    "s": "Інтерфакс-Україна",
    "u": "https://interfax.com.ua/news/general/1241222.html",
@@ -1334,17 +1401,6 @@
    "d": "2026-11-23T21:40:00+00:00",
    "c": [
     "statti"
-   ]
-  },
-  {
-   "t": "У Бельгії тисячі людей вийшли на протест проти реформ уряду",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1456624-u-belgii-tisaci-ludej-vijsli-na-protest-proti-reform-uradu/",
-   "x": "Акція мала на меті прискорити переговори уряду щодо федерального бюджету, а також виступити проти низки урядових реформ, зокрема, пенсійної",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-23T21:34:37+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
@@ -1599,6 +1655,17 @@
    ],
    "r": [
     "volyn"
+   ]
+  },
+  {
+   "t": "Призер Олімпіади Понсілуома пропустить старт Кубка світу з біатлону: його замінить дебютант",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sport/1456633-prizer-olimpiadi-ponsiluoma-propustit-start-kubka-svitu-z-biatlonu-jogo-zaminit-debutant/",
+   "x": "Шведський біатлоніст Мартін Понсілуома не виступить на стартовому етапі Кубка світу сезону-2026/27 у фінському Контіолахті, спортсмен знявся зі змагань з особистих причин. Його місце у складі збірної Швеції займе…",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-23T21:10:00+00:00",
+   "c": [
+    "holovne"
    ]
   },
   {
@@ -2146,20 +2213,6 @@
    ]
   },
   {
-   "t": "На фронті загинув військовий з селища Черкаське Сергій Агапов",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/donbas/1456631-na-fronti-zaginuv-vijskovij-z-selisa-cerkaske-sergij-agapov/",
-   "x": "На фронті загинув військовий з селища Черкаське Сергій Агапов. У чоловіка батько та донька. Про це повідомляє Черкаська селищна військова адміністрація",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-23T20:21:32+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "cherkasy"
-   ]
-  },
-  {
    "t": "😲СРАЗУ после ВСТРЕЧИ в Китае! Это ОБРАЩЕНИЕ Симоньян РАЗОРВАЛО СЕТЬ. Путин ОБАЛДЕЛ от услышанного",
    "s": "24 Канал · відео",
    "u": "https://www.youtube.com/watch?v=y1O9lNPEnKc",
@@ -2231,6 +2284,17 @@
    ]
   },
   {
+   "t": "Яннік Сіннер ризикує пропустити Australian Open-2027: у чому причина",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sport/1456629-annik-sinner-rizikue-propustiti-australian-open-2027-u-comu-pricina/",
+   "x": "Друга ракетка світу Яннік Сіннер перенесе операцію на правому коліні у Фінляндії. Через хірургічне втручання спортсмен, імовірно, пропустить Australian Open-2027 в січні",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-23T20:13:49+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "МЗС Лівії засудило операції України проти російських кораблів біля Бенгазі",
    "s": "Інтерфакс-Україна",
    "u": "https://interfax.com.ua/news/general/1241218.html",
@@ -2261,17 +2325,6 @@
    "d": "2026-11-23T20:13:00+00:00",
    "c": [
     "statti"
-   ]
-  },
-  {
-   "t": "«Брентфорд» Ярмолюка розгромив «Евертон» Миколенка у першому українському «дербі» сезону в АПЛ",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/sport/1456646-brentford-armoluka-rozgromiv-everton-mikolenka-u-persomu-ukrainskomu-derbi-sezonu-v-apl/",
-   "x": "«Брентфорд» переміг «Евертон» у матчі англійської Прем'єр-ліги з рахунком 3:0. Обидва українці — Єгор Ярмолюк та Віталій Миколенко — розпочали зустріч у стартових складах своїх команд",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-23T20:12:30+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
@@ -2350,6 +2403,21 @@
    "d": "2026-11-23T20:09:00+00:00",
    "c": [
     "holovne"
+   ]
+  },
+  {
+   "t": "Найгарячіша ділянка — Покровська. Фронт Донеччини та Луганщини 24 листопада 2026 року",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/donbas/1441931-najgaracisa-dilanka-pokrovska-front-doneccini-ta-lugansini-24-listopada-2026-roku/",
+   "x": "Хроніка боїв на фронті в Донецькій та Луганській областях, дані Генштабу у листопаді 2026, мапа і ситуація на фронті, чи захопили Костянтинівку, що на Покровському напрямку, звільнення біля Лимана — фото, відео…",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-23T20:06:47+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "donetsk",
+    "luhansk"
    ]
   },
   {
@@ -2607,17 +2675,6 @@
    "v": 1
   },
   {
-   "t": "«ХІТ» з перемоги стартував у плейоф Ліги чемпіонів з футзалу: результат",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/sport/1456644-hit-rozpocav-plej-of-ligi-cempioniv-z-futzalu-peremogou-nad-italijskim-l84/",
-   "x": "Чемпіон України з футзалу «ХІТ» провів перший матч 1/8 фіналу Ліги чемпіонів проти італійського клубу L84, у виїзному поєдинку українці мінімально перемогли завдяки голу Олександра Педяша",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-23T19:45:09+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "«Це рівнозначно оголошенню війни»: Президентська рада Лівії звинуватила Україну в терактах",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/WORLD/tse-rivnoznachno-oholoshennju-vijni-prezidentska-rada-liviji-zvinuvatila-ukrajinu-v-teraktakh.html",
@@ -2759,6 +2816,17 @@
    "x": "Член Президентської ради Лівії Муса аль-Куні звинуватив Україну в порушенні суверенітету країни через атаки на російські кораблі в порту Бенгазі. Він назвав ці дії рівнозначними оголошенню війни",
    "i": "https://cdn4.suspilne.media/images/default.jpg",
    "d": "2026-11-23T19:35:01+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "У Бельгії тисячі людей вийшли на протест проти реформ уряду",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1456624-u-belgii-tisaci-ludej-vijsli-na-protest-proti-reform-uradu/",
+   "x": "Акція мала на меті прискорити переговори уряду щодо федерального бюджету, а також виступити проти низки урядових реформ, зокрема, пенсійної",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-23T19:34:37+00:00",
    "c": [
     "holovne"
    ]
@@ -3062,17 +3130,6 @@
    "v": 1,
    "r": [
     "kyivska"
-   ]
-  },
-  {
-   "t": "Призер Олімпіади Понсілуома пропустить старт Кубка світу з біатлону: його замінить дебютант",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/sport/1456633-prizer-olimpiadi-ponsiluoma-propustit-start-kubka-svitu-z-biatlonu-jogo-zaminit-debutant/",
-   "x": "Шведський біатлоніст Мартін Понсілуома не виступить на стартовому етапі Кубка світу сезону-2026/27 у фінському Контіолахті, спортсмен знявся зі змагань з особистих причин. Його місце у складі збірної Швеції займе…",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-23T19:10:00+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
@@ -4010,6 +4067,20 @@
    ]
   },
   {
+   "t": "На фронті загинув військовий з селища Черкаське Сергій Агапов",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/donbas/1456631-na-fronti-zaginuv-vijskovij-z-selisa-cerkaske-sergij-agapov/",
+   "x": "На фронті загинув військовий з селища Черкаське Сергій Агапов. У чоловіка батько та донька. Про це повідомляє Черкаська селищна військова адміністрація",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-23T18:21:32+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "cherkasy"
+   ]
+  },
+  {
    "t": "⚡️Краще сядьте! МЕЛАНІЯ ПІДІРВАЛА ЕФІР новиною по Україні. НЕ ПОВІРИТЕ, що оголосили у США",
    "s": "24 Канал · відео",
    "u": "https://www.youtube.com/watch?v=L_plUNeqrWY",
@@ -4121,17 +4192,6 @@
    ],
    "r": [
     "kyiv"
-   ]
-  },
-  {
-   "t": "Яннік Сіннер ризикує пропустити Australian Open-2027: у чому причина",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/sport/1456629-annik-sinner-rizikue-propustiti-australian-open-2027-u-comu-pricina/",
-   "x": "Друга ракетка світу Яннік Сіннер перенесе операцію на правому коліні у Фінляндії. Через хірургічне втручання спортсмен, імовірно, пропустить Australian Open-2027 в січні",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-23T18:13:49+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
@@ -14995,50 +15055,6 @@
    "x": "Голова Великописарівської громади Людмила Бірюкова розповіла про ситуацію у Великій Писарівці та навколишніх селах. Нині тут залишається до півтори тисячі людей з десяти",
    "i": "https://cdn4.suspilne.media/images/default.jpg",
    "d": "2026-11-23T10:14:57+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
-   "t": "Понад 12 тисяч евакуйованих: у Британії зірвали концерт через невідому речовину",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/britaniyi-zirvali-kontsert-cherez-nevidomu-rechovinu-detali-intsidentu_n3212702",
-   "x": "У Манчестері 22 листопада екстрено зупинили концерт американського репера Дона Толівера через невідому хімічну сполуку в повітрі. Понад 50 глядачів звернулися за медичною допомогою з ураженням очей і дихання.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3212702.jpg?v=1795428405000&q=100",
-   "d": "2026-11-23T10:13:10+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
-   "t": "Російська ядерна зброя може опинитися в космосі вже за кілька тижнів",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/tech/rosiyskiy-yaderniy-suputnik-mozhe-opinitisya-orbiti-nayblizhchimi_n3212658",
-   "x": "Західні розвідувальні служби попереджають, що Росія може вивести на орбіту супутник із ядерною боєголовкою найближчими тижнями. Відповідне попередження нещодавно отримали кілька країн НАТО.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3212658.jpg?v=1795425890000&q=100",
-   "d": "2026-11-23T10:13:00+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
-   "t": "Нацбанк скоротив валютні інтервенції на 18% за тиждень",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/ECONOMICS/natsbank-skorotiv-valjutni-interventsiji-na-18-za-tizhden.html",
-   "x": "За тиждень регулятор витратив на валютні інтервенції $1,46 млрд. Водночас попит на валюту з боку бізнесу та населення знизився, а офіційний курс долара опустився на 37 копійок.",
-   "i": "https://zn.ua/img/article/7050/2_main.webp",
-   "d": "2026-11-23T10:12:39+00:00",
-   "c": [
-    "statti"
-   ]
-  },
-  {
-   "t": "Дрони атакували Ростовську область та Пермський край РФ: під ударом могли опинитися два НПЗ",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1456298-droni-atakuvali-rostovsku-oblast-ta-permskij-kraj-rf-pid-udarom-mogli-opinitisa-dva-npz/",
-   "x": "Вночі дрони атакували Ростовську область та Пермський край Росії. За попередніми даними, під ударом опинилися Новошахтинський завод нафтопродуктів та «ЛУКОЙЛ-Пермнафтооргсинтез» (ПНОС)",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-23T10:12:24+00:00",
    "c": [
     "holovne"
    ]
