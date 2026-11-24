@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T03:20:41+00:00",
+ "updated": "2026-11-24T03:31:01+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -397,18 +397,56 @@
      "u": "https://zn.ua/ukr/ECONOMICS/urjad-doruchiv-mistam-pidhotuvatisja-do-perebojiv-iz-vodopostachannjam-cherez-rosijski-udari.html"
     },
     {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/23/8064311/"
-    },
-    {
      "s": "Суспільне",
      "u": "https://suspilne.media/1456645-urad-uhvaliv-risenna-dla-minimizacii-pereboiv-roboti-vodopostacanna-i-kanalizacii-pid-cas-obstriliv/"
+    },
+    {
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/23/8064311/"
     }
    ],
    "d": "2026-11-23T23:09:00+00:00"
   }
  ],
  "items": [
+  {
+   "t": "Від Динамо до історичних рекордів: як Іван Шарій став легендою українського футболу",
+   "s": "24 Канал",
+   "u": "https://sportnews.24tv.ua/ivan-shariy-shho-vidomo-pro-legendarnogo-ukrayinskogo-futbolista_n2958355",
+   "x": "Іван Шарій один із видатних представників українського футболу минулого покоління. Вихованець полтавської школи залишив за собою великий слід в історії вітчизняного спорту.",
+   "i": "https://24tv.ua/resources/photos/news/202511/2958355.jpg?v=1763983249000&q=100",
+   "d": "2026-11-24T03:30:00+00:00",
+   "c": [
+    "holovne",
+    "sport"
+   ],
+   "r": [
+    "poltava"
+   ]
+  },
+  {
+   "t": "Від ранніх кол-центрів до оборонки – невідоме з бізнесу Давида Арахамії",
+   "s": "Українська правда",
+   "u": "https://www.pravda.com.ua/articles/2026/11/24/8064291/",
+   "x": "Друга людина за впливом у країні після президента. \"Єрмак 2.0\". Голова фракції \"Слуга Народу\", якого називають \"директором парламенту\".",
+   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/8/962840/48212c7941a91fd465a8ef5be8adf9a1.jpeg",
+   "d": "2026-11-24T03:30:00+00:00",
+   "c": [
+    "statti"
+   ]
+  },
+  {
+   "t": "Поки той маніпулює і ображається на Європу: політолог розкрив, як треба говорити з Путіним",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/yak-povoditisya-putinim-peregovorah-poyasnennya-politologa-fesenka_n3213079",
+   "x": "Російський диктатор Володимир Путін зациклився на антиукраїнських комплексах та образах на Захід, вдало маніпулюючи прагненням США до миру. Він продовжує використовувати тему переговорів як тактичну гру, аби уникнути…",
+   "i": "https://24tv.ua/resources/photos/news/202611/3213079.jpg?v=1795451281000&q=100",
+   "d": "2026-11-24T03:26:00+00:00",
+   "c": [
+    "holovne",
+    "viyna"
+   ]
+  },
   {
    "t": "Не в Україні: де навчалася донька Віталія Кличка",
    "s": "24 Канал",
@@ -443,7 +481,7 @@
    ]
   },
   {
-   "t": "Російські обстріли Запоріжжя та області 24 листопада: що відомо",
+   "t": "Російські обстріли Запоріжжя та області 24 листопада: є поранені",
    "s": "Суспільне",
    "u": "https://suspilne.media/zaporizhzhia/1456656-rosijski-obstrili-zaporizza-ta-oblasti-24-listopada-so-vidomo/",
    "x": "Головні новини Запоріжжя та області 24 листопада 2026 року: обстріли та події, що відбуваються сьогодні в регіоні та на фронті, в одному матеріалі від редакції Суспільного",
@@ -830,6 +868,17 @@
    ]
   },
   {
+   "t": "Fontaines D.C.: головний рок-гурт сучасності? Постпанк, Ірландія і «Улісс»",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/culture/1456651-fontaines-dc-golovnij-rok-gurt-sucasnosti-postpank-irlandia-i-uliss/",
+   "x": "Любити Батьківщину, як Fontaines D.C, Dopamine Chamber від Fontaines D.C.: могло бути краще? Огляд гурту та нового альбому, як Fontaines D.C стали головним рок-гуртом нашого часу.",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-23T22:40:59+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "Дрон РФ залетів до Польщі під час атаки по Україні: його не збивали",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/24/8064315/",
@@ -861,6 +910,20 @@
    "d": "2026-11-23T22:36:00+00:00",
    "c": [
     "statti"
+   ]
+  },
+  {
+   "t": "«Одіссея ~ Меотида» — тисячолітня історія, яка зараз повторюється в Україні?",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/culture/1456649-odissea-meotida-tisacolitna-istoria-aka-zaraz-povtoruetsa-v-ukraini/",
+   "x": "«Одіссея ~ Меотида» — як вистава розповідає про Маріуполь та повернення українських воїнів, чому варто дивитися виставу в Театрі Франка.",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-23T22:33:23+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "donetsk"
    ]
   },
   {
@@ -1033,6 +1096,17 @@
    ]
   },
   {
+   "t": "Уряд ухвалив рішення для мінімізації перебоїв роботи водопостачання і каналізації під час обстрілів",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1456645-urad-uhvaliv-risenna-dla-minimizacii-pereboiv-roboti-vodopostacanna-i-kanalizacii-pid-cas-obstriliv/",
+   "x": "Корецький повідомив, що уряд ухвалив низку додаткових заходів для стабілізації водопостачання та роботи каналізації у великих містах у відповідь на зміну тактики російського терору",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-23T22:00:34+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "Уроки мови: як сказати українською \"со всеми удобствами\"",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/UKRAINE/uroki-movi-jak-skazati-ukrajinskoju-so-vsemi-udobstvami.html",
@@ -1183,17 +1257,6 @@
    "d": "2026-11-23T21:40:00+00:00",
    "c": [
     "statti"
-   ]
-  },
-  {
-   "t": "У Бельгії тисячі людей вийшли на протест проти реформ уряду",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1456624-u-belgii-tisaci-ludej-vijsli-na-protest-proti-reform-uradu/",
-   "x": "Акція мала на меті прискорити переговори уряду щодо федерального бюджету, а також виступити проти низки урядових реформ, зокрема, пенсійної",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-23T21:34:37+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
@@ -1741,6 +1804,20 @@
    ]
   },
   {
+   "t": "Сили оборони завдали ударів по військовим обʼєктам та особовому складу армії РФ на ТОТ Запорізької області",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/zaporizhzhia/1456530-sili-oboroni-zavdali-udariv-po-vijskovim-obektam-ta-osobovomu-skladu-armii-rf-na-tot-zaporizkoi-oblasti/",
+   "x": "Сили оборони України уразили місце зосередження особового складу, пункт управліннян безпілотниками та склад російської армії на ТОТ Запорізької області",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-23T20:49:13+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "zaporizhzhia"
+   ]
+  },
+  {
    "t": "Пеллегріні назвав ганебним голосування депутатів Фіцо проти повернення українських дітей",
    "s": "24 Канал",
    "u": "https://24tv.ua/pellegrini-rozkritikuvav-deputativ-fitso-za-golosuvannya-proti_n3213202",
@@ -1812,17 +1889,6 @@
    "d": "2026-11-23T20:44:00+00:00",
    "c": [
     "statti"
-   ]
-  },
-  {
-   "t": "Fontaines D.C.: головний рок-гурт сучасності? Постпанк, Ірландія і «Улісс»",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/culture/1456651-fontaines-dc-golovnij-rok-gurt-sucasnosti-postpank-irlandia-i-uliss/",
-   "x": "Любити Батьківщину, як Fontaines D.C, Dopamine Chamber від Fontaines D.C.: могло бути краще? Огляд гурту та нового альбому, як Fontaines D.C стали головним рок-гуртом нашого часу.",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-23T20:40:59+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
@@ -1927,20 +1993,6 @@
    "d": "2026-11-23T20:35:20+00:00",
    "c": [
     "holovne"
-   ]
-  },
-  {
-   "t": "«Одіссея ~ Меотида» — тисячолітня історія, яка зараз повторюється в Україні?",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/culture/1456649-odissea-meotida-tisacolitna-istoria-aka-zaraz-povtoruetsa-v-ukraini/",
-   "x": "«Одіссея ~ Меотида» — як вистава розповідає про Маріуполь та повернення українських воїнів, чому варто дивитися виставу в Театрі Франка.",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-23T20:33:23+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "donetsk"
    ]
   },
   {
@@ -2293,17 +2345,6 @@
    "v": 1
   },
   {
-   "t": "Уряд ухвалив рішення для мінімізації перебоїв роботи водопостачання і каналізації під час обстрілів",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1456645-urad-uhvaliv-risenna-dla-minimizacii-pereboiv-roboti-vodopostacanna-i-kanalizacii-pid-cas-obstriliv/",
-   "x": "Корецький повідомив, що уряд ухвалив низку додаткових заходів для стабілізації водопостачання та роботи каналізації у великих містах у відповідь на зміну тактики російського терору",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-23T20:00:34+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "Не поспішайте позбуватися старих євро: чи зобов'язані банки приймати такі купюри",
    "s": "24 Канал",
    "u": "https://financy.24tv.ua/obmin-starih-yevro-banku-yaki-kupyuri-zobovyazani-priymati-ukrayini_n3213096",
@@ -2619,6 +2660,17 @@
    "x": "Член Президентської ради Лівії Муса аль-Куні звинуватив Україну в порушенні суверенітету країни через атаки на російські кораблі в порту Бенгазі. Він назвав ці дії рівнозначними оголошенню війни",
    "i": "https://cdn4.suspilne.media/images/default.jpg",
    "d": "2026-11-23T19:35:01+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "У Бельгії тисячі людей вийшли на протест проти реформ уряду",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1456624-u-belgii-tisaci-ludej-vijsli-na-protest-proti-reform-uradu/",
+   "x": "Акція мала на меті прискорити переговори уряду щодо федерального бюджету, а також виступити проти низки урядових реформ, зокрема, пенсійної",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-23T19:34:37+00:00",
    "c": [
     "holovne"
    ]
@@ -3325,20 +3377,6 @@
    ],
    "r": [
     "cherkasy"
-   ]
-  },
-  {
-   "t": "Сили оборони завдали ударів по військовим обʼєктам та особовому складу армії РФ на ТОТ Запорізької області",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/zaporizhzhia/1456530-sili-oboroni-zavdali-udariv-po-vijskovim-obektam-ta-osobovomu-skladu-armii-rf-na-tot-zaporizkoi-oblasti/",
-   "x": "Сили оборони України уразили місце зосередження особового складу, пункт управліннян безпілотниками та склад російської армії на ТОТ Запорізької області",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-23T18:49:13+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "zaporizhzhia"
    ]
   },
   {
@@ -14995,48 +15033,6 @@
    "d": "2026-11-23T10:04:35+00:00",
    "c": [
     "holovne"
-   ]
-  },
-  {
-   "t": "Собака Кеш допоміг поліцейським розшукати зниклу 13-річну дівчину на Хмельниччині",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/khmelnytskiy/1456273-sobaka-kes-dopomig-policejskim-rozsukati-zniklu-13-ricnu-divcinu-na-hmelniccini/",
-   "x": "Житель одного із сіл Камʼянець-Подільської громади, що на Хмельниччині, повідомив поліцію про зникнення 13-річної доньки. Її не було вдома ніч. Зв'язок із нею був відсутній. Розшукати дівчину поліцейським допоміг…",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-23T10:04:07+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "khmelnytskyi"
-   ]
-  },
-  {
-   "t": "На Вінниччині у трьох ДТП загинули двоє людей, ще двоє травмувалися",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/vinnytsia/1456333-na-vinniccini-u-troh-dtp-zaginuli-dvoe-ludej-se-dvoe-travmuvalisa/",
-   "x": "На Вінниччині 22 листопада сталися три ДТП. У Корделівці та на об'їзній Калинівки загинули двоє людей, а поблизу Гриненок травмувалися водій BMW та 17-річний пасажир. Поліція відкрила кримінальні провадження.",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-23T10:03:37+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "vinnytsia"
-   ]
-  },
-  {
-   "t": "У Чернівцях знайшли власників аварійних будинків на вулиці Вокзальній: що далі",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/chernivtsi/1456253-u-cernivcah-znajsli-vlasnikiv-avarijnih-budinkiv-na-vulici-vokzalnij-so-dali/",
-   "x": "У Чернівцях визначили власників будинків №5, 7, 9 та 11 на вулиці Вокзальній, які перебувають в аварійному або незадовільному стані",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-23T10:02:49+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "chernivtsi"
    ]
   }
  ]
