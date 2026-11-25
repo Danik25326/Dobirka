@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T22:50:42+00:00",
+ "updated": "2026-11-25T23:01:18+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -374,6 +374,27 @@
    "d": "2026-11-25T10:46:00+00:00"
   },
   {
+   "t": "У Пентагоні кажуть, що нарощують виробництво ракет Patriot",
+   "u": "https://www.pravda.com.ua/news/2026/11/26/8064708/",
+   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/0/964614/50b51da668d8af91fae088c4e7c9c530.jpeg",
+   "n": 3,
+   "l": [
+    {
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/26/8064708/"
+    },
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/geopolitics/pentagon-naroshhuye-virobnitstvo-raket-patriot-zaluchat-do-tsogo_n3214731"
+    },
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/1457563-u-pentagoni-zaavili-so-narosuut-virobnictvo-sistem-patriot/"
+    }
+   ],
+   "d": "2026-11-25T22:37:00+00:00"
+  },
+  {
    "t": "\"Шахтар\" програв третій поспіль матч у Лізі чемпіонів",
    "u": "https://zn.ua/ukr/SPORT/shakhtar-prohrav-tretij-match-pospil-u-lizi-chempioniv.html",
    "i": "https://zn.ua/img/article/7057/29_main.webp",
@@ -393,30 +414,23 @@
     }
    ],
    "d": "2026-11-25T22:05:00+00:00"
-  },
-  {
-   "t": "Меланія Трамп оголосила про повернення до родин ще дев’ятьох дітей — WP",
-   "u": "https://zn.ua/ukr/usa/melanija-tramp-oholosila-pro-povernennja-do-rodin-shche-devjatokh-ditej-wp.html",
-   "i": "https://zn.ua/img/article/7057/27_main.webp",
-   "n": 3,
-   "l": [
-    {
-     "s": "ZN.UA",
-     "u": "https://zn.ua/ukr/usa/melanija-tramp-oholosila-pro-povernennja-do-rodin-shche-devjatokh-ditej-wp.html"
-    },
-    {
-     "s": "Суспільне",
-     "u": "https://suspilne.media/1457458-melania-tramp-zaavila-pro-povernenna-devatoh-ditej-do-ukraini-ta-rosii/"
-    },
-    {
-     "s": "Європейська правда",
-     "u": "https://www.eurointegration.com.ua/news/2026/11/25/7250798/"
-    }
-   ],
-   "d": "2026-11-25T21:52:00+00:00"
   }
  ],
  "items": [
+  {
+   "t": "Ірландський глинозем для РФ: Київ закликав до заборони, Єврокомісія пропонує звітність",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/europe/irlandskij-hlinozem-dlja-rf-kijiv-zaklikav-do-zaboroni-jevrokomisija-proponuje-zvitnist.html",
+   "x": "Брюссель хоче з’ясувати, чи отримують виробники зброї для Москви алюміній із цієї сировини.",
+   "i": "https://zn.ua/img/article/7057/37_main.webp",
+   "d": "2026-11-25T22:56:00+00:00",
+   "c": [
+    "statti"
+   ],
+   "r": [
+    "kyiv"
+   ]
+  },
   {
    "t": "До чотирьох зросла кількість постраждалих внаслідок атаки на Київ, двоє у тяжкому стані – Кличко",
    "s": "Інтерфакс-Україна",
@@ -425,6 +439,21 @@
    "d": "2026-11-25T22:49:17+00:00",
    "c": [
     "holovne"
+   ],
+   "r": [
+    "kyiv"
+   ]
+  },
+  {
+   "t": "Росіяни атакували Київ балістикою: постраждали 4 людини",
+   "s": "Українська правда",
+   "u": "https://www.pravda.com.ua/news/2026/11/26/8064709/",
+   "x": "Внаслідок російської атаки на Київ пізно ввечері 25 листопада постражадали 4 людей, двоє з них – у тяжкому стані.",
+   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/5/964664/253813bd492912f715055828ed2a32f8.jpeg",
+   "d": "2026-11-25T22:49:00+00:00",
+   "c": [
+    "holovne",
+    "vazhlyve"
    ],
    "r": [
     "kyiv"
@@ -465,7 +494,18 @@
    "s": "Інтерфакс-Україна",
    "u": "https://interfax.com.ua/news/general/1242507.html",
    "x": "Спецпредставник США Джаред Кушнер вважає, що гарантії безпеки для України, подібні до статті 5 Статуту НАТО, стали б вагомим кроком уперед навіть без членства країни в Альянсі.",
+   "i": "https://media.interfax.com.ua/media/thumbs/images/2026/11/mmfyn/78vLPdypiWjW.jpg",
    "d": "2026-11-25T22:40:36+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "У Пентагоні кажуть, що нарощують виробництво ракет Patriot",
+   "s": "Українська правда",
+   "u": "https://www.pravda.com.ua/news/2026/11/26/8064708/",
+   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/0/964614/50b51da668d8af91fae088c4e7c9c530.jpeg",
+   "d": "2026-11-25T22:37:00+00:00",
    "c": [
     "holovne"
    ]
@@ -871,7 +911,6 @@
    "t": "У Польщі повідомили про різке скорочення кількості нелегальних мігрантів зі сторони Білорусі",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/25/8064704/",
-   "i": "https://img.eurointegration.com.ua/images/doc/5/b/5bbad59-poland-resize.png",
    "d": "2026-11-25T21:15:00+00:00",
    "c": [
     "holovne",
@@ -2018,17 +2057,6 @@
    ]
   },
   {
-   "t": "У Польщі повідомляють, що чоловік, який підпалив себе у Варшаві, є українцем",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/25/7250830/",
-   "x": "Польський сенатор Гжегож Схетина заявив, що чоловік, який 25 листопада підпалив себе біля Президентського палацу у Варшаві, є українцем.",
-   "i": "https://img.eurointegration.com.ua/images/doc/e/f/ef9d64e-screenshot-2026-11-25-214433.png",
-   "d": "2026-11-25T19:49:00+00:00",
-   "c": [
-    "polityka"
-   ]
-  },
-  {
    "t": "Суд скасував підозру детективу НАБУ, якого звинувачували в приховуванні квартири",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/anticorruption/sud-skasuvav-pidozru-detektivu-nabu-jakoho-zvinuvachuvali-v-prikhovuvanni-kvartiri.html",
@@ -2037,6 +2065,17 @@
    "d": "2026-11-25T19:49:00+00:00",
    "c": [
     "statti"
+   ]
+  },
+  {
+   "t": "У Польщі повідомляють, що чоловік, який підпалив себе у Варшаві, є українцем",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/25/7250830/",
+   "x": "Польський сенатор Гжегож Схетина заявив, що чоловік, який 25 листопада підпалив себе біля Президентського палацу у Варшаві, є українцем.",
+   "i": "https://img.eurointegration.com.ua/images/doc/e/f/ef9d64e-screenshot-2026-11-25-214433.png",
+   "d": "2026-11-25T19:49:00+00:00",
+   "c": [
+    "polityka"
    ]
   },
   {
@@ -3906,6 +3945,16 @@
    "v": 1
   },
   {
+   "t": "ШІ, дрони та лід: у США фермери мусять рятувати плантації журавлини",
+   "s": "Українська правда. Життя",
+   "u": "https://life.pravda.com.ua/food/yak-klimat-ta-pogoda-zavazhayut-viroshchuvati-zhuravlinu-u-ssha-319321/",
+   "i": "https://imglife.pravda.com.ua/life/images/doc/3/b/150940/3b85ec0900a033d0af1fe4a80a1d717f.jpeg?w=390&q=90&f=jpeg",
+   "d": "2026-11-25T17:30:00+00:00",
+   "c": [
+    "zhyttia"
+   ]
+  },
+  {
    "t": "ЗМІ: На тлі звинувачень проти Кос Словенія вимагає від Сербії відкрити архіви спецслужб Югославії",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/25/8064669/",
@@ -3914,16 +3963,6 @@
    "d": "2026-11-25T17:30:00+00:00",
    "c": [
     "holovne"
-   ]
-  },
-  {
-   "t": "ШІ, дрони та лід: у США фермери мусять рятувати плантації журавлини",
-   "s": "Українська правда. Життя",
-   "u": "https://life.pravda.com.ua/food/yak-klimat-ta-pogoda-zavazhayut-viroshchuvati-zhuravlinu-u-ssha-319321/",
-   "i": "https://imglife.pravda.com.ua/life/images/doc/3/b/150940/3b85ec0900a033d0af1fe4a80a1d717f.jpeg?w=390&q=90&f=jpeg",
-   "d": "2026-11-25T17:30:00+00:00",
-   "c": [
-    "zhyttia"
    ]
   },
   {
@@ -15014,42 +15053,6 @@
     "holovne",
     "vazhlyve",
     "viyna"
-   ]
-  },
-  {
-   "t": "Прем’єр Латвії пообіцяв \"важливі новини\" щодо українського зерна",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/25/7250766/",
-   "x": "Найближчим часом можна очікувати \"важливих новин\" щодо перевезення українського зерна.",
-   "i": "https://img.eurointegration.com.ua/images/doc/c/9/c928142-e0d30191-bf9d-4f11-a78f-a96aa17727df.jpg",
-   "d": "2026-11-25T09:00:00+00:00",
-   "c": [
-    "polityka"
-   ]
-  },
-  {
-   "t": "Війська РФ просунулися на трьох напрямках — DeepState",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/war/705505-vijska-rf-prosunulisja-na-trokh-naprjamkakh-deepstate.html",
-   "x": "Окупанти тиснуть на українські позиції на сході та півдні.",
-   "i": "https://zn.ua/img/article/7055/5_main.webp",
-   "d": "2026-11-25T08:58:52+00:00",
-   "c": [
-    "statti"
-   ]
-  },
-  {
-   "t": "Росія знову атакувала енергетику: знеструмлення у п'яти областях, ЗАЕС втратила зовнішнє живлення",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1457222-rosia-znovu-atakuvala-energetiku-znestrumlenna-u-pati-oblastah-zaes-vtratila-zovnisne-zivlenna/",
-   "x": "Внаслідок російських атак на енергетичну інфраструктуру 25 листопада зафіксували нові знеструмлення у п'яти областях України, а Запорізька АЕС перейшла на живлення від дизель-генераторів",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-25T08:56:26+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "zaporizhzhia"
    ]
   }
  ]
