@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T05:50:50+00:00",
+ "updated": "2026-11-25T06:01:12+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -158,11 +158,15 @@
  ],
  "top": [
   {
-   "t": "Зеленський заявив про позитивні результати зустрічі з Мадяром",
-   "u": "https://www.pravda.com.ua/news/2026/11/24/8064488/",
-   "i": "https://24tv.ua/resources/photos/news/202611/3213415.jpg?v=1795512407000&q=100",
+   "t": "Зеленський і Мадяр зустрілися на Закарпатті, Лукашенко запросив Зеленського у Москву: новини ранку 25 листопада",
+   "u": "https://suspilne.media/1457128-zelenskij-i-madar-zustrilisa-na-zakarpatti-lukasenko-zaprosiv-zelenskogo-u-moskvu-novini-ranku-25-listopada/",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
    "n": 6,
    "l": [
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/1457128-zelenskij-i-madar-zustrilisa-na-zakarpatti-lukasenko-zaprosiv-zelenskogo-u-moskvu-novini-ranku-25-listopada/"
+    },
     {
      "s": "Українська правда",
      "u": "https://www.pravda.com.ua/news/2026/11/24/8064488/"
@@ -182,13 +186,9 @@
     {
      "s": "Інтерфакс-Україна",
      "u": "https://interfax.com.ua/news/general/1241663.html"
-    },
-    {
-     "s": "Суспільне",
-     "u": "https://suspilne.media/1456978-zelenskij-ta-premer-ugorsini-madar-zustrilis-v-uzgorodi/"
     }
    ],
-   "d": "2026-11-24T18:02:00+00:00"
+   "d": "2026-11-25T05:59:15+00:00"
   },
   {
    "t": "Британія попередила компанії, які допомагають Україні, про загрозу російських диверсій",
@@ -280,12 +280,12 @@
      "u": "https://www.eurointegration.com.ua/news/2026/11/25/7250747/"
     },
     {
-     "s": "ZN.UA",
-     "u": "https://zn.ua/ukr/WORLD/u-turechchini-rozbivsja-vijskovij-vertolit-zahinuli-pjatero-vijskovikh.html"
-    },
-    {
      "s": "Суспільне",
      "u": "https://suspilne.media/1457117-u-tureccini-rozbivsa-drugij-za-misac-vijskovij-gelikopter-patero-zagiblih/"
+    },
+    {
+     "s": "ZN.UA",
+     "u": "https://zn.ua/ukr/WORLD/u-turechchini-rozbivsja-vijskovij-vertolit-zahinuli-pjatero-vijskovikh.html"
     },
     {
      "s": "Українська правда",
@@ -370,31 +370,6 @@
    "d": "2026-11-24T13:26:00+00:00"
   },
   {
-   "t": "До України екстрадували офіцера 211-ї понтонно-мостової бригади, якого підозрюють у катуванні підлеглих",
-   "u": "https://zn.ua/ukr/war/do-ukrajini-ekstraduvali-ofitsera-211-ji-pontonno-mostovoji-brihadi-jakoho-pidozrjujut-u-katuvanni-pidlehlikh.html",
-   "i": "https://zn.ua/img/article/7053/11_main.webp",
-   "n": 4,
-   "l": [
-    {
-     "s": "ZN.UA",
-     "u": "https://zn.ua/ukr/war/do-ukrajini-ekstraduvali-ofitsera-211-ji-pontonno-mostovoji-brihadi-jakoho-pidozrjujut-u-katuvanni-pidlehlikh.html"
-    },
-    {
-     "s": "Інтерфакс-Україна",
-     "u": "https://interfax.com.ua/news/general/1241438.html"
-    },
-    {
-     "s": "Суспільне",
-     "u": "https://suspilne.media/ternopil/1456803-z-moldovi-ekstraduvali-oficera-z-ternopilsini-akogo-pidozruut-u-katuvanni-pidleglih/"
-    },
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/24/8064370/"
-    }
-   ],
-   "d": "2026-11-24T12:03:00+00:00"
-  },
-  {
    "t": "Мадяр чекає, що Україна виконає домовленості щодо меншин на пів року раніше",
    "u": "https://www.pravda.com.ua/news/2026/11/25/8064515/",
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/c/c/963816/cc0ecb63077a6da115b34f65e95a55be.jpeg",
@@ -414,9 +389,143 @@
     }
    ],
    "d": "2026-11-24T23:47:00+00:00"
+  },
+  {
+   "t": "Зеленський заявив, що Гегсет блокує передачу Україні 48 ракет для Patriot",
+   "u": "https://zn.ua/ukr/POLITICS/zelenskij-zajaviv-shcho-hehset-blokuje-peredachu-ukrajini-48-raket-dlja-patriot.html",
+   "i": "https://zn.ua/img/article/7054/27_main.webp",
+   "n": 3,
+   "l": [
+    {
+     "s": "ZN.UA",
+     "u": "https://zn.ua/ukr/POLITICS/zelenskij-zajaviv-shcho-hehset-blokuje-peredachu-ukrajini-48-raket-dlja-patriot.html"
+    },
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/1457122-akso-hocut-peredati-60-mi-tilki-za-zelenskij-pro-peredacu-raket-patriot-ukraini/"
+    },
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/zelenskiy-poyasniv-chomu-ukrayina-dosi-ne-otrimala-48-raket-dlya_n3213992"
+    }
+   ],
+   "d": "2026-11-24T23:32:00+00:00"
   }
  ],
  "items": [
+  {
+   "t": "😅Цей ЖАРТ Зеленського на ЗУСТРІЧІ із Мадяром ПОРВАВ МЕРЕЖУ! #shorts",
+   "s": "24 Канал · відео",
+   "u": "https://www.youtube.com/shorts/ZroAEfl8NQg",
+   "x": "24 Канал запускає подкасти! Шукайте нас на різних, зручних для вас платформах: https://linktr.ee/podcast24tv.ua #24канал #новини​ #новости #війнавукраїні2026 #войнавукраине2026​ #новиниукраїни #новостиукраины…",
+   "i": "https://i3.ytimg.com/vi/ZroAEfl8NQg/hqdefault.jpg",
+   "d": "2026-11-25T06:00:04+00:00",
+   "c": [
+    "video"
+   ],
+   "v": 1
+  },
+  {
+   "t": "До -9 градусів та майже всюди сніг: яку погоду чекати найближчим часом",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/pogoda-ukrayini-25-27-listopada-2026-nasuvayutsya-snig-morozi_n3214017",
+   "x": "В Україні 25 – 27 листопада очікуються сніг, ожеледиця на дорогах і пориви вітру. Температура повітря місцями опуститься до -9 градусів.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3214017.jpg?v=1795558948000&q=100",
+   "d": "2026-11-25T06:00:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Пенсія за вислугу років: хто має право на дострокові виплати у грудні",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/economy/pensiya-za-vislugu-rokiv-hto-mozhe-viyti-zasluzheniy-vidpochinok_n3213983",
+   "x": "Частина українців має законне право забути про роботу задовго до настання офіційного пенсійного віку. Проте для отримання таких привілеїв слід виконати кілька суворих умов.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3213983.jpg?v=1795549881000&q=100",
+   "d": "2026-11-25T06:00:00+00:00",
+   "c": [
+    "holovne",
+    "ekonomika"
+   ]
+  },
+  {
+   "t": "\"Є пікантний момент\": інтерв'ю з Денисенком про удар біля Лівії та нові проблеми для росіян",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/udari-po-rosiyskih-npz-portah-liviyi-yakiy-vpliv-mayut-ataki_n3213538",
+   "x": "Керівник аналітичного центру «Ділова столиця» Вадим Денисенко в ексклюзивному інтерв'ю для 24 Каналу проаналізував наслідки українських атак на російські кораблі в Середземному морі та удари по НПЗ.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3213538.jpg?v=1795536106000&q=100",
+   "d": "2026-11-25T06:00:00+00:00",
+   "c": [
+    "holovne",
+    "vazhlyve",
+    "viyna"
+   ]
+  },
+  {
+   "t": "Зеленський і Мадяр зустрілися на Закарпатті, Лукашенко запросив Зеленського у Москву: новини ранку 25 листопада",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1457128-zelenskij-i-madar-zustrilisa-na-zakarpatti-lukasenko-zaprosiv-zelenskogo-u-moskvu-novini-ranku-25-listopada/",
+   "x": "Мадяр відвідав Закарпаття; Україна та Норвегія запустили та масштабують засіб ППО DESNA; Зеленський: Україні потрібно 115 мільярдів євро на 2027 рік, щоб вистояти; Оголосили лонгліст учасників нацвідбору…",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-25T05:59:15+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "zakarpattia"
+   ]
+  },
+  {
+   "t": "За добу російська армія била по 17 населених пунктах Сумщини: загинув чоловік, зруйнований будинок",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sumy/1457140-za-dobu-rosijska-armia-bila-po-17-naselenih-punktah-sumsini-zaginuv-colovik-zrujnovanij-budinok/",
+   "x": "За добу російська армія обстріляла 17 населених пунктів Сумщини. Внаслідок атак загинув чоловік, зруйнований житловий будинок, написали в ОВА",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-25T05:56:45+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "sumy"
+   ]
+  },
+  {
+   "t": "На війні загинув 44-річний сапер із Вінниці Віталій Кондратюк",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/vinnytsia/1457139-na-vijni-zaginuv-44-ricnij-saper-iz-vinnici-vitalij-kondratuk/",
+   "x": "У Вінниці 25 листопада прощаються із 44-річним сапером Віталієм Кондратюком. Військовий 16-го окремого полку підтримки загинув 10 листопада під час виконання бойового завдання поблизу Степногірська на Запоріжжі",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-25T05:54:57+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "vinnytsia"
+   ]
+  },
+  {
+   "t": "\"Що він хоче від мене\": Трамп посміявся зі слів Зеленського про мир до січня",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/zayava-pro-mirnu-ugodu-do-sichnya-do-skazav-tramp_n3214037",
+   "x": "Президент США Дональд Трамп зі сміхом відкинув заяву Володимира Зеленського про прагнення завершити війну до січня. Очільник Білого дому наголосив, що не встановлював жодних часових рамок для мирної угоди.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3214037.jpg?v=1795585916000&q=100",
+   "d": "2026-11-25T05:54:00+00:00",
+   "c": [
+    "holovne",
+    "viyna"
+   ]
+  },
+  {
+   "t": "Чиновники адміністрації Трампа обговорюють можливість ліквідації іранських лідерів — NBC News",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/WORLD/chinovniki-administratsiji-trampa-obhovorjujut-mozhlivist-likvidatsiji-iranskikh-lideriv-nbc-news.html",
+   "x": "Операція проти лідерів іранського режиму вимагатиме високоточної розвідінформації, яка має бути достатньо детальною та надійною.",
+   "i": "https://zn.ua/img/article/7054/63_main.webp",
+   "d": "2026-11-25T05:53:00+00:00",
+   "c": [
+    "statti"
+   ]
+  },
   {
    "t": "Прогноз погоди 25 листопада у Рівному та області",
    "s": "Суспільне",
@@ -457,6 +566,18 @@
    ],
    "r": [
     "kherson"
+   ]
+  },
+  {
+   "t": "Трамп розсміявся на слова Зеленського про мирну угоду до січня: \"Що він хоче, щоб я зробив?\"",
+   "s": "Українська правда",
+   "u": "https://www.pravda.com.ua/news/2026/11/25/8064529/",
+   "x": "Дональд Трамп прокоментував слова Володимира Зеленського про ініціативу представників США щодо мирної угоди з РФ і закликав до швидкого завершення війни.",
+   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/d/f/963868/dfe704216347bc939a45e81e56dd9dbe.jpeg",
+   "d": "2026-11-25T05:49:00+00:00",
+   "c": [
+    "holovne",
+    "vazhlyve"
    ]
   },
   {
@@ -644,7 +765,6 @@
    "t": "КНДР вислала посла Швейцарії через санкції, пов’язані з викраденими з України дітьми",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/25/8064528/",
-   "i": "https://img.eurointegration.com.ua/images/doc/c/e/ce01d09-2026-07-28t032732z-429349381-rc2lmmauyy82-rtrmadp-3-northkorea-politics-1.jpg",
    "d": "2026-11-25T05:33:00+00:00",
    "c": [
     "holovne",
@@ -701,17 +821,6 @@
    ]
   },
   {
-   "t": "В катастрофі військового вертольота в Туреччині загинули 5 солдатів",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/25/7250747/",
-   "x": "П’ятеро військовослужбовців загинули в результаті аварії вертольота AS-532 турецьких ВПС під час навчального польоту після зльоту з центральної провінції Ескішехір.",
-   "i": "https://img.eurointegration.com.ua/images/doc/6/a/6a90610-471902.jpg",
-   "d": "2026-11-25T05:25:00+00:00",
-   "c": [
-    "polityka"
-   ]
-  },
-  {
    "t": "Ілон Маск перекладає провину за обмеження Starshield в Україні — The Economist",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/war/ilon-mask-vidkhreshchujetsja-vid-obmezhen-starshield-v-ukrajini-the-economist.html",
@@ -720,6 +829,17 @@
    "d": "2026-11-25T05:25:00+00:00",
    "c": [
     "statti"
+   ]
+  },
+  {
+   "t": "В катастрофі військового вертольота в Туреччині загинули 5 солдатів",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/25/7250747/",
+   "x": "П’ятеро військовослужбовців загинули в результаті аварії вертольота AS-532 турецьких ВПС під час навчального польоту після зльоту з центральної провінції Ескішехір.",
+   "i": "https://img.eurointegration.com.ua/images/doc/6/a/6a90610-471902.jpg",
+   "d": "2026-11-25T05:25:00+00:00",
+   "c": [
+    "polityka"
    ]
   },
   {
@@ -823,6 +943,20 @@
    ]
   },
   {
+   "t": "Російські обстріли Запоріжжя та області 25 листопада: що відомо",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/zaporizhzhia/1457130-rosijski-obstrili-zaporizza-ta-oblasti-25-listopada-so-vidomo/",
+   "x": "Головні новини Запоріжжя та області 25 листопада 2026 року: обстріли та події, що відбуваються сьогодні в регіоні та на фронті, в одному матеріалі від редакції Суспільного",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-25T05:09:54+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "zaporizhzhia"
+   ]
+  },
+  {
    "t": "Росіяни вранці з дрона поцілили по маршрутці на Харківщині: одна людина загинула",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/25/8064526/",
@@ -885,6 +1019,20 @@
     "video"
    ],
    "v": 1
+  },
+  {
+   "t": "Від невеликих опадів до морозу: погода на Миколаївщині 25 листопада",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/mykolaiv/1457097-vid-nevelikih-opadiv-do-morozu-pogoda-na-mikolaivsini-25-listopada/",
+   "x": "Якою буде погода на Миколаївщині 25 листопада: прогнозують мінливу хмарність, місцями невеликі опади та до +8°С вдень. Уночі температура опуститься нижче нул",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-25T05:00:00+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "mykolaiv"
+   ]
   },
   {
    "t": "Криптовалюта для бізнесу в Україні: чи можна приймати оплату в USDT і платити ним зарплату",
@@ -1137,16 +1285,6 @@
    ]
   },
   {
-   "t": "Страшніше за вимкнення світла. Що робити в разі поломки генератора",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/energetika/remont-generatoriv-rinok-cini-ta-popit-u-biznesu-ta-naselennya-828005/",
-   "x": "В Україні за чотири роки сформувався новий великий ринок – ремонту та обслуговування генераторів. Скільки на цьому заробляють?",
-   "d": "2026-11-25T04:00:00+00:00",
-   "c": [
-    "ekonomika"
-   ]
-  },
-  {
    "t": "Побачити слона у кімнаті: чому активісти критикують Одеський зоопарк, а проблеми не зникають попри протести",
    "s": "Українська правда. Життя",
    "u": "https://life.pravda.com.ua/society/chomu-aktivisti-protestuyut-cherez-odeskiy-zoopark-319294/",
@@ -1157,6 +1295,16 @@
    ],
    "r": [
     "odesa"
+   ]
+  },
+  {
+   "t": "Страшніше за вимкнення світла. Що робити в разі поломки генератора",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/energetika/remont-generatoriv-rinok-cini-ta-popit-u-biznesu-ta-naselennya-828005/",
+   "x": "В Україні за чотири роки сформувався новий великий ринок – ремонту та обслуговування генераторів. Скільки на цьому заробляють?",
+   "d": "2026-11-25T04:00:00+00:00",
+   "c": [
+    "ekonomika"
    ]
   },
   {
@@ -1194,20 +1342,6 @@
    ]
   },
   {
-   "t": "Російські обстріли Запоріжжя та області 25 листопада: що відомо",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/zaporizhzhia/1457130-rosijski-obstrili-zaporizza-ta-oblasti-25-listopada-so-vidomo/",
-   "x": "Головні новини Запоріжжя та області 25 листопада 2026 року: обстріли та події, що відбуваються сьогодні в регіоні та на фронті, в одному матеріалі від редакції Суспільного",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-25T03:09:54+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "zaporizhzhia"
-   ]
-  },
-  {
    "t": "Марадона чи Мессі: хто насправді більша легенда в Аргентині",
    "s": "24 Канал",
    "u": "https://sportnews.24tv.ua/diyego-maradona-lionel-messi-hto-bilsha-legenda-argentini_n3213820",
@@ -1217,20 +1351,6 @@
    "c": [
     "holovne",
     "sport"
-   ]
-  },
-  {
-   "t": "Від невеликих опадів до морозу: погода на Миколаївщині 25 листопада",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/mykolaiv/1457097-vid-nevelikih-opadiv-do-morozu-pogoda-na-mikolaivsini-25-listopada/",
-   "x": "Якою буде погода на Миколаївщині 25 листопада: прогнозують мінливу хмарність, місцями невеликі опади та до +8°С вдень. Уночі температура опуститься нижче нул",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-25T03:00:00+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "mykolaiv"
    ]
   },
   {
@@ -1778,6 +1898,20 @@
    ]
   },
   {
+   "t": "Лукашенко запропонував поїхати з Зеленським у Москву до Путіна: президент відповів",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1457121-lukasenko-zaproponuvav-poihati-z-zelenskim-u-moskvu-do-putina-prezident-vidpoviv/",
+   "x": "Олександр Лукашенко запропонував президенту України Володимиру Зеленському поїхати з ним до очільника Кремля Володимира Путіна у Москву. Зеленський, своєю чергою, покликав їх у Київ",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-24T22:17:34+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kyiv"
+   ]
+  },
+  {
    "t": "Політичної волі для боротьби з топкорупцією в Україні немає — керівник САП Клименко",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/anticorruption/politichnoji-voli-dlja-borotbi-z-topkoruptsijeju-v-ukrajini-nemaje-kerivnik-sap-klimenko.html",
@@ -2237,6 +2371,17 @@
    ]
   },
   {
+   "t": "У Туреччині розбився другий за місяць військовий гелікоптер: п'ятеро загиблих",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1457117-u-tureccini-rozbivsa-drugij-za-misac-vijskovij-gelikopter-patero-zagiblih/",
+   "x": "Інцидент стався в центральній турецькій провінції Ескішехір, коли гелікоптер здійснював навчальний політ. На місці події тривають пошуково-рятувальні роботи",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-24T21:06:01+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "Удар по російському корвету \"Меркурій\": ЗМІ назвали ім'я першого загиблого члена екіпажу",
    "s": "24 Канал",
    "u": "https://24tv.ua/ukrayinski-droni-atakuvali-korvetmerkuriy-liviyi-stalo-vidomo_n3214000",
@@ -2368,18 +2513,6 @@
    ]
   },
   {
-   "t": "Український форвард Жирони потрапив у мовний скандал",
-   "s": "24 Канал",
-   "u": "https://sportnews.24tv.ua/oleksandr-pishhur-ukrayinskiy-napadnik-zhironi-potrapiv-movniy_n3214005",
-   "x": "Український нападник Олександр Пищур опинився в центрі уваги після зустрічі з уболівальниками Жирони. Футболіст спілкувався з фанатами російською мовою, що викликало неоднозначну реакцію.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3214005.jpg?v=1795553480000&q=100",
-   "d": "2026-11-24T20:57:00+00:00",
-   "c": [
-    "holovne",
-    "sport"
-   ]
-  },
-  {
    "t": "Законні цілі у будь-якому порту: політолог пояснив удари по кораблях Росії біля Лівії",
    "s": "24 Канал",
    "u": "https://24tv.ua/zakonna-tsil-skriz-politolog-roznis-skargi-rf-udari-po-korablyah_n3213955",
@@ -2387,8 +2520,20 @@
    "i": "https://24tv.ua/resources/photos/news/202611/3213955.jpg?v=1795553654000&q=100",
    "d": "2026-11-24T20:57:00+00:00",
    "c": [
-    "holovne",
-    "viyna"
+    "viyna",
+    "holovne"
+   ]
+  },
+  {
+   "t": "Український форвард Жирони потрапив у мовний скандал",
+   "s": "24 Канал",
+   "u": "https://sportnews.24tv.ua/oleksandr-pishhur-ukrayinskiy-napadnik-zhironi-potrapiv-movniy_n3214005",
+   "x": "Український нападник Олександр Пищур опинився в центрі уваги після зустрічі з уболівальниками Жирони. Футболіст спілкувався з фанатами російською мовою, що викликало неоднозначну реакцію.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3214005.jpg?v=1795553480000&q=100",
+   "d": "2026-11-24T20:57:00+00:00",
+   "c": [
+    "sport",
+    "holovne"
    ]
   },
   {
@@ -2906,20 +3051,6 @@
    ]
   },
   {
-   "t": "Лукашенко запропонував поїхати з Зеленським у Москву до Путіна: президент відповів",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1457121-lukasenko-zaproponuvav-poihati-z-zelenskim-u-moskvu-do-putina-prezident-vidpoviv/",
-   "x": "Олександр Лукашенко запропонував президенту України Володимиру Зеленському поїхати з ним до очільника Кремля Володимира Путіна у Москву. Зеленський, своєю чергою, покликав їх у Київ",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-24T20:17:34+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "kyiv"
-   ]
-  },
-  {
    "t": "Ціна зросла у 77 разів: у Карпатах продали будинок на аукціоні за 7 мільйонів",
    "s": "24 Канал",
    "u": "https://24tv.ua/realestate24/budinok-karpatah-za-7-milyoniv-griven-yak-vin-viglyadaye-shho_n3213988",
@@ -3008,6 +3139,20 @@
    ],
    "r": [
     "cherkasy"
+   ]
+  },
+  {
+   "t": "Дзюдоїсти Сумщини здобули сім медалей на чемпіонаті України серед кадетів",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sumy/1457114-dzudoisti-sumsini-zdobuli-sim-medalej-na-cempionati-ukraini-sered-kadetiv/",
+   "x": "Чемпіонат України з дзюдо серед молодших кадетів до 17 років відбувся 23–24 листопада у Львові. У змаганнях взяли участь 37 дзюдоїстів із Сумщини. Вони вибороли сім медалей",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-24T20:12:39+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "sumy"
    ]
   },
   {
@@ -3926,17 +4071,6 @@
    ],
    "r": [
     "ternopil"
-   ]
-  },
-  {
-   "t": "У Туреччині розбився другий за місяць військовий гелікоптер: п'ятеро загиблих",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1457117-u-tureccini-rozbivsa-drugij-za-misac-vijskovij-gelikopter-patero-zagiblih/",
-   "x": "Інцидент стався в центральній турецькій провінції Ескішехір, коли гелікоптер здійснював навчальний політ. На місці події тривають пошуково-рятувальні роботи",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-24T19:06:01+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
@@ -4888,20 +5022,6 @@
    ]
   },
   {
-   "t": "Дзюдоїсти Сумщини здобули сім медалей на чемпіонаті України серед кадетів",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/sumy/1457114-dzudoisti-sumsini-zdobuli-sim-medalej-na-cempionati-ukraini-sered-kadetiv/",
-   "x": "Чемпіонат України з дзюдо серед молодших кадетів до 17 років відбувся 23–24 листопада у Львові. У змаганнях взяли участь 37 дзюдоїстів із Сумщини. Вони вибороли сім медалей",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-24T18:12:39+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "sumy"
-   ]
-  },
-  {
    "t": "Якою буде погода на Херсонщині 25 листопада",
    "s": "Суспільне",
    "u": "https://suspilne.media/kherson/1457006-akou-bude-pogoda-na-hersonsini-25-listopada-3/",
@@ -5179,6 +5299,17 @@
    ]
   },
   {
+   "t": "У Туреччині вдруге за місяць розбився військовий вертоліт",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/24/7250735/",
+   "x": "Міністерство оборони Туреччини повідомило у вівторок, що військовий вертоліт розбився неподалік від центральної провінції Ескішехір.",
+   "i": "https://img.eurointegration.com.ua/images/doc/c/7/c75585a-rnethaf-eurocopter-as532-cougar-at-riat-2010-arp.jpg",
+   "d": "2026-11-24T18:00:00+00:00",
+   "c": [
+    "polityka"
+   ]
+  },
+  {
    "t": "Виплати при народженні дитини: чи отримають українці більше грошей з 1 грудня",
    "s": "24 Канал",
    "u": "https://24tv.ua/economy/dopomoga-pri-narodzhenni-ditini-yaki-viplati-diyatimut-grudni_n3213614",
@@ -5188,17 +5319,6 @@
    "c": [
     "ekonomika",
     "holovne"
-   ]
-  },
-  {
-   "t": "У Туреччині вдруге за місяць розбився військовий вертоліт",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/24/7250735/",
-   "x": "Міністерство оборони Туреччини повідомило у вівторок, що військовий вертоліт розбився неподалік від центральної провінції Ескішехір.",
-   "i": "https://img.eurointegration.com.ua/images/doc/c/7/c75585a-rnethaf-eurocopter-as532-cougar-at-riat-2010-arp.jpg",
-   "d": "2026-11-24T18:00:00+00:00",
-   "c": [
-    "polityka"
    ]
   },
   {
@@ -15022,131 +15142,6 @@
    ],
    "r": [
     "donetsk"
-   ]
-  },
-  {
-   "t": "З Молдови екстрадували офіцера, якого підозрюють у знущаннях над військовими",
-   "s": "Українська правда",
-   "u": "https://www.pravda.com.ua/news/2026/11/24/8064370/",
-   "x": "З Молдови в Україну екстрадували старшого лейтенанта ЗСУ Владислава Пастуха, якого підозрюють у систематичному катуванні підлеглих під час будівництва фортифікаційних споруд.",
-   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/3/963216/93935e76b214fd097671ac8f152b0d8f.jpeg",
-   "d": "2026-11-24T10:25:00+00:00",
-   "c": [
-    "vazhlyve",
-    "holovne"
-   ]
-  },
-  {
-   "t": "\"Попереду мало бути ціле життя\": в Димері через атаку загинули мама з дочкою та 18-річний юнак",
-   "s": "Українська правда. Життя",
-   "u": "https://life.pravda.com.ua/society/u-dimeri-cherez-ataku-rf-zaginuli-mama-z-11-richnoyu-dochkoyu-319271/",
-   "i": "https://imglife.pravda.com.ua/life/images/doc/0/d/150713/0d8d1a3d4db31c29e43d727eb2a7d5d3.jpeg?w=390&q=90&f=jpeg",
-   "d": "2026-11-24T10:24:00+00:00",
-   "c": [
-    "zhyttia"
-   ]
-  },
-  {
-   "t": "Частина України в обмін на 5-ту статтю НАТО: Кушнер розкрив деталі переговорів із Росією",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/kushner-proponuvav-rosiyi-teritoriyi-ukrayini-obmin-5-statti_n3213451",
-   "x": "Спецпосланець США Джаред Кушнер обговорював з Росією відмову Києва від територій в обмін на гарантії безпеки за зразком НАТО. Водночас у Кремлі категорично заперечили готовність до подібних домовленостей.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3213451.jpg?v=1795515729000&q=100",
-   "d": "2026-11-24T10:23:00+00:00",
-   "c": [
-    "vazhlyve",
-    "viyna",
-    "holovne"
-   ],
-   "r": [
-    "kyiv"
-   ]
-  },
-  {
-   "t": "Часть Украины в обмен на 5-ю статью НАТО: Кушнер раскрыл детали переговоров с Россией",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/ru/kushner-predlagal-rossii-territorii-ukrainy-v-obmen-na-5-statej-dlja-kieva_n3213492",
-   "x": "Специальный посланник США Джаред Кушнер обсуждал с Россией отказ Киева от территорий в обмен на гарантии безопасности по образцу НАТО. В то же время в Кремле категорически опровергли готовность к подобным…",
-   "i": "https://24tv.ua/resources/photos/news/202611/3213492.jpg?v=1795515729000&q=100",
-   "d": "2026-11-24T10:23:00+00:00",
-   "c": [
-    "vazhlyve",
-    "viyna"
-   ]
-  },
-  {
-   "t": "Зняла й опублікувала відео з місцем розташування військових ЗСУ: жительці Дніпропетровщини повідомили про підозру",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/dnipro/1456793-znala-j-opublikuvala-video-z-miscem-roztasuvanna-vijskovih-zsu-zitelci-dnipropetrovsini-povidomili-pro-pidozru/",
-   "x": "Перебуваючи в селищі Дослідне Дніпровського району, жінка за допомогою мобільного телефону зняла відео, на яке потрапили українські військові та місе їхньої дислокації",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-24T10:23:00+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "dnipro"
-   ]
-  },
-  {
-   "t": "Справа про \"відкати\" у Полтаві: НАБУ і САП оголосили підозру 11-му фігуранту",
-   "s": "Українська правда",
-   "u": "https://www.pravda.com.ua/news/2026/11/24/8064368/",
-   "x": "Національне антикорупційне бюро та Спеціалізована антикорупційна прокуратура повідомили про підозру ще одному посадовцю Полтавської міської ради у справі щодо схеми систематичного вимагання \"відкатів\" від підрядників…",
-   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/f/963217/8fcbcd6cccd9237ae33d532680129689.jpeg",
-   "d": "2026-11-24T10:21:00+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "poltava"
-   ]
-  },
-  {
-   "t": "Український скелетоніст показав найкращий час на тренуванні перед першим етапом Кубка світу: результати",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/sport/1456804-ukrainskij-skeletonist-pokazav-najkrasij-cas-na-trenuvanni-pered-persim-etapom-kubka-svitu-rezultati/",
-   "x": "Владислав Гераскевич: український скелетоніст показав найкращий час на тренуванні перед першим етапом Кубка світу, з яким часом Гераскевич подолав дистанцію і що це означає",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-24T10:20:59+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
-   "t": "На Волині травмувалися двоє мотоциклістів і велосипедистка",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/lutsk/1456792-na-volini-travmuvalisa-dvoe-motociklistiv-i-velosipedistka/",
-   "x": "Внаслідок аварій за участю мотоциклістів у селі Корсині та в селищі Любешів на Волині 23 листопада травмувалися троє людей — пенсіонерка і двоє молодих мотоциклістів",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-24T10:20:40+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "volyn"
-   ]
-  },
-  {
-   "t": "🤯ОЗВІРІЛИЙ Лавров НАКИНУВСЯ на Україну! Калінінград ТРЯСЕ ВІД ВИБУХІВ!Росіяни ВИЮТЬ про ВІЙНУ З НАТО",
-   "s": "24 Канал · відео",
-   "u": "https://www.youtube.com/watch?v=BeLztbh776o",
-   "x": "Ведуча 24 Каналу Інна Набок @InnaNabok розповіла про останні події на \"болотах\". Після вибухів у Балтійську, де розташована головна база Балтійського флоту РФ, російські пропагандисти заговорили про можливу війну з НАТО…",
-   "i": "https://i3.ytimg.com/vi/BeLztbh776o/hqdefault.jpg",
-   "d": "2026-11-24T10:20:23+00:00",
-   "c": [
-    "video"
-   ],
-   "v": 1
-  },
-  {
-   "t": "Померла українська сходознавиця та дослідниця буддійського мистецтва Олена Огнєва",
-   "s": "Українська правда. Життя",
-   "u": "https://life.pravda.com.ua/culture/pomerla-ukrajinska-shodoznavicya-i-tibetologinya-olena-ognyeva-319270/",
-   "i": "https://imglife.pravda.com.ua/life/images/doc/7/8/150687/78593c2fc021d47b7ba223361d5a5a24.jpeg?w=390&q=90&f=jpeg",
-   "d": "2026-11-24T10:20:00+00:00",
-   "c": [
-    "zhyttia"
    ]
   }
  ]
