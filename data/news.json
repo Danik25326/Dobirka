@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T00:20:41+00:00",
+ "updated": "2026-11-25T00:30:55+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -362,6 +362,27 @@
    "d": "2026-11-24T23:47:00+00:00"
   },
   {
+   "t": "Зеленський заявив, що Гегсет блокує передачу Україні 48 ракет для Patriot",
+   "u": "https://zn.ua/ukr/POLITICS/zelenskij-zajaviv-shcho-hehset-blokuje-peredachu-ukrajini-48-raket-dlja-patriot.html",
+   "i": "https://zn.ua/img/article/7054/27_main.webp",
+   "n": 3,
+   "l": [
+    {
+     "s": "ZN.UA",
+     "u": "https://zn.ua/ukr/POLITICS/zelenskij-zajaviv-shcho-hehset-blokuje-peredachu-ukrajini-48-raket-dlja-patriot.html"
+    },
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/1457122-akso-hocut-peredati-60-mi-tilki-za-zelenskij-pro-peredacu-raket-patriot-ukraini/"
+    },
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/zelenskiy-poyasniv-chomu-ukrayina-dosi-ne-otrimala-48-raket-dlya_n3213992"
+    }
+   ],
+   "d": "2026-11-24T23:32:00+00:00"
+  },
+  {
    "t": "Працювала перукаркою: СБУ затримала агентку, яка наводила удари по Слов'янську",
    "u": "https://24tv.ua/sbu-zatrimala-perukarku-zi-slovyanska-yaka-koriguvala-udari-rosiyi_n3213490",
    "i": "https://24tv.ua/resources/photos/news/202611/3213490.jpg?v=1795516101000&q=100",
@@ -381,27 +402,6 @@
     }
    ],
    "d": "2026-11-24T22:57:00+00:00"
-  },
-  {
-   "t": "У Туреччині розбився другий за місяць військовий гелікоптер: п'ятеро загиблих",
-   "u": "https://suspilne.media/1457117-u-tureccini-rozbivsa-drugij-za-misac-vijskovij-gelikopter-patero-zagiblih/",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "n": 3,
-   "l": [
-    {
-     "s": "Суспільне",
-     "u": "https://suspilne.media/1457117-u-tureccini-rozbivsa-drugij-za-misac-vijskovij-gelikopter-patero-zagiblih/"
-    },
-    {
-     "s": "ZN.UA",
-     "u": "https://zn.ua/ukr/WORLD/u-turechchini-rozbivsja-vijskovij-vertolit-zahinuli-pjatero-vijskovikh.html"
-    },
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/24/8064491/"
-    }
-   ],
-   "d": "2026-11-24T21:06:01+00:00"
   }
  ],
  "items": [
@@ -447,6 +447,17 @@
    "d": "2026-11-24T23:32:00+00:00",
    "c": [
     "statti"
+   ]
+  },
+  {
+   "t": "«Якщо хочуть передати 60 — ми тільки за»: Зеленський про передачу ракет Patriot Україні",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1457122-akso-hocut-peredati-60-mi-tilki-za-zelenskij-pro-peredacu-raket-patriot-ukraini/",
+   "x": "Президент України Володимир Зеленський підтвердив, що США досі не передали Україні обіцяні Patriot у межах програми PURL: договір не підписав міністр оборони США піт Гегсет",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-24T23:30:51+00:00",
+   "c": [
+    "holovne"
    ]
   },
   {
@@ -937,6 +948,20 @@
    ]
   },
   {
+   "t": "У 13 разів перевищив норму: у Львові нетверезий водій авто скоїв ДТП з автобусом",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/lviv/1457118-u-13-raziv-perevisiv-normu-u-lvovi-netverezij-vodij-avto-skoiv-dtp-z-avtobusom/",
+   "x": "Вдень 24 листопада у Львові, на вулиці Личаківській, водій автомобіля скоїв зіткнення із автобусом №92, після чого в'їхав у припаркований автомобіль. Вміст алкоголю у крові чоловіка був у 13,2 разів вище за норму.",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-24T21:10:34+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "lviv"
+   ]
+  },
+  {
    "t": "Ось, що сказали Зеленський і Мадяр | Назвали зустріч історичною | Перші спільні заяви про Україну",
    "s": "Суспільне Новини · відео",
    "u": "https://www.youtube.com/watch?v=hpXwrbNTNn0",
@@ -1413,6 +1438,21 @@
    ]
   },
   {
+   "t": "«Бабусі мої плакали день і ніч»: як священник з Донеччини відновив прихисток для літніх людей на Закарпатті (відео)",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/donbas/1456995-babusi-moi-plakali-den-i-nic-ak-svasennik-z-doneccini-vidnoviv-prihistok-dla-litnih-ludej-na-zakarpatti-video/",
+   "x": "Три доби в автобусі, два з половиною роки в Румунії та будівництво нового прихистку на Закарпатті. Історія священника та його підопічних",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-24T20:23:05+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "donetsk",
+    "zakarpattia"
+   ]
+  },
+  {
    "t": "Україна може поставити Угорщині певний обсяг кукурудзи – Зеленський",
    "s": "Інтерфакс-Україна",
    "u": "https://interfax.com.ua/news/general/1241809.html",
@@ -1585,17 +1625,6 @@
    "v": 1,
    "r": [
     "zakarpattia"
-   ]
-  },
-  {
-   "t": "Завербувався на війну РФ проти України: у ПАР громадянин Зімбабве отримав умовний термін",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1457111-u-par-gromadanin-zimbabve-otrimav-umovnij-termin-za-obvinuvacennam-u-verbuvanni-na-vijnu-rf-proti-ukraini/",
-   "x": "Засуджений Тафадзва Сітхоле, студент третього курсу Африканського університету Зімбабве, визнав себе винним у порушенні закону ПАР, який забороняє воювати на боці іноземних військ або допомагати їм",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-24T20:10:56+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
@@ -1804,6 +1833,17 @@
    ]
   },
   {
+   "t": "Україна посіла третє місце в медальному заліку чемпіонату Європи з боксу U23: всі нагороди",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sport/1457089-ukraina-posila-trete-misce-v-medalnomu-zaliku-cempionatu-evropi-z-boksu-u23-vsi-nagorodi/",
+   "x": "Збірна України виборола десять медалей на чемпіонаті Європи з боксу серед спортсменів до 23 років, який відбувся у хорватському Поречі, цей результат дозволив «синьо-жовтим» посісти третє місце в медальному заліку.",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-24T20:00:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "Від \"Лебіговича\" до кліпу з Дорофєєвою: хто такий Михайло Лебіга, який зібрав 2,7 мільйона грн",
    "s": "24 Канал",
    "u": "https://24tv.ua/show24/hto-takiy-mihaylo-lebiga-klip-iz-dorofyeyevoyu-memi-zbori-dlya_n3213964",
@@ -1820,17 +1860,6 @@
    "u": "https://financy.24tv.ua/ridkisni-50-kopiyok-1994-roku-yak-prodati-monetu-za-14-000-griven_n3213702",
    "x": "Звичайна на вигляд монета номіналом 50 копійок може виявитися цінною знахідкою для українських нумізматів. За окремий різновид 1994 року колекціонери готові заплатити до 14 000 гривень, однак для цього монета повинна…",
    "i": "https://24tv.ua/resources/photos/news/202611/3213702.jpg?v=1795529560000&q=100",
-   "d": "2026-11-24T20:00:00+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
-   "t": "Україна посіла третє місце в медальному заліку чемпіонату Європи з боксу U23: всі нагороди",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/sport/1457089-ukraina-posila-trete-misce-v-medalnomu-zaliku-cempionatu-evropi-z-boksu-u23-vsi-nagorodi/",
-   "x": "Збірна України виборола десять медалей на чемпіонаті Європи з боксу серед спортсменів до 23 років, який відбувся у хорватському Поречі, цей результат дозволив «синьо-жовтим» посісти третє місце в медальному заліку.",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
    "d": "2026-11-24T20:00:00+00:00",
    "c": [
     "holovne"
@@ -2025,6 +2054,20 @@
    ],
    "r": [
     "kharkiv"
+   ]
+  },
+  {
+   "t": "Боксерка Донеччини Єлизавета Безверхня стала бронзовою призеркою чемпіонату Європи",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/donbas/1457067-bokserka-doneccini-elizaveta-bezverhna-stala-bronzovou-prizerkou-cempionatu-evropi/",
+   "x": "19-річна боксерка з Бахмутської громади Єлизавета Безверхня стала бронзовою призеркою чемпіонату Європи U-23 у Хорватії. Спортсменка виступала у ваговій категорії до 80 кг",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-24T19:43:47+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "donetsk"
    ]
   },
   {
@@ -2293,20 +2336,6 @@
    ],
    "r": [
     "zaporizhzhia"
-   ]
-  },
-  {
-   "t": "У 13 разів перевищив норму: у Львові нетверезий водій авто скоїв ДТП з автобусом",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/lviv/1457118-u-13-raziv-perevisiv-normu-u-lvovi-netverezij-vodij-avto-skoiv-dtp-z-avtobusom/",
-   "x": "Вдень 24 листопада у Львові, на вулиці Личаківській, водій автомобіля скоїв зіткнення із автобусом №92, після чого в'їхав у припаркований автомобіль. Вміст алкоголю у крові чоловіка був у 13,2 разів вище за норму.",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-24T19:10:34+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "lviv"
    ]
   },
   {
@@ -3070,21 +3099,6 @@
    ]
   },
   {
-   "t": "«Бабусі мої плакали день і ніч»: як священник з Донеччини відновив прихисток для літніх людей на Закарпатті (відео)",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/donbas/1456995-babusi-moi-plakali-den-i-nic-ak-svasennik-z-doneccini-vidnoviv-prihistok-dla-litnih-ludej-na-zakarpatti-video/",
-   "x": "Три доби в автобусі, два з половиною роки в Румунії та будівництво нового прихистку на Закарпатті. Історія священника та його підопічних",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-24T18:23:05+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "donetsk",
-    "zakarpattia"
-   ]
-  },
-  {
    "t": "Блокують Patriot і глушать Starlink: аналітик пояснив причину тиску США на Україну",
    "s": "24 Канал",
    "u": "https://24tv.ua/tisk-ssha-ukrayinu-chomu-zatrimuyut-raketi-patriot-obmezhuyut_n3213933",
@@ -3348,6 +3362,17 @@
    "x": "Дорога до одного з найвідоміших гірськолижних курортів Карпат може стати окремим випробуванням для туристів. На шляху до Драгобрату є поворот із незвичною назвою, про який знають чи не всі постійні відвідувачі курорту.",
    "i": "https://24tv.ua/resources/photos/news/202611/3213819.jpg?v=1795537849000&q=100",
    "d": "2026-11-24T18:11:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Завербувався на війну РФ проти України: у ПАР громадянин Зімбабве отримав умовний термін",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1457111-u-par-gromadanin-zimbabve-otrimav-umovnij-termin-za-obvinuvacennam-u-verbuvanni-na-vijnu-rf-proti-ukraini/",
+   "x": "Засуджений Тафадзва Сітхоле, студент третього курсу Африканського університету Зімбабве, визнав себе винним у порушенні закону ПАР, який забороняє воювати на боці іноземних військ або допомагати їм",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-24T18:10:56+00:00",
    "c": [
     "holovne"
    ]
@@ -3914,20 +3939,6 @@
     "video"
    ],
    "v": 1
-  },
-  {
-   "t": "Боксерка Донеччини Єлизавета Безверхня стала бронзовою призеркою чемпіонату Європи",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/donbas/1457067-bokserka-doneccini-elizaveta-bezverhna-stala-bronzovou-prizerkou-cempionatu-evropi/",
-   "x": "19-річна боксерка з Бахмутської громади Єлизавета Безверхня стала бронзовою призеркою чемпіонату Європи U-23 у Хорватії. Спортсменка виступала у ваговій категорії до 80 кг",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-24T17:43:47+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "donetsk"
-   ]
   },
   {
    "t": "Дженсен Хуанг повернувся в офіс Nvidia та пообіцяв, що буде кращим гендиректором",
@@ -15154,20 +15165,6 @@
    "r": [
     "luhansk",
     "kharkiv"
-   ]
-  },
-  {
-   "t": "У Волинському перинатальному центрі — 3000 породілля",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/lutsk/1456758-u-volinskomu-perinatalnomu-centri-3000-porodilla/",
-   "x": "У Волинському обласному перинатальному центрі від початку 2026 року прйняли 3000 пологи. Дівчинка народилася 23 листопада о 14:13. Її вага — 3475 грамів, зріст — 53 см.",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-24T09:07:47+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "volyn"
    ]
   }
  ]
