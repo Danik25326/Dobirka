@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T21:10:45+00:00",
+ "updated": "2026-11-25T21:20:52+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -374,27 +374,6 @@
    "d": "2026-11-25T10:46:00+00:00"
   },
   {
-   "t": "Сєнік: досі невідомо, хто саме ухвалив рішення про обмеження Starshield в Україні",
-   "u": "https://suspilne.media/1457573-senik-dosi-nevidomo-hto-same-uhvaliv-risenna-pro-obmezenna-starshield-v-ukraini/",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "n": 3,
-   "l": [
-    {
-     "s": "Суспільне",
-     "u": "https://suspilne.media/1457573-senik-dosi-nevidomo-hto-same-uhvaliv-risenna-pro-obmezenna-starshield-v-ukraini/"
-    },
-    {
-     "s": "ZN.UA",
-     "u": "https://zn.ua/ukr/UKRAINE/diplomat-pro-obmezhennja-roboti-sistemi-starshield-u-vashinhtoni-dosi-ne-zjasuvali-khto-ukhvaliv-rishennja.html"
-    },
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/25/8064673/"
-    }
-   ],
-   "d": "2026-11-25T20:59:24+00:00"
-  },
-  {
    "t": "\"Шахтар\" — \"Фенербахче\": онлайн-трансляція матчу Ліги чемпіонів",
    "u": "https://zn.ua/ukr/SPORT/shakhtar-fenerbakhche-onlajn-transljatsija-matchu-lihi-chempioniv.html",
    "i": "https://zn.ua/img/article/7050/41_main.webp",
@@ -414,9 +393,39 @@
     }
    ],
    "d": "2026-11-25T20:50:00+00:00"
+  },
+  {
+   "t": "У Пентагоні кажуть, що нарощують виробництво ракет Patriot",
+   "u": "https://www.pravda.com.ua/news/2026/11/25/8064697/",
+   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/0/964614/50b51da668d8af91fae088c4e7c9c530.jpeg",
+   "n": 3,
+   "l": [
+    {
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/25/8064697/"
+    },
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/geopolitics/pentagon-naroshhuye-virobnitstvo-raket-patriot-zaluchat-do-tsogo_n3214731"
+    },
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/1457563-u-pentagoni-zaavili-so-narosuut-virobnictvo-sistem-patriot/"
+    }
+   ],
+   "d": "2026-11-25T20:38:00+00:00"
   }
  ],
  "items": [
+  {
+   "t": "У Польщі повідомили про різке скорочення кількості нелегальних мігрантів зі сторони Білорусі",
+   "s": "Українська правда",
+   "u": "https://www.pravda.com.ua/news/2026/11/25/8064704/",
+   "d": "2026-11-25T21:15:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
   {
    "t": "Засоби РЕБ кодифікуватимуть за 10 днів: уряд змінив правила для виробників",
    "s": "ZN.UA",
@@ -535,17 +544,6 @@
    ]
   },
   {
-   "t": "Сєнік: досі невідомо, хто саме ухвалив рішення про обмеження Starshield в Україні",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1457573-senik-dosi-nevidomo-hto-same-uhvaliv-risenna-pro-obmezenna-starshield-v-ukraini/",
-   "x": "Тимчасовий повірений у справах України в США Денис Сєнік заявив, що досі невідомо, хто ухвалив рішення про обмеження роботи Starshield в Україні. За його словами, це створює додаткові ризики для цивільних",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-25T20:59:24+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "Кушнер похвалив Путіна і визнав глухий кут у питанні територій",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/POLITICS/kushner-pokhvaliv-putina-i-viznav-hlukhij-kut-u-pitanni-teritorij.html",
@@ -592,6 +590,20 @@
    ]
   },
   {
+   "t": "У Звягелі на Житомирщині проводять перший Всеукраїнський студентський чемпіонат з дебатів",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/zhytomyr/1457518-u-zvageli-na-zitomirsini-provodat-persij-vseukrainskij-studentskij-cempionat-z-debativ/",
+   "x": "У Звягелі змагаються 28 команд і 120 студентів із 12 областей. Як проходить перший Всеукраїнський студентський чемпіонат з дебатів",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-25T20:55:35+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "zhytomyr"
+   ]
+  },
+  {
    "t": "У Звягелі на Житомирщині стартував перший Всеукраїнський студентський чемпіонат з дебатів",
    "s": "Суспільне",
    "u": "https://suspilne.media/zhytomyr/1457518-u-zvageli-na-zitomirsini-startuvav-persij-vseukrainskij-studentskij-cempionat-z-debativ/",
@@ -606,7 +618,7 @@
    ]
   },
   {
-   "t": "У Києві пролунали вибухи: РФ атакувала балістикою",
+   "t": "У Києві пролунали вибухи: РФ атакувала балістикою, є влучання",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/25/8064702/",
    "x": "Увечері 25 листопада в Києві пролунали вибухи: РФ атакувала місто балістичним озброєнням.",
@@ -716,6 +728,7 @@
    "d": "2026-11-25T20:49:00+00:00",
    "c": [
     "holovne",
+    "vazhlyve",
     "viyna"
    ],
    "r": [
@@ -980,20 +993,6 @@
    "c": [
     "holovne",
     "vazhlyve"
-   ]
-  },
-  {
-   "t": "Графіки погодинних вимкнень електроенергії на Франківщині 26 листопада",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/ivano-frankivsk/1457512-grafiki-pogodinnih-vimknen-elektroenergii-na-frankivsini-26-listopada/",
-   "x": "26 листопада 2026 року в Івано-Франківську та області діятимуть графіки погодинних вимкнень електроенергії, повідомили у Прикарпаттяобленерго. Упродовж доби світло відключатимуть за різними чергами",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-25T20:23:25+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "ivanofrankivsk"
    ]
   },
   {
@@ -1670,18 +1669,7 @@
    ]
   },
   {
-   "t": "Богдан Кротевич очолить 42 окрему бригаду морської піхоти",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1457572-bogdan-krotevic-ocolit-42-okremu-brigadu-morskoi-pihoti/",
-   "x": "Військовослужбовець, ексначальник штабу 12-ї бригади спецпризначення «Азов» Богдан Кротевич очолить 42-гу окрему бригаду морської піхоти",
-   "i": "https://cdn4.suspilne.media/images/23dca5c79aa74f93.jpg",
-   "d": "2026-11-25T19:42:12+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
-   "t": "⚡️ЗА ОДИН МИГ ВСЕ перевернулось! Когда Путин ОКОНЧИЛ СОВЕЩАНИЕ, ЧИНОВНИКИ потребовали КОНЦА \"СВО\"",
+   "t": "⚡️СРАЗУ ПОСЛЕ БОМБЁЖКИ НПЗ! Путин ОБРАТИЛСЯ к Киеву по \"СВО\". В Москве признали: ПОБЕДЫ НЕ БУДЕТ",
    "s": "24 Канал · відео",
    "u": "https://www.youtube.com/watch?v=9aQBgeJNh-M",
    "x": "Ведущий Олег Белоусов ‪ @oleg_bilousov в своем авторском блоге \"Моноблог про…\" рассказал о последних важных новостях. Александр Лукашенко неожиданно обратился к Владимиру Путину с заявлениями о завершении войны в…",
@@ -2242,6 +2230,17 @@
    ]
   },
   {
+   "t": "Сєнік: досі невідомо, хто саме ухвалив рішення про обмеження Starshield в Україні",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1457573-senik-dosi-nevidomo-hto-same-uhvaliv-risenna-pro-obmezenna-starshield-v-ukraini/",
+   "x": "Тимчасовий повірений у справах України в США Денис Сєнік заявив, що досі невідомо, хто ухвалив рішення про обмеження роботи Starshield в Україні. За його словами, це створює додаткові ризики для цивільних",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-25T18:59:24+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "Ковзанка з видом на водойму: у Львові стартував зимовий сезон в Emily Resort",
    "s": "24 Канал",
    "u": "https://travel.24tv.ua/kovzanka-emily-resort-lvovi-2026-grafik-roboti-tsini-adresa_n3214650",
@@ -2511,21 +2510,6 @@
    ]
   },
   {
-   "t": "Прогноз погоди на 26 листопада для Донецької та Луганської областей",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/donbas/1457110-prognoz-pogodi-na-26-listopada-dla-doneckoi-ta-luganskoi-oblastej/",
-   "x": "За прогнозом Укргідрометцентру, у четвер, 26 листопада, на Донеччині та Луганщині буде хмарно. Температура повітря протягом доби коливатиметься від 1 градусу морозу до 1 градусу тепла, вітер східний та північно-східний",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-25T18:31:42+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "donetsk",
-    "luhansk"
-   ]
-  },
-  {
    "t": "На автодорозі Дергачі — Золочів через удар РФ загинув чоловік",
    "s": "Суспільне",
    "u": "https://suspilne.media/kharkiv/1457557-na-avtodorozi-dergaci-zolociv-cerez-udar-rf-zaginuv-colovik/",
@@ -2689,6 +2673,20 @@
    ],
    "r": [
     "volyn"
+   ]
+  },
+  {
+   "t": "Графіки погодинних вимкнень електроенергії на Франківщині 26 листопада",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/ivano-frankivsk/1457512-grafiki-pogodinnih-vimknen-elektroenergii-na-frankivsini-26-listopada/",
+   "x": "26 листопада 2026 року в Івано-Франківську та області діятимуть графіки погодинних вимкнень електроенергії, повідомили у Прикарпаттяобленерго. Упродовж доби світло відключатимуть за різними чергами",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-25T18:23:25+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "ivanofrankivsk"
    ]
   },
   {
@@ -3327,6 +3325,17 @@
    "x": "Український офіцер зв'язку невдовзі розпочне роботу у Франції для координації спільних розслідувань, українські та французькі поліцейські також розвиватимуть обмін досвідом у викритті наркомереж, протидії відмиванню…",
    "i": "https://media.interfax.com.ua/media/thumbs/images/2025/11/rrolg/aOQJozr6KrzL.jpg",
    "d": "2026-11-25T17:43:09+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Богдан Кротевич очолить 42 окрему бригаду морської піхоти",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1457572-bogdan-krotevic-ocolit-42-okremu-brigadu-morskoi-pihoti/",
+   "x": "Військовослужбовець, ексначальник штабу 12-ї бригади спецпризначення «Азов» Богдан Кротевич очолить 42-гу окрему бригаду морської піхоти",
+   "i": "https://cdn4.suspilne.media/images/23dca5c79aa74f93.jpg",
+   "d": "2026-11-25T17:42:12+00:00",
    "c": [
     "holovne"
    ]
@@ -4449,6 +4458,21 @@
    "d": "2026-11-25T16:33:00+00:00",
    "c": [
     "polityka"
+   ]
+  },
+  {
+   "t": "Прогноз погоди на 26 листопада для Донецької та Луганської областей",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/donbas/1457110-prognoz-pogodi-na-26-listopada-dla-doneckoi-ta-luganskoi-oblastej/",
+   "x": "За прогнозом Укргідрометцентру, у четвер, 26 листопада, на Донеччині та Луганщині буде хмарно. Температура повітря протягом доби коливатиметься від 1 градусу морозу до 1 градусу тепла, вітер східний та північно-східний",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-25T16:31:42+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "donetsk",
+    "luhansk"
    ]
   },
   {
@@ -15029,30 +15053,6 @@
    ],
    "r": [
     "lviv"
-   ]
-  },
-  {
-   "t": "Поляки реагують на дрони РФ",
-   "s": "Суспільне Новини · відео",
-   "u": "https://www.youtube.com/shorts/VSIAxkQsluU",
-   "x": "Громадяни Польщі поділились думками щодо того, що ракети і дрони РФ порушують повітряний простір країни. Раніше оперативне командування Збройних сил Польщі повідомило, що незадовго до опівночі 23 листопада безпілотник…",
-   "i": "https://i3.ytimg.com/vi/VSIAxkQsluU/hqdefault.jpg",
-   "d": "2026-11-25T08:33:29+00:00",
-   "c": [
-    "video"
-   ],
-   "v": 1
-  },
-  {
-   "t": "У Китаї відкрили гігантську 7-метрову статую Кріштіану Роналду",
-   "s": "24 Канал",
-   "u": "https://sportnews.24tv.ua/kitayi-vidkrili-gigantsku-7-metrovu-statuyu-krishtianu-ronaldu_n3214078",
-   "x": "У Китаї вирішили увічнити легенду футболу. Там відкрили гігантську статую Кріштіану Роналду.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3214078.jpg?v=1795595517000&q=100",
-   "d": "2026-11-25T08:33:00+00:00",
-   "c": [
-    "sport",
-    "holovne"
    ]
   }
  ]
