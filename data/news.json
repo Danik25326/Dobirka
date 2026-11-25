@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T02:50:40+00:00",
+ "updated": "2026-11-25T03:01:12+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -387,28 +387,39 @@
    "d": "2026-11-24T23:32:00+00:00"
   },
   {
-   "t": "У Туреччині розбився другий за місяць військовий гелікоптер: п'ятеро загиблих",
-   "u": "https://suspilne.media/1457117-u-tureccini-rozbivsa-drugij-za-misac-vijskovij-gelikopter-patero-zagiblih/",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "t": "Польща вручила послу Росії різку ноту протесту",
+   "u": "https://zn.ua/ukr/europe/polshcha-vruchila-poslu-rosiji-rizku-notu-protestu.html",
+   "i": "https://zn.ua/img/article/7054/3_main.webp",
    "n": 3,
    "l": [
     {
-     "s": "Суспільне",
-     "u": "https://suspilne.media/1457117-u-tureccini-rozbivsa-drugij-za-misac-vijskovij-gelikopter-patero-zagiblih/"
-    },
-    {
      "s": "ZN.UA",
-     "u": "https://zn.ua/ukr/WORLD/u-turechchini-rozbivsja-vijskovij-vertolit-zahinuli-pjatero-vijskovikh.html"
+     "u": "https://zn.ua/ukr/europe/polshcha-vruchila-poslu-rosiji-rizku-notu-protestu.html"
     },
     {
      "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/24/8064491/"
+     "u": "https://www.pravda.com.ua/news/2026/11/24/8064478/"
+    },
+    {
+     "s": "Європейська правда",
+     "u": "https://www.eurointegration.com.ua/news/2026/11/24/7250727/"
     }
    ],
-   "d": "2026-11-24T21:06:01+00:00"
+   "d": "2026-11-24T20:46:00+00:00"
   }
  ],
  "items": [
+  {
+   "t": "25 листопада 1970 – харакірі Юкіо Місіми: чому літературний геній вирішив влаштувати переворот",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/history/yukio-misima-chomu-geniy-literaturi-hotiv-vlashtuvati-perevorot_n3212181",
+   "x": "Цей день назавжди врізався у пам'ять сучасної Японії як найхимерніший симбіоз високого мистецтва та жорстокого політичного перформансу. 25 листопада 1970 року один із найвидатніших письменників світу добровільно…",
+   "i": "https://24tv.ua/resources/photos/news/202611/3212181.jpg?v=1795312748000&q=100",
+   "d": "2026-11-25T02:59:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
   {
    "t": "Пріоритет номер один: генерал США назвав зброю, яка змусить Росію домовлятися",
    "s": "24 Канал",
@@ -609,17 +620,6 @@
    ]
   },
   {
-   "t": "Міністерство транспорту РФ прибрало другу арку Керчинського мосту з офіціних зображень",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1457124-ministerstvo-transportu-rf-pribralo-drugu-arku-kercinskogo-mostu-z-oficinih-zobrazen/",
-   "x": "Російське міністерство транспорту оновило зображення Керчинського мосту на офіційних зображеннях — тепер там зображена тільки одна арка",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-25T01:00:46+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "Безпілотники атакували одразу декілька НПЗ в Росії: спалахнула пожежа",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/25/8064516/",
@@ -795,6 +795,17 @@
    ]
   },
   {
+   "t": "Міністерство транспорту РФ прибрало другу арку Керчинського мосту з офіціних зображень",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1457124-ministerstvo-transportu-rf-pribralo-drugu-arku-kercinskogo-mostu-z-oficinih-zobrazen/",
+   "x": "Російське міністерство транспорту оновило зображення Керчинського мосту на офіційних зображеннях — тепер там зображена тільки одна арка",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-24T23:00:46+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "«Переломить до конца года не получится!» Звинчук и Подоляка о провалах и липовых отчётах",
    "s": "5 канал · відео",
    "u": "https://www.youtube.com/watch?v=O72YYqKBavs",
@@ -954,20 +965,6 @@
    "c": [
     "holovne",
     "viyna"
-   ]
-  },
-  {
-   "t": "Лукашенко запропонував поїхати з Зеленським у Москву до Путіна: президент відповів",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1457121-lukasenko-zaproponuvav-poihati-z-zelenskim-u-moskvu-do-putina-prezident-vidpoviv/",
-   "x": "Олександр Лукашенко запропонував президенту України Володимиру Зеленському поїхати з ним до очільника Кремля Володимира Путіна у Москву. Зеленський, своєю чергою, покликав їх у Київ",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-24T22:17:34+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "kyiv"
    ]
   },
   {
@@ -1390,20 +1387,6 @@
    ]
   },
   {
-   "t": "У 13 разів перевищив норму: у Львові нетверезий водій авто скоїв ДТП з автобусом",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/lviv/1457118-u-13-raziv-perevisiv-normu-u-lvovi-netverezij-vodij-avto-skoiv-dtp-z-avtobusom/",
-   "x": "Вдень 24 листопада у Львові, на вулиці Личаківській, водій автомобіля скоїв зіткнення із автобусом №92, після чого в'їхав у припаркований автомобіль. Вміст алкоголю у крові чоловіка був у 13,2 разів вище за норму.",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-24T21:10:34+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "lviv"
-   ]
-  },
-  {
    "t": "Ось, що сказали Зеленський і Мадяр | Назвали зустріч історичною | Перші спільні заяви про Україну",
    "s": "Суспільне Новини · відео",
    "u": "https://www.youtube.com/watch?v=hpXwrbNTNn0",
@@ -1427,17 +1410,6 @@
    ],
    "r": [
     "ivanofrankivsk"
-   ]
-  },
-  {
-   "t": "У Туреччині розбився другий за місяць військовий гелікоптер: п'ятеро загиблих",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1457117-u-tureccini-rozbivsa-drugij-za-misac-vijskovij-gelikopter-patero-zagiblih/",
-   "x": "Інцидент стався в центральній турецькій провінції Ескішехір, коли гелікоптер здійснював навчальний політ. На місці події тривають пошуково-рятувальні роботи",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-24T21:06:01+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
@@ -2037,21 +2009,6 @@
    ]
   },
   {
-   "t": "«Бабусі мої плакали день і ніч»: як священник з Донеччини відновив прихисток для літніх людей на Закарпатті (відео)",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/donbas/1456995-babusi-moi-plakali-den-i-nic-ak-svasennik-z-doneccini-vidnoviv-prihistok-dla-litnih-ludej-na-zakarpatti-video/",
-   "x": "Три доби в автобусі, два з половиною роки в Румунії та будівництво нового прихистку на Закарпатті. Історія священника та його підопічних",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-24T20:23:05+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "donetsk",
-    "zakarpattia"
-   ]
-  },
-  {
    "t": "Україна може поставити Угорщині певний обсяг кукурудзи – Зеленський",
    "s": "Інтерфакс-Україна",
    "u": "https://interfax.com.ua/news/general/1241809.html",
@@ -2107,6 +2064,20 @@
    ],
    "r": [
     "zakarpattia"
+   ]
+  },
+  {
+   "t": "Лукашенко запропонував поїхати з Зеленським у Москву до Путіна: президент відповів",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1457121-lukasenko-zaproponuvav-poihati-z-zelenskim-u-moskvu-do-putina-prezident-vidpoviv/",
+   "x": "Олександр Лукашенко запропонував президенту України Володимиру Зеленському поїхати з ним до очільника Кремля Володимира Путіна у Москву. Зеленський, своєю чергою, покликав їх у Київ",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-24T20:17:34+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kyiv"
    ]
   },
   {
@@ -2198,20 +2169,6 @@
    ],
    "r": [
     "cherkasy"
-   ]
-  },
-  {
-   "t": "Дзюдоїсти Сумщини здобули сім медалей на чемпіонаті України серед кадетів",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/sumy/1457114-dzudoisti-sumsini-zdobuli-sim-medalej-na-cempionati-ukraini-sered-kadetiv/",
-   "x": "Чемпіонат України з дзюдо серед молодших кадетів до 17 років відбувся 23–24 листопада у Львові. У змаганнях взяли участь 37 дзюдоїстів із Сумщини. Вони вибороли сім медалей",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-24T20:12:39+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "sumy"
    ]
   },
   {
@@ -2789,20 +2746,6 @@
    ]
   },
   {
-   "t": "Боксерка Донеччини Єлизавета Безверхня стала бронзовою призеркою чемпіонату Європи",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/donbas/1457067-bokserka-doneccini-elizaveta-bezverhna-stala-bronzovou-prizerkou-cempionatu-evropi/",
-   "x": "19-річна боксерка з Бахмутської громади Єлизавета Безверхня стала бронзовою призеркою чемпіонату Європи U-23 у Хорватії. Спортсменка виступала у ваговій категорії до 80 кг",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-24T19:43:47+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "donetsk"
-   ]
-  },
-  {
    "t": "Мадяр чекає, що Україна виконає домовленості щодо меншин на пів року раніше за план",
    "s": "Європейська правда",
    "u": "https://www.eurointegration.com.ua/news/2026/11/24/7250742/",
@@ -2916,17 +2859,6 @@
    ]
   },
   {
-   "t": "«Ноги добре відреагували». Лідер Кубка світу з біатлону Перро позбувся «незвичного болю» перед стартом сезону",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/sport/1457070-nogi-dobre-vidreaguvali-lider-kubka-svitu-z-biatlonu-perro-pozbuvsa-nezvicnogo-bolu-pered-startom-sezonu/",
-   "x": "Ерік Перро: французький біатлоніст, проблеми з ногами перед стартом сезону, подолання цих проблем, стан спортсмена, коментар перед початком етапу Кубка світу",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-24T19:30:00+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "Зеленський та Мадяр обговорювали питання спільних проєктів інфраструктури, енергетики та співпраці на Закарпатті",
    "s": "Суспільне",
    "u": "https://suspilne.media/1457107-zelenskij-ta-madar-obgovoruvali-pitanna-spilnih-proektiv-infrastrukturi-energetiki-ta-spivpraci-na-zakarpatti/",
@@ -2938,20 +2870,6 @@
    ],
    "r": [
     "zakarpattia"
-   ]
-  },
-  {
-   "t": "Сумські волонтери, які виготовляють маскування для військових, потребують приміщення для роботи",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/sumy/1457098-sumski-volonteri-aki-vigotovlaut-maskuvanna-dla-vijskovih-potrebuut-primisenna-dla-roboti/",
-   "x": "Сумські волонтери благодійного фонду «Ми тут — північний форпост», які виготовляють маскування для українських військових, просять допомоги в оплаті оренди приміщення, де працюють, або в пошуку нового місця для роботи",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-24T19:27:42+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "sumy"
    ]
   },
   {
@@ -3057,17 +2975,17 @@
    ]
   },
   {
-   "t": "Погодинні відключення електроенергії в Запорізькій області на 25 листопада",
+   "t": "У 13 разів перевищив норму: у Львові нетверезий водій авто скоїв ДТП з автобусом",
    "s": "Суспільне",
-   "u": "https://suspilne.media/zaporizhzhia/1457099-pogodinni-vidklucenna-elektroenergii-v-zaporizkij-oblasti-na-25-listopada/",
-   "x": "25 листопада у Запорізькій області діятимуть графіки погодинних відключень світла для всіх 12 підчерг: коли та на скільки вимикатимуть електроенергію — у матеріалі Суспільного",
+   "u": "https://suspilne.media/lviv/1457118-u-13-raziv-perevisiv-normu-u-lvovi-netverezij-vodij-avto-skoiv-dtp-z-avtobusom/",
+   "x": "Вдень 24 листопада у Львові, на вулиці Личаківській, водій автомобіля скоїв зіткнення із автобусом №92, після чого в'їхав у припаркований автомобіль. Вміст алкоголю у крові чоловіка був у 13,2 разів вище за норму.",
    "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-24T19:14:06+00:00",
+   "d": "2026-11-24T19:10:34+00:00",
    "c": [
     "holovne"
    ],
    "r": [
-    "zaporizhzhia"
+    "lviv"
    ]
   },
   {
@@ -3119,6 +3037,17 @@
    ],
    "r": [
     "ternopil"
+   ]
+  },
+  {
+   "t": "У Туреччині розбився другий за місяць військовий гелікоптер: п'ятеро загиблих",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1457117-u-tureccini-rozbivsa-drugij-za-misac-vijskovij-gelikopter-patero-zagiblih/",
+   "x": "Інцидент стався в центральній турецькій провінції Ескішехір, коли гелікоптер здійснював навчальний політ. На місці події тривають пошуково-рятувальні роботи",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-24T19:06:01+00:00",
+   "c": [
+    "holovne"
    ]
   },
   {
@@ -3831,6 +3760,21 @@
    ]
   },
   {
+   "t": "«Бабусі мої плакали день і ніч»: як священник з Донеччини відновив прихисток для літніх людей на Закарпатті (відео)",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/donbas/1456995-babusi-moi-plakali-den-i-nic-ak-svasennik-z-doneccini-vidnoviv-prihistok-dla-litnih-ludej-na-zakarpatti-video/",
+   "x": "Три доби в автобусі, два з половиною роки в Румунії та будівництво нового прихистку на Закарпатті. Історія священника та його підопічних",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-24T18:23:05+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "donetsk",
+    "zakarpattia"
+   ]
+  },
+  {
    "t": "Блокують Patriot і глушать Starlink: аналітик пояснив причину тиску США на Україну",
    "s": "24 Канал",
    "u": "https://24tv.ua/tisk-ssha-ukrayinu-chomu-zatrimuyut-raketi-patriot-obmezhuyut_n3213933",
@@ -4020,6 +3964,20 @@
    ],
    "r": [
     "kyiv"
+   ]
+  },
+  {
+   "t": "Дзюдоїсти Сумщини здобули сім медалей на чемпіонаті України серед кадетів",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sumy/1457114-dzudoisti-sumsini-zdobuli-sim-medalej-na-cempionati-ukraini-sered-kadetiv/",
+   "x": "Чемпіонат України з дзюдо серед молодших кадетів до 17 років відбувся 23–24 листопада у Львові. У змаганнях взяли участь 37 дзюдоїстів із Сумщини. Вони вибороли сім медалей",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-24T18:12:39+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "sumy"
    ]
   },
   {
@@ -4662,6 +4620,20 @@
    "v": 1
   },
   {
+   "t": "Боксерка Донеччини Єлизавета Безверхня стала бронзовою призеркою чемпіонату Європи",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/donbas/1457067-bokserka-doneccini-elizaveta-bezverhna-stala-bronzovou-prizerkou-cempionatu-evropi/",
+   "x": "19-річна боксерка з Бахмутської громади Єлизавета Безверхня стала бронзовою призеркою чемпіонату Європи U-23 у Хорватії. Спортсменка виступала у ваговій категорії до 80 кг",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-24T17:43:47+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "donetsk"
+   ]
+  },
+  {
    "t": "Дженсен Хуанг повернувся в офіс Nvidia та пообіцяв, що буде кращим гендиректором",
    "s": "Суспільне",
    "u": "https://suspilne.media/1457064-dzensen-huang-povernuvsa-v-ofis-nvidia-ta-poobicav-so-bude-krasim-gendirektorom/",
@@ -5051,6 +5023,17 @@
    ]
   },
   {
+   "t": "«Ноги добре відреагували». Лідер Кубка світу з біатлону Перро позбувся «незвичного болю» перед стартом сезону",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sport/1457070-nogi-dobre-vidreaguvali-lider-kubka-svitu-z-biatlonu-perro-pozbuvsa-nezvicnogo-bolu-pered-startom-sezonu/",
+   "x": "Ерік Перро: французький біатлоніст, проблеми з ногами перед стартом сезону, подолання цих проблем, стан спортсмена, коментар перед початком етапу Кубка світу",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-24T17:30:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "У Києві тепер можна відстежувати рух транспорту навіть під час тривоги",
    "s": "Економічна правда",
    "u": "https://epravda.com.ua/infrastruktura/u-kiyevi-cifrovomu-teper-vidno-transport-pid-chas-trivogi-827997/",
@@ -5105,6 +5088,20 @@
    "d": "2026-11-24T17:28:00+00:00",
    "c": [
     "polityka"
+   ]
+  },
+  {
+   "t": "Сумські волонтери, які виготовляють маскування для військових, потребують приміщення для роботи",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sumy/1457098-sumski-volonteri-aki-vigotovlaut-maskuvanna-dla-vijskovih-potrebuut-primisenna-dla-roboti/",
+   "x": "Сумські волонтери благодійного фонду «Ми тут — північний форпост», які виготовляють маскування для українських військових, просять допомоги в оплаті оренди приміщення, де працюють, або в пошуку нового місця для роботи",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-24T17:27:42+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "sumy"
    ]
   },
   {
@@ -5225,6 +5222,20 @@
    "d": "2026-11-24T17:15:00+00:00",
    "c": [
     "holovne"
+   ]
+  },
+  {
+   "t": "Погодинні відключення електроенергії в Запорізькій області на 25 листопада",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/zaporizhzhia/1457099-pogodinni-vidklucenna-elektroenergii-v-zaporizkij-oblasti-na-25-listopada/",
+   "x": "25 листопада у Запорізькій області діятимуть графіки погодинних відключень світла для всіх 12 підчерг: коли та на скільки вимикатимуть електроенергію — у матеріалі Суспільного",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-24T17:14:06+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "zaporizhzhia"
    ]
   },
   {
@@ -15131,15 +15142,6 @@
    ],
    "r": [
     "kyiv"
-   ]
-  },
-  {
-   "t": "Маск може об'єднати Tesla і SpaceX у гіганта на $3,5 трильйона",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/svit/spacex-i-tesla-zaluchili-banki-do-peregovoriv-pro-zlittya-na-3-5-trln-827970/",
-   "d": "2026-11-24T09:45:00+00:00",
-   "c": [
-    "ekonomika"
    ]
   }
  ]
