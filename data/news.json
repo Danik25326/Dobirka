@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T22:30:59+00:00",
+ "updated": "2026-11-25T22:40:44+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -418,7 +418,18 @@
  ],
  "items": [
   {
-   "t": "Українець Забарний забив за ПСЖ свій lt,.nybq гол в Лізі чемпіонів",
+   "t": "«Усміхатися й потискати руки»: кандидат у президенти Франції розповів, як хоче завершити війну",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/europe/usmikhatisja-j-potiskati-ruki-kandidat-u-prezidenti-frantsiji-rozpoviv-jak-khoche-zavershiti-vijnu.html",
+   "x": "Висловлювання олімпійського чемпіона щодо повномасштабного вторгнення Росії в Україну викликали хвилю критики.",
+   "i": "https://zn.ua/img/article/7057/33_main.webp",
+   "d": "2026-11-25T22:34:41+00:00",
+   "c": [
+    "statti"
+   ]
+  },
+  {
+   "t": "Українець Забарний забив за ПСЖ свій дебютний гол в Лізі чемпіонів",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/SPORT/ukrajinets-zabarnij-zabiv-za-pszh-svij-pershij-hol-u-karjeri-v-lizi-chempioniv.html",
    "x": "Чудовий удар головою.",
@@ -807,6 +818,7 @@
    "t": "У Польщі повідомили про різке скорочення кількості нелегальних мігрантів зі сторони Білорусі",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/25/8064704/",
+   "i": "https://img.eurointegration.com.ua/images/doc/5/b/5bbad59-poland-resize.png",
    "d": "2026-11-25T21:15:00+00:00",
    "c": [
     "holovne",
@@ -1953,17 +1965,6 @@
    ]
   },
   {
-   "t": "Суд скасував підозру детективу НАБУ, якого звинувачували в приховуванні квартири",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/anticorruption/sud-skasuvav-pidozru-detektivu-nabu-jakoho-zvinuvachuvali-v-prikhovuvanni-kvartiri.html",
-   "x": "Рішення суду ще можуть оскаржити в апеляції.",
-   "i": "https://zn.ua/img/article/7057/3_main.webp",
-   "d": "2026-11-25T19:49:00+00:00",
-   "c": [
-    "statti"
-   ]
-  },
-  {
    "t": "У Польщі повідомляють, що чоловік, який підпалив себе у Варшаві, є українцем",
    "s": "Європейська правда",
    "u": "https://www.eurointegration.com.ua/news/2026/11/25/7250830/",
@@ -1972,6 +1973,17 @@
    "d": "2026-11-25T19:49:00+00:00",
    "c": [
     "polityka"
+   ]
+  },
+  {
+   "t": "Суд скасував підозру детективу НАБУ, якого звинувачували в приховуванні квартири",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/anticorruption/sud-skasuvav-pidozru-detektivu-nabu-jakoho-zvinuvachuvali-v-prikhovuvanni-kvartiri.html",
+   "x": "Рішення суду ще можуть оскаржити в апеляції.",
+   "i": "https://zn.ua/img/article/7057/3_main.webp",
+   "d": "2026-11-25T19:49:00+00:00",
+   "c": [
+    "statti"
    ]
   },
   {
@@ -15031,17 +15043,6 @@
    "d": "2026-11-25T08:55:00+00:00",
    "c": [
     "polityka"
-   ]
-  },
-  {
-   "t": "Понад 110 ударів по НПЗ: Путін терміново шукає нове місце для переробки нафти",
-   "s": "24 Канал",
-   "u": "https://financy.24tv.ua/udari-po-npz-rosiyi-chomu-putin-perenosit-zavodi-dalekiy-shid_n3214100",
-   "x": "Систематичні атаки українських безпілотників довели російську нафтопереробну галузь до стану глибокої кризи. На тлі пошкоджень великих НПЗ у європейській та центральній частинах країни Кремль шукає способи врятувати…",
-   "i": "https://24tv.ua/resources/photos/news/202611/3214100.jpg?v=1795594971000&q=100",
-   "d": "2026-11-25T08:55:00+00:00",
-   "c": [
-    "holovne"
    ]
   }
  ]
