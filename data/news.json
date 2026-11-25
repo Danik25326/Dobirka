@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T04:40:42+00:00",
+ "updated": "2026-11-25T04:50:50+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -387,25 +387,25 @@
    "d": "2026-11-24T23:32:00+00:00"
   },
   {
-   "t": "Польща вручила послу Росії різку ноту протесту",
-   "u": "https://zn.ua/ukr/europe/polshcha-vruchila-poslu-rosiji-rizku-notu-protestu.html",
-   "i": "https://zn.ua/img/article/7054/3_main.webp",
+   "t": "У Туреччині розбився другий за місяць військовий гелікоптер: п'ятеро загиблих",
+   "u": "https://suspilne.media/1457117-u-tureccini-rozbivsa-drugij-za-misac-vijskovij-gelikopter-patero-zagiblih/",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
    "n": 3,
    "l": [
     {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/1457117-u-tureccini-rozbivsa-drugij-za-misac-vijskovij-gelikopter-patero-zagiblih/"
+    },
+    {
      "s": "ZN.UA",
-     "u": "https://zn.ua/ukr/europe/polshcha-vruchila-poslu-rosiji-rizku-notu-protestu.html"
+     "u": "https://zn.ua/ukr/WORLD/u-turechchini-rozbivsja-vijskovij-vertolit-zahinuli-pjatero-vijskovikh.html"
     },
     {
      "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/24/8064478/"
-    },
-    {
-     "s": "Європейська правда",
-     "u": "https://www.eurointegration.com.ua/news/2026/11/24/7250727/"
+     "u": "https://www.pravda.com.ua/news/2026/11/24/8064491/"
     }
    ],
-   "d": "2026-11-24T20:46:00+00:00"
+   "d": "2026-11-24T21:06:01+00:00"
   }
  ],
  "items": [
@@ -451,6 +451,20 @@
    "v": 1
   },
   {
+   "t": "30-річній жительці Куп'янська-Вузлового оголосили підозру у колабораціонізмі: що встановили слідчі",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/kharkiv/1457116-30-ricnij-zitelci-kupanska-vuzlovogo-ogolosili-pidozru-u-kolaboracionizmi-so-vstanovili-slidci/",
+   "x": "30-річній жительці Куп'янська-Вузлового Ірині К. повідомили про підозру в колабораційній діяльності. За даними слідства, у 2022 році вона працювала в окупаційній адміністрації району",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-25T04:30:00+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kharkiv"
+   ]
+  },
+  {
    "t": "Росія завдала удару по Білій Церкві: загинула людина, пошкоджено \"Епіцентр\" та Нову пошту",
    "s": "24 Канал",
    "u": "https://24tv.ua/ataka-bilu-tserkvu-25-listopada-2026-yaki-naslidki-udaru_n3214029",
@@ -458,7 +472,8 @@
    "i": "https://24tv.ua/resources/photos/news/202611/3214029.jpg?v=1795580659000&q=100",
    "d": "2026-11-25T04:30:00+00:00",
    "c": [
-    "holovne"
+    "holovne",
+    "viyna"
    ],
    "r": [
     "kyivska"
@@ -498,20 +513,6 @@
    ]
   },
   {
-   "t": "30-річній жительці Куп'янська-Вузлового оголосили підозру у колабораціонізмі: що встановили слідчі",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/kharkiv/1457116-30-ricnij-zitelci-kupanska-vuzlovogo-ogolosili-pidozru-u-kolaboracionizmi-so-vstanovili-slidci/",
-   "x": "30-річній жительці Куп'янська-Вузлового Ірині К. повідомили про підозру в колабораційній діяльності. За даними слідства, у 2022 році вона працювала в окупаційній адміністрації району",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-25T04:30:00+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "kharkiv"
-   ]
-  },
-  {
    "t": "🔥ТАКОГО В ИСТОРИИ еще не было! НЕ ПОВЕРИТЕ, куда ВЛУПИЛИ ВСУ – дальше только хуже.ЯКОВЕНКО, ГРАБСКИЙ",
    "s": "24 Канал · відео",
    "u": "https://www.youtube.com/watch?v=da-spG71ZxU",
@@ -532,6 +533,21 @@
    "d": "2026-11-25T04:17:00+00:00",
    "c": [
     "holovne"
+   ]
+  },
+  {
+   "t": "Головні новини Донецької та Луганської областей 25 листопада 2026 року",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/donbas/1457113-golovni-novini-doneckoi-ta-luganskoi-oblastej-25-listopada-2026-roku/",
+   "x": "Новини Донбасу: події в Донецькій області 25 листопада 2026 року, ситуація в Луганській області. Обстріли, загиблі, інформація з окупації. Краматорськ, Слов'янськ, Костянтинівка, Дружківка, Добропілля 25.11.2026 —…",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-25T04:11:10+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "donetsk",
+    "luhansk"
    ]
   },
   {
@@ -566,10 +582,21 @@
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/d/963827/6dd3764a337220e6b540fdec3bf3b0db.jpeg",
    "d": "2026-11-25T04:00:00+00:00",
    "c": [
-    "holovne"
+    "holovne",
+    "vazhlyve"
    ],
    "r": [
     "kyivska"
+   ]
+  },
+  {
+   "t": "Страшніше за вимкнення світла. Що робити в разі поломки генератора",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/energetika/remont-generatoriv-rinok-cini-ta-popit-u-biznesu-ta-naselennya-828005/",
+   "x": "В Україні за чотири роки сформувався новий великий ринок – ремонту та обслуговування генераторів. Скільки на цьому заробляють?",
+   "d": "2026-11-25T04:00:00+00:00",
+   "c": [
+    "ekonomika"
    ]
   },
   {
@@ -583,16 +610,6 @@
    ],
    "r": [
     "odesa"
-   ]
-  },
-  {
-   "t": "Страшніше за вимкнення світла. Що робити в разі поломки генератора",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/energetika/remont-generatoriv-rinok-cini-ta-popit-u-biznesu-ta-naselennya-828005/",
-   "x": "В Україні за чотири роки сформувався новий великий ринок – ремонту та обслуговування генераторів. Скільки на цьому заробляють?",
-   "d": "2026-11-25T04:00:00+00:00",
-   "c": [
-    "ekonomika"
    ]
   },
   {
@@ -697,21 +714,6 @@
    ],
    "r": [
     "zaporizhzhia"
-   ]
-  },
-  {
-   "t": "Головні новини Донецької та Луганської областей 25 листопада 2026 року",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/donbas/1457113-golovni-novini-doneckoi-ta-luganskoi-oblastej-25-listopada-2026-roku/",
-   "x": "Новини Донбасу: події в Донецькій області 25 листопада 2026 року, ситуація в Луганській області. Обстріли, загиблі, інформація з окупації. Краматорськ, Слов'янськ, Костянтинівка, Дружківка, Добропілля 25.11.2026 —…",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-25T02:11:10+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "donetsk",
-    "luhansk"
    ]
   },
   {
@@ -912,17 +914,6 @@
    ]
   },
   {
-   "t": "Протягом 2026 року в Україні загинуло понад 400 тисяч російських військових",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1457123-protagom-2026-roku-v-ukraini-zaginulo-ponad-400-tisac-rosijskih-vijskovih/",
-   "x": "Росія побила антирекорд втрат за всю війну: з початку 2026 року вона втратила 432 519 військових, що дорівнює населенню в чотирьох регіонах РФ",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-25T00:46:41+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "Канада залучає нових членів до банку оборони: Україна підтримала його створення",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/WORLD/kanada-zaluchaje-novikh-chleniv-do-banku-oboroni-ukrajina-pidtrimala-joho-stvorennja.html",
@@ -997,6 +988,17 @@
    "d": "2026-11-24T23:32:00+00:00",
    "c": [
     "statti"
+   ]
+  },
+  {
+   "t": "«Якщо хочуть передати 60 — ми тільки за»: Зеленський про передачу ракет Patriot Україні",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1457122-akso-hocut-peredati-60-mi-tilki-za-zelenskij-pro-peredacu-raket-patriot-ukraini/",
+   "x": "Президент України Володимир Зеленський підтвердив, що США досі не передали Україні обіцяні Patriot у межах програми PURL: договір не підписав міністр оборони США піт Гегсет",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-24T23:30:51+00:00",
+   "c": [
+    "holovne"
    ]
   },
   {
@@ -1144,6 +1146,17 @@
    ]
   },
   {
+   "t": "Протягом 2026 року в Україні загинуло понад 400 тисяч російських військових",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1457123-protagom-2026-roku-v-ukraini-zaginulo-ponad-400-tisac-rosijskih-vijskovih/",
+   "x": "Росія побила антирекорд втрат за всю війну: з початку 2026 року вона втратила 432 519 військових, що дорівнює населенню в чотирьох регіонах РФ",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-24T22:46:41+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "«Жодних намірів атакувати»: Росія відхрестилася від погроз після попередження британської розвідки",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/WORLD/zhodnikh-namiriv-atakuvati-rosija-vidkhrestilasja-vid-pohroz-pislja-poperedzhennja-britanskoji-rozvidki.html",
@@ -1212,6 +1225,20 @@
    "c": [
     "holovne",
     "viyna"
+   ]
+  },
+  {
+   "t": "Лукашенко запропонував поїхати з Зеленським у Москву до Путіна: президент відповів",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1457121-lukasenko-zaproponuvav-poihati-z-zelenskim-u-moskvu-do-putina-prezident-vidpoviv/",
+   "x": "Олександр Лукашенко запропонував президенту України Володимиру Зеленському поїхати з ним до очільника Кремля Володимира Путіна у Москву. Зеленський, своєю чергою, покликав їх у Київ",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-24T22:17:34+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kyiv"
    ]
   },
   {
@@ -1582,17 +1609,6 @@
    ]
   },
   {
-   "t": "«Якщо хочуть передати 60 — ми тільки за»: Зеленський про передачу ракет Patriot Україні",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1457122-akso-hocut-peredati-60-mi-tilki-za-zelenskij-pro-peredacu-raket-patriot-ukraini/",
-   "x": "Президент України Володимир Зеленський підтвердив, що США досі не передали Україні обіцяні Patriot у межах програми PURL: договір не підписав міністр оборони США піт Гегсет",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-24T21:30:51+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "Президент ФІФА Інфантіно хотів продати права на чемпіонат світу брату Кушнера на 96 років",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/SPORT/prezident-fifa-infantino-khotiv-prodati-prava-na-chempionat-svitu-bratovi-kushnera-na-96-rokiv.html",
@@ -1682,6 +1698,17 @@
    ],
    "r": [
     "ivanofrankivsk"
+   ]
+  },
+  {
+   "t": "У Туреччині розбився другий за місяць військовий гелікоптер: п'ятеро загиблих",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1457117-u-tureccini-rozbivsa-drugij-za-misac-vijskovij-gelikopter-patero-zagiblih/",
+   "x": "Інцидент стався в центральній турецькій провінції Ескішехір, коли гелікоптер здійснював навчальний політ. На місці події тривають пошуково-рятувальні роботи",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-24T21:06:01+00:00",
+   "c": [
+    "holovne"
    ]
   },
   {
@@ -2354,20 +2381,6 @@
    ]
   },
   {
-   "t": "Лукашенко запропонував поїхати з Зеленським у Москву до Путіна: президент відповів",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1457121-lukasenko-zaproponuvav-poihati-z-zelenskim-u-moskvu-do-putina-prezident-vidpoviv/",
-   "x": "Олександр Лукашенко запропонував президенту України Володимиру Зеленському поїхати з ним до очільника Кремля Володимира Путіна у Москву. Зеленський, своєю чергою, покликав їх у Київ",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-24T20:17:34+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "kyiv"
-   ]
-  },
-  {
    "t": "Ціна зросла у 77 разів: у Карпатах продали будинок на аукціоні за 7 мільйонів",
    "s": "24 Канал",
    "u": "https://24tv.ua/realestate24/budinok-karpatah-za-7-milyoniv-griven-yak-vin-viglyadaye-shho_n3213988",
@@ -2445,7 +2458,7 @@
    ]
   },
   {
-   "t": "Як на Черкащині 25 листопада вимикатимуть електроенергію",
+   "t": "Як на Черкащині 25 листопада вимикатимуть електроенергію: оновили графіки",
    "s": "Суспільне",
    "u": "https://suspilne.media/cherkasy/1456722-ak-na-cerkasini-25-listopada-vimikatimut-elektroenergiu/",
    "x": "У Черкасах та Черкаській області упродовж доби 25 листопада діятимуть графіки відключення електроенергії. Це пов'язано із дефіцитом електрики в Україні",
@@ -2503,17 +2516,6 @@
    ]
   },
   {
-   "t": "Завербувався на війну РФ проти України: у ПАР громадянин Зімбабве отримав умовний термін",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1457111-u-par-gromadanin-zimbabve-otrimav-umovnij-termin-za-obvinuvacennam-u-verbuvanni-na-vijnu-rf-proti-ukraini/",
-   "x": "Засуджений Тафадзва Сітхоле, студент третього курсу Африканського університету Зімбабве, визнав себе винним у порушенні закону ПАР, який забороняє воювати на боці іноземних військ або допомагати їм",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-24T20:10:56+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "⚡БОЙНЯ в Крыму за еду в магазинах! После ОБВАЛА МОСТА уже началась КАТАСТРОФА. Ну и ЖЕСТЬ. ОСЫЧЕНКО",
    "s": "24 Канал · відео",
    "u": "https://www.youtube.com/watch?v=fAbtlWZNkQo",
@@ -2551,6 +2553,20 @@
    ],
    "r": [
     "ternopil"
+   ]
+  },
+  {
+   "t": "Втрати Волині: на війні загинув 28-річний лучанин Сергій Любиченко",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/lutsk/1456875-vtrati-volini-na-vijni-zaginuv-28-ricnij-lucanin-sergij-lubicenko/",
+   "x": "Під час виконання бойового завдання на Луганщині загинув військовослудбовець з Луцька Сергій Любиченко. Полеглому захиснику було 28 років",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-24T20:07:30+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "volyn"
    ]
   },
   {
@@ -3374,17 +3390,6 @@
    ],
    "r": [
     "ternopil"
-   ]
-  },
-  {
-   "t": "У Туреччині розбився другий за місяць військовий гелікоптер: п'ятеро загиблих",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1457117-u-tureccini-rozbivsa-drugij-za-misac-vijskovij-gelikopter-patero-zagiblih/",
-   "x": "Інцидент стався в центральній турецькій провінції Ескішехір, коли гелікоптер здійснював навчальний політ. На місці події тривають пошуково-рятувальні роботи",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-24T19:06:01+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
@@ -4412,6 +4417,17 @@
    ]
   },
   {
+   "t": "Завербувався на війну РФ проти України: у ПАР громадянин Зімбабве отримав умовний термін",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1457111-u-par-gromadanin-zimbabve-otrimav-umovnij-termin-za-obvinuvacennam-u-verbuvanni-na-vijnu-rf-proti-ukraini/",
+   "x": "Засуджений Тафадзва Сітхоле, студент третього курсу Африканського університету Зімбабве, визнав себе винним у порушенні закону ПАР, який забороняє воювати на боці іноземних військ або допомагати їм",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-24T18:10:56+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "Україна дізналася потенційних суперниць у кваліфікації Кубка Біллі Джин Кінг",
    "s": "Суспільне",
    "u": "https://suspilne.media/sport/1457049-ukraina-diznalasa-potencijnih-supernic-u-kvalifikacii-do-kubka-billi-dzin-king/",
@@ -4445,20 +4461,6 @@
    "d": "2026-11-24T18:08:00+00:00",
    "c": [
     "holovne"
-   ]
-  },
-  {
-   "t": "Втрати Волині: на війні загинув 28-річний лучанин Сергій Любиченко",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/lutsk/1456875-vtrati-volini-na-vijni-zaginuv-28-ricnij-lucanin-sergij-lubicenko/",
-   "x": "Під час виконання бойового завдання на Луганщині загинув військовослудбовець з Луцька Сергій Любиченко. Полеглому захиснику було 28 років",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-24T18:07:30+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "volyn"
    ]
   },
   {
