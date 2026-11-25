@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T17:10:46+00:00",
+ "updated": "2026-11-25T17:20:43+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -158,11 +158,15 @@
  ],
  "top": [
   {
-   "t": "Польща не бачить готовності союзників збивати дрони та ракети РФ над Україною — Косіняк-Камиш",
-   "u": "https://suspilne.media/1457503-polsa-ne-bacit-gotovnosti-souznikiv-zbivati-droni-ta-raketi-rf-nad-ukrainou-kosinak-kamis/",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "t": "У Польщі заявили, що в НАТО не підтримали пропозицію збивати російські цілі над Україною",
+   "u": "https://24tv.ua/geopolitics/zbivatime-nato-rosiyski-raketi-nad-ukrayinoyu-polshhi-poyasnili_n3214644",
+   "i": "https://24tv.ua/resources/photos/news/202611/3214644.jpg?v=1795626631000&q=100",
    "n": 6,
    "l": [
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/geopolitics/zbivatime-nato-rosiyski-raketi-nad-ukrayinoyu-polshhi-poyasnili_n3214644"
+    },
     {
      "s": "Суспільне",
      "u": "https://suspilne.media/1457503-polsa-ne-bacit-gotovnosti-souznikiv-zbivati-droni-ta-raketi-rf-nad-ukrainou-kosinak-kamis/"
@@ -180,15 +184,11 @@
      "u": "https://interfax.com.ua/news/general/1242240.html"
     },
     {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/polshha-zaklikala-nato-zbivati-raketi-rf-nad-ukrayinoyu_n3214382"
-    },
-    {
      "s": "Українська правда",
      "u": "https://www.pravda.com.ua/news/2026/11/25/8064605/"
     }
    ],
-   "d": "2026-11-25T16:48:04+00:00"
+   "d": "2026-11-25T17:16:01+00:00"
   },
   {
    "t": "Рада ухвалила законопроєкт про приєднання до Керівного комітету Спецтрибуналу щодо злочинів РФ",
@@ -251,35 +251,6 @@
     }
    ],
    "d": "2026-11-25T13:47:00+00:00"
-  },
-  {
-   "t": "Росіяни обстріляли Білу Церкву: є влучання в \"Епіцентр\" та \"Нову пошту\"",
-   "u": "https://epravda.com.ua/biznes/biznes-ob-yekti-biloji-cerkvi-poshkodzheni-vnaslidok-ataki-rf-828012/",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "n": 5,
-   "l": [
-    {
-     "s": "Економічна правда",
-     "u": "https://epravda.com.ua/biznes/biznes-ob-yekti-biloji-cerkvi-poshkodzheni-vnaslidok-ataki-rf-828012/"
-    },
-    {
-     "s": "Суспільне",
-     "u": "https://suspilne.media/kyiv/1457158-na-kiivsini-cerez-rosijsku-ataku-zaginuv-colovik-gorili-pidpriemstvo-ta-gipermarket/"
-    },
-    {
-     "s": "ZN.UA",
-     "u": "https://zn.ua/ukr/war/rosijani-atakuvali-bilu-tserkvu-je-zahiblij-poshkodzheno-epitsentr-ta-viddilennja-novoji-poshti.html"
-    },
-    {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/ataka-bilu-tserkvu-25-listopada-2026-yaki-naslidki-udaru_n3214029"
-    },
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/25/8064520/"
-    }
-   ],
-   "d": "2026-11-25T08:33:00+00:00"
   },
   {
    "t": "В Україні з'явився новий банк: ліцензію видали вперше за час повномасштабної війни",
@@ -382,6 +353,31 @@
    "d": "2026-11-25T10:46:00+00:00"
   },
   {
+   "t": "Росіяни обстріляли Білу Церкву: є влучання в \"Епіцентр\" та \"Нову пошту\"",
+   "u": "https://epravda.com.ua/biznes/biznes-ob-yekti-biloji-cerkvi-poshkodzheni-vnaslidok-ataki-rf-828012/",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "n": 4,
+   "l": [
+    {
+     "s": "Економічна правда",
+     "u": "https://epravda.com.ua/biznes/biznes-ob-yekti-biloji-cerkvi-poshkodzheni-vnaslidok-ataki-rf-828012/"
+    },
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/kyiv/1457158-na-kiivsini-cerez-rosijsku-ataku-zaginuv-colovik-gorili-pidpriemstvo-ta-gipermarket/"
+    },
+    {
+     "s": "ZN.UA",
+     "u": "https://zn.ua/ukr/war/rosijani-atakuvali-bilu-tserkvu-je-zahiblij-poshkodzheno-epitsentr-ta-viddilennja-novoji-poshti.html"
+    },
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/ataka-bilu-tserkvu-25-listopada-2026-yaki-naslidki-udaru_n3214029"
+    }
+   ],
+   "d": "2026-11-25T08:33:00+00:00"
+  },
+  {
    "t": "Загинула людина, семеро постраждали: російський дрон влучив у маршрутний автобус на Харківщині",
    "u": "https://suspilne.media/kharkiv/1457138-zaginula-ludina-semero-postrazdali-rosijskij-dron-vluciv-u-marsrutnij-avtobus-na-harkivsini/",
    "i": "https://cdn4.suspilne.media/images/default.jpg",
@@ -429,6 +425,87 @@
   }
  ],
  "items": [
+  {
+   "t": "Якщо знадобиться для миру: Лукашенко допустив виведення з Білорусі ракет Росії",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/vivedennya-yadernih-raket-rosiyi-iz-bilorusi-zayava-lukashenka_n3214646",
+   "x": "Лукашенко не виключив можливість виведення з Білорусі російських ракет, які можуть нести ядерні боєголовки. За його словами, такий крок можливий, якщо це буде необхідно задля миру.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3214646.jpg?v=1795627032000&q=100",
+   "d": "2026-11-25T17:19:31+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Буданов: Діалог між державою та національними спільнотами має бути постійним, відкритим і предметним",
+   "s": "Інтерфакс-Україна",
+   "u": "https://interfax.com.ua/news/general/1242447.html",
+   "x": "Держава має забезпечити всі права й потреби національних спільнот, адже сьогодні важливо зберігати єдність у суспільстві та нести спільну відповідальність за майбутнє України, заявив керівник Офісу президента Кирило…",
+   "i": "https://media.interfax.com.ua/media/thumbs/images/2026/09/kmyid/qxfR1YB-Xe7A.jpg",
+   "d": "2026-11-25T17:19:26+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Що зараз на Кінбурнській косі | Як там вживають без їжі і ліків і чи можлива евакуація | Несеться",
+   "s": "Суспільне Новини · відео",
+   "u": "https://www.youtube.com/watch?v=inv7kmQ1lVc",
+   "x": "У новому епізоді «Несеться» розбираємо, що зараз відбувається на окупованій Кінбурнській косі. Ми поспілкувалися з людиною, якій вдалося врятуватися з Кінбурнської коси. Там досі залишаються близько сотні цивільних, а…",
+   "i": "https://i2.ytimg.com/vi/inv7kmQ1lVc/hqdefault.jpg",
+   "d": "2026-11-25T17:16:28+00:00",
+   "c": [
+    "video"
+   ],
+   "v": 1
+  },
+  {
+   "t": "У Польщі заявили, що в НАТО не підтримали пропозицію збивати російські цілі над Україною",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/geopolitics/zbivatime-nato-rosiyski-raketi-nad-ukrayinoyu-polshhi-poyasnili_n3214644",
+   "x": "У НАТО не готові перехоплювати російські ракети над Україною, навіть якщо ті летять у напрямку країн Альянсу. У Польщі пояснили, що така процедура створила б чимало ускладнень, а для її запровадження потрібна згода всіх…",
+   "i": "https://24tv.ua/resources/photos/news/202611/3214644.jpg?v=1795626631000&q=100",
+   "d": "2026-11-25T17:16:01+00:00",
+   "c": [
+    "holovne",
+    "viyna"
+   ]
+  },
+  {
+   "t": "🤯Донбасс БУНТУЕТ! Началась ТОТАЛЬНАЯ КАТАСТРОФА. Местные ПРЯМО НА КАМЕРУ слили ВСЮ ПРАВДУ. КАЗАНСКИЙ",
+   "s": "24 Канал · відео",
+   "u": "https://www.youtube.com/watch?v=obsRMhWACW8",
+   "x": "Денис Казанский в новом выпуске на своем канале @DenisKazanskyi проанализировал последние новости из РФ. В частности, на оккупированной части Донбасса разворачивается тяжелейший коммунальный коллапс: в городах вроде…",
+   "i": "https://i4.ytimg.com/vi/obsRMhWACW8/hqdefault.jpg",
+   "d": "2026-11-25T17:15:29+00:00",
+   "c": [
+    "video"
+   ],
+   "v": 1
+  },
+  {
+   "t": "Собі або на подарунок близьким: 5 смарт-годинників до 10 тисяч гривень",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/lifehacks24/naykrashhi-smart-godinniki-do-10-tisyach-griven-5-topovih-modeley_n3214317",
+   "x": "Смарт-годинник – це не лише стильний аксесуар, але й корисний помічник у повсякденному житті. За його допомогою можна стежити за фізичною активністю, рахувати кроки, контролювати сон, отримувати сповіщення та…",
+   "i": "https://24tv.ua/resources/photos/news/202611/3214317.jpg?v=1795605258000&q=100",
+   "d": "2026-11-25T17:13:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Конфлікт Мудрика і Шевченка: у ЗМІ розповіли, хто може стояти за скандалом і чому він виник",
+   "s": "24 Канал",
+   "u": "https://sportnews.24tv.ua/mihaylo-mudrik-andriy-shevchenko-bloger-rozpoviv-hto-vinniy-konflikti_n3214640",
+   "x": "Скандальна ситуація навколо Михайла Мудрика та Української асоціації футболу триває. Слова футболіста продовжують привертати увагу.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3214640.jpg?v=1795626308000&q=100",
+   "d": "2026-11-25T17:11:00+00:00",
+   "c": [
+    "holovne",
+    "sport"
+   ]
+  },
   {
    "t": "У Львові тимчасово обмежать рух транспорту на вулиці Митрополита Андрея",
    "s": "Суспільне",
@@ -527,17 +604,6 @@
    ]
   },
   {
-   "t": "Бюджет ЄС-2027 ухвалено: що в ньому для України",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/europe/bjudzhet-jes-2027-ukhvaleno-shcho-v-nomu-dlja-ukrajini.html",
-   "x": "Окремим рядком іде 650 млн євро відсотків за європейським кредитом, а також фінансування Ukraine Facility.",
-   "i": "https://zn.ua/img/article/7056/81_main.webp",
-   "d": "2026-11-25T17:03:15+00:00",
-   "c": [
-    "statti"
-   ]
-  },
-  {
    "t": "Пообіцяли армії дрони на 40 мільйонів, але зірвали контракти: постачальників оштрафували на 5,5 млн грн",
    "s": "Суспільне",
    "u": "https://suspilne.media/zaporizhzhia/1457488-poobicali-armii-droni-na-40-miljoniv-ale-zirvali-kontrakti-postacalnikiv-ostrafuvali-na-55-mln-grn/",
@@ -558,6 +624,17 @@
    "c": [
     "holovne",
     "kino"
+   ]
+  },
+  {
+   "t": "Бюджет ЄС-2027 ухвалено: що в ньому для України",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/europe/bjudzhet-jes-2027-ukhvaleno-shcho-v-nomu-dlja-ukrajini.html",
+   "x": "Окремим рядком іде 650 млн євро відсотків за європейським кредитом, а також фінансування Ukraine Facility.",
+   "i": "https://zn.ua/img/article/7056/81_main.webp",
+   "d": "2026-11-25T17:03:00+00:00",
+   "c": [
+    "statti"
    ]
   },
   {
@@ -952,20 +1029,6 @@
    ]
   },
   {
-   "t": "На Черкащині попереджають про ожеледицю на дорогах",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/cherkasy/1457205-na-cerkasini-poperedzaut-pro-ozeledicu-na-dorogah/",
-   "x": "Про ожеледицю на дорогах попереджають вночі та вранці 26 листопада у Черкасах та області. Погода відповідатиме першому рівню небезпечності",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-25T16:36:00+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "cherkasy"
-   ]
-  },
-  {
    "t": "Росіяни тероризують Харківщину: журналістка розповіла про атаки та незвичайну історію тренера",
    "s": "24 Канал",
    "u": "https://24tv.ua/rosiyani-terorizuyut-harkivshhinu-pro-ataki-nezvichaynu-istoriyu_n3214593",
@@ -988,6 +1051,20 @@
    "d": "2026-11-25T16:36:00+00:00",
    "c": [
     "statti"
+   ]
+  },
+  {
+   "t": "На Черкащині попереджають про ожеледицю на дорогах",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/cherkasy/1457205-na-cerkasini-poperedzaut-pro-ozeledicu-na-dorogah/",
+   "x": "Про ожеледицю на дорогах попереджають вночі та вранці 26 листопада у Черкасах та області. Погода відповідатиме першому рівню небезпечності",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-25T16:36:00+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "cherkasy"
    ]
   },
   {
@@ -1051,6 +1128,17 @@
    "v": 1
   },
   {
+   "t": "Що ще Apple планує випустити до кінця 2026 року",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/tech/apple-do-kintsya-2026-roku-novi-pristroyi-ios-273-apple-intelligence_n3214583",
+   "x": "Apple готує ще кілька новинок до завершення 2026 року. Серед них – червоні версії AirPods Max 2 і HomePod mini 2, оновлення iOS 27.3, підсумки Apple Music Replay та нові аксесуари для розумного дому.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3214583.jpg?v=1795621725000&q=100",
+   "d": "2026-11-25T16:30:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "На Тернопільщині до 10 років засудили жінку за колабораціонізм",
    "s": "Суспільне",
    "u": "https://suspilne.media/ternopil/1457457-na-ternopilsini-do-10-rokiv-zasudili-zinku-za-kolaboracionizm/",
@@ -1062,17 +1150,6 @@
    ],
    "r": [
     "ternopil"
-   ]
-  },
-  {
-   "t": "Що ще Apple планує випустити до кінця 2026 року",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/tech/apple-do-kintsya-2026-roku-novi-pristroyi-ios-273-apple-intelligence_n3214583",
-   "x": "Apple готує ще кілька новинок до завершення 2026 року. Серед них – червоні версії AirPods Max 2 і HomePod mini 2, оновлення iOS 27.3, підсумки Apple Music Replay та нові аксесуари для розумного дому.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3214583.jpg?v=1795621725000&q=100",
-   "d": "2026-11-25T16:30:00+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
@@ -5527,6 +5604,16 @@
    ]
   },
   {
+   "t": "Угорщина починає з нуля. Про що домовилися Зеленський та Мадяр та що має зробити Україна",
+   "s": "Українська правда",
+   "u": "https://www.pravda.com.ua/articles/2026/11/25/8064607/",
+   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/9/964236/793485f417252a1c19f1bdc752737edb.jpeg",
+   "d": "2026-11-25T13:04:00+00:00",
+   "c": [
+    "statti"
+   ]
+  },
+  {
    "t": "ЗМІ: британські ВПС переміщують літаки до укриттів на ніч, побоюючись дронів",
    "s": "Європейська правда",
    "u": "https://www.eurointegration.com.ua/news/2026/11/25/7250789/",
@@ -5535,16 +5622,6 @@
    "d": "2026-11-25T13:04:00+00:00",
    "c": [
     "polityka"
-   ]
-  },
-  {
-   "t": "Угорщина починає з нуля. Про що домовилися Зеленський та Мадяр та що має зробити Україна",
-   "s": "Українська правда",
-   "u": "https://www.pravda.com.ua/articles/2026/11/25/8064607/",
-   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/7/9/964236/793485f417252a1c19f1bdc752737edb.jpeg",
-   "d": "2026-11-25T13:04:00+00:00",
-   "c": [
-    "statti"
    ]
   },
   {
@@ -14095,6 +14172,18 @@
    "v": 1
   },
   {
+   "t": "Пенсія за вислугу років: хто має право на дострокові виплати у грудні",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/economy/pensiya-za-vislugu-rokiv-hto-mozhe-viyti-zasluzheniy-vidpochinok_n3213983",
+   "x": "Частина українців має законне право забути про роботу задовго до настання офіційного пенсійного віку. Проте для отримання таких привілеїв слід виконати кілька суворих умов.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3213983.jpg?v=1795549881000&q=100",
+   "d": "2026-11-25T06:00:00+00:00",
+   "c": [
+    "ekonomika",
+    "holovne"
+   ]
+  },
+  {
    "t": "\"Є пікантний момент\": інтерв'ю з Денисенком про удар біля Лівії та нові проблеми для росіян",
    "s": "24 Канал",
    "u": "https://24tv.ua/udari-po-rosiyskih-npz-portah-liviyi-yakiy-vpliv-mayut-ataki_n3213538",
@@ -14105,18 +14194,6 @@
     "viyna",
     "holovne",
     "vazhlyve"
-   ]
-  },
-  {
-   "t": "Пенсія за вислугу років: хто має право на дострокові виплати у грудні",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/economy/pensiya-za-vislugu-rokiv-hto-mozhe-viyti-zasluzheniy-vidpochinok_n3213983",
-   "x": "Частина українців має законне право забути про роботу задовго до настання офіційного пенсійного віку. Проте для отримання таких привілеїв слід виконати кілька суворих умов.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3213983.jpg?v=1795549881000&q=100",
-   "d": "2026-11-25T06:00:00+00:00",
-   "c": [
-    "ekonomika",
-    "holovne"
    ]
   },
   {
@@ -15070,98 +15147,6 @@
    "d": "2026-11-25T04:17:00+00:00",
    "c": [
     "holovne"
-   ]
-  },
-  {
-   "t": "Нобелівська премія за мовчання – це міф: чому насправді Айнштайн віддав усі гроші своїй дружині",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/history/ru/ukral-li-jejnshtejn-teoriju-otnositelnosti-u-svoej-zheny-razvenchanie_n3213248",
-   "x": "Історія світової науки рясніє іменами видатних чоловіків, але дуже часто за їхніми гучними тріумфами ховаються зламані долі неймовірно талановитих жінок. Однією з таких трагічних постатей є Мілева Марич – блискуча…",
-   "i": "https://24tv.ua/resources/photos/news/202611/3213247.jpg?v=1795486672000&q=100",
-   "d": "2026-11-25T04:17:00+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
-   "t": "Головні новини Донецької та Луганської областей 25 листопада 2026 року",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/donbas/1457113-golovni-novini-doneckoi-ta-luganskoi-oblastej-25-listopada-2026-roku/",
-   "x": "Новини Донбасу: події в Донецькій області 25 листопада 2026 року, ситуація в Луганській області. Обстріли, загиблі, інформація з окупації. Краматорськ, Слов'янськ, Костянтинівка, Дружківка, Добропілля 25.11.2026 —…",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-25T04:11:10+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "donetsk",
-    "luhansk"
-   ]
-  },
-  {
-   "t": "На Полтавщині російський БпЛА влучив у промислове підприємство: виникла пожежа",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/poltava/1457146-na-poltavsini-rosijskij-bpla-vluciv-u-promislove-pidpriemstvo-vinikla-pozeza/",
-   "x": "Російський БпЛА вночі 25 листопада влучив у промислове підприємство в Полтавському районі. Виникла пожежа, на місці працювали рятувальники. Травмованих немає",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-25T04:10:57+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "poltava"
-   ]
-  },
-  {
-   "t": "🤯Прямо ПІД НОСОМ у ТРАМПА! Злили ТАЄМНУ УГОДУ Путіна з Кушнером. Не ПОВІРИТЕ, що ХОТІВ ПРОВЕРНУТИ",
-   "s": "24 Канал · відео",
-   "u": "https://www.youtube.com/watch?v=YlRshFeDLdw",
-   "x": "Під час візиту спецпосланців президента США Дональда Трампа та Джареда Кушнера до Москви у вересні російський диктатор Володимир Путін пропонував деякі бізнес-угоди. В обмін на це він хотів послаблення санкцій проти…",
-   "i": "https://i2.ytimg.com/vi/YlRshFeDLdw/hqdefault.jpg",
-   "d": "2026-11-25T04:10:15+00:00",
-   "c": [
-    "video"
-   ],
-   "v": 1
-  },
-  {
-   "t": "🔥Этот УДАР за СЕКУНДУ ДОВЕЛ Москву ДО ИСТЕРИКИ! Такого Путин ТОЧНО НЕ ЖДАЛ. В Кремле ПАНИКА. Лучшее",
-   "s": "24 Канал · відео",
-   "u": "https://www.youtube.com/watch?v=YECM1_iHvpc",
-   "x": "В лучших выпусках 24 Канала разобрали последние новости, в частности громкий переполох в Калининградской области, где впервые с начала войны завыли сирены воздушной тревоги. В портовом Балтийске, где базируется…",
-   "i": "https://i2.ytimg.com/vi/YECM1_iHvpc/hqdefault.jpg",
-   "d": "2026-11-25T04:00:26+00:00",
-   "c": [
-    "video"
-   ],
-   "v": 1
-  },
-  {
-   "t": "Росіяни атакували Білу Церкву: є влучання в \"Епіцентр\" та \"Нову пошту\", загинула людина",
-   "s": "Українська правда",
-   "u": "https://www.pravda.com.ua/news/2026/11/25/8064520/",
-   "x": "Унаслідок нічної атаки на Білу Церкву загинула людина, пошкоджені \"Епіцентр\", відділення \"Нової пошти\" та інші об'єкти бізнесу.",
-   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/d/963827/6dd3764a337220e6b540fdec3bf3b0db.jpeg",
-   "d": "2026-11-25T04:00:00+00:00",
-   "c": [
-    "vazhlyve",
-    "holovne"
-   ],
-   "r": [
-    "kyivska"
-   ]
-  },
-  {
-   "t": "Побачити слона у кімнаті: чому активісти критикують Одеський зоопарк, а проблеми не зникають попри протести",
-   "s": "Українська правда. Життя",
-   "u": "https://life.pravda.com.ua/society/chomu-aktivisti-protestuyut-cherez-odeskiy-zoopark-319294/",
-   "i": "https://imglife.pravda.com.ua/life/images/doc/9/0/150793/9059440b5915fcfef15907198d681773.jpeg?w=390&q=90&f=jpeg",
-   "d": "2026-11-25T04:00:00+00:00",
-   "c": [
-    "zhyttia"
-   ],
-   "r": [
-    "odesa"
    ]
   }
  ]
