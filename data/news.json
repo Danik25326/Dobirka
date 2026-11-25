@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T22:01:12+00:00",
+ "updated": "2026-11-25T22:10:43+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -374,6 +374,27 @@
    "d": "2026-11-25T10:46:00+00:00"
   },
   {
+   "t": "\"Шахтар\" програв третій поспіль матч у Лізі чемпіонів",
+   "u": "https://zn.ua/ukr/SPORT/shakhtar-prohrav-tretij-match-pospil-u-lizi-chempioniv.html",
+   "i": "https://zn.ua/img/article/7057/29_main.webp",
+   "n": 3,
+   "l": [
+    {
+     "s": "ZN.UA",
+     "u": "https://zn.ua/ukr/SPORT/shakhtar-prohrav-tretij-match-pospil-u-lizi-chempioniv.html"
+    },
+    {
+     "s": "24 Канал",
+     "u": "https://sportnews.24tv.ua/liga-chempioniv-202627-shahtar-rezultat-matchiv-rozklad_n3129712"
+    },
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/sport/1457478-sahtar-fenerbahce-onlajn-translacia-matcu-ligi-cempioniv-z-futbolu/"
+    }
+   ],
+   "d": "2026-11-25T22:05:00+00:00"
+  },
+  {
    "t": "Меланія Трамп оголосила про повернення до родин ще дев’ятьох дітей — WP",
    "u": "https://zn.ua/ukr/usa/melanija-tramp-oholosila-pro-povernennja-do-rodin-shche-devjatokh-ditej-wp.html",
    "i": "https://zn.ua/img/article/7057/27_main.webp",
@@ -393,30 +414,59 @@
     }
    ],
    "d": "2026-11-25T21:52:00+00:00"
-  },
-  {
-   "t": "Сєнік: досі невідомо, хто саме ухвалив рішення про обмеження Starshield в Україні",
-   "u": "https://suspilne.media/1457573-senik-dosi-nevidomo-hto-same-uhvaliv-risenna-pro-obmezenna-starshield-v-ukraini/",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "n": 3,
-   "l": [
-    {
-     "s": "Суспільне",
-     "u": "https://suspilne.media/1457573-senik-dosi-nevidomo-hto-same-uhvaliv-risenna-pro-obmezenna-starshield-v-ukraini/"
-    },
-    {
-     "s": "ZN.UA",
-     "u": "https://zn.ua/ukr/UKRAINE/diplomat-pro-obmezhennja-roboti-sistemi-starshield-u-vashinhtoni-dosi-ne-zjasuvali-khto-ukhvaliv-rishennja.html"
-    },
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/25/8064673/"
-    }
-   ],
-   "d": "2026-11-25T20:59:24+00:00"
   }
  ],
  "items": [
+  {
+   "t": "Троє постраждалих внаслідок балістичної атаки на Київ, у Деснянському районі влучання в ТЦ – Кличко",
+   "s": "Інтерфакс-Україна",
+   "u": "https://interfax.com.ua/news/general/1242503.html",
+   "x": "(оновлена) Київ. 26 листопада. ІНТЕРФАКС-УКРАЇНА – Троє постраждалих внаслідок балістичної атаки РФ на Київ увечері 25 листопада, повідомив міський голова Віталій Кличко. \"Наразі троє постраждалих у столиці. Двох із них…",
+   "d": "2026-11-25T22:07:59+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kyiv"
+   ]
+  },
+  {
+   "t": "Ліга чемпіонів 2026/2027: календар і результати усіх матчів",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/sporttopnews/liga-chempioniv-202627-zherebkuvannya-kalendar-matchiv-rezultati_n3129721",
+   "x": "Протягом 24 – 25 листопада у Лізі чемпіонів відбуваються матчі 5 туру. Головним протистоянням стане зустріч Арсенала та Боруссії Дортмунд.",
+   "i": "https://24tv.ua/resources/photos/news/202608/3129721.jpg?v=1787665746000&q=100",
+   "d": "2026-11-25T22:07:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "\"Шахтар\" програв третій поспіль матч у Лізі чемпіонів",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/SPORT/shakhtar-prohrav-tretij-match-pospil-u-lizi-chempioniv.html",
+   "x": "Чергова мінімальна поразка.",
+   "i": "https://zn.ua/img/article/7057/29_main.webp",
+   "d": "2026-11-25T22:05:00+00:00",
+   "c": [
+    "statti"
+   ]
+  },
+  {
+   "t": "Розклад і результати матчів Шахтаря у Лізі чемпіонів-2026/2027",
+   "s": "24 Канал",
+   "u": "https://sportnews.24tv.ua/liga-chempioniv-202627-shahtar-rezultat-matchiv-rozklad_n3129712",
+   "x": "Донецький Шахтар – єдиний футбольний представник України в єврокубках сезону-2026/2027. \"Гірники\" виступають на груповому етапі Ліги чемпіонів, найпрестижнішого клубного турніру Європи.",
+   "i": "https://24tv.ua/resources/photos/news/202608/3129712.jpg?v=1787665644000&q=100",
+   "d": "2026-11-25T22:03:00+00:00",
+   "c": [
+    "holovne",
+    "sport"
+   ],
+   "r": [
+    "donetsk"
+   ]
+  },
   {
    "t": "РФ атакувала Київ балістичними ракетами, новий етап у створенні Спецтрибуналу. 1737 день війни",
    "s": "Суспільне",
@@ -429,6 +479,17 @@
    ],
    "r": [
     "kyiv"
+   ]
+  },
+  {
+   "t": "«Шахтар» програв «Фенербахче» в Лізі чемпіонів: як це було",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sport/1457478-sahtar-fenerbahce-onlajn-translacia-matcu-ligi-cempioniv-z-futbolu/",
+   "x": "«Шахтар» – «Фенербахче» (25 листопада 2026): онлайн матчу, онлайн трансляція «Шахтар» – «Фенербахче», текстовий онлайн «Шахтар» – «Фенербахче» у Лізі чемпіонів, футбол «Шахтар» – «Фенербахче» онлайн трансляція Суспільне…",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-25T21:57:25+00:00",
+   "c": [
+    "holovne"
    ]
   },
   {
@@ -1642,32 +1703,6 @@
    ]
   },
   {
-   "t": "Ліга чемпіонів 2026/2027: календар і результати усіх матчів",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/sporttopnews/liga-chempioniv-202627-zherebkuvannya-kalendar-matchiv-rezultati_n3129721",
-   "x": "Протягом 24 – 25 листопада у Лізі чемпіонів відбуваються матчі 5 туру. Головним протистоянням стане зустріч Арсенала та Боруссії Дортмунд.",
-   "i": "https://24tv.ua/resources/photos/news/202608/3129721.jpg?v=1787665746000&q=100",
-   "d": "2026-11-25T20:00:00+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
-   "t": "Розклад і результати матчів Шахтаря у Лізі чемпіонів-2026/2027",
-   "s": "24 Канал",
-   "u": "https://sportnews.24tv.ua/liga-chempioniv-202627-shahtar-rezultat-matchiv-rozklad_n3129712",
-   "x": "Донецький Шахтар – єдиний футбольний представник України в єврокубках сезону-2026/2027. \"Гірники\" виступають на груповому етапі Ліги чемпіонів, найпрестижнішого клубного турніру Європи.",
-   "i": "https://24tv.ua/resources/photos/news/202608/3129712.jpg?v=1787665644000&q=100",
-   "d": "2026-11-25T20:00:00+00:00",
-   "c": [
-    "holovne",
-    "sport"
-   ],
-   "r": [
-    "donetsk"
-   ]
-  },
-  {
    "t": "Власна косметика, одяг і прикраси: який бізнес побудували українські знаменитості",
    "s": "24 Канал",
    "u": "https://24tv.ua/show24/ru/ukrainskie-zvezdy-ih-brendy-odezhda-kosmetika-ukrashenija_n3183082",
@@ -1752,17 +1787,6 @@
    "c": [
     "holovne",
     "viyna"
-   ]
-  },
-  {
-   "t": "«Шахтар» програв «Фенербахче» в Лізі чемпіонів: як це було",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/sport/1457478-sahtar-fenerbahce-onlajn-translacia-matcu-ligi-cempioniv-z-futbolu/",
-   "x": "«Шахтар» – «Фенербахче» (25 листопада 2026): онлайн матчу, онлайн трансляція «Шахтар» – «Фенербахче», текстовий онлайн «Шахтар» – «Фенербахче» у Лізі чемпіонів, футбол «Шахтар» – «Фенербахче» онлайн трансляція Суспільне…",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-25T19:57:25+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
@@ -2070,14 +2094,14 @@
    ]
   },
   {
-   "t": "Фінляндія та Норвегія через російського олігарха намагалися запобігти конфлікту на Балтиці — WSJ",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/europe/finljandija-ta-norvehija-cherez-rosijskoho-oliharkha-namahalisja-zapobihti-konfliktu-na-baltitsi-wsj.html",
-   "x": "Лідери Фінляндії та Норвегії переконували Путіна, що НАТО не планує блокаду Балтійського моря.",
-   "i": "https://zn.ua/img/article/7056/95_main.webp",
+   "t": "У Пентагоні заявили, що нарощують виробництво систем Patriot",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1457563-u-pentagoni-zaavili-so-narosuut-virobnictvo-sistem-patriot/",
+   "x": "У Пентагоні заявили, що США працюють над розширенням промислової співпраці з європейськими партнерами та Україною, щоб нарощувати виробництво систем Patriot і зміцнювати ланцюги постачання",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
    "d": "2026-11-25T19:28:54+00:00",
    "c": [
-    "statti"
+    "holovne"
    ]
   },
   {
@@ -2090,6 +2114,17 @@
    "c": [
     "holovne",
     "polityka"
+   ]
+  },
+  {
+   "t": "Фінляндія та Норвегія через російського олігарха намагалися запобігти конфлікту на Балтиці — WSJ",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/europe/finljandija-ta-norvehija-cherez-rosijskoho-oliharkha-namahalisja-zapobihti-konfliktu-na-baltitsi-wsj.html",
+   "x": "Лідери Фінляндії та Норвегії переконували Путіна, що НАТО не планує блокаду Балтійського моря.",
+   "i": "https://zn.ua/img/article/7056/95_main.webp",
+   "d": "2026-11-25T19:28:00+00:00",
+   "c": [
+    "statti"
    ]
   },
   {
@@ -3785,17 +3820,6 @@
    "x": "Грудень 2026 року – це місяць з особливим ритмом. Одні дні в ньому виділяються спокоєм, а ось інші можуть принести різкі зміни чи напругу. Саме місячний календар допоможе зорієнтуватися та влаштувати свої справи…",
    "i": "https://24tv.ua/resources/photos/news/202611/3214341.jpg?v=1795608829000&q=100",
    "d": "2026-11-25T17:30:00+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
-   "t": "У Пентагоні заявили, що нарощують виробництво систем Patriot",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1457563-u-pentagoni-zaavili-so-narosuut-virobnictvo-sistem-patriot/",
-   "x": "У Пентагоні заявили, що США працюють над розширенням промислової співпраці з європейськими партнерами та Україною, щоб нарощувати виробництво систем Patriot і зміцнювати ланцюги постачання",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-25T17:28:54+00:00",
    "c": [
     "holovne"
    ]
@@ -15020,36 +15044,6 @@
    "d": "2026-11-25T08:50:18+00:00",
    "c": [
     "holovne"
-   ]
-  },
-  {
-   "t": "Шахтар – Фенербахче: де дивитися онлайн матч Ліги чемпіонів в Україні",
-   "s": "24 Канал",
-   "u": "https://sportnews.24tv.ua/shahtar-fenerbahche-de-divitisya-onlayn-match-25-listopada-liga_n3212674",
-   "x": "У середу, 25 листопада, донецький Шахтар зустрінеться з турецьким Фенербахче у межах 5-го туру Ліги чемпіонів УЄФА.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3212674.jpg?v=1795426766000&q=100",
-   "d": "2026-11-25T08:50:00+00:00",
-   "c": [
-    "sport",
-    "holovne"
-   ],
-   "r": [
-    "donetsk"
-   ]
-  },
-  {
-   "t": "Шахтар – Фенербахче: де дивитися онлайн матч Ліги чемпіонів в Україні",
-   "s": "24 Канал",
-   "u": "https://sportnews.24tv.ua/ru/shahter-fenerbahche-gde-smotret-onlajn-match-25-nojabrja-liga-chempionov_n3212931",
-   "x": "У середу, 25 листопада, донецький Шахтар зустрінеться з турецьким Фенербахче у межах 5-го туру Ліги чемпіонів УЄФА.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3212674.jpg?v=1795426766000&q=100",
-   "d": "2026-11-25T08:50:00+00:00",
-   "c": [
-    "sport",
-    "holovne"
-   ],
-   "r": [
-    "donetsk"
    ]
   }
  ]
