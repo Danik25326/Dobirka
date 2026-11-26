@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T03:50:39+00:00",
+ "updated": "2026-11-26T04:01:11+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -353,6 +353,27 @@
    "d": "2026-11-25T10:46:00+00:00"
   },
   {
+   "t": "Генсек НАТО заявив, що Трамп у переговорах із Путіним піддає російського диктатора «випробуванням»",
+   "u": "https://zn.ua/ukr/WORLD/hensek-nato-zajaviv-shcho-tramp-u-perehovorakh-iz-putinim-piddaje-rosijskoho-diktatora-viprobuvannjam.html",
+   "i": "https://zn.ua/img/article/7057/57_main.webp",
+   "n": 3,
+   "l": [
+    {
+     "s": "ZN.UA",
+     "u": "https://zn.ua/ukr/WORLD/hensek-nato-zajaviv-shcho-tramp-u-perehovorakh-iz-putinim-piddaje-rosijskoho-diktatora-viprobuvannjam.html"
+    },
+    {
+     "s": "Інтерфакс-Україна",
+     "u": "https://interfax.com.ua/news/general/1242484.html"
+    },
+    {
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/25/8064692/"
+    }
+   ],
+   "d": "2026-11-26T03:56:00+00:00"
+  },
+  {
    "t": "Бойовий лазер «Блиск» збив реактивний дрон «Герань», захищаючи об'єкт критичної інфраструктури — Флеш",
    "u": "https://suspilne.media/1457589-bojovij-lazer-blisk-zbiv-reaktivnij-dron-geran-zahisauci-obekt-kriticnoi-infrastrukturi-fles/",
    "i": "https://cdn4.suspilne.media/images/default.jpg",
@@ -393,30 +414,41 @@
     }
    ],
    "d": "2026-11-25T22:37:00+00:00"
-  },
-  {
-   "t": "\"Шахтар\" програв третій поспіль матч у Лізі чемпіонів",
-   "u": "https://zn.ua/ukr/SPORT/shakhtar-prohrav-tretij-match-pospil-u-lizi-chempioniv.html",
-   "i": "https://zn.ua/img/article/7057/29_main.webp",
-   "n": 3,
-   "l": [
-    {
-     "s": "ZN.UA",
-     "u": "https://zn.ua/ukr/SPORT/shakhtar-prohrav-tretij-match-pospil-u-lizi-chempioniv.html"
-    },
-    {
-     "s": "24 Канал",
-     "u": "https://sportnews.24tv.ua/liga-chempioniv-202627-shahtar-rezultat-matchiv-rozklad_n3129712"
-    },
-    {
-     "s": "Суспільне",
-     "u": "https://suspilne.media/sport/1457478-sahtar-fenerbahce-onlajn-translacia-matcu-ligi-cempioniv-z-futbolu/"
-    }
-   ],
-   "d": "2026-11-25T22:05:00+00:00"
   }
  ],
  "items": [
+  {
+   "t": "5 відомих футболістів збірної України, яких мобілізували на війну",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/sporttopnews/mobilizatsiya-ukrayini-hto-futbolistiv-zbirnoyi-ukrayini-sluzhiv_n3214527",
+   "x": "Багатьом українським спортсменам з початком російської агресії довелося проміняти свій інвентар на зброю. На захист Батьківщини вирушили й футболісти рівня національної збірної України.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3214527.jpg?v=1795618220000&q=100",
+   "d": "2026-11-26T04:00:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "\"Він був неймовірною людиною в усіх сенсах\". Пам'яті фіксера та військового Максима Осередчука",
+   "s": "Українська правда. Життя",
+   "u": "https://life.pravda.com.ua/projects/recviyem/pam-yati-poleglogo-fiksera-ta-morpiha-maksima-oseredchuka-319322/",
+   "i": "https://imglife.pravda.com.ua/life/images/doc/c/b/150994/cb614534fd78d8b9ddfc721503ed058c.jpeg?w=390&q=90&f=jpeg",
+   "d": "2026-11-26T04:00:00+00:00",
+   "c": [
+    "zhyttia"
+   ]
+  },
+  {
+   "t": "Генсек НАТО заявив, що Трамп у переговорах із Путіним піддає російського диктатора «випробуванням»",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/WORLD/hensek-nato-zajaviv-shcho-tramp-u-perehovorakh-iz-putinim-piddaje-rosijskoho-diktatora-viprobuvannjam.html",
+   "x": "Водночас взаємодія Дональда Трампа з Владіміром Путіним неодноразово ставала приводом для критики.",
+   "i": "https://zn.ua/img/article/7057/57_main.webp",
+   "d": "2026-11-26T03:56:00+00:00",
+   "c": [
+    "statti"
+   ]
+  },
   {
    "t": "Яку бізнес-імперію побудував Володимир Кличко після завершення кар'єри",
    "s": "24 Канал",
@@ -14990,42 +15022,6 @@
    "c": [
     "holovne",
     "polityka"
-   ]
-  },
-  {
-   "t": "Рада легалізувала ринок криптовалюти в Україні та ввела правила оподаткування",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/ECONOMICS/rada-lehalizuvala-rinok-kriptovaljuti-v-ukrajini-ta-vvela-pravila-opodatkuvannja.html",
-   "x": "Закон почне діяти уже з липня 2027 року.",
-   "i": "https://zn.ua/img/article/7055/39_main.webp",
-   "d": "2026-11-25T09:29:00+00:00",
-   "c": [
-    "statti"
-   ]
-  },
-  {
-   "t": "До Києва з візитом прибув глава МЗС Естонії Маргус Цахкна",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1457252-do-kieva-z-vizitom-pribuv-glava-mzs-estonii-margus-cahkna/",
-   "x": "Міністр закордонних справ Естонії Маргус Цахкна 25 листопада прибув з візитом до Києва. Подробиці програми візиту та запланованих зустрічей наразі не відомі",
-   "i": "https://cdn4.suspilne.media/images/23dca5c79aa74f93.jpg",
-   "d": "2026-11-25T09:28:44+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "kyiv"
-   ]
-  },
-  {
-   "t": "Одна з ТЕС \"ДТЕК\" припинила генерацію після атаки",
-   "s": "Інтерфакс-Україна",
-   "u": "https://interfax.com.ua/news/general/1242043.html",
-   "x": "РФ здійснила масовану атаку на одну з ТЕС групи \"ДТЕК\", в результаті якої станція припинила генерацію електроенергії, повідомив енергохолдинг у середу.",
-   "i": "https://media.interfax.com.ua/media/thumbs/images/2025/03/arbjv/mwkfs-hfc4U8.jpg",
-   "d": "2026-11-25T09:28:04+00:00",
-   "c": [
-    "holovne"
    ]
   }
  ]
