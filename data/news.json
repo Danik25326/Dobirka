@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T06:50:45+00:00",
+ "updated": "2026-11-26T07:01:16+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -158,6 +158,39 @@
  ],
  "top": [
   {
+   "t": "Українець підпалив себе біля президентського палацу у Варшаві, – ЗМІ",
+   "u": "https://24tv.ua/samopidpal-bilya-prezidentskogo-palatsu-varshavi-22-richniy-yunak_n3214799",
+   "i": "https://24tv.ua/resources/photos/news/202611/3214799.jpg?v=1795675148000&q=100",
+   "n": 6,
+   "l": [
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/samopidpal-bilya-prezidentskogo-palatsu-varshavi-22-richniy-yunak_n3214799"
+    },
+    {
+     "s": "Інтерфакс-Україна",
+     "u": "https://interfax.com.ua/news/general/1242513.html"
+    },
+    {
+     "s": "ZN.UA",
+     "u": "https://zn.ua/ukr/europe/ukrajinets-pidpaliv-sebe-bilja-prezidentskoho-palatsu-u-varshavi-shcho-vidomo-pro-joho-stan-ta-motivi-vchinku.html"
+    },
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/1457570-u-polsi-colovik-pidpaliv-sebe-bila-prezidentskogo-palacu/"
+    },
+    {
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/25/8064693/"
+    },
+    {
+     "s": "Європейська правда",
+     "u": "https://www.eurointegration.com.ua/news/2026/11/25/7250830/"
+    }
+   ],
+   "d": "2026-11-26T06:52:14+00:00"
+  },
+  {
    "t": "У Польщі заявили, що в НАТО не підтримали пропозицію збивати російські цілі над Україною",
    "u": "https://24tv.ua/geopolitics/zbivatime-nato-rosiyski-raketi-nad-ukrayinoyu-polshhi-poyasnili_n3214644",
    "i": "https://24tv.ua/resources/photos/news/202611/3214644.jpg?v=1795626631000&q=100",
@@ -189,35 +222,6 @@
     }
    ],
    "d": "2026-11-25T17:16:00+00:00"
-  },
-  {
-   "t": "У Варшаві чоловік підпалив себе біля президентського палацу – ЗМІ",
-   "u": "https://interfax.com.ua/news/general/1242513.html",
-   "i": "https://zn.ua/img/article/7057/17_main.webp",
-   "n": 5,
-   "l": [
-    {
-     "s": "Інтерфакс-Україна",
-     "u": "https://interfax.com.ua/news/general/1242513.html"
-    },
-    {
-     "s": "ZN.UA",
-     "u": "https://zn.ua/ukr/europe/ukrajinets-pidpaliv-sebe-bilja-prezidentskoho-palatsu-u-varshavi-shcho-vidomo-pro-joho-stan-ta-motivi-vchinku.html"
-    },
-    {
-     "s": "Суспільне",
-     "u": "https://suspilne.media/1457570-u-polsi-colovik-pidpaliv-sebe-bila-prezidentskogo-palacu/"
-    },
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/25/8064693/"
-    },
-    {
-     "s": "Європейська правда",
-     "u": "https://www.eurointegration.com.ua/news/2026/11/25/7250830/"
-    }
-   ],
-   "d": "2026-11-26T01:56:39+00:00"
   },
   {
    "t": "Держдеп США погодив можливий продаж Україні обладнання для F-16",
@@ -320,31 +324,6 @@
    "d": "2026-11-25T16:42:00+00:00"
   },
   {
-   "t": "Рада ухвалила законопроєкт про приєднання до Керівного комітету Спецтрибуналу щодо злочинів РФ",
-   "u": "https://zn.ua/ukr/POLITICS/rada-ukhvalila-zakonoprojekt-pro-prijednannja-do-kerivnoho-komitetu-spetstribunalu-shchodo-zlochiniv-rf.html",
-   "i": "https://zn.ua/img/article/7055/85_main.webp",
-   "n": 4,
-   "l": [
-    {
-     "s": "ZN.UA",
-     "u": "https://zn.ua/ukr/POLITICS/rada-ukhvalila-zakonoprojekt-pro-prijednannja-do-kerivnoho-komitetu-spetstribunalu-shchodo-zlochiniv-rf.html"
-    },
-    {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/rada-shvalila-uchast-ukrayini-upravlinni-spetstribunalom-shhodo_n3214302"
-    },
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/25/8064576/"
-    },
-    {
-     "s": "Інтерфакс-Україна",
-     "u": "https://interfax.com.ua/news/political/1242089.html"
-    }
-   ],
-   "d": "2026-11-25T11:48:00+00:00"
-  },
-  {
    "t": "Російський дрон влучив у багатоповерхівку в Харкові: загинули двоє людей, є постраждалі",
    "u": "https://zn.ua/ukr/war/rosijskij-dron-vluchiv-u-bahatopoverkhivku-v-kharkovi-je-postrazhdali-pid-zavalami-mozhut-buti-ljudi.html",
    "i": "https://zn.ua/img/article/7057/59_main.webp",
@@ -389,7 +368,7 @@
   {
    "t": "У Пентагоні кажуть, що нарощують виробництво ракет Patriot",
    "u": "https://www.pravda.com.ua/news/2026/11/26/8064708/",
-   "i": "https://img.eurointegration.com.ua/images/doc/2/d/2dd231e-usa-resize.png",
+   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/0/964614/50b51da668d8af91fae088c4e7c9c530.jpeg",
    "n": 3,
    "l": [
     {
@@ -406,9 +385,121 @@
     }
    ],
    "d": "2026-11-25T22:37:00+00:00"
+  },
+  {
+   "t": "\"Шахтар\" програв третій поспіль матч у Лізі чемпіонів",
+   "u": "https://zn.ua/ukr/SPORT/shakhtar-prohrav-tretij-match-pospil-u-lizi-chempioniv.html",
+   "i": "https://zn.ua/img/article/7057/29_main.webp",
+   "n": 3,
+   "l": [
+    {
+     "s": "ZN.UA",
+     "u": "https://zn.ua/ukr/SPORT/shakhtar-prohrav-tretij-match-pospil-u-lizi-chempioniv.html"
+    },
+    {
+     "s": "24 Канал",
+     "u": "https://sportnews.24tv.ua/liga-chempioniv-202627-shahtar-rezultat-matchiv-rozklad_n3129712"
+    },
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/sport/1457478-sahtar-fenerbahce-onlajn-translacia-matcu-ligi-cempioniv-z-futbolu/"
+    }
+   ],
+   "d": "2026-11-25T22:05:00+00:00"
   }
  ],
  "items": [
+  {
+   "t": "Четверо загинули, ще 6 постраждали внаслідок обстрілів Харківської області протягом доби",
+   "s": "Інтерфакс-Україна",
+   "u": "https://interfax.com.ua/news/general/1242563.html",
+   "x": "Протягом минулої доби ЗС РФ завдали ударів по Харкову і 13 населених пунктах області, 4 людей загинули, ще 6 постраждали, повідомив начальник обласної військової адміністрації Олег Синєгубов.",
+   "i": "https://media.interfax.com.ua/media/thumbs/images/2026/04/eaufr/RiC8T4IZZ2Nu.jpg",
+   "d": "2026-11-26T06:59:40+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kharkiv"
+   ]
+  },
+  {
+   "t": "Центр Кривого Рогу після атаки на інфраструктуру має значні проблеми зі світлом, електротранспорт зупинено – Вілкул",
+   "s": "Інтерфакс-Україна",
+   "u": "https://interfax.com.ua/news/general/1242562.html",
+   "x": "Центральна частина Кривого Рогу залишилася без нормального електропостачання після атаки РФ, повідомив голова ради оборони міста Олександр Вілкул.",
+   "i": "https://media.interfax.com.ua/media/thumbs/images/2020/07/QuqqcpO7aRMZ.jpg",
+   "d": "2026-11-26T06:58:08+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "dnipro"
+   ]
+  },
+  {
+   "t": "Українець підпалив себе біля президентського палацу у Варшаві, – ЗМІ",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/samopidpal-bilya-prezidentskogo-palatsu-varshavi-22-richniy-yunak_n3214799",
+   "x": "У Варшаві 25 листопада 22-річний чоловік вчинив акт самопідпалу навпроти президентського палацу. Потерпілого у важкому стані екстрено госпіталізували до відділення інтенсивної терапії.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3214799.jpg?v=1795675148000&q=100",
+   "d": "2026-11-26T06:52:14+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Богдан Кротевич повертається до війська: що відомо про нове призначення",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/bogdan-krotevich-povertayetsya-do-viyska-ocholit-brigadu-morskoyi_n3214802",
+   "x": "Колишній начальник штабу 12-ї бригади спеціального призначення \"Азов\" Богдан Кротевич із позивним «Тавр» повертається на військову службу. Він очолить 42-гу окрему бригаду морської піхоти.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3214802.jpg?v=1795675617000&q=100",
+   "d": "2026-11-26T06:51:54+00:00",
+   "c": [
+    "holovne",
+    "viyna"
+   ]
+  },
+  {
+   "t": "Внаслідок обстрілів Херсонщини за добу загинула людина, ще одну поранено",
+   "s": "Інтерфакс-Україна",
+   "u": "https://interfax.com.ua/news/general/1242552.html",
+   "x": "Російські війська протягом минулої доби обстрілювали Херсонщину, є загиблий і поранений, повідомив начальник Херсонської ОВА Олександр Прокудін.",
+   "i": "https://media.interfax.com.ua/media/thumbs/images/2023/03/Ad1a5wIe_Kns.jpg",
+   "d": "2026-11-26T06:51:22+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kherson"
+   ]
+  },
+  {
+   "t": "⚡️ЦЕЗАРЬ ИЗ ЛЕГИОНА взорвал эфир обращением к россиянам! Журналистка АЖ ОНЕМЕЛА от услышанного",
+   "s": "24 Канал · відео",
+   "u": "https://www.youtube.com/watch?v=ARnLWjME8pg",
+   "x": "В этом интервью говорим с \"Цезарем\" о настроениях среди россиян, переговорах, не приведших к результатам и стремлении Путина к бессмертию. На что делают ставку россияне и как присоединиться к движению сопротивления…",
+   "i": "https://i2.ytimg.com/vi/ARnLWjME8pg/hqdefault.jpg",
+   "d": "2026-11-26T06:50:14+00:00",
+   "c": [
+    "video"
+   ],
+   "v": 1
+  },
+  {
+   "t": "У Києві внаслідок нічної атаки постраждали семеро людей, двоє з них у тяжкому стані: фото наслідків",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/war/u-kijevi-vnaslidok-nichnoji-ataki-postrazhdali-semero-ljudej-dvoje-z-nikh-u-tjazhkomu-stani-foto-naslidkiv.html",
+   "x": "Рятувальники вже загасили всі пожежі.",
+   "i": "https://zn.ua/img/article/7057/79_main.webp",
+   "d": "2026-11-26T06:50:00+00:00",
+   "c": [
+    "statti"
+   ],
+   "r": [
+    "kyiv"
+   ]
+  },
   {
    "t": "Трамп і Генсек НАТО закликали Росію уникати дій, які розширюють війну за межі України",
    "s": "Українська правда",
@@ -417,7 +508,8 @@
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/e/964703/2e24632ba9e42d37d9be67e91812a05b.jpeg",
    "d": "2026-11-26T06:45:00+00:00",
    "c": [
-    "holovne"
+    "holovne",
+    "vazhlyve"
    ]
   },
   {
@@ -430,6 +522,18 @@
    "c": [
     "holovne"
    ]
+  },
+  {
+   "t": "😱Москву СНОСИТ ЦИКЛОН! Прямо ВОЗЛЕ Кремля ПЫЛАЕТ. Лавров ВЫЛЕЗ с УГРОЗАМИ. Горячие новости 26.11",
+   "s": "24 Канал · відео",
+   "u": "https://www.youtube.com/watch?v=Gad1e_cSbbg",
+   "x": "Ведущая 24 Канала Дарина Трунова рассказала о главных новостях по состоянию на 26 ноября 2026 года. В Москве пожар в элитном ЖК у Арбатской – это в сотне метров от Кремля. Столицу РФ накрыл мощный снегопад – город…",
+   "i": "https://i4.ytimg.com/vi/Gad1e_cSbbg/hqdefault.jpg",
+   "d": "2026-11-26T06:40:12+00:00",
+   "c": [
+    "video"
+   ],
+   "v": 1
   },
   {
    "t": "Дісней нам збрехав: як справжню Покахонтас викрали, зламали й перетворили на живий трофей",
@@ -994,6 +1098,21 @@
    ]
   },
   {
+   "t": "💥ЖАХ!🚀Росіяни ВГАТИЛИ БАЛІСТИКОЮ по Києву: палає ТЦ, є важкопоранені | НОВИНИ 26.11.2026 5 канал",
+   "s": "5 канал · відео",
+   "u": "https://www.youtube.com/watch?v=45lcxxi4nbI",
+   "x": "✅ “Гросмейстер політики” – американські переговірники знову розсипаються в компліментах російському диктатору. Невігластво чи школа американської дипломатії? ✅ Нічний балістичний удар по Києву – ворог поцілив…",
+   "i": "https://i1.ytimg.com/vi/45lcxxi4nbI/hqdefault.jpg",
+   "d": "2026-11-26T05:57:20+00:00",
+   "c": [
+    "video"
+   ],
+   "v": 1,
+   "r": [
+    "kyiv"
+   ]
+  },
+  {
    "t": "«Російський Starlink» може дозволити Путіну запускати дрони над Лондоном: у ГУР розповіли про космічні амбіції Москви",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/war/rosijskij-starlink-mozhe-dati-putinu-zmohu-keruvati-dronami-nad-londonom-u-hur-rozpovili-pro-kosmichni-ambitsiji-moskvi.html",
@@ -1380,7 +1499,7 @@
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/26/8064721/",
    "x": "Ранком 26 листопада у Новобаварському районі Харкова дрон атакував житловий будинок. Загинули 2 людини, троє постраждали, під завалами можуть бути люди.",
-   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/3/2/964677/32ec16fd3fd193681f72c14d8a3bb76b.jpeg",
+   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/b/2/964704/b2bfb5f20fed70e60ca2afec2d56b3e1.jpeg",
    "d": "2026-11-26T05:09:00+00:00",
    "c": [
     "holovne",
@@ -2325,7 +2444,6 @@
    "t": "У Пентагоні кажуть, що нарощують виробництво ракет Patriot",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/26/8064708/",
-   "i": "https://img.eurointegration.com.ua/images/doc/2/d/2dd231e-usa-resize.png",
    "d": "2026-11-25T22:37:00+00:00",
    "c": [
     "holovne",
@@ -2704,7 +2822,6 @@
    "t": "У Польщі повідомили про різке скорочення кількості нелегальних мігрантів зі сторони Білорусі",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/25/8064704/",
-   "i": "https://img.eurointegration.com.ua/images/doc/5/b/5bbad59-poland-resize.png",
    "d": "2026-11-25T21:15:00+00:00",
    "c": [
     "holovne",
@@ -14917,112 +15034,6 @@
    "x": "Українська розвідка провела далекобійну операцію на території Смоленської області Росії. Унаслідок неї знищили розвідувальний комплекс, здатний виявляти крилаті ракети в радіусі 2500 кілометрів",
    "i": "https://cdn4.suspilne.media/images/default.jpg",
    "d": "2026-11-25T10:31:38+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
-   "t": "Росіяни атакували сільгосппідприємство у селі Жадове, що на прикордонні Чернігівщини",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/chernihiv/1457276-rosiani-atakuvali-silgosppidpriemstvo-u-seli-zadove-so-na-prikordonni-cernigivsini/",
-   "x": "Війська РФ вночі 25 листопада атакували село Жадове Семенівської громади, що на прикордонні Чернігівщини. Удар зафіксували на території сільськогосподарського підприємства",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-25T10:31:14+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "chernihiv"
-   ]
-  },
-  {
-   "t": "❗МОСКВА, ВНИМАНИЕ! Дальше только хуже – ЛЮТАЯ НИЩЕТА охватила РОССИЮ. Это КОНЕЦ. БЛАНТ & САВОСТЬЯНОВ",
-   "s": "24 Канал · відео",
-   "u": "https://www.youtube.com/watch?v=Lm4KRkZjvH8",
-   "x": "Ведущий 24 Канала Игорь Гаврищак ‪‪@IhorHavryshchak вместе с экономическим обозревателем Максимом Блантом и основателем движения \"Демократическая Россия\" Евгением Савостьяновым ‪‪@НАФРОНТАХ4-йМИРОВОЙ обсудили последние…",
-   "i": "https://i1.ytimg.com/vi/Lm4KRkZjvH8/hqdefault.jpg",
-   "d": "2026-11-25T10:30:33+00:00",
-   "c": [
-    "video"
-   ],
-   "v": 1
-  },
-  {
-   "t": "❗️Банкову ПІЙМАЛИ НА ФАЛЬСИФІКАЦІЇ?! ⚡️Адвокати Порошенка РОЗКРИЛИ АФЕРУ санкцій у Верховному Суді",
-   "s": "5 канал · відео",
-   "u": "https://www.youtube.com/watch?v=qDoaG1Ke82c",
-   "x": "24 листопада 2026 року у Великій Палаті Верховного Суду відбувся апеляційний розгляд у справі № 990/80/25 за позовом п’ятого президента України Петра Порошенка до Президента Володимира Зеленського щодо скасування Указу…",
-   "i": "https://i2.ytimg.com/vi/qDoaG1Ke82c/hqdefault.jpg",
-   "d": "2026-11-25T10:30:15+00:00",
-   "c": [
-    "video"
-   ],
-   "v": 1
-  },
-  {
-   "t": "Рябко поступився Сі, який подолав Трампа: у стада здичавілих корів із Чорнобиля змінився ватажок",
-   "s": "Українська правда. Життя",
-   "u": "https://life.pravda.com.ua/society/u-zdichavilogo-stada-koriv-u-chornobili-zminivsya-vatazhok-319297/",
-   "i": "https://imglife.pravda.com.ua/life/images/doc/6/6/150826/66e527f6f4e8d7794847fdac240f59fb.jpeg?w=390&q=90&f=jpeg",
-   "d": "2026-11-25T10:30:00+00:00",
-   "c": [
-    "zhyttia"
-   ]
-  },
-  {
-   "t": "На Дніпропетровщині двох поліцейських підозрюють у вимаганні 5 тисяч доларів у колеги",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/dnipro/1457258-na-dnipropetrovsini-dvoh-policejskih-pidozruut-u-vimaganni-5-tisac-dolariv-u-kolegi/",
-   "x": "На Дніпропетровщині двох поліцейських затримали за підозрою у вимаганні й одержанні 5 тисяч доларів у колеги. Як зазначили у прокуратурі, за ці гроші правоохоронці обіцяли не передавати зібрані матеріали далі",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-25T10:30:00+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "dnipro"
-   ]
-  },
-  {
-   "t": "Курс валют на 25 листопада: долар та євро подорожчали",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/finances/kursi-gotivkovoji-valyuti-dolar-ta-yevro-zrosli-u-bankah-ukrajini-828022/",
-   "x": "У середу, 25 листопада, готівкова гривня в банках ослабилась на тлі підвищення офіційних курсів долара та євро.",
-   "d": "2026-11-25T10:30:00+00:00",
-   "c": [
-    "ekonomika"
-   ]
-  },
-  {
-   "t": "Фінмоніторинг на шляху до ЄС: як поєднати контроль і довіру бізнесу",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/experts/finmonitoring-na-shlyahu-do-yes-yak-poyednati-kontrol-i-doviru-biznesu-827930/",
-   "d": "2026-11-25T10:30:00+00:00",
-   "c": [
-    "ekonomika"
-   ]
-  },
-  {
-   "t": "Внаслідок ворожої атаки на Одесу постраждала одна людина, пошкоджено багатоповерхівку – МВА",
-   "s": "Інтерфакс-Україна",
-   "u": "https://interfax.com.ua/news/general/1242097.html",
-   "x": "Одна людина постраждала, також пошкоджено вікна в багатоповерховому житловому будинку внаслідок ворожої атаки на Одесу, повідомив начальник Одеської міської військової адміністрації (МВА) Сергій Лисак у середу.",
-   "i": "https://media.interfax.com.ua/media/thumbs/images/2025/10/lywmv/Oh7dKli1sFjb.jpg",
-   "d": "2026-11-25T10:29:39+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "odesa"
-   ]
-  },
-  {
-   "t": "Рада ухвалила закон про приєднання України до Розширеної часткової угоди про Керівний комітет Спецтрибуналу",
-   "s": "Інтерфакс-Україна",
-   "u": "https://interfax.com.ua/news/political/1242089.html",
-   "x": "Верховна Рада ухвалила закон про приєднання України до Розширеної часткової угоди про Керівний комітет Спеціального трибуналу щодо злочину агресії проти України.",
-   "i": "https://media.interfax.com.ua/media/thumbs/images/2023/11/ebzc3-gGjKOR.jpg",
-   "d": "2026-11-25T10:28:18+00:00",
    "c": [
     "holovne"
    ]
