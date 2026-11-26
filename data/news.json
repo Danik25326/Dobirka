@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T00:50:42+00:00",
+ "updated": "2026-11-26T01:01:10+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -417,6 +417,17 @@
   }
  ],
  "items": [
+  {
+   "t": "Чехія готова допомогти Польщі після порушень її повітряного простору Росією",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/europe/chekhija-hotova-dopomohti-polshchi-pislja-porushen-jiji-povitrjanoho-prostoru-rosijeju.html",
+   "x": "Обсяг можливої військової підтримки залежатиме від потреб, які Варшава визначить у межах НАТО.",
+   "i": "https://zn.ua/img/article/7057/45_main.webp",
+   "d": "2026-11-26T00:56:00+00:00",
+   "c": [
+    "statti"
+   ]
+  },
   {
    "t": "$10 тисяч за виїзд військового: на Донеччині затримали водія ДСНС",
    "s": "24 Канал",
@@ -1088,6 +1099,7 @@
    "t": "У Польщі повідомили про різке скорочення кількості нелегальних мігрантів зі сторони Білорусі",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/25/8064704/",
+   "i": "https://img.eurointegration.com.ua/images/doc/5/b/5bbad59-poland-resize.png",
    "d": "2026-11-25T21:15:00+00:00",
    "c": [
     "holovne",
@@ -2223,17 +2235,6 @@
    ]
   },
   {
-   "t": "Суд скасував підозру детективу НАБУ, якого звинувачували в приховуванні квартири",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/anticorruption/sud-skasuvav-pidozru-detektivu-nabu-jakoho-zvinuvachuvali-v-prikhovuvanni-kvartiri.html",
-   "x": "Рішення суду ще можуть оскаржити в апеляції.",
-   "i": "https://zn.ua/img/article/7057/3_main.webp",
-   "d": "2026-11-25T19:49:00+00:00",
-   "c": [
-    "statti"
-   ]
-  },
-  {
    "t": "У Польщі повідомляють, що чоловік, який підпалив себе у Варшаві, є українцем",
    "s": "Європейська правда",
    "u": "https://www.eurointegration.com.ua/news/2026/11/25/7250830/",
@@ -2242,6 +2243,17 @@
    "d": "2026-11-25T19:49:00+00:00",
    "c": [
     "polityka"
+   ]
+  },
+  {
+   "t": "Суд скасував підозру детективу НАБУ, якого звинувачували в приховуванні квартири",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/anticorruption/sud-skasuvav-pidozru-detektivu-nabu-jakoho-zvinuvachuvali-v-prikhovuvanni-kvartiri.html",
+   "x": "Рішення суду ще можуть оскаржити в апеляції.",
+   "i": "https://zn.ua/img/article/7057/3_main.webp",
+   "d": "2026-11-25T19:49:00+00:00",
+   "c": [
+    "statti"
    ]
   },
   {
@@ -15039,20 +15051,6 @@
    ],
    "r": [
     "ternopil"
-   ]
-  },
-  {
-   "t": "Представлялися працівниками банків і ФСБ: на Вінниччині викрили шахрайський кол-центр",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/vinnytsia/1457224-predstavlalisa-pracivnikami-bankiv-i-fsb-na-vinniccini-vikrili-sahrajskij-kol-centr/",
-   "x": "На Вінниччині викрили шахрайський кол-центр у Стрижавці. Дев'ятьом людям повідомили про підозру. За даними поліції, учасники групи могли привласнити понад 15 млн грн, телефонуючи громадянам України та інших країн.",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-25T09:12:13+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "vinnytsia"
    ]
   }
  ]
