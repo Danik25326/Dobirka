@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T23:10:43+00:00",
+ "updated": "2026-11-26T23:20:43+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -398,6 +398,17 @@
  ],
  "items": [
   {
+   "t": "Обіцяли тил 100 тисяч доларів, а відправляли на фронт: NYT розкрила схему вербування до армії РФ",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/war/obitsjali-til-100-tisjach-dolariv-a-vidpravljali-na-front-nyt-rozkrila-skhemu-verbuvannja-do-armiji-rf.html",
+   "x": "Вербувальники обіцяли співвітчизникам високі заробітки та безпечну службу в тилу.",
+   "i": "https://zn.ua/img/article/7061/63_main.webp",
+   "d": "2026-11-26T23:18:17+00:00",
+   "c": [
+    "statti"
+   ]
+  },
+  {
    "t": "Матч Ліги Європи в Грузії переривали через сутичку турецьких уболівальників із поліцією",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/SPORT/match-lihi-jevropi-v-hruziji-bulo-perervano-cherez-sutichki-turetskikh-ubolivalnikiv-iz-politsijeju.html",
@@ -561,17 +572,6 @@
    ]
   },
   {
-   "t": "Українські біатлоністи провально розпочали новий сезон Кубка світу",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/SPORT/ukrajinski-biatlonisti-provalno-rozpochali-novij-sezon-kubka-svitu.html",
-   "x": "Майже вся команда не потрапила навіть до топ-80.",
-   "i": "https://zn.ua/img/article/7061/53_main.webp",
-   "d": "2026-11-26T22:15:21+00:00",
-   "c": [
-    "statti"
-   ]
-  },
-  {
    "t": "Росія руйнує заповідник \"Кам'яна могила\": під загрозою – стародавні петрогліфи",
    "s": "24 Канал",
    "u": "https://24tv.ua/zapovidnik-kamyana-mogila-bilya-melitopolya-modernizuyut-chomu_n3214854",
@@ -583,6 +583,17 @@
    ],
    "r": [
     "zaporizhzhia"
+   ]
+  },
+  {
+   "t": "Українські біатлоністи провально розпочали новий сезон Кубка світу",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/SPORT/ukrajinski-biatlonisti-provalno-rozpochali-novij-sezon-kubka-svitu.html",
+   "x": "Майже вся команда не потрапила навіть до топ-80.",
+   "i": "https://zn.ua/img/article/7061/53_main.webp",
+   "d": "2026-11-26T22:15:00+00:00",
+   "c": [
+    "statti"
    ]
   },
   {
@@ -1026,22 +1037,22 @@
    "v": 1
   },
   {
-   "t": "Україна поступилася Португалії в матчі відбору на ЧС-2027 з баскетболу",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/sport/1458070-ukraina-postupilasa-portugalii-v-matci-vidboru-na-cs-2027-z-basketbolu/",
-   "x": "Збірна України з баскетболу: матч проти збірної Португалії, відбір до чемпіонату світу-2027, як пройшов поєдинок, результат гри відбору",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "t": "Пограбування, погоні та небезпечні пригоди: 5 фільмів із вайбом GTA 6",
+   "s": "24 Канал",
+   "u": "https://kino.24tv.ua/filmi-vaybom-gta-6-5-kriminalnih-strichok-pro-pograbuvannya-prigodi_n3215046",
+   "x": "Банки, які стають мішенню для грабіжників, нічні клуби, небезпечні знайомства та автомобілі, що мчать вулицями на шаленій швидкості. Ці фільми легко уявити частиною світу GTA 6.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3215046.jpg?v=1795690672000&q=100",
    "d": "2026-11-26T21:00:00+00:00",
    "c": [
     "holovne"
    ]
   },
   {
-   "t": "Пограбування, погоні та небезпечні пригоди: 5 фільмів із вайбом GTA 6",
-   "s": "24 Канал",
-   "u": "https://kino.24tv.ua/filmi-vaybom-gta-6-5-kriminalnih-strichok-pro-pograbuvannya-prigodi_n3215046",
-   "x": "Банки, які стають мішенню для грабіжників, нічні клуби, небезпечні знайомства та автомобілі, що мчать вулицями на шаленій швидкості. Ці фільми легко уявити частиною світу GTA 6.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3215046.jpg?v=1795690672000&q=100",
+   "t": "Україна поступилася Португалії в матчі відбору на ЧС-2027 з баскетболу",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sport/1458070-ukraina-postupilasa-portugalii-v-matci-vidboru-na-cs-2027-z-basketbolu/",
+   "x": "Збірна України з баскетболу: матч проти збірної Португалії, відбір до чемпіонату світу-2027, як пройшов поєдинок, результат гри відбору",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
    "d": "2026-11-26T21:00:00+00:00",
    "c": [
     "holovne"
@@ -14967,18 +14978,6 @@
    "i": "https://media.interfax.com.ua/media/thumbs/images/2025/05/kevgz/bP0DZZNjorfr.jpg",
    "d": "2026-11-26T08:38:13+00:00",
    "c": [
-    "holovne"
-   ]
-  },
-  {
-   "t": "Реал першим вийшов у плей-оф: турнірна таблиця Ліги чемпіонів після 5-го туру",
-   "s": "24 Канал",
-   "u": "https://sportnews.24tv.ua/liga-chempioniv-20262027-turnirna-tablitsya-rozklad-usih-matchiv_n3172167",
-   "x": "У Лізі чемпіонів завершився 5 тур етапу ліги, за підсумками якого тільки Реал йде без втрат очок у турнірній таблиці.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3172167.jpg?v=1793619840000&q=100",
-   "d": "2026-11-26T08:37:00+00:00",
-   "c": [
-    "sport",
     "holovne"
    ]
   }
