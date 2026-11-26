@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T04:40:45+00:00",
+ "updated": "2026-11-26T04:50:45+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -353,6 +353,27 @@
    "d": "2026-11-25T10:46:00+00:00"
   },
   {
+   "t": "Вночі Київ атакували \"Циркони\": є постраждалі",
+   "u": "https://24tv.ua/rosiya-vdarila-balistikoyu-po-kiyevu-stolitsi-prolunali-vibuhi_n3214755",
+   "i": "https://24tv.ua/resources/photos/news/202611/3214755.jpg?v=1795639679000&q=100",
+   "n": 3,
+   "l": [
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/rosiya-vdarila-balistikoyu-po-kiyevu-stolitsi-prolunali-vibuhi_n3214755"
+    },
+    {
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/26/8064709/"
+    },
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/kyiv/1457586-u-kievi-prolunali-vibuhi-armia-rf-atakuvala-stolicu-balistikou-3/"
+    }
+   ],
+   "d": "2026-11-26T04:42:00+00:00"
+  },
+  {
    "t": "Генсек НАТО заявив, що Трамп у переговорах із Путіним піддає російського диктатора «випробуванням»",
    "u": "https://zn.ua/ukr/WORLD/hensek-nato-zajaviv-shcho-tramp-u-perehovorakh-iz-putinim-piddaje-rosijskoho-diktatora-viprobuvannjam.html",
    "i": "https://zn.ua/img/article/7057/57_main.webp",
@@ -393,30 +414,57 @@
     }
    ],
    "d": "2026-11-25T23:10:06+00:00"
-  },
-  {
-   "t": "У Пентагоні кажуть, що нарощують виробництво ракет Patriot",
-   "u": "https://www.pravda.com.ua/news/2026/11/26/8064708/",
-   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/0/964614/50b51da668d8af91fae088c4e7c9c530.jpeg",
-   "n": 3,
-   "l": [
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/26/8064708/"
-    },
-    {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/geopolitics/pentagon-naroshhuye-virobnitstvo-raket-patriot-zaluchat-do-tsogo_n3214731"
-    },
-    {
-     "s": "Суспільне",
-     "u": "https://suspilne.media/1457563-u-pentagoni-zaavili-so-narosuut-virobnictvo-sistem-patriot/"
-    }
-   ],
-   "d": "2026-11-25T22:37:00+00:00"
   }
  ],
  "items": [
+  {
+   "t": "4 літаки та понад 2 300 окупантів: втрати Росії на 26 листопада",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/vtrati-rosiyi-26-listopada-2026-skilki-rosiyan-odinits-rosiyskoyi_n3214779",
+   "x": "Втрати Росії у живій силі та техніці на фронті в Україні продовжують активно рости. За попередню добу українські військові знищили ще 2 319 окупантів.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3214779.jpg?v=1795666052000&q=100",
+   "d": "2026-11-26T04:49:38+00:00",
+   "c": [
+    "holovne",
+    "viyna"
+   ]
+  },
+  {
+   "t": "Шахраї створюють фейкові сторінки сервісних центрів МВС і пропонують водійські посвідчення без іспитів – поліція",
+   "s": "Інтерфакс-Україна",
+   "u": "https://interfax.com.ua/news/general/1242517.html",
+   "x": "Шахраї створюють підроблені сторінки державних установ у соцмережах і пропонують оформити посвідчення водія або документи на авто в обхід встановленої процедури, попереджають кіберполіція та ГСЦ МВС.",
+   "d": "2026-11-26T04:47:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Битва за 100 млрд. Як у ЄС готують новий бюджет та чи будуть в ньому гроші для України",
+   "s": "Українська правда",
+   "u": "https://www.pravda.com.ua/articles/2026/11/26/8064700/",
+   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/4/f/964635/4f033b251e69ee3309ea0cfaf37ab89c.jpeg",
+   "d": "2026-11-26T04:45:00+00:00",
+   "c": [
+    "statti"
+   ]
+  },
+  {
+   "t": "Вночі Київ атакували \"Циркони\": є постраждалі",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/rosiya-vdarila-balistikoyu-po-kiyevu-stolitsi-prolunali-vibuhi_n3214755",
+   "x": "Окупанти атакували Київ балістичними ракетами ввечері 25 листопада. У столиці України було гучно.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3214755.jpg?v=1795639679000&q=100",
+   "d": "2026-11-26T04:42:00+00:00",
+   "c": [
+    "holovne",
+    "vazhlyve",
+    "viyna"
+   ],
+   "r": [
+    "kyiv"
+   ]
+  },
   {
    "t": "Жодного киянина: звідки родом біатлоністи збірної України",
    "s": "24 Канал",
@@ -557,6 +605,18 @@
     "video"
    ],
    "v": 1
+  },
+  {
+   "t": "\"Гросмейстер політики\": Кушнер похвалив Путіна, який хоче перезапустити відносини з США",
+   "s": "Українська правда",
+   "u": "https://www.pravda.com.ua/news/2026/11/26/8064714/",
+   "x": "Джаред Кушнер у подкасті MD Meets відзначив стиль переговорів Путіна і його прагнення змінити відносини РФ із США",
+   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/4/964672/647c4e2d8b6c39b1d463e9f133eed5ae.jpeg",
+   "d": "2026-11-26T04:12:00+00:00",
+   "c": [
+    "holovne",
+    "vazhlyve"
+   ]
   },
   {
    "t": "Тепер на боці окупантів: хто є найкращим представником України в біатлоні",
@@ -1445,22 +1505,6 @@
    "d": "2026-11-25T21:39:00+00:00",
    "c": [
     "holovne"
-   ]
-  },
-  {
-   "t": "У Києві нові вибухи та знову балістика: цього разу на столицю летіли \"Циркони\"",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/rosiya-vdarila-balistikoyu-po-kiyevu-stolitsi-prolunali-vibuhi_n3214755",
-   "x": "Окупанти вкотре атакували Київ балістичними ракетами ввечері 25 листопада. У столиці України було гучно.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3214755.jpg?v=1795639679000&q=100",
-   "d": "2026-11-25T21:39:00+00:00",
-   "c": [
-    "holovne",
-    "vazhlyve",
-    "viyna"
-   ],
-   "r": [
-    "kyiv"
    ]
   },
   {
@@ -14951,60 +14995,6 @@
    "d": "2026-11-25T09:40:49+00:00",
    "c": [
     "holovne"
-   ]
-  },
-  {
-   "t": "Боксери з Дніпропетровщини здобули пʼять медалей на чемпіонаті Європи",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/dnipro/1457239-bokseri-z-dnipropetrovsini-zdobuli-pat-medalej-na-cempionati-evropi/",
-   "x": "Спортсмени з Дніпропетровщини здобули пʼять медалей на чемпіонаті Європи — European Boxing U23 Championships Poreč 2026. Змагання проходили в Хорватії",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-25T09:40:12+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "dnipro"
-   ]
-  },
-  {
-   "t": "«Захисник на лікарняному»: розгляд у справі депутата Диканя та посадовця Шевельова перенесли",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/poltava/1457214-zahisnik-na-likarnanomu-rozglad-u-spravi-deputata-dikana-ta-posadovca-sevelova-perenesli/",
-   "x": "У Шевченківському суді Полтави 25 листопада не продовжили розгляд справи щодо ймовірного хабарництва депутата Євгена Диканя та посадовця Миколи Шевельова. Адвокат Диканя на лікарняному. Нове засідання призначили на 3…",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-25T09:39:14+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "poltava"
-   ]
-  },
-  {
-   "t": "Вже не активні, але ще не сплять. Як готуються до сплячки ведмеді у харківському зоопарку",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/kharkiv/1457020-vze-ne-aktivni-ale-se-ne-splat-ak-gotuutsa-do-splacki-vedmedi-u-harkivskomu-zooparku/",
-   "x": "Бурі та гімалайські ведмеді у харківському зоопарку готуються до сплячки. Спати лягають, коли температура переважно мінусова, розповіла заступниця директора зоопарку у Харкові Каріна Детюк",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-25T09:37:17+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "kharkiv"
-   ]
-  },
-  {
-   "t": "Рада легалізувала криптовалюту і вирішила, як її оподатковувати",
-   "s": "Українська правда",
-   "u": "https://www.pravda.com.ua/news/2026/11/25/8064560/",
-   "x": "Верховна Рада ухвалила у другому читанні закон про нові правила для ринку криптовалют.",
-   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/0/964034/20c47e19a8a2d64144c11097f00f5723.jpeg",
-   "d": "2026-11-25T09:37:00+00:00",
-   "c": [
-    "vazhlyve",
-    "ekonomika"
    ]
   }
  ]
