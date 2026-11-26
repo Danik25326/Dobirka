@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T00:16:28+00:00",
+ "updated": "2026-11-26T00:30:59+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -234,16 +234,16 @@
      "u": "https://zn.ua/ukr/europe/ukrajinets-pidpaliv-sebe-bilja-prezidentskoho-palatsu-u-varshavi-shcho-vidomo-pro-joho-stan-ta-motivi-vchinku.html"
     },
     {
-     "s": "Суспільне",
-     "u": "https://suspilne.media/1457570-u-polsi-colovik-pidpaliv-sebe-bila-prezidentskogo-palacu/"
-    },
-    {
      "s": "Українська правда",
      "u": "https://www.pravda.com.ua/news/2026/11/25/8064693/"
     },
     {
      "s": "Європейська правда",
      "u": "https://www.eurointegration.com.ua/news/2026/11/25/7250830/"
+    },
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/1457570-u-polsi-colovik-pidpaliv-sebe-bila-prezidentskogo-palacu/"
     }
    ],
    "d": "2026-11-25T20:57:00+00:00"
@@ -417,6 +417,20 @@
   }
  ],
  "items": [
+  {
+   "t": "$10 тисяч за виїзд військового: на Донеччині затримали водія ДСНС",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/donechchini-vodiy-dsns-za-10-tisyach-obitsyav-vivezti-viyskovogo_n3214411",
+   "x": "Водій пожежно-рятувальної частини обіцяв військовослужбовцю допомогти виїхати з України в обхід пунктів пропуску. За цю послугу він хотів отримати 10 тисяч доларів, але передати клієнта спільникам так і не встиг.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3214411.jpg?v=1795611177000&q=100",
+   "d": "2026-11-26T00:30:59+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "donetsk"
+   ]
+  },
   {
    "t": "Трамп зазнав чергової судової невдачі у спробах обмежити громадянство за народженням",
    "s": "ZN.UA",
@@ -1532,17 +1546,6 @@
    ],
    "r": [
     "kyiv"
-   ]
-  },
-  {
-   "t": "У Польщі чоловік підпалив себе біля Президентського палацу. Сенатор повідомив, що це українець",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1457570-u-polsi-colovik-pidpaliv-sebe-bila-prezidentskogo-palacu/",
-   "x": "Варшаві увечері 25 листопада чоловік підпалив себе між Президентським палацом та будівлею Міністерства культури. Сенатор Гжегож Схетина в повідомив, що постраждалий є українцем",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-25T20:33:32+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
@@ -2794,8 +2797,8 @@
    "i": "https://24tv.ua/resources/photos/news/202611/3214430.jpg?v=1795612177000&q=100",
    "d": "2026-11-25T19:00:00+00:00",
    "c": [
-    "holovne",
-    "ekonomika"
+    "ekonomika",
+    "holovne"
    ],
    "r": [
     "sumy"
@@ -3107,6 +3110,17 @@
    "c": [
     "viyna",
     "ekonomika",
+    "holovne"
+   ]
+  },
+  {
+   "t": "У Польщі чоловік підпалив себе біля Президентського палацу. Сенатор повідомив, що це українець",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1457570-u-polsi-colovik-pidpaliv-sebe-bila-prezidentskogo-palacu/",
+   "x": "Варшаві увечері 25 листопада чоловік підпалив себе між Президентським палацом та будівлею Міністерства культури. Сенатор Гжегож Схетина в повідомив, що постраждалий є українцем",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-25T18:33:32+00:00",
+   "c": [
     "holovne"
    ]
   },
@@ -15040,16 +15054,6 @@
    ],
    "r": [
     "vinnytsia"
-   ]
-  },
-  {
-   "t": "Журнал Time включив світлини з України до 100 найкращих фото 2026 року",
-   "s": "Українська правда. Життя",
-   "u": "https://life.pravda.com.ua/culture/svitlini-ukrajinciv-uviyshli-do-top-100-foto-roku-time-319288/",
-   "i": "https://imglife.pravda.com.ua/life/images/doc/f/d/150814/fda000d9bc46445ee744bd8d5a107e11.jpeg?w=390&q=90&f=jpeg",
-   "d": "2026-11-25T09:11:00+00:00",
-   "c": [
-    "zhyttia"
    ]
   }
  ]
