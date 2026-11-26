@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T06:40:42+00:00",
+ "updated": "2026-11-26T06:50:45+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -220,6 +220,31 @@
    "d": "2026-11-26T01:56:39+00:00"
   },
   {
+   "t": "Держдеп США погодив можливий продаж Україні обладнання для F-16",
+   "u": "https://www.pravda.com.ua/news/2026/11/26/8064727/",
+   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/4/964702/04f879e416039b9dc7ba1b9596004634.jpeg",
+   "n": 4,
+   "l": [
+    {
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/26/8064727/"
+    },
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/1457588-derzdep-ssa-shvaliv-mozlivij-prodaz-ukraini-paketa-dla-obslugovuvanna-f-16-bils-niz-na-600-miljoniv-dolariv/"
+    },
+    {
+     "s": "Інтерфакс-Україна",
+     "u": "https://interfax.com.ua/news/general/1242488.html"
+    },
+    {
+     "s": "ZN.UA",
+     "u": "https://zn.ua/ukr/usa/ssha-pohodili-prodazh-ukrajini-obladnannja-dlja-f-16-na-621-9-mln-dolariv.html"
+    }
+   ],
+   "d": "2026-11-26T06:44:00+00:00"
+  },
+  {
    "t": "Генсек НАТО заявив, що Трамп у переговорах із Путіним піддає російського диктатора «випробуванням»",
    "u": "https://zn.ua/ukr/WORLD/hensek-nato-zajaviv-shcho-tramp-u-perehovorakh-iz-putinim-piddaje-rosijskoho-diktatora-viprobuvannjam.html",
    "i": "https://zn.ua/img/article/7057/57_main.webp",
@@ -364,7 +389,7 @@
   {
    "t": "У Пентагоні кажуть, що нарощують виробництво ракет Patriot",
    "u": "https://www.pravda.com.ua/news/2026/11/26/8064708/",
-   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/0/964614/50b51da668d8af91fae088c4e7c9c530.jpeg",
+   "i": "https://img.eurointegration.com.ua/images/doc/2/d/2dd231e-usa-resize.png",
    "n": 3,
    "l": [
     {
@@ -381,30 +406,31 @@
     }
    ],
    "d": "2026-11-25T22:37:00+00:00"
-  },
-  {
-   "t": "\"Шахтар\" програв третій поспіль матч у Лізі чемпіонів",
-   "u": "https://zn.ua/ukr/SPORT/shakhtar-prohrav-tretij-match-pospil-u-lizi-chempioniv.html",
-   "i": "https://zn.ua/img/article/7057/29_main.webp",
-   "n": 3,
-   "l": [
-    {
-     "s": "ZN.UA",
-     "u": "https://zn.ua/ukr/SPORT/shakhtar-prohrav-tretij-match-pospil-u-lizi-chempioniv.html"
-    },
-    {
-     "s": "24 Канал",
-     "u": "https://sportnews.24tv.ua/liga-chempioniv-202627-shahtar-rezultat-matchiv-rozklad_n3129712"
-    },
-    {
-     "s": "Суспільне",
-     "u": "https://suspilne.media/sport/1457478-sahtar-fenerbahce-onlajn-translacia-matcu-ligi-cempioniv-z-futbolu/"
-    }
-   ],
-   "d": "2026-11-25T22:05:00+00:00"
   }
  ],
  "items": [
+  {
+   "t": "Трамп і Генсек НАТО закликали Росію уникати дій, які розширюють війну за межі України",
+   "s": "Українська правда",
+   "u": "https://www.pravda.com.ua/news/2026/11/26/8064729/",
+   "x": "Президент США Дональд Трамп та генеральний секретар НАТО Марк Рютте закликали Росію утримуватися від будь-яких дій, які навмисно чи ненавмисно розширюють її війну в Україні на інші країни.",
+   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/2/e/964703/2e24632ba9e42d37d9be67e91812a05b.jpeg",
+   "d": "2026-11-26T06:45:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Держдеп США погодив можливий продаж Україні обладнання для F-16",
+   "s": "Українська правда",
+   "u": "https://www.pravda.com.ua/news/2026/11/26/8064727/",
+   "x": "Державний департамент США підтримав можливий продаж Україні обладнання та засобів технічного обслуговування винищувачів F-16 загальною вартістю $621,9 млн.",
+   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/0/4/964702/04f879e416039b9dc7ba1b9596004634.jpeg",
+   "d": "2026-11-26T06:44:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
   {
    "t": "Дісней нам збрехав: як справжню Покахонтас викрали, зламали й перетворили на живий трофей",
    "s": "24 Канал",
@@ -993,17 +1019,6 @@
    ]
   },
   {
-   "t": "Кушнер назвав Путіна \"гросмейстером політики\" та похвалив переговорну команду РФ",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/26/7250834/",
-   "x": "Зять президента США Дональда Трампа Джаред Кушнер похвалив російську переговорну команду і назвав очільника Кремля Владіміра Путіна \"гросмейстером політики\".",
-   "i": "https://img.eurointegration.com.ua/images/doc/1/e/1eb4837---------------.jpg",
-   "d": "2026-11-26T05:52:00+00:00",
-   "c": [
-    "polityka"
-   ]
-  },
-  {
    "t": "Ідея США щодо гарантій безпеки для України ризикує виявитися нездійсненною — аналітики",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/war/ideja-ssha-shchodo-harantij-bezpeki-dlja-ukrajini-rizikuje-vijavitisja-nezdisnennoju-analitiki.html",
@@ -1012,6 +1027,17 @@
    "d": "2026-11-26T05:52:00+00:00",
    "c": [
     "statti"
+   ]
+  },
+  {
+   "t": "Кушнер назвав Путіна \"гросмейстером політики\" та похвалив переговорну команду РФ",
+   "s": "Європейська правда",
+   "u": "https://www.eurointegration.com.ua/news/2026/11/26/7250834/",
+   "x": "Зять президента США Дональда Трампа Джаред Кушнер похвалив російську переговорну команду і назвав очільника Кремля Владіміра Путіна \"гросмейстером політики\".",
+   "i": "https://img.eurointegration.com.ua/images/doc/1/e/1eb4837---------------.jpg",
+   "d": "2026-11-26T05:52:00+00:00",
+   "c": [
+    "polityka"
    ]
   },
   {
@@ -1379,20 +1405,6 @@
    ]
   },
   {
-   "t": "На дорогах місцями ожеледиця: якою буде погода на Вінниччині 26 листопада",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/vinnytsia/1457528-na-dorogah-miscami-ozeledica-akou-bude-pogoda-na-vinniccini-26-listopada/",
-   "x": "За даними синоптиків, у середу в регіоні переважатиме хмарна погода. Впродовж доби без опадів. Вітер західний зі швидкістю 5–10 м/с",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-26T05:01:00+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "vinnytsia"
-   ]
-  },
-  {
    "t": "У Києві пролунали вибухи",
    "s": "24 Канал",
    "u": "https://24tv.ua/kiyevi-prolunali-vibuhi_n3214784",
@@ -1406,6 +1418,20 @@
    ],
    "r": [
     "kyiv"
+   ]
+  },
+  {
+   "t": "На дорогах місцями ожеледиця: якою буде погода на Вінниччині 26 листопада",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/vinnytsia/1457528-na-dorogah-miscami-ozeledica-akou-bude-pogoda-na-vinniccini-26-listopada/",
+   "x": "За даними синоптиків, у середу в регіоні переважатиме хмарна погода. Впродовж доби без опадів. Вітер західний зі швидкістю 5–10 м/с",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-26T05:01:00+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "vinnytsia"
    ]
   },
   {
@@ -1433,20 +1459,6 @@
    "v": 1
   },
   {
-   "t": "На Миколаївщині 26 листопада буде до +6°С: прогноз погоди",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/mykolaiv/1457539-na-mikolaivsini-26-listopada-bude-do-6s-prognoz-pogodi/",
-   "x": "Погода на Миколаївщині 26 листопада: мінлива хмарність, без істотних опадів удень. Температура повітря становитиме від +1° до +6°С",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-26T05:00:00+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "mykolaiv"
-   ]
-  },
-  {
    "t": "Удари по НПЗ заганяють Путіна в глухий кут: чому Трамп відмовляється від угод з Росією",
    "s": "24 Канал",
    "u": "https://24tv.ua/udari-ukrayini-po-rosiyi-zminyuyut-peregovori-chogo-zlyakavsya_n3214742",
@@ -1455,8 +1467,8 @@
    "d": "2026-11-26T05:00:00+00:00",
    "c": [
     "holovne",
-    "vazhlyve",
-    "viyna"
+    "viyna",
+    "vazhlyve"
    ]
   },
   {
@@ -1482,6 +1494,20 @@
    "c": [
     "holovne",
     "ekonomika"
+   ]
+  },
+  {
+   "t": "На Миколаївщині 26 листопада буде до +6°С: прогноз погоди",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/mykolaiv/1457539-na-mikolaivsini-26-listopada-bude-do-6s-prognoz-pogodi/",
+   "x": "Погода на Миколаївщині 26 листопада: мінлива хмарність, без істотних опадів удень. Температура повітря становитиме від +1° до +6°С",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-26T05:00:00+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "mykolaiv"
    ]
   },
   {
@@ -1617,21 +1643,6 @@
    "v": 1
   },
   {
-   "t": "Львів'янин, якого у Харкові засудили на 17 років тюрми, попросився на обмін в Росію",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/kharkiv/1457569-lvivanin-akogo-u-harkovi-zasudili-na-17-rokiv-turmi-poprosivsa-na-obmin-v-rosiu/",
-   "x": "42-річний уродженець Львова Михайло Єдинак, засуджений на 17 років за диверсії на залізниці на замовлення РФ, подав офіційну заяву про включення до списків на обмін. Подробиці — на Суспільне Харків",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-26T04:30:00+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "lviv",
-    "kharkiv"
-   ]
-  },
-  {
    "t": "Назвали дітей на честь літака, яблука й Супермена: найдивніші імена голлівудських зірок",
    "s": "24 Канал",
    "u": "https://24tv.ua/show24/nezvichayni-imena-ditey-znamenitostey-apple-blue-ivy-x-xii_n3213932",
@@ -1662,6 +1673,21 @@
    "d": "2026-11-26T04:30:00+00:00",
    "c": [
     "holovne"
+   ]
+  },
+  {
+   "t": "Львів'янин, якого у Харкові засудили на 17 років тюрми, попросився на обмін в Росію",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/kharkiv/1457569-lvivanin-akogo-u-harkovi-zasudili-na-17-rokiv-turmi-poprosivsa-na-obmin-v-rosiu/",
+   "x": "42-річний уродженець Львова Михайло Єдинак, засуджений на 17 років за диверсії на залізниці на замовлення РФ, подав офіційну заяву про включення до списків на обмін. Подробиці — на Суспільне Харків",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-26T04:30:00+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "lviv",
+    "kharkiv"
    ]
   },
   {
@@ -2299,7 +2325,7 @@
    "t": "У Пентагоні кажуть, що нарощують виробництво ракет Patriot",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/26/8064708/",
-   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/0/964614/50b51da668d8af91fae088c4e7c9c530.jpeg",
+   "i": "https://img.eurointegration.com.ua/images/doc/2/d/2dd231e-usa-resize.png",
    "d": "2026-11-25T22:37:00+00:00",
    "c": [
     "holovne",
@@ -14999,31 +15025,6 @@
    "d": "2026-11-25T10:28:18+00:00",
    "c": [
     "holovne"
-   ]
-  },
-  {
-   "t": "У Варшаві значні перебої в русі поїздів через відсутність електропостачання в тяговій мережі",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/25/7250773/",
-   "x": "У Польщі на вокзалі Варшава-Центральна від ранку середи спостерігаються перебої в русі поїздів через відсутність електропостачання в тяговій мережі.",
-   "i": "https://img.eurointegration.com.ua/images/doc/9/1/9109185-3.png",
-   "d": "2026-11-25T10:28:00+00:00",
-   "c": [
-    "polityka"
-   ]
-  },
-  {
-   "t": "Підробили кур'єрський додаток: у Києві викрили шахрайську схему доставки з супермаркетів",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/kyiv/1457272-pidrobili-kurerskij-dodatok-u-kievi-vikrili-sahrajsku-shemu-dostavki-z-supermarketiv/",
-   "x": "Схему організував 28-річний чоловік, який мав досвід роботи у кур'єрській службі. Він залучив трьох спільників, що виконували роль кур'єрів",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-25T10:27:53+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "kyiv"
    ]
   }
  ]
