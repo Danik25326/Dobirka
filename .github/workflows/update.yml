@@ -26,6 +26,14 @@ jobs:
         env:
           ALERTS_IN_UA_TOKEN: ${{ secrets.ALERTS_IN_UA_TOKEN }}
         run: python scripts/alerts.py
+      - name: Telegram — канал тривог
+        continue-on-error: true
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_ALERTS_CHAT_ID: ${{ secrets.TELEGRAM_ALERTS_CHAT_ID }}
+        run: |
+          pip install pillow -q || true
+          python scripts/telegram_alerts.py
       - run: python scripts/build_pages.py
       - name: Telegram
         continue-on-error: true
