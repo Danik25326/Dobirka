@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T01:01:12+00:00",
+ "updated": "2026-11-27T01:10:50+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -333,6 +333,27 @@
    "d": "2026-11-26T20:26:00+00:00"
   },
   {
+   "t": "В Естонії 1 грудня протестують звукове оповіщення про небезпеку на телефонах",
+   "u": "https://suspilne.media/1458060-v-estonii-1-grudna-protestuut-zvukove-opovisenna-pro-nebezpeku-na-telefonah/",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "n": 3,
+   "l": [
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/1458060-v-estonii-1-grudna-protestuut-zvukove-opovisenna-pro-nebezpeku-na-telefonah/"
+    },
+    {
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/26/8064865/"
+    },
+    {
+     "s": "Європейська правда",
+     "u": "https://www.eurointegration.com.ua/news/2026/11/26/7250904/"
+    }
+   ],
+   "d": "2026-11-26T20:23:42+00:00"
+  },
+  {
    "t": "У Хмельницькому районі через російську атаку спалахнула пожежа на території підприємства",
    "u": "https://www.pravda.com.ua/news/2026/11/26/8064869/",
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/2/965303/62758dffcb7481e9efb31d1492b91a7a.jpeg",
@@ -373,37 +394,38 @@
     }
    ],
    "d": "2026-11-26T19:10:44+00:00"
-  },
-  {
-   "t": "В Естонії 1 грудня протестують звукове оповіщення про небезпеку на телефонах",
-   "u": "https://suspilne.media/1458060-v-estonii-1-grudna-protestuut-zvukove-opovisenna-pro-nebezpeku-na-telefonah/",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "n": 3,
-   "l": [
-    {
-     "s": "Суспільне",
-     "u": "https://suspilne.media/1458060-v-estonii-1-grudna-protestuut-zvukove-opovisenna-pro-nebezpeku-na-telefonah/"
-    },
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/26/8064865/"
-    },
-    {
-     "s": "Європейська правда",
-     "u": "https://www.eurointegration.com.ua/news/2026/11/26/7250904/"
-    }
-   ],
-   "d": "2026-11-26T18:23:42+00:00"
   }
  ],
  "items": [
+  {
+   "t": "Більшість усвідомлює, що компромісу щодо бюджету й фінансування України потрібно досягти до кінця року — посадовець ЄС",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1458083-bilsist-usvidomlue-so-kompromisu-sodo-budzetu-j-finansuvanna-ukraini-potribno-dosagti-do-kinca-roku-posadovec-es/",
+   "x": "Посадовець ЄС заявив, що більшість лідерів розуміє потребу домовитися до кінця року. Фрідріх Мерц вважає, що допомогу Україні має фінансувати весь ЄС",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-27T01:06:35+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Безкоштовний курс зі штучного інтелекту від Google: як подати заявку ветеранам",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/UKRAINE/bezkoshtovnij-kurs-zi-shtuchnoho-intelektu-vid-google-jak-podati-zajavku-veteranam.html",
+   "x": "Роз'яснення дали у Мінветеранів.",
+   "i": "https://zn.ua/img/article/7061/3_main.webp",
+   "d": "2026-11-27T01:00:00+00:00",
+   "c": [
+    "statti"
+   ]
+  },
   {
    "t": "«Путін був дуже ображений»: Трамп висунув свою версію причин війни в Україні",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/usa/putin-buv-duzhe-obrazhenij-tramp-visunuv-svoju-versiju-prichin-vijni-v-ukrajini.html",
    "x": "Президент США готовий бачити Путіна на саміті G20, попри можливе невдоволення.",
    "i": "https://zn.ua/img/article/7061/69_main.webp",
-   "d": "2026-11-27T00:55:43+00:00",
+   "d": "2026-11-27T00:55:00+00:00",
    "c": [
     "statti"
    ]
@@ -586,17 +608,6 @@
    "r": [
     "donetsk",
     "lviv"
-   ]
-  },
-  {
-   "t": "РФ готує новий масований удар по енергетиці, ГУР атакувало російський НПЗ. 1738 день війни",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1458073-rf-gotue-novij-masovanij-udar-po-energetici-gur-atakuvalo-rosijskij-npz-1738-den-vijni/",
-   "x": "Зеленський з посиланням на дані розвідки повідомив, що Росія завершує підготовку до нового масованого удару по українській енергетиці",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-26T22:39:06+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
@@ -1122,6 +1133,17 @@
    "v": 1
   },
   {
+   "t": "Україна поступилася Португалії в матчі відбору на ЧС-2027 з баскетболу",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sport/1458070-ukraina-postupilasa-portugalii-v-matci-vidboru-na-cs-2027-z-basketbolu/",
+   "x": "Збірна України з баскетболу: матч проти збірної Португалії, відбір до чемпіонату світу-2027, як пройшов поєдинок, результат гри відбору",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-26T21:00:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "Пограбування, погоні та небезпечні пригоди: 5 фільмів із вайбом GTA 6",
    "s": "24 Канал",
    "u": "https://kino.24tv.ua/filmi-vaybom-gta-6-5-kriminalnih-strichok-pro-pograbuvannya-prigodi_n3215046",
@@ -1302,6 +1324,17 @@
    "v": 1
   },
   {
+   "t": "РФ готує новий масований удар по енергетиці, ГУР атакувало російський НПЗ. 1738 день війни",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1458073-rf-gotue-novij-masovanij-udar-po-energetici-gur-atakuvalo-rosijskij-npz-1738-den-vijni/",
+   "x": "Зеленський з посиланням на дані розвідки повідомив, що Росія завершує підготовку до нового масованого удару по українській енергетиці",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-26T20:39:06+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "Рішення щодо нового кредиту Україні відкладуть до грудня",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/europe/rishennja-shchodo-novoho-kreditu-ukrajini-vidkladut-do-hrudnja.html",
@@ -1459,6 +1492,17 @@
    ],
    "r": [
     "zaporizhzhia"
+   ]
+  },
+  {
+   "t": "В Естонії 1 грудня протестують звукове оповіщення про небезпеку на телефонах",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1458060-v-estonii-1-grudna-protestuut-zvukove-opovisenna-pro-nebezpeku-na-telefonah/",
+   "x": "В Естонії 1 грудня протестують звукове оповіщення EE-ALARM на телефонах: у разі критичної загрози вони протягом 10 секунд подаватимуть гучний сигнал і вібруватимуть навіть у беззвучному режимі",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-26T20:23:42+00:00",
+   "c": [
+    "holovne"
    ]
   },
   {
@@ -2194,6 +2238,20 @@
    ]
   },
   {
+   "t": "Зеленський повідомив про переговори з партнерами щодо додаткових пакетів зброї для України",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1458056-zelenskij-povidomiv-pro-peregovori-z-partnerami-sodo-dodatkovih-paketiv-zbroi-dla-ukraini/",
+   "x": "Україна працює з міжнародними партнерами над посиленням захисту інфраструктури від російських безпілотників. У Києві вже відбулася відповідна зустріч із представниками однієї з країн, яка надає Україні допомогу",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-26T19:28:54+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kyiv"
+   ]
+  },
+  {
    "t": "Звертайте увагу на сигнали: Зеленський попередив, що росіяни готують новий масований удар",
    "s": "24 Канал",
    "u": "https://24tv.ua/zvertayte-uvagu-signali-zelenskiy-poperediv-shho-rosiyani-gotuyut_n3215439",
@@ -2580,17 +2638,6 @@
    ],
    "r": [
     "sumy"
-   ]
-  },
-  {
-   "t": "Україна поступилася Португалії в матчі відбору на ЧС-2027 з баскетболу",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/sport/1458070-ukraina-postupilasa-portugalii-v-matci-vidboru-na-cs-2027-z-basketbolu/",
-   "x": "Збірна України з баскетболу: матч проти збірної Португалії, відбір до чемпіонату світу-2027, як пройшов поєдинок, результат гри відбору",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-26T19:00:00+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
@@ -3073,17 +3120,6 @@
    ],
    "r": [
     "kherson"
-   ]
-  },
-  {
-   "t": "В Естонії 1 грудня протестують звукове оповіщення про небезпеку на телефонах",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1458060-v-estonii-1-grudna-protestuut-zvukove-opovisenna-pro-nebezpeku-na-telefonah/",
-   "x": "В Естонії 1 грудня протестують звукове оповіщення EE-ALARM на телефонах: у разі критичної загрози вони протягом 10 секунд подаватимуть гучний сигнал і вібруватимуть навіть у беззвучному режимі",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-26T18:23:42+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
@@ -3918,20 +3954,6 @@
    ]
   },
   {
-   "t": "Зеленський повідомив про переговори з партнерами щодо додаткових пакетів зброї для України",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1458056-zelenskij-povidomiv-pro-peregovori-z-partnerami-sodo-dodatkovih-paketiv-zbroi-dla-ukraini/",
-   "x": "Україна працює з міжнародними партнерами над посиленням захисту інфраструктури від російських безпілотників. У Києві вже відбулася відповідна зустріч із представниками однієї з країн, яка надає Україні допомогу",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-26T17:28:54+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "kyiv"
-   ]
-  },
-  {
    "t": "На Житомирщині — сезон грипу: який попит на вакцину та хто її може отримати безоплатно",
    "s": "Суспільне",
    "u": "https://suspilne.media/zhytomyr/1458013-na-zitomirsini-sezon-gripu-akij-popit-na-vakcinu-ta-hto-ii-moze-otrimati-bezoplatno/",
@@ -3996,6 +4018,16 @@
    ]
   },
   {
+   "t": "Уряд збільшив базовий оклад Кличку та головам облрад",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/power/kabmin-pidvishchiv-posadovi-okladi-klichku-ta-golovam-oblrad-828090/",
+   "x": "Кабінет міністрів збільшив посадові оклади головам обласних рад, Київської міської ради та іншим працівників апаратів органів виконавчої влади.",
+   "d": "2026-11-26T17:25:00+00:00",
+   "c": [
+    "ekonomika"
+   ]
+  },
+  {
    "t": "У Києві відкрили виставку «НЕ/ВІДОМІ»: які українські міста побачать її у 2027 році",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/CULTURE/u-kijevi-vidkrili-vistavku-nevidomi-jaki-ukrajinski-mista-pobachat-jiji-u-2027-rotsi.html",
@@ -4006,16 +4038,6 @@
    ],
    "r": [
     "kyiv"
-   ]
-  },
-  {
-   "t": "Уряд збільшив базовий оклад Кличку та головам облрад",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/power/kabmin-pidvishchiv-posadovi-okladi-klichku-ta-golovam-oblrad-828090/",
-   "x": "Кабінет міністрів збільшив посадові оклади головам обласних рад, Київської міської ради та іншим працівників апаратів органів виконавчої влади.",
-   "d": "2026-11-26T17:25:00+00:00",
-   "c": [
-    "ekonomika"
    ]
   },
   {
@@ -14952,31 +14974,6 @@
     "video"
    ],
    "v": 1
-  },
-  {
-   "t": "Нідерланди слідом за Німеччиною підтримали ідею прив'язки бюджету ЄС з фінансуванням України",
-   "s": "Українська правда",
-   "u": "https://www.pravda.com.ua/news/2026/11/26/8064744/",
-   "x": "У Нідерландах підтримують вимогу Німеччини не погоджувати наступний довгостроковий бюджет Євросоюзу на 2028-2034 роки без згоди всіх держав-членів ЄС брати участь у фінансуванні України.",
-   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/9/e/964784/9eb24c1e7ff24739ce99f012316069a4.jpeg",
-   "d": "2026-11-26T08:55:00+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
-   "t": "На Львівщині 26 листопада попрощаються із п'ятьма військовими",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/lviv/1457672-na-lvivsini-26-listopada-poprosautsa-iz-patma-vijskovimi/",
-   "x": "26 листопада на Львівщині відбудеться прощання із п'ятьма захисниками: Василем Турчиним, Назарієм Базарником, Іваном Соломахою, Богданом Сорокою та Романом Закасовським.",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-26T08:54:24+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "lviv"
-   ]
   }
  ]
 }
