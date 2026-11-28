@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T03:01:17+00:00",
+ "updated": "2026-11-28T03:10:46+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -158,11 +158,15 @@
  ],
  "top": [
   {
-   "t": "Операцію в Лівії провели без попереднього узгодження з європейськими партнерами — Зеленський",
-   "u": "https://zn.ua/ukr/WORLD/operatsiju-v-liviji-proveli-bez-poperednoho-uzhodzhennja-z-jevropejskimi-partnerami-zelenskij.html",
-   "i": "https://zn.ua/img/article/7063/65_main.webp",
+   "t": "Україна провела операцію в Лівії без попередньої координації з європейськими партнерами — Зеленський в розмові з Мелоні",
+   "u": "https://suspilne.media/1458582-ukraina-provela-operaciu-v-livii-bez-poperednoi-koordinacii-z-evropejskimi-partnerami-zelenskij-v-rozmovi-z-meloni/",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
    "n": 6,
    "l": [
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/1458582-ukraina-provela-operaciu-v-livii-bez-poperednoi-koordinacii-z-evropejskimi-partnerami-zelenskij-v-rozmovi-z-meloni/"
+    },
     {
      "s": "ZN.UA",
      "u": "https://zn.ua/ukr/WORLD/operatsiju-v-liviji-proveli-bez-poperednoho-uzhodzhennja-z-jevropejskimi-partnerami-zelenskij.html"
@@ -182,13 +186,9 @@
     {
      "s": "Інтерфакс-Україна",
      "u": "https://interfax.com.ua/news/general/1243771.html"
-    },
-    {
-     "s": "Суспільне",
-     "u": "https://suspilne.media/1458508-v-italii-zaperecili-koordinaciu-vid-ukraini-pid-cas-ataki-na-rosijske-sudno-u-livii/"
     }
    ],
-   "d": "2026-11-27T19:40:00+00:00"
+   "d": "2026-11-28T02:54:28+00:00"
   },
   {
    "t": "Справа \"Північних потоків\": суд у Хорватії скасував передачу Журавльова Німеччині",
@@ -403,6 +403,17 @@
    ]
   },
   {
+   "t": "Україна провела операцію в Лівії без попередньої координації з європейськими партнерами — Зеленський в розмові з Мелоні",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1458582-ukraina-provela-operaciu-v-livii-bez-poperednoi-koordinacii-z-evropejskimi-partnerami-zelenskij-v-rozmovi-z-meloni/",
+   "x": "Під час розмови з прем'єр-міністеркою Італії Джорджею Мелоні Зеленський заявив, що Україна налаштована на обмін необхідною інформацією між органами двох країн",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-28T02:54:28+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "ХАМАС заявив, що син лідера угрупування пережив авіаудар Ізраїлю – ЗМІ",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/28/8065068/",
@@ -522,6 +533,17 @@
    "d": "2026-11-28T01:00:00+00:00",
    "c": [
     "statti"
+   ]
+  },
+  {
+   "t": "Жодного снаряда за 2,5 року: Rheinmetall може згорнути проєкт заводу в Україні",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1458577-zodnogo-snarada-za-25-roku-rheinmetall-moze-zgornuti-proekt-zavodu-v-ukraini/",
+   "x": "Гендиректор концерну вважає, що концерн не продовжить проєкт, адже бачить перспективи лише в постачанні компонентів і снарядів надвеликої дальності",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-28T00:54:49+00:00",
+   "c": [
+    "holovne"
    ]
   },
   {
@@ -692,17 +714,6 @@
    ]
   },
   {
-   "t": "Жодного снаряда за 2,5 року: Rheinmetall може згорнути проєкт заводу в Україні",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1458577-zodnogo-snarada-za-25-roku-rheinmetall-moze-zgornuti-proekt-zavodu-v-ukraini/",
-   "x": "Гендиректор концерну вважає, що концерн не продовжить проєкт, адже бачить перспективи лише в постачанні компонентів і снарядів надвеликої дальності",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-27T22:54:49+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "Українські заводи виготовляють понад половину снарядів для потреб фронту — гендиректор Rheinmetall",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/UKRAINE/ukrajinski-zavodi-vihotovljajut-ponad-polovinu-snarjadiv-dlja-potreb-frontu-hendirektor-rheinmetall.html",
@@ -853,21 +864,6 @@
    ],
    "r": [
     "kyiv"
-   ]
-  },
-  {
-   "t": "Найгарячіша ділянка — Покровська. Фронт Донеччини та Луганщини 28 листопада 2026 року",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/donbas/1441931-najgaracisa-dilanka-pokrovska-front-doneccini-ta-lugansini-28-listopada-2026-roku/",
-   "x": "Хроніка боїв на фронті в Донецькій та Луганській областях, дані Генштабу у листопаді 2026, мапа і ситуація на фронті, чи захопили Костянтинівку, що на Покровському напрямку, звільнення біля Лимана — фото, відео…",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-27T21:45:39+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "donetsk",
-    "luhansk"
    ]
   },
   {
@@ -1447,6 +1443,17 @@
    ]
   },
   {
+   "t": "Путін заявив про необхідність готувати підводні човни ВМС РФ до «вирішення бойових завдань» у Світовому океані",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1458554-putin-zaaviv-pro-neobhidnist-gotuvati-pidvodni-covni-vms-rf-do-virisenna-bojovih-zavdan-u-svitovomu-okeani/",
+   "x": "Ця заява Путіна пролунала на тлі розширення географії атак на російські судна. Зокрема 21 листопада у Фінській затоці було атаковано вантажний корабель Sparta II, а 22 листопада біля берегів Лівії — корвет «Меркурій» і…",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-27T20:14:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "Директор НАБУ заявив, що перед відрядженням йому не надходило запрошення на ТСК",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/27/8065051/",
@@ -1456,17 +1463,6 @@
    "c": [
     "holovne",
     "vazhlyve"
-   ]
-  },
-  {
-   "t": "Путін заявив про необхідність готувати підводні човни ВМС РФ до «вирішення бойових завдань» у Світовому океані",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1458554-putin-zaaviv-pro-neobhidnist-gotuvati-pidvodni-covni-vms-rf-do-virisenna-bojovih-zavdan-u-svitovomu-okeani/",
-   "x": "Ця заява Путіна пролунала на тлі розширення географії атак на російські судна. Зокрема 21 листопада у Фінській затоці було атаковано вантажний корабель Sparta II, а 22 листопада біля берегів Лівії — корвет «Меркурій» і…",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-27T20:14:00+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
@@ -1656,6 +1652,21 @@
    "d": "2026-11-27T19:47:00+00:00",
    "c": [
     "holovne"
+   ]
+  },
+  {
+   "t": "Найгарячіша ділянка — Покровська. Фронт Донеччини та Луганщини 28 листопада 2026 року",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/donbas/1441931-najgaracisa-dilanka-pokrovska-front-doneccini-ta-lugansini-28-listopada-2026-roku/",
+   "x": "Хроніка боїв на фронті в Донецькій та Луганській областях, дані Генштабу у листопаді 2026, мапа і ситуація на фронті, чи захопили Костянтинівку, що на Покровському напрямку, звільнення біля Лимана — фото, відео…",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-27T19:45:39+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "donetsk",
+    "luhansk"
    ]
   },
   {
@@ -15068,17 +15079,6 @@
     "video"
    ],
    "v": 1
-  },
-  {
-   "t": "Церковний календар: які свята відзначатимуть віряни у грудні",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/UKRAINE/704924-tserkovnij-kalendar-jaki-svjata-vidznachatimut-virjani-u-hrudni.html",
-   "x": "На перший місяць зими припадає декілька важливих свят.",
-   "i": "https://zn.ua/img/article/7049/24_main.webp",
-   "d": "2026-11-27T08:40:00+00:00",
-   "c": [
-    "statti"
-   ]
   }
  ]
 }
