@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T21:01:13+00:00",
+ "updated": "2026-11-28T21:10:45+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -158,6 +158,39 @@
  ],
  "top": [
   {
+   "t": "Росія вдарила по зерновому складу на Одещині в День пам’яті жертв Голодомору",
+   "u": "https://zn.ua/ukr/ECONOMICS/rosija-vdarila-po-zernovomu-skladu-na-odeshchini-v-den-pamjati-zhertv-holodomoru.html",
+   "i": "https://zn.ua/img/article/7065/47_main.webp",
+   "n": 6,
+   "l": [
+    {
+     "s": "ZN.UA",
+     "u": "https://zn.ua/ukr/ECONOMICS/rosija-vdarila-po-zernovomu-skladu-na-odeshchini-v-den-pamjati-zhertv-holodomoru.html"
+    },
+    {
+     "s": "Інтерфакс-Україна",
+     "u": "https://interfax.com.ua/news/general/1243946.html"
+    },
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/crimea/1458813-u-posolstvi-ukraini-v-tureccini-vsanuvali-pamat-zertv-golodomoru/"
+    },
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/rosiyani-vdarili-po-zernovomu-skladu-odeshhini-shho-vidomo-pro_n3216442"
+    },
+    {
+     "s": "Українська правда. Життя",
+     "u": "https://life.pravda.com.ua/society/zapalit-svichku-o-16-00-v-pam-yat-pro-zhertv-golodomoru-319393/"
+    },
+    {
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/28/8065069/"
+    }
+   ],
+   "d": "2026-11-28T21:02:00+00:00"
+  },
+  {
    "t": "Зеленський перепросив у Мелоні після атаки на російський корабель в Лівії, – ЗМІ",
    "u": "https://24tv.ua/zelenskiy-pogovoriv-meloni-pro-ataku-rosiyskiy-korabel-liviyi_n3216484",
    "i": "https://24tv.ua/resources/photos/news/202611/3216484.jpg?v=1795896679000&q=100",
@@ -189,39 +222,6 @@
     }
    ],
    "d": "2026-11-28T20:21:00+00:00"
-  },
-  {
-   "t": "У День пам'яті жертв голодоморів росіяни атакували склад зерна на Одещині, постраждалих немає – ОВА",
-   "u": "https://interfax.com.ua/news/general/1243946.html",
-   "i": "https://media.interfax.com.ua/media/thumbs/images/2026/11/ovpea/I3WhGiN5Warh.jpg",
-   "n": 6,
-   "l": [
-    {
-     "s": "Інтерфакс-Україна",
-     "u": "https://interfax.com.ua/news/general/1243946.html"
-    },
-    {
-     "s": "Суспільне",
-     "u": "https://suspilne.media/crimea/1458813-u-posolstvi-ukraini-v-tureccini-vsanuvali-pamat-zertv-golodomoru/"
-    },
-    {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/rosiyani-vdarili-po-zernovomu-skladu-odeshhini-shho-vidomo-pro_n3216442"
-    },
-    {
-     "s": "Українська правда. Життя",
-     "u": "https://life.pravda.com.ua/society/zapalit-svichku-o-16-00-v-pam-yat-pro-zhertv-golodomoru-319393/"
-    },
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/28/8065069/"
-    },
-    {
-     "s": "ZN.UA",
-     "u": "https://zn.ua/ukr/UKRAINE/705076-den-pamjati-zhertv-holodomoriv-istorija.html"
-    }
-   ],
-   "d": "2026-11-28T19:27:39+00:00"
   },
   {
    "t": "Зеленський анонсував нові кадрові зміни в армії",
@@ -414,6 +414,56 @@
  ],
  "items": [
   {
+   "t": "Росія вдарила по зерновому складу на Одещині в День пам’яті жертв Голодомору",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/ECONOMICS/rosija-vdarila-po-zernovomu-skladu-na-odeshchini-v-den-pamjati-zhertv-holodomoru.html",
+   "x": "Унаслідок атаки знищено більшу частину українського зерна.",
+   "i": "https://zn.ua/img/article/7065/47_main.webp",
+   "d": "2026-11-28T21:02:00+00:00",
+   "c": [
+    "statti"
+   ],
+   "r": [
+    "odesa"
+   ]
+  },
+  {
+   "t": "😮Такого Меланія від Трампа НЕ ЧЕКАЛА #shorts",
+   "s": "24 Канал · відео",
+   "u": "https://www.youtube.com/shorts/wqDp3Wb0DJ8",
+   "x": "24 Канал запускає подкасти! Шукайте нас на різних, зручних для вас платформах: https://linktr.ee/podcast24tv.ua",
+   "i": "https://i4.ytimg.com/vi/wqDp3Wb0DJ8/hqdefault.jpg",
+   "d": "2026-11-28T21:00:38+00:00",
+   "c": [
+    "video"
+   ],
+   "v": 1
+  },
+  {
+   "t": "Уральская креветка блеснула советским образованием | Чат рулетка",
+   "s": "5 канал · відео",
+   "u": "https://www.youtube.com/watch?v=mUQweRdSzsI",
+   "x": "Підпишись на соціальні мереж і будь в курсі нових відео та ефірів: @Mykhailo_Medvediev t.me/medvedievmykhailo instagram.com/mykhailo.m95 Патреон: https://patreon.com/projects5 Долучайтеся до збору на рації для ЗСУ…",
+   "i": "https://i2.ytimg.com/vi/mUQweRdSzsI/hqdefault.jpg",
+   "d": "2026-11-28T21:00:32+00:00",
+   "c": [
+    "video"
+   ],
+   "v": 1
+  },
+  {
+   "t": "🔥КРУТИХИН: Не поверите, что ТВОРИТСЯ на РФ! Все НАМНОГО хуже, чем казалось. КОНЕЦ СВЕТА уже НАЧАЛСЯ",
+   "s": "24 Канал · відео",
+   "u": "https://www.youtube.com/watch?v=8ufNKyebFaI",
+   "x": "Марк Фейгин @FeyginLive и экономический аналитик Михаил Крутихин обсудили последние темы на международной арене по состоянию на 28 ноября. В частности, Крутихин рассказал о резком сокращении биржевых продаж бензина и…",
+   "i": "https://i1.ytimg.com/vi/8ufNKyebFaI/hqdefault.jpg",
+   "d": "2026-11-28T21:00:14+00:00",
+   "c": [
+    "video"
+   ],
+   "v": 1
+  },
+  {
    "t": "Погодинні графіки вимкнення світла на Рівненщині: що буде 29 листопада",
    "s": "Суспільне",
    "u": "https://suspilne.media/rivne/1458844-pogodinni-grafiki-vimknenna-svitla-na-rivnensini-so-bude-29-listopada/",
@@ -433,7 +483,7 @@
    "u": "https://zn.ua/ukr/WORLD/netanjahu-zaproponuvav-svojemu-superniku-ocholiti-urjad-izrajilju-ale-je-njuans.html",
    "x": "Він хоче повернутися до прем'єрського крісла за кілька років.",
    "i": "https://zn.ua/img/article/7065/45_main.webp",
-   "d": "2026-11-28T20:52:02+00:00",
+   "d": "2026-11-28T20:52:00+00:00",
    "c": [
     "statti"
    ]
@@ -574,7 +624,6 @@
    "t": "За два дні до узбережжя грецьких островів прибули понад тисяча мігрантів",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/28/8065159/",
-   "i": "https://img.eurointegration.com.ua/images/doc/d/a/dacf845--------------.jpg",
    "d": "2026-11-28T20:25:00+00:00",
    "c": [
     "holovne",
@@ -1184,7 +1233,6 @@
    "t": "Німецька партія BSW відмовилася дистанціюватися від ультраправих",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/28/8065155/",
-   "i": "https://img.eurointegration.com.ua/images/doc/c/2/c2d78fa-------------------.jpg",
    "d": "2026-11-28T19:27:00+00:00",
    "c": [
     "holovne",
@@ -1717,7 +1765,6 @@
    "t": "Понад 45% поляків виступають за зміну прем’єра, якщо коаліція збереже владу",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/28/8065151/",
-   "i": "https://img.eurointegration.com.ua/images/doc/4/4/44369a6------3.jpg",
    "d": "2026-11-28T18:19:00+00:00",
    "c": [
     "holovne",
@@ -6709,7 +6756,7 @@
   {
    "t": "Операція \"Чорна хмара\" та сотні розбитих цілей: офіцер \"Азову\" Переверзєв про бої на Добропіллі",
    "s": "24 Канал",
-   "u": "https://24tv.ua/operatsiya-chorna-hmara-pro-boyi-znishheni-tsili-rosiyi-rozpoviv_n3216306",
+   "u": "https://24tv.ua/ru/operacija-chernaja-tucha-oficer-azova-pereverzev-rasskazal-o_n3216311",
    "x": "Напружені бойові дії та постійні спроби ворожого тиску супроводжуються активною боротьбою за контроль над логістичними шляхами на лінії зіткнення. Українські оборонці проводять масштабні операції з ліквідації ворожих…",
    "i": "https://24tv.ua/resources/photos/news/202611/3216306.jpg?v=1795863480000&q=100",
    "d": "2026-11-28T11:13:03+00:00",
@@ -6721,10 +6768,10 @@
   {
    "t": "Операція \"Чорна хмара\" та сотні розбитих цілей: офіцер \"Азову\" Переверзєв про бої на Добропіллі",
    "s": "24 Канал",
-   "u": "https://24tv.ua/ru/operacija-chernaja-tucha-oficer-azova-pereverzev-rasskazal-o_n3216311",
+   "u": "https://24tv.ua/operatsiya-chorna-hmara-pro-boyi-znishheni-tsili-rosiyi-rozpoviv_n3216306",
    "x": "Напружені бойові дії та постійні спроби ворожого тиску супроводжуються активною боротьбою за контроль над логістичними шляхами на лінії зіткнення. Українські оборонці проводять масштабні операції з ліквідації ворожих…",
    "i": "https://24tv.ua/resources/photos/news/202611/3216306.jpg?v=1795863480000&q=100",
-   "d": "2026-11-28T11:13:03+00:00",
+   "d": "2026-11-28T11:13:00+00:00",
    "c": [
     "viyna",
     "holovne"
@@ -15216,49 +15263,6 @@
    "x": "Військовослужбовець ДПСУ Єгор Болховітін подолав 80 км за 24 години на міжнародному марші Amazon Leo Warrior Yomp у США. Він став другим серед шести учасників української команди",
    "i": "https://cdn4.suspilne.media/images/default.jpg",
    "d": "2026-11-27T17:08:32+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
-   "t": "Гарантії безпеки для України: яку відповідь Росія дала щодо 5-ї статті НАТО",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/garantiyi-bezpeki-dlya-ukrayini-za-zrazkom-5-yi-statti-nato-yaka_n3216089",
-   "x": "Росія поки не дала остаточної відповіді щодо надання Україні гарантій безпеки за зразком 5-ї статті НАТО. За словами джерел, наближених до української переговорної групи, російська делегація не погодилася на цю…",
-   "i": "https://24tv.ua/resources/photos/news/202611/3216089.jpg?v=1795798386000&q=100",
-   "d": "2026-11-27T17:07:00+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
-   "t": "Гарантії безпеки для України: яку відповідь Росія дала щодо 5-ї статті НАТО",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/ru/garantii-bezopasnosti-dlja-ukrainy-po-obrazcu-5-j-stati-nato-kakova-pozicija-rossii_n3216095",
-   "x": "Росія поки не дала остаточної відповіді щодо надання Україні гарантій безпеки за зразком 5-ї статті НАТО. За словами джерел, наближених до української переговорної групи, російська делегація не погодилася на цю…",
-   "i": "https://24tv.ua/resources/photos/news/202611/3216089.jpg?v=1795798386000&q=100",
-   "d": "2026-11-27T17:07:00+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
-   "t": "Сибіга у Брюсселі візьме участь у засіданні глав МЗС країн ЄС і зустрінеться з Рютте",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/27/7250978/",
-   "x": "Міністр закордонних справ України Андрій Сибіга отримав запрошення взяти участь у засіданні міністрів закордонних справ країн НАТО у Брюсселі, де також планує зустрітися з генеральним секретарем Альянсу Марком Рютте.",
-   "i": "https://img.eurointegration.com.ua/images/doc/b/3/b3268e6-6b098e5483de3141596048-730x360.jpg",
-   "d": "2026-11-27T17:06:00+00:00",
-   "c": [
-    "polityka"
-   ]
-  },
-  {
-   "t": "Верховний суд підтвердив правову позицію фармкомпанії \"Фарма Старт\" щодо промоції лікарських засобів",
-   "s": "Інтерфакс-Україна",
-   "u": "https://interfax.com.ua/news/pharmacy/1243743.html",
-   "x": "Верховний суд підтвердив правову позицію фармацевтичної компанії \"Фарма Старт\" щодо промоції лікарських засобів та, зокрема, що візити медичних представників до фахівців охорони здоров’я є загальноприйнятим методом…",
-   "d": "2026-11-27T17:05:10+00:00",
    "c": [
     "holovne"
    ]
