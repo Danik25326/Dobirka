@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T11:50:44+00:00",
+ "updated": "2026-11-28T12:01:19+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -191,35 +191,6 @@
    "d": "2026-11-28T02:54:28+00:00"
   },
   {
-   "t": "На Київщині діють аварійні відключення через обстріли та перевантаження обладнання",
-   "u": "https://www.pravda.com.ua/news/2026/11/28/8065092/",
-   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/7/966618/87e28dc317f059c128aecf0234ee6be6.jpeg",
-   "n": 5,
-   "l": [
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/28/8065092/"
-    },
-    {
-     "s": "Інтерфакс-Україна",
-     "u": "https://interfax.com.ua/news/general/1243843.html"
-    },
-    {
-     "s": "Економічна правда",
-     "u": "https://epravda.com.ua/energetika/na-kijivshchini-diyut-avariyni-vidklyuchennya-svitla-828140/"
-    },
-    {
-     "s": "ZN.UA",
-     "u": "https://zn.ua/ukr/energetics/chastina-kijivshchini-perejshla-na-avarijni-vidkljuchennja-elektroenerhiji.html"
-    },
-    {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/ru/jekstrennye-otkljuchenija-jelektrichestva-v-kievskoj-oblasti-27-nojabrja-kakie-rajony-ostalis-bez-sveta_n3215872"
-    }
-   ],
-   "d": "2026-11-28T09:11:00+00:00"
-  },
-  {
    "t": "Справа \"Північних потоків\": суд у Хорватії скасував передачу Журавльова Німеччині",
    "u": "https://24tv.ua/pivnichni-potoki-sud-horvatiyi-skasuvav-peredachu-zhuravlova_n3216081",
    "i": "https://24tv.ua/resources/photos/news/202611/3216081.jpg?v=1795798268000&q=100",
@@ -249,29 +220,29 @@
    "d": "2026-11-27T16:52:00+00:00"
   },
   {
-   "t": "Хакери зламали одну з найбільших хмарних платформ ВПС США, – Reuters",
-   "u": "https://24tv.ua/zlam-hmarnoyi-platformi-vps-ssha-hakeri-otrimali-dani-pro-zbroyu_n3216318",
-   "i": "https://24tv.ua/resources/photos/news/202611/3216318.jpg?v=1795864948000&q=100",
+   "t": "На Київщині діють аварійні відключення через обстріли та перевантаження обладнання",
+   "u": "https://www.pravda.com.ua/news/2026/11/28/8065092/",
+   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/8/7/966618/87e28dc317f059c128aecf0234ee6be6.jpeg",
    "n": 4,
    "l": [
     {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/zlam-hmarnoyi-platformi-vps-ssha-hakeri-otrimali-dani-pro-zbroyu_n3216318"
-    },
-    {
      "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/28/8065064/"
+     "u": "https://www.pravda.com.ua/news/2026/11/28/8065092/"
     },
     {
-     "s": "Європейська правда",
-     "u": "https://www.eurointegration.com.ua/news/2026/11/27/7250960/"
+     "s": "Інтерфакс-Україна",
+     "u": "https://interfax.com.ua/news/general/1243843.html"
+    },
+    {
+     "s": "Економічна правда",
+     "u": "https://epravda.com.ua/energetika/na-kijivshchini-diyut-avariyni-vidklyuchennya-svitla-828140/"
     },
     {
      "s": "ZN.UA",
-     "u": "https://zn.ua/ukr/TECHNOLOGIES/khakeri-zlamali-odnu-z-najbilshikh-khmarnikh-platform-amerikanskikh-vijskovikh-reuters.html"
+     "u": "https://zn.ua/ukr/energetics/chastina-kijivshchini-perejshla-na-avarijni-vidkljuchennja-elektroenerhiji.html"
     }
    ],
-   "d": "2026-11-28T11:37:29+00:00"
+   "d": "2026-11-28T09:11:00+00:00"
   },
   {
    "t": "Зросла до семи кількість загиблих внаслідок російської атаки по підприємству у Ніжині 27 листопада",
@@ -297,6 +268,48 @@
     }
    ],
    "d": "2026-11-28T06:12:54+00:00"
+  },
+  {
+   "t": "Росіяни вбили останнього мешканця Тягинки на Херсонщині. Тіло вдалося виявити не одразу",
+   "u": "https://zn.ua/ukr/war/rosijani-vbili-ostannoho-meshkantsja-tjahinki-na-khersonshchini-tilo-vdalosja-vijaviti-ne-odrazu.html",
+   "i": "https://zn.ua/img/article/7064/69_main.webp",
+   "n": 3,
+   "l": [
+    {
+     "s": "ZN.UA",
+     "u": "https://zn.ua/ukr/war/rosijani-vbili-ostannoho-meshkantsja-tjahinki-na-khersonshchini-tilo-vdalosja-vijaviti-ne-odrazu.html"
+    },
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/kherson/1458684-ded-idi-otsuda-ostannogo-zitela-taginki-na-hersonsini-vbili-rosijski-vijskovi/"
+    },
+    {
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/28/8065096/"
+    }
+   ],
+   "d": "2026-11-28T11:52:31+00:00"
+  },
+  {
+   "t": "Хакери зламали одну з найбільших хмарних платформ ВПС США, – Reuters",
+   "u": "https://24tv.ua/zlam-hmarnoyi-platformi-vps-ssha-hakeri-otrimali-dani-pro-zbroyu_n3216318",
+   "i": "https://24tv.ua/resources/photos/news/202611/3216318.jpg?v=1795864948000&q=100",
+   "n": 3,
+   "l": [
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/zlam-hmarnoyi-platformi-vps-ssha-hakeri-otrimali-dani-pro-zbroyu_n3216318"
+    },
+    {
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/28/8065064/"
+    },
+    {
+     "s": "Європейська правда",
+     "u": "https://www.eurointegration.com.ua/news/2026/11/27/7250960/"
+    }
+   ],
+   "d": "2026-11-28T11:37:29+00:00"
   },
   {
    "t": "ЗМІ: В Україні закликають усунути Кушнера від переговорів",
@@ -381,39 +394,109 @@
     }
    ],
    "d": "2026-11-28T09:31:11+00:00"
-  },
-  {
-   "t": "У Відні суд знову відправив під варту двох співробітників військової розвідки України, – ЗМІ",
-   "u": "https://24tv.ua/aresht-dvoh-spivrobitnikiv-rozvidki-ukrayini-vidni-shho-vidomo_n3216260",
-   "i": "https://24tv.ua/resources/photos/news/202611/3216260.jpg?v=1795856819000&q=100",
-   "n": 3,
-   "l": [
-    {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/aresht-dvoh-spivrobitnikiv-rozvidki-ukrayini-vidni-shho-vidomo_n3216260"
-    },
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/28/8065085/"
-    },
-    {
-     "s": "Європейська правда",
-     "u": "https://www.eurointegration.com.ua/news/2026/11/28/7250998/"
-    }
-   ],
-   "d": "2026-11-28T09:08:23+00:00"
   }
  ],
  "items": [
   {
-   "t": "Вибух пролунав у Києві",
+   "t": "Не ховайте їх до літа: як носити білі штани в морозні дні",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/lady24/yak-nositi-bili-shtani-vzimku-2027-poradi-stilistiv-ideyi-obraziv_n3216239",
+   "x": "Модні експерти радять не боятися носити білі штани взимку. Стилісти пропонують поєднувати моделі зі щільної вовни з дублянками та масивними черевиками.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3216239.jpg?v=1795851463000&q=100",
+   "d": "2026-11-28T12:01:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Удар по Кривому Рогу, індивідуальні графіки, перекрили Набережну. Головні новини Дніпра та області 28 листопада",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/dnipro/1458598-udari-bpla-vidklucenna-svitla-golovni-novini-dnipra-ta-oblasti-28-listopada-2/",
+   "x": "Оперативні новини Дніпра та Дніпропетровської області за 28 листопада 2026 року читайте в хроніці подій від редакції Суспільне Дніпро",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-28T12:00:00+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "dnipro"
+   ]
+  },
+  {
+   "t": "Повернувся до образу DZIDZIO та заінтригував чутками про дітей: де зараз Михайло Хома",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/show24/de-zaraz-dzidzio-chim-zaymayetsya-mihaylo-homa-shho-vidomo-pro_n3216033",
+   "x": "Колись його знали за кумедним образом із бородою та капелюхом, а тепер він виступає з академічним вокалом, веде музичне шоу та їздить із благодійними концертами. Як змінилося життя Михайла Хоми та що відбувається в його…",
+   "i": "https://24tv.ua/resources/photos/news/202611/3216033.jpg?v=1795794072000&q=100",
+   "d": "2026-11-28T12:00:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "СБУ та Сили безпілотних систем встановили нові абсолютні рекорди уражень",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/alfa-sbu-sbs-pokazali-rekordni-rezultati-znishhenni-okupantiv_n3216329",
+   "x": "Спецпідрозділ \"Альфа\" СБУ за тиждень верифікував ураження майже 5 тисяч російських військових. Водночас підрозділи угруповання Сил безпілотних систем другий день поспіль оновили добовий рекорд ураження особового складу…",
+   "i": "https://24tv.ua/resources/photos/news/202611/3216329.jpg?v=1795866231000&q=100",
+   "d": "2026-11-28T11:59:10+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "В Україні в найближчі дві доби без опадів, в Карпатах місцями туман",
+   "s": "Інтерфакс-Україна",
+   "u": "https://interfax.com.ua/news/general/1243881.html",
+   "x": "В неділю, 29 листопада, по всій Україні без опадів, лише в Криму місцями невеликий сніг та дощ, повідомляє Укргідрометцентрю.",
+   "i": "https://media.interfax.com.ua/media/thumbs/images/2025/11/lswgn/h_cksnxmdsNM.jpg",
+   "d": "2026-11-28T11:54:04+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "crimea"
+   ]
+  },
+  {
+   "t": "Росіяни вбили останнього мешканця Тягинки на Херсонщині. Тіло вдалося виявити не одразу",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/war/rosijani-vbili-ostannoho-meshkantsja-tjahinki-na-khersonshchini-tilo-vdalosja-vijaviti-ne-odrazu.html",
+   "x": "Загиблий чоловік виїжджав із села, але зрештою повернувся назад.",
+   "i": "https://zn.ua/img/article/7064/69_main.webp",
+   "d": "2026-11-28T11:52:31+00:00",
+   "c": [
+    "statti"
+   ],
+   "r": [
+    "kherson"
+   ]
+  },
+  {
+   "t": "⚡️ЗАРАЗ із КИЄВА! Таким ЗЕЛЕНСЬКОГО ще не бачили. Ледь стримував емоції. ЦЯ ТРАГЕДІЯ сколихнула світ",
+   "s": "24 Канал · відео",
+   "u": "https://www.youtube.com/watch?v=VMej-W_zV48",
+   "x": "Сьогодні, 28 листопада, президент України Володимир Зеленський долучився до заходів із нагоди Дня пам'яті жертв голодоморів. Україна вшановує мільйони людей, які загинули внаслідок штучних голодів. У межах…",
+   "i": "https://i3.ytimg.com/vi/VMej-W_zV48/hqdefault.jpg",
+   "d": "2026-11-28T11:50:36+00:00",
+   "c": [
+    "video"
+   ],
+   "v": 1,
+   "r": [
+    "kyiv"
+   ]
+  },
+  {
+   "t": "У Києві пролунав вибух: місто під атакою БпЛА",
    "s": "24 Канал",
    "u": "https://24tv.ua/vibuh-prolunav-kiyevi_n3216331",
    "x": "Росія продовжує атакувати Україну безпілотниками. Вибух пролунав у Києві вдень 28 листопада.",
    "i": "https://24tv.ua/resources/photos/news/202611/3216331.jpg?v=1795866540000&q=100",
    "d": "2026-11-28T11:49:00+00:00",
    "c": [
-    "holovne"
+    "holovne",
+    "vazhlyve"
    ],
    "r": [
     "kyiv"
@@ -596,9 +679,9 @@
    "t": "\"Шахеди\" атакували багатоповерхівки у двох районах Харкова: є постраждалі",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/war/shakhedi-atakuvali-bahatopoverkhivki-u-dvokh-rajonakh-kharkova-je-postrazhdali-.html",
-   "x": "Один із дронів впав на дорогу.",
+   "x": "Один із дронів упав на дорогу.",
    "i": "https://zn.ua/img/article/7064/63_main.webp",
-   "d": "2026-11-28T11:39:12+00:00",
+   "d": "2026-11-28T11:39:00+00:00",
    "c": [
     "statti"
    ],
@@ -681,6 +764,20 @@
    "v": 1
   },
   {
+   "t": "«Дєд, іді отсюда»: останнього жителя Тягинки на Херсонщині вбили російські військові",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/kherson/1458684-ded-idi-otsuda-ostannogo-zitela-taginki-na-hersonsini-vbili-rosijski-vijskovi/",
+   "x": "На Херсонщині ідентифікували та поховали чоловіка, який залишався єдиним жителем Тягинки. За словами начальника Тягинської СВА, його вбили російські військові. Раніше окупанти погрожували чоловікові та вимагали виїхати",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-28T11:28:51+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "kherson"
+   ]
+  },
+  {
    "t": "Графіки відключень: у \"Тернопільобленерго\" роз'яснили, чому їх не уникнути",
    "s": "Суспільне",
    "u": "https://suspilne.media/ternopil/1457769-grafiki-vidklucen-u-ternopiloblenergo-rozasnili-comu-ih-ne-uniknuti/",
@@ -743,6 +840,15 @@
    "d": "2026-11-28T11:20:00+00:00",
    "c": [
     "holovne"
+   ]
+  },
+  {
+   "t": "Уряд затвердив майже нульове зростання економіки на 2027 рік",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/finances/kabmin-zatverdiv-prognoz-zrostannya-vvp-na-2027-rik-do-0-4-828143/",
+   "d": "2026-11-28T11:20:00+00:00",
+   "c": [
+    "ekonomika"
    ]
   },
   {
@@ -1276,6 +1382,7 @@
    "t": "У Парижі на демонстраціях проти насильства над жінками очікують близько 40000 учасників",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/28/8065097/",
+   "i": "https://img.eurointegration.com.ua/images/doc/5/8/58cf3bb-france-resize.png",
    "d": "2026-11-28T10:29:00+00:00",
    "c": [
     "holovne",
@@ -1348,17 +1455,6 @@
    ]
   },
   {
-   "t": "Гроссі пояснив, чому призначив підсанкційного росіянина своїм заступником",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1458680-grossi-poasniv-comu-priznaciv-pidsankcijnogo-rosianina-svoim-zastupnikom/",
-   "x": "Гендиректор МАГАТЕ Рафаель Гроссі назвав призначення підсанкційного росіянина Олексія Ферапонтова своїм заступником звичайним кадровим питанням та відреагував на критику",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-28T10:24:11+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "Не \"скоч\", \"точилка\" і \"ножниці\": як правильно українською говорити про канцтовари",
    "s": "24 Канал",
    "u": "https://24tv.ua/education/skoch-karandash-uchebnik-nozhnitsi-yak-pravilno-ukrayinskoyu_n3213612",
@@ -1392,20 +1488,6 @@
    ]
   },
   {
-   "t": "На Буковині за добу сталися дві смертельні аварії: загинули двоє людей",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/chernivtsi/1458677-na-bukovini-za-dobu-stalisa-dvi-smertelni-avarii-zaginuli-dvoe-ludej/",
-   "x": "У Чернівецькій області за минулу добу сталися дві смертельні аварії. У Чернівцях на мікроавтобус упала електроопора — загинув пасажир. Ще одна аварія сталася у селі Бояни, там загинув чоловік 2006 року народження",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-28T10:19:36+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "chernivtsi"
-   ]
-  },
-  {
    "t": "У Чернігові патрульні зупинили 17-річного водія ВАЗ із ознаками сп'яніння",
    "s": "Суспільне",
    "u": "https://suspilne.media/chernihiv/1458675-u-cernigovi-patrulni-zupinili-17-ricnogo-vodia-vaz-iz-oznakami-spaninna/",
@@ -1420,7 +1502,7 @@
    ]
   },
   {
-   "t": "🔥Россияне НЕ СДЕРЖАЛИ ЭМОЦИЙ (ВИДЕО)! Европа ввела ЖЁСТКИЕ ограничения. Получить визу всё СЛОЖНЕЕ",
+   "t": "🔥Все! Россиян МАССОВО РАЗВОРАЧИВАЮТ на границах. Сеть затопило СЛЕЗАМИ. Такой ИСТЕРИКИ еще НЕ БЫЛО",
    "s": "24 Канал · відео",
    "u": "https://www.youtube.com/watch?v=jsGWaAs7GhM",
    "x": "Пропустили выпуск? Смотрите тут 👉 https://www.youtube.com/watch?v=p3xnpZPsF8M Российские туристы всё чаще жалуются на отказы в визах. Испания, Франция, США, Австралия и другие страны становятся менее доступными для…",
@@ -1471,6 +1553,15 @@
    ],
    "r": [
     "kherson"
+   ]
+  },
+  {
+   "t": "У Росії запровадять податок на смартфони та ноутбуки",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/svit/u-rosiji-zaprovadyat-noviy-zbir-zi-smartfoniv-ta-noutbukiv-828142/",
+   "d": "2026-11-28T10:10:00+00:00",
+   "c": [
+    "ekonomika"
    ]
   },
   {
@@ -1565,17 +1656,6 @@
    ]
   },
   {
-   "t": "Заглиблений у війну проти України, Путін дедалі більше втрачає зв'язок із реальністю — WSJ",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/war/zahliblenij-u-vijnu-proti-ukrajini-putin-dedali-bilshe-vtrachaje-zvjazok-iz-realnistju-wsj.html",
-   "x": "Російський диктатор, імовірно, не піде на жодні поступки щодо України, навіть попри те, що розпочата ним війна руйнує його власну країну.",
-   "i": "https://zn.ua/img/article/7064/51_main.webp",
-   "d": "2026-11-28T10:01:00+00:00",
-   "c": [
-    "statti"
-   ]
-  },
-  {
    "t": "Єврокомісарка Кос: Албанія може завершити переговори про вступ до ЄС у 2027",
    "s": "Європейська правда",
    "u": "https://www.eurointegration.com.ua/news/2026/11/28/7251003/",
@@ -1584,6 +1664,17 @@
    "d": "2026-11-28T10:01:00+00:00",
    "c": [
     "polityka"
+   ]
+  },
+  {
+   "t": "Заглиблений у війну проти України, Путін дедалі більше втрачає зв'язок із реальністю — WSJ",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/war/zahliblenij-u-vijnu-proti-ukrajini-putin-dedali-bilshe-vtrachaje-zvjazok-iz-realnistju-wsj.html",
+   "x": "Російський диктатор, імовірно, не піде на жодні поступки щодо України, навіть попри те, що розпочата ним війна руйнує його власну країну.",
+   "i": "https://zn.ua/img/article/7064/51_main.webp",
+   "d": "2026-11-28T10:01:00+00:00",
+   "c": [
+    "statti"
    ]
   },
   {
@@ -1698,6 +1789,17 @@
     "holovne",
     "vazhlyve",
     "viyna"
+   ]
+  },
+  {
+   "t": "У Німеччині через невідомий безпілотник на кілька годин зупиняли роботу аеропорту",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1458701-u-nimeccini-cerez-nevidomij-bezpilotnik-na-kilka-godin-zupinali-robotu-aeroportu/",
+   "x": "У Німеччині аеропорт Кельн/Бонн на дві з половиною години призупиняв роботу через невідомий безпілотник. До інших аеропортів перенаправили 32 рейси",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-28T09:56:03+00:00",
+   "c": [
+    "holovne"
    ]
   },
   {
@@ -2023,20 +2125,6 @@
    ],
    "r": [
     "lviv"
-   ]
-  },
-  {
-   "t": "«Дєд, іді отсюда»: останнього жителя Тягинки на Херсонщині вбили російські військові",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/kherson/1458684-ded-idi-otsuda-ostannogo-zitela-taginki-na-hersonsini-vbili-rosijski-vijskovi/",
-   "x": "На Херсонщині ідентифікували та поховали чоловіка, який залишався єдиним жителем Тягинки. За словами начальника Тягинської СВА, його вбили російські військові. Раніше окупанти погрожували чоловікові та вимагали виїхати",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-28T09:28:51+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "kherson"
    ]
   },
   {
@@ -2386,6 +2474,7 @@
    "t": "Туреччина продовжила на три роки контракт із Росією на постачання газу",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/28/8065090/",
+   "i": "https://img.eurointegration.com.ua/images/doc/f/2/f26f6f6-turkey-resize.png",
    "d": "2026-11-28T09:00:00+00:00",
    "c": [
     "holovne",
@@ -2825,6 +2914,17 @@
    ]
   },
   {
+   "t": "Гроссі пояснив, чому призначив підсанкційного росіянина своїм заступником",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1458680-grossi-poasniv-comu-priznaciv-pidsankcijnogo-rosianina-svoim-zastupnikom/",
+   "x": "Гендиректор МАГАТЕ Рафаель Гроссі назвав призначення підсанкційного росіянина Олексія Ферапонтова своїм заступником звичайним кадровим питанням та відреагував на критику",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-28T08:24:11+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "Російський FPV-дрон атакував цивільну автівку у Безруках: водійка зазнала гострої реакції на стрес",
    "s": "Суспільне",
    "u": "https://suspilne.media/kharkiv/1458631-rosijskij-fpv-dron-atakuvav-civilnu-avtivku-u-bezrukah-vodijka-zaznala-gostroi-reakcii-na-stres/",
@@ -2903,6 +3003,20 @@
    ]
   },
   {
+   "t": "На Буковині за добу сталися дві смертельні аварії: загинули двоє людей",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/chernivtsi/1458677-na-bukovini-za-dobu-stalisa-dvi-smertelni-avarii-zaginuli-dvoe-ludej/",
+   "x": "У Чернівецькій області за минулу добу сталися дві смертельні аварії. У Чернівцях на мікроавтобус упала електроопора — загинув пасажир. Ще одна аварія сталася у селі Бояни, там загинув чоловік 2006 року народження",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-28T08:19:36+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "chernivtsi"
+   ]
+  },
+  {
    "t": "Державний борг України за жовтень зріс майже на 98 мільярдів гривень — Мінфін",
    "s": "Суспільне",
    "u": "https://suspilne.media/1458630-derzavnij-borg-ukraini-za-zovten-zris-majze-na-98-milardiv-griven-minfin/",
@@ -2951,6 +3065,7 @@
    "t": "ЗМІ: Армія США відбила ймовірно іранські дрони, які атакували військову базу Британії",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/28/8065084/",
+   "i": "https://img.eurointegration.com.ua/images/doc/0/8/0843a7b-usa-resize.png",
    "d": "2026-11-28T08:11:00+00:00",
    "c": [
     "holovne",
@@ -3208,20 +3323,6 @@
    ],
    "r": [
     "crimea"
-   ]
-  },
-  {
-   "t": "Удари БпЛА, атака по Кривому Рогу, індивідуальні графіки вимкнення світла. Головні новини Дніпра та області 28 листопада",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/dnipro/1458598-udari-bpla-vidklucenna-svitla-golovni-novini-dnipra-ta-oblasti-28-listopada-2/",
-   "x": "Оперативні новини Дніпра та Дніпропетровської області за 28 листопада 2026 року читайте в хроніці подій від редакції Суспільне Дніпро",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-28T07:58:12+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "dnipro"
    ]
   },
   {
@@ -3861,16 +3962,6 @@
    "v": 1
   },
   {
-   "t": "Через рекордну спеку 2023-2024 років у світі різко скоротилися обсяги поверхневих прісних вод – учені",
-   "s": "Українська правда. Життя",
-   "u": "https://life.pravda.com.ua/society/cherez-speku-u-sviti-rizko-skorotilisya-zapasi-prisnoji-vodi-319382/",
-   "i": "https://imglife.pravda.com.ua/life/images/doc/c/a/151231/cacf8dced3415c27a588eeab07e40997.jpeg?w=390&q=90&f=jpeg",
-   "d": "2026-11-28T07:00:00+00:00",
-   "c": [
-    "zhyttia"
-   ]
-  },
-  {
    "t": "Вино як мовчазний вибір залишитися. Як подружжя з Бердянська заснувало виноробню на київських дачах",
    "s": "Економічна правда",
    "u": "https://epravda.com.ua/biznes/vinorobnya-unat-rozvitok-kraftovogo-vinorobstva-v-kiyevi-828134/",
@@ -3880,6 +3971,16 @@
    ],
    "r": [
     "zaporizhzhia"
+   ]
+  },
+  {
+   "t": "Через рекордну спеку 2023-2024 років у світі різко скоротилися обсяги поверхневих прісних вод – учені",
+   "s": "Українська правда. Життя",
+   "u": "https://life.pravda.com.ua/society/cherez-speku-u-sviti-rizko-skorotilisya-zapasi-prisnoji-vodi-319382/",
+   "i": "https://imglife.pravda.com.ua/life/images/doc/c/a/151231/cacf8dced3415c27a588eeab07e40997.jpeg?w=390&q=90&f=jpeg",
+   "d": "2026-11-28T07:00:00+00:00",
+   "c": [
+    "zhyttia"
    ]
   },
   {
@@ -15074,119 +15175,6 @@
    "d": "2026-11-27T12:26:00+00:00",
    "c": [
     "statti"
-   ]
-  },
-  {
-   "t": "Графіки не діють: у частині районів Київщини ввели аварійні відключення",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/ru/jekstrennye-otkljuchenija-jelektrichestva-v-kievskoj-oblasti-27-nojabrja-kakie-rajony-ostalis-bez-sveta_n3215872",
-   "x": "У Київській області за командою \"Укренерго\" запровадили екстрені відключення електроенергії. Обмеження діють у трьох районах.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3215857.jpg?v=1795782468000&q=100",
-   "d": "2026-11-27T12:26:00+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "kyivska"
-   ]
-  },
-  {
-   "t": "Графіки не діють: у частині районів Київщини ввели аварійні відключення",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/grafiki-ne-diyut-chastini-rayoniv-kiyivshhini-vveli-avariyni_n3215857",
-   "x": "У Київській області за командою \"Укренерго\" запровадили екстрені відключення електроенергії. Обмеження діють у трьох районах.",
-   "i": "https://24tv.ua/resources/photos/news/202611/3215857.jpg?v=1795782468000&q=100",
-   "d": "2026-11-27T12:26:00+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "kyivska"
-   ]
-  },
-  {
-   "t": "Президент Польщі наклав вето на податкові зміни",
-   "s": "Європейська правда",
-   "u": "https://www.eurointegration.com.ua/news/2026/11/27/7250953/",
-   "x": "Президент Польщі Кароль Навроцький ветував законопроєкт про зміни до податкового законодавства, який передбачав підвищення порогу податку на доходи фізичних осіб (ПДФО) зі 120 тисяч до 130 тисяч злотих, запровадження…",
-   "i": "https://img.eurointegration.com.ua/images/doc/a/c/ac09976------------2.jpg",
-   "d": "2026-11-27T12:25:00+00:00",
-   "c": [
-    "polityka"
-   ]
-  },
-  {
-   "t": "Двоє людей загинули, четверо поранені внаслідок ворожої атаки по підприємству в Ніжині",
-   "s": "Інтерфакс-Україна",
-   "u": "https://interfax.com.ua/news/general/1243527.html",
-   "x": "У місті Ніжин Чернігівської області внаслідок ворожої атаки по одному з підприємств загинули чоловік і жінка, а ще четверо осіб дістали поранень та перебувають у лікарні, повідомив міський голова Олександр Кодола.",
-   "d": "2026-11-27T12:23:56+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "chernihiv"
-   ]
-  },
-  {
-   "t": "Хакери зламали одну з найбільших хмарних платформ американських військових — Reuters",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/TECHNOLOGIES/khakeri-zlamali-odnu-z-najbilshikh-khmarnikh-platform-amerikanskikh-vijskovikh-reuters.html",
-   "x": "Інцидент у Cloud One призвів до зупинки оновлень програм.",
-   "i": "https://zn.ua/img/article/7062/85_main.webp",
-   "d": "2026-11-27T12:23:00+00:00",
-   "c": [
-    "statti"
-   ]
-  },
-  {
-   "t": "\"Прямі договори\" як інструмент маніпуляцій",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/power/derzhavni-zakupivli-analiz-nekonkurentnih-procedur-i-byudzhetnih-vitrat-828118/",
-   "x": "Плани стійкості мали мільярдне фінансування, але багато об'єктів так і не добудовано до опалювального сезону. Головна причина — закупівлі через \"прямі договори\" поза конкуренцією і контролем, які роблять роботи…",
-   "d": "2026-11-27T12:20:00+00:00",
-   "c": [
-    "ekonomika"
-   ]
-  },
-  {
-   "t": "🚨Одразу ПІСЛЯ ВИБУХІВ на РФ! Росіяни ШТУРМУЮТЬ заправки. ВІДЕО. Кілометрові черги ПАРАЛІЗУВАЛИ все",
-   "s": "24 Канал · відео",
-   "u": "https://www.youtube.com/watch?v=rNBrx1Ch6y0",
-   "x": "Росіяни почали масово записувати відео знімаючи довжелезні черги на заправні станції. Як повідомляється, на багатьох АЗС в різних регіонах РФ або немає деяких видів бензину, або і паливо зовсім відсутнє. Також видно, що…",
-   "i": "https://i3.ytimg.com/vi/rNBrx1Ch6y0/hqdefault.jpg",
-   "d": "2026-11-27T12:17:22+00:00",
-   "c": [
-    "video"
-   ],
-   "v": 1
-  },
-  {
-   "t": "У Львові призупини роботу автобусного маршруту № 33 через брак водіїв",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/lviv/1458318-u-lvovi-prizupini-robotu-avtobusnogo-marsrutu-no-33-cerez-brak-vodiiv/",
-   "x": "У Львові тимчасово призупинили роботу міського автобусного маршруту № 33 через нестачу водіїв. Цей маршрут обслуговує приватний перевізник ТзОВ «Міра і К»",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-27T12:16:39+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "lviv"
-   ]
-  },
-  {
-   "t": "У медзакладі помер нацгвардієць з Івано-Франківщини Микола Шевченко",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/ivano-frankivsk/1458313-u-medzakladi-pomer-nacgvardiec-z-ivano-frankivsini-mikola-sevcenko/",
-   "x": "Унаслідок удару керованою авіаційною бомбою поблизу села Нововікторівка Донецької області отримав поранення боєць Микола Шевченко. Він помер у медзакладі 26 листопада 2026 року",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-27T12:16:28+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "ivanofrankivsk"
    ]
   }
  ]
