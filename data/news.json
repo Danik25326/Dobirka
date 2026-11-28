@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T17:10:45+00:00",
+ "updated": "2026-11-28T17:20:43+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -278,6 +278,27 @@
    "d": "2026-11-28T13:55:00+00:00"
   },
   {
+   "t": "Зеленський запровадив санкції проти виробників дронів РФ та полігону «Капустин Яр»",
+   "u": "https://zn.ua/ukr/UKRAINE/zelenskij-zaprovadiv-sanktsiji-proti-virobnikiv-droniv-rf-ta-polihonu-kapustin-jar.html",
+   "i": "https://zn.ua/img/article/7065/15_main.webp",
+   "n": 3,
+   "l": [
+    {
+     "s": "ZN.UA",
+     "u": "https://zn.ua/ukr/UKRAINE/zelenskij-zaprovadiv-sanktsiji-proti-virobnikiv-droniv-rf-ta-polihonu-kapustin-jar.html"
+    },
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/1458783-ukraina-zaprovadila-sankcii-proti-rosijskih-virobnikiv-droniv-ta-robotizovanih-sistem/"
+    },
+    {
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/28/8065138/"
+    }
+   ],
+   "d": "2026-11-28T17:09:00+00:00"
+  },
+  {
    "t": "Зеленський доручив заборонити ЗМІ висвітлювати наслідки ударів по критичній інфраструктурі",
    "u": "https://24tv.ua/zelenskiy-pidpisav-ukaz-pro-zaboronu-dlya-zmi-visvitlyuvati-naslidki_n3216427",
    "i": "https://24tv.ua/resources/photos/news/202611/3216427.jpg?v=1795883958000&q=100",
@@ -381,30 +402,60 @@
     }
    ],
    "d": "2026-11-28T10:01:00+00:00"
-  },
-  {
-   "t": "Дрони атакували Київщину: троє поранених, пошкоджено будинки та об’єкт енергетики",
-   "u": "https://zn.ua/ukr/war/droni-atakuvali-kijivshchinu-troje-poranenikh-poshkodzheno-budinki-ta-objekt-enerhetiki.html",
-   "i": "https://zn.ua/img/article/7064/47_main.webp",
-   "n": 3,
-   "l": [
-    {
-     "s": "ZN.UA",
-     "u": "https://zn.ua/ukr/war/droni-atakuvali-kijivshchinu-troje-poranenikh-poshkodzheno-budinki-ta-objekt-enerhetiki.html"
-    },
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/28/8065091/"
-    },
-    {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/ataka-kiyivshhinu-28-listopada-2026-yaki-naslidki_n3216225"
-    }
-   ],
-   "d": "2026-11-28T09:44:51+00:00"
   }
  ],
  "items": [
+  {
+   "t": "Пенсіонерам можуть відмовити у виїзді за кордон: кого не випустять у 2026 році",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/economy/viyizd-pensioneriv-cholovikiv-za-kordon-kogo-ne-vipustyat-ukrayini_n3215965",
+   "x": "Воєнний стан суттєво змінив правила перетину державного кордону, створивши чимало міфів навколо людей похилого віку. Проте наявність відповідного посвідчення більше не є стовідсотковою гарантією вільного виїзду чи…",
+   "i": "https://24tv.ua/resources/photos/news/202611/3215965.jpg?v=1795789257000&q=100",
+   "d": "2026-11-28T17:20:00+00:00",
+   "c": [
+    "holovne",
+    "ekonomika"
+   ]
+  },
+  {
+   "t": "Дрон влучив у двір багатоповерхівки в Кременчуці, шестеро поранених",
+   "s": "Інтерфакс-Україна",
+   "u": "https://interfax.com.ua/news/general/1243928.html",
+   "x": "Шестеро людей дістали травми внаслідок удару російського дрона по двору житлового багатоквартирного будинку в місті Кременчук Полтавської області в суботу, повідомив очільник Полтавської обласної військової…",
+   "i": "https://media.interfax.com.ua/media/thumbs/images/2026/05/ppcql/8tqXLWJL_eyR.jpg",
+   "d": "2026-11-28T17:18:27+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "poltava"
+   ]
+  },
+  {
+   "t": "Окупанти понад 40 разів обстріляли Дніпропетровську область, поранено чотирьох мирних мешканців",
+   "s": "Інтерфакс-Україна",
+   "u": "https://interfax.com.ua/news/general/1243926.html",
+   "x": "Четверо людей дістали поранень в Павлоградському та Нікопольському районах Дніпропетровської області внаслідок ворожих обстрілів в суботу, повідомив очільник Дніпропетровської обласної державної адміністрації Олександр…",
+   "i": "https://media.interfax.com.ua/media/thumbs/images/2026/07/udolu/-vWUVotzszoT.jpg",
+   "d": "2026-11-28T17:14:23+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "dnipro"
+   ]
+  },
+  {
+   "t": "У Міноборони пояснили ціль російських атак на продовольчі склади",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/ECONOMICS/u-minoboroni-pojasnili-tsil-rosijskikh-atak-na-prodovolchi-skladi.html",
+   "x": "Щонайменше 62 атаки на заводи та склади від початку року.",
+   "i": "https://zn.ua/img/article/7065/17_main.webp",
+   "d": "2026-11-28T17:13:00+00:00",
+   "c": [
+    "statti"
+   ]
+  },
   {
    "t": "Удар завдано по ворожому випробувальному центру дронів в окупованому Бердянську, знищено понад 30 окупантів – УВ \"Південь\"",
    "s": "Інтерфакс-Україна",
@@ -417,6 +468,16 @@
    ],
    "r": [
     "zaporizhzhia"
+   ]
+  },
+  {
+   "t": "Зеленський запровадив санкції проти виробників дронів РФ та полігону «Капустин Яр»",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/UKRAINE/zelenskij-zaprovadiv-sanktsiji-proti-virobnikiv-droniv-rf-ta-polihonu-kapustin-jar.html",
+   "i": "https://zn.ua/img/article/7065/15_main.webp",
+   "d": "2026-11-28T17:09:00+00:00",
+   "c": [
+    "statti"
    ]
   },
   {
@@ -624,6 +685,7 @@
    "t": "В Албанії – антиурядовий протест у день незалежності країни",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/28/8065148/",
+   "i": "https://img.eurointegration.com.ua/images/doc/8/7/87c460f---------28-----------3.jpg",
    "d": "2026-11-28T16:38:00+00:00",
    "c": [
     "holovne",
@@ -1896,6 +1958,7 @@
    "t": "Країни Європи згадують жертв Голодомору в Україні",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/28/8065133/",
+   "i": "https://img.eurointegration.com.ua/images/doc/4/4/44c0969----------.jpg",
    "d": "2026-11-28T14:53:00+00:00",
    "c": [
     "holovne",
@@ -2084,6 +2147,7 @@
    "t": "Польща ще на 90 днів продовжила буферну зону на кордоні з Білоруссю",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/28/8065130/",
+   "i": "https://img.eurointegration.com.ua/images/doc/0/e/0e8162f-----------------.jpg",
    "d": "2026-11-28T14:32:00+00:00",
    "c": [
     "holovne",
@@ -2553,8 +2617,8 @@
    "i": "https://24tv.ua/resources/photos/news/202611/3216370.jpg?v=1795873618000&q=100",
    "d": "2026-11-28T13:52:06+00:00",
    "c": [
-    "holovne",
-    "viyna"
+    "viyna",
+    "holovne"
    ],
    "r": [
     "kyiv"
@@ -15114,73 +15178,6 @@
    "r": [
     "kherson",
     "zaporizhzhia"
-   ]
-  },
-  {
-   "t": "«Міномет — не снайперська гвинтівка»: як колишній сумський таксист боронить Сумщину",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/sumy/1458418-minomet-ne-snajperska-gvintivka-ak-kolisnij-sumskij-taksist-boronit-sumsinu/",
-   "x": "До повномасштабної війни працював таксистом у Сумах, розповів Суспільному командир взводу мінометників 17-ї окремої важкої механізованої Криворізької бригади з позивним «Нарік». Нині понад два роки захищає рідне місто",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-27T15:17:34+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "sumy"
-   ]
-  },
-  {
-   "t": "Троє військових з Одещини загинули на фронті: один із них понад два роки вважався зниклим безвісти",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/odesa/1458479-troe-vijskovih-z-odesini-zaginuli-na-fronti-odin-iz-nih-ponad-dva-roki-vvazavsa-zniklim-bezvisti/",
-   "x": "На війні загинули троє військовослужбовців з Одещини — Микола Хлипа, Денис Григораш та Вадим Ткаченко. Останній понад два роки вважався зниклим безвісти",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-27T15:17:04+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "odesa"
-   ]
-  },
-  {
-   "t": "Його шкала була перевернутою, а життя – коротким: ким насправді був Андерс Цельсій",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/people/anders-tselsiy-chomu-za-yogo-shkaloyu-voda-kipila-pri-0-gradusiv_n3215991",
-   "x": "Його прізвище щодня звучить у прогнозах погоди, на уроках фізики та під час розмов про зимові морози. Однак Андерс Цельсій був значно цікавішою постаттю, ніж просто вчений, чиїм ім'ям назвали температурну шкалу…",
-   "i": "https://24tv.ua/resources/photos/news/202611/3215991.jpg?v=1795791154000&q=100",
-   "d": "2026-11-27T15:16:00+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
-   "t": "«Із 13 років вмію керувати машиною» — Ганна Скаржанівська вчиться на трактористку в одному з профліцеїв Житомирщини",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/zhytomyr/1458448-iz-13-rokiv-vmiu-keruvati-masinou-ganna-skarzanivska-vcitsa-na-traktoristku-v-odnomu-z-profliceiv-zitomirsini/",
-   "x": "15-річна Ганна Скаржанівська навчається на першому курсі Малинського професійного ліцею, опановуючи професію тракториста-машиніста сільськогосподарського виробництва",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-27T15:13:59+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "zhytomyr"
-   ]
-  },
-  {
-   "t": "У Вінниці списані трамвай і тролейбус перетворять на простір для реабілітації дітей",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/vinnytsia/1458480-u-vinnici-spisani-tramvaj-i-trolejbus-peretvorat-na-prostir-dla-reabilitacii-ditej/",
-   "x": "У Вінниці списані трамвай і тролейбус передадуть обласному медичному центру реабілітації дітей. У них облаштують творчі майстерні та місця для занять із фахівцями, а також навчатимуть дітей користуватися громадським…",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-27T15:13:22+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "vinnytsia"
    ]
   }
  ]
