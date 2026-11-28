@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T19:50:54+00:00",
+ "updated": "2026-11-28T20:01:14+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -414,6 +414,56 @@
  ],
  "items": [
   {
+   "t": "Графіки погодинних вимкнень електроенергії на Франківщині 29 листопада",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/ivano-frankivsk/1458757-grafiki-pogodinnih-vimknen-elektroenergii-na-frankivsini-29-listopada/",
+   "x": "29 листопада на Івано-Франківщині діятимуть графіки погодинних відключень електроенергії для споживачів. Також обмежать потужності для підприємств",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-28T19:59:35+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "ivanofrankivsk"
+   ]
+  },
+  {
+   "t": "На Закарпатті 29 листопада діятимуть графіки погодинних відключень електроенергії",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/uzhhorod/1458764-na-zakarpatti-29-listopada-diatimut-grafiki-pogodinnih-vidklucen-elektroenergii/",
+   "x": "На Закарпатті 28 листопада запроваджують графіки погодинних відключень електроенергії. Про це напередодні повідомили у Закарпаттяобленерго",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-28T19:59:26+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "zakarpattia"
+   ]
+  },
+  {
+   "t": "Через погрози життю: урядовці Трампа масово переселяються на військові бази",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/geopolitics/kilka-visokoposadovtsiv-trampa-vimusheni-zhiti-viyskovih-bazah_n3216472",
+   "x": "Низка високопосадовців адміністрації Трампа оселилися на закритих військових базах біля Вашингтона. Вони були вимушені переїхати через загрози особистій безпеці.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3216472.jpg?v=1795895198000&q=100",
+   "d": "2026-11-28T19:55:44+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "Олександра Меркушина зробила заяву після скандалу у збірній",
+   "s": "24 Канал",
+   "u": "https://24tv.ua/sporttopnews/oleksandra-merkushina-biatlonistka-publichno-vibachilasya-pered_n3216475",
+   "x": "Українська біатлоністка Олександра Меркушина попросила вибачення за свої емоційні висловлювання після гонки Кубка світу. Спортсменка звернулася до тренерів, команди та всієї біатлонної спільноти.",
+   "i": "https://24tv.ua/resources/photos/news/202611/3216475.jpg?v=1795894951000&q=100",
+   "d": "2026-11-28T19:51:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "«Викручували йому руки»: 21-річний харківець звернувся до поліції після конфлікту з людьми у камуфляжі",
    "s": "Суспільне",
    "u": "https://suspilne.media/kharkiv/1458829-vikrucuvali-jomu-ruki-21-ricnij-harkivec-zvernuvsa-do-policii-pisla-konfliktu-z-ludmi-u-kamuflazi/",
@@ -428,24 +478,22 @@
    ]
   },
   {
-   "t": "На Львівщині 29 листопада діятимуть графіки погодинного вимкнення світла",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/lviv/1458824-na-lvivsini-29-listopada-diatimut-grafiki-pogodinnogo-vimknenna-svitla/",
-   "x": "У неділю, 29 листопада, на Львівщині будуть діяти графіки погодинного відключення електроенергії. Чому немає світла та які графіки діють на Львівщині",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-28T19:49:17+00:00",
+   "t": "Сили оброни уразили станції \"Самара\", \"Нурліно\" й Новошахтинський НПЗ – Генштаб",
+   "s": "Українська правда",
+   "u": "https://www.pravda.com.ua/news/2026/11/28/8065156/",
+   "x": "Сили оборони України атакували вузол Urals у Самарській області, станцію Нурліно в Башкортостані та Новошахтинський НПЗ у Ростовській області РФ.",
+   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/5/1/966955/51b414b4270c82909793ef8dd14cb999.jpeg",
+   "d": "2026-11-28T19:49:00+00:00",
    "c": [
-    "holovne"
-   ],
-   "r": [
-    "lviv"
+    "holovne",
+    "vazhlyve"
    ]
   },
   {
    "t": "На Волині 29 листопада вимикатимуть світло: графік для населення",
    "s": "Суспільне",
    "u": "https://suspilne.media/lutsk/1458699-na-volini-29-listopada-vimikatimut-svitlo-grafik-dla-naselenna/",
-   "x": "На Волині у неділю, 29 листопада для сподивачів діятимуть графіки погодинного відключення світла. Графік відключення для населення",
+   "x": "На Волині у неділю, 29 листопада, для споживачів діятимуть графіки погодинного відключення світла. Графік відключення для населення",
    "i": "https://cdn4.suspilne.media/images/default.jpg",
    "d": "2026-11-28T19:47:53+00:00",
    "c": [
@@ -475,6 +523,7 @@
    "d": "2026-11-28T19:46:00+00:00",
    "c": [
     "holovne",
+    "vazhlyve",
     "viyna"
    ],
    "r": [
@@ -600,6 +649,17 @@
    ]
   },
   {
+   "t": "«Надалі всі питання залишатимуться всередині команди». Олександра Меркушина перепросила за емоційне інтерв'ю",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sport/1458828-nadali-vsi-pitanna-zalisatimutsa-vseredini-komandi-oleksandra-merkusina-pereprosila-za-emocijne-intervu/",
+   "x": "Олександра Меркушина: біатлоністка збірної України перепросила за емоційний коментар на етапі Кубка світу 2026/27 у Контіолахті, про що йдеться у дописі Олександрі Меркушиної, як відреагували в команді",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-28T19:37:05+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "Як вимикають світло на Сумщині у листопаді",
    "s": "Суспільне",
    "u": "https://suspilne.media/sumy/1442525-ak-vimikaut-svitlo-na-sumsini-u-listopadi/",
@@ -722,6 +782,7 @@
    "t": "Німецька партія BSW відмовилася дистанціюватися від ультраправих",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/28/8065155/",
+   "i": "https://img.eurointegration.com.ua/images/doc/c/2/c2d78fa-------------------.jpg",
    "d": "2026-11-28T19:27:00+00:00",
    "c": [
     "holovne",
@@ -1254,6 +1315,7 @@
    "t": "Понад 45% поляків виступають за зміну прем’єра, якщо коаліція збереже владу",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/28/8065151/",
+   "i": "https://img.eurointegration.com.ua/images/doc/4/4/44369a6------3.jpg",
    "d": "2026-11-28T18:19:00+00:00",
    "c": [
     "holovne",
@@ -1592,6 +1654,20 @@
    ]
   },
   {
+   "t": "На Львівщині 29 листопада діятимуть графіки погодинного вимкнення світла",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/lviv/1458824-na-lvivsini-29-listopada-diatimut-grafiki-pogodinnogo-vimknenna-svitla/",
+   "x": "У неділю, 29 листопада, на Львівщині будуть діяти графіки погодинного відключення електроенергії. Чому немає світла та які графіки діють на Львівщині",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-28T17:49:17+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "lviv"
+   ]
+  },
+  {
    "t": "Чемпіонат світу з греплінгу: результати спортсменів Сумщини",
    "s": "Суспільне",
    "u": "https://suspilne.media/sumy/1457040-cempionat-svitu-z-greplingu-rezultati-sportsmeniv-sumsini/",
@@ -1654,17 +1730,6 @@
    ],
    "r": [
     "odesa"
-   ]
-  },
-  {
-   "t": "«Надалі всі питання залишатимуться всередині команди». Олександра Меркушина перепросила за емоційне інтерв'ю",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/sport/1458828-nadali-vsi-pitanna-zalisatimutsa-vseredini-komandi-oleksandra-merkusina-pereprosila-za-emocijne-intervu/",
-   "x": "Олександра Меркушина: біатлоністка збірної України перепросила за емоційний коментар на етапі Кубка світу 2026/27 у Контіолахті, про що йдеться у дописі Олександрі Меркушиної, як відреагували в команді",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-28T17:37:05+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
@@ -2748,15 +2813,6 @@
    ]
   },
   {
-   "t": "Мінфін попередив, що Україна може залишитися без \"фінансового безвізу\"",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/finances/minfin-poperediv-pro-rizik-uhvaliti-zakon-bez-priyednannya-do-sepa-828147/",
-   "d": "2026-11-28T16:00:00+00:00",
-   "c": [
-    "ekonomika"
-   ]
-  },
-  {
    "t": "Як допомогти дитині з РДУГ зібратися вранці й не розгубитися? 6 порад від психіатра",
    "s": "Українська правда. Життя",
    "u": "https://life.pravda.com.ua/health/yak-dopomogti-ditini-z-rdug-zibratisya-vranci-poradi-psihiatra-319387/",
@@ -2764,6 +2820,15 @@
    "d": "2026-11-28T16:00:00+00:00",
    "c": [
     "zhyttia"
+   ]
+  },
+  {
+   "t": "Мінфін попередив, що Україна може залишитися без \"фінансового безвізу\"",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/finances/minfin-poperediv-pro-rizik-uhvaliti-zakon-bez-priyednannya-do-sepa-828147/",
+   "d": "2026-11-28T16:00:00+00:00",
+   "c": [
+    "ekonomika"
    ]
   },
   {
@@ -3004,8 +3069,8 @@
    "i": "https://24tv.ua/resources/photos/news/202611/3216413.jpg?v=1795880220000&q=100",
    "d": "2026-11-28T15:35:00+00:00",
    "c": [
-    "holovne",
-    "vazhlyve"
+    "vazhlyve",
+    "holovne"
    ]
   },
   {
@@ -4568,8 +4633,8 @@
    "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/f/a/966748/fa8595dde1c6a7b2ae5e862172253dc8.jpeg",
    "d": "2026-11-28T13:30:00+00:00",
    "c": [
-    "holovne",
-    "vazhlyve"
+    "vazhlyve",
+    "holovne"
    ],
    "r": [
     "crimea"
@@ -9690,6 +9755,16 @@
    "v": 1
   },
   {
+   "t": "Через рекордну спеку 2023-2024 років у світі різко скоротилися обсяги поверхневих прісних вод – учені",
+   "s": "Українська правда. Життя",
+   "u": "https://life.pravda.com.ua/society/cherez-speku-u-sviti-rizko-skorotilisya-zapasi-prisnoji-vodi-319382/",
+   "i": "https://imglife.pravda.com.ua/life/images/doc/c/a/151231/cacf8dced3415c27a588eeab07e40997.jpeg?w=390&q=90&f=jpeg",
+   "d": "2026-11-28T07:00:00+00:00",
+   "c": [
+    "zhyttia"
+   ]
+  },
+  {
    "t": "Вино як мовчазний вибір залишитися. Як подружжя з Бердянська заснувало виноробню на київських дачах",
    "s": "Економічна правда",
    "u": "https://epravda.com.ua/biznes/vinorobnya-unat-rozvitok-kraftovogo-vinorobstva-v-kiyevi-828134/",
@@ -9699,16 +9774,6 @@
    ],
    "r": [
     "zaporizhzhia"
-   ]
-  },
-  {
-   "t": "Через рекордну спеку 2023-2024 років у світі різко скоротилися обсяги поверхневих прісних вод – учені",
-   "s": "Українська правда. Життя",
-   "u": "https://life.pravda.com.ua/society/cherez-speku-u-sviti-rizko-skorotilisya-zapasi-prisnoji-vodi-319382/",
-   "i": "https://imglife.pravda.com.ua/life/images/doc/c/a/151231/cacf8dced3415c27a588eeab07e40997.jpeg?w=390&q=90&f=jpeg",
-   "d": "2026-11-28T07:00:00+00:00",
-   "c": [
-    "zhyttia"
    ]
   },
   {
@@ -15178,69 +15243,6 @@
    "d": "2026-11-27T16:52:00+00:00",
    "c": [
     "polityka"
-   ]
-  },
-  {
-   "t": "У чому Дука звинувачує НАБУ та САП?",
-   "s": "Суспільне Новини · відео",
-   "u": "https://www.youtube.com/shorts/PpClbhA6Gb8",
-   "x": "Детальінше про протистояння СБУ та НАБУ і САП поговорили з журналістом Михайлом Ткачем. Дивіться за посиланням під відео. Підписуйтесь на наш канал та тисніть дзвіночок https://youtube.com/@SuspilneNews",
-   "i": "https://i1.ytimg.com/vi/PpClbhA6Gb8/hqdefault.jpg",
-   "d": "2026-11-27T16:51:45+00:00",
-   "c": [
-    "video"
-   ],
-   "v": 1
-  },
-  {
-   "t": "Теплопостачання у будинки Києва подається у штатному режимі – Кличко",
-   "s": "Інтерфакс-Україна",
-   "u": "https://interfax.com.ua/news/general/1243740.html",
-   "x": "Теплопостачання у Києві працює у штатному режимі, а пошкодження, що виникають, цілодобово ліквідують 38 бригад \"Київтеплоенерго\", повідомив мер Києва Віталій Кличко на брифінгу в п'ятницю.",
-   "i": "https://media.interfax.com.ua/media/thumbs/images/2026/10/jfndc/-yuW0-a5N9t8.jpg",
-   "d": "2026-11-27T16:50:34+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "kyiv"
-   ]
-  },
-  {
-   "t": "Росія відкотиться до рівня видобутку нафти 2009 року",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/energetika/vidobutok-nafti-v-rosiji-skorotitsya-priblizno-do-rivnya-2009-roku-828132/",
-   "d": "2026-11-27T16:50:00+00:00",
-   "c": [
-    "ekonomika"
-   ]
-  },
-  {
-   "t": "«Не на узбіччі, а в центрі уваги»: у Сумах молодь з інвалідністю представила свої таланти",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/sumy/1458386-ne-na-uzbicci-a-v-centri-uvagi-u-sumah-molod-z-invalidnistu-predstavila-svoi-talanti/",
-   "x": "У Сумах напередодні Міжнародного дня людей з інвалідністю відбулася щорічна мистецько-театральна акція «Театр на узбіччі театру». У ній узяли участь понад 50 молодих людей з інвалідністю",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-27T16:47:21+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "sumy"
-   ]
-  },
-  {
-   "t": "У Львові на вул. Ковча з 30 листопада тимчасово змінять рух транспорту через ремонт дороги",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/lviv/1458492-u-lvovi-na-vul-kovca-z-30-listopada-timcasovo-zminat-ruh-transportu-cerez-remont-dorogi/",
-   "x": "З 30 листопада до 5 грудня на вул. Ковча у Львові ремонтуватимуть дорогу біля шляхопроводу на Рясне. Рух транспорту тимчасово обмежать. Яка схема руху",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-27T16:47:05+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "lviv"
    ]
   }
  ]
