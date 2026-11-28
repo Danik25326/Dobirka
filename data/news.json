@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T19:20:52+00:00",
+ "updated": "2026-11-28T19:31:02+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -158,6 +158,39 @@
  ],
  "top": [
   {
+   "t": "У День пам'яті жертв голодоморів росіяни атакували склад зерна на Одещині, постраждалих немає – ОВА",
+   "u": "https://interfax.com.ua/news/general/1243946.html",
+   "i": "https://media.interfax.com.ua/media/thumbs/images/2026/11/ovpea/I3WhGiN5Warh.jpg",
+   "n": 6,
+   "l": [
+    {
+     "s": "Інтерфакс-Україна",
+     "u": "https://interfax.com.ua/news/general/1243946.html"
+    },
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/crimea/1458813-u-posolstvi-ukraini-v-tureccini-vsanuvali-pamat-zertv-golodomoru/"
+    },
+    {
+     "s": "24 Канал",
+     "u": "https://24tv.ua/rosiyani-vdarili-po-zernovomu-skladu-odeshhini-shho-vidomo-pro_n3216442"
+    },
+    {
+     "s": "Українська правда. Життя",
+     "u": "https://life.pravda.com.ua/society/zapalit-svichku-o-16-00-v-pam-yat-pro-zhertv-golodomoru-319393/"
+    },
+    {
+     "s": "Українська правда",
+     "u": "https://www.pravda.com.ua/news/2026/11/28/8065069/"
+    },
+    {
+     "s": "ZN.UA",
+     "u": "https://zn.ua/ukr/UKRAINE/705076-den-pamjati-zhertv-holodomoriv-istorija.html"
+    }
+   ],
+   "d": "2026-11-28T19:27:39+00:00"
+  },
+  {
    "t": "Україна провела операцію в Лівії без попередньої координації з європейськими партнерами — Зеленський в розмові з Мелоні",
    "u": "https://suspilne.media/1458582-ukraina-provela-operaciu-v-livii-bez-poperednoi-koordinacii-z-evropejskimi-partnerami-zelenskij-v-rozmovi-z-meloni/",
    "i": "https://cdn4.suspilne.media/images/default.jpg",
@@ -189,35 +222,6 @@
     }
    ],
    "d": "2026-11-28T02:54:28+00:00"
-  },
-  {
-   "t": "У посольстві України в Туреччині вшанували пам'ять жертв Голодомору",
-   "u": "https://suspilne.media/crimea/1458813-u-posolstvi-ukraini-v-tureccini-vsanuvali-pamat-zertv-golodomoru/",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "n": 5,
-   "l": [
-    {
-     "s": "Суспільне",
-     "u": "https://suspilne.media/crimea/1458813-u-posolstvi-ukraini-v-tureccini-vsanuvali-pamat-zertv-golodomoru/"
-    },
-    {
-     "s": "24 Канал",
-     "u": "https://24tv.ua/rosiyani-vdarili-po-zernovomu-skladu-odeshhini-shho-vidomo-pro_n3216442"
-    },
-    {
-     "s": "Українська правда. Життя",
-     "u": "https://life.pravda.com.ua/society/zapalit-svichku-o-16-00-v-pam-yat-pro-zhertv-golodomoru-319393/"
-    },
-    {
-     "s": "Українська правда",
-     "u": "https://www.pravda.com.ua/news/2026/11/28/8065069/"
-    },
-    {
-     "s": "ZN.UA",
-     "u": "https://zn.ua/ukr/UKRAINE/705076-den-pamjati-zhertv-holodomoriv-istorija.html"
-    }
-   ],
-   "d": "2026-11-28T18:15:07+00:00"
   },
   {
    "t": "Зеленський анонсував нові кадрові зміни в армії",
@@ -410,12 +414,85 @@
  ],
  "items": [
   {
+   "t": "Коли не буде світла на Полтавщині 29 листопада: графік",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/poltava/1458695-koli-ne-bude-svitla-na-poltavsini-29-listopada-grafik/",
+   "x": "Графік погодинних відключень на Полтавщині діятиме протягом доби 29 листопада. З 00:00 до 23:59 графік застосують в обсязі 3 черг. Загальна кількість відключень — понад 7 годин",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-28T19:27:51+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "poltava"
+   ]
+  },
+  {
+   "t": "У Чернівецькій області 29 листопада діятимуть графіки відключення електрики — обленерго",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/chernivtsi/1458710-u-cerniveckij-oblasti-29-listopada-diatimut-grafiki-vidklucenna-elektriki-oblenergo/",
+   "x": "У Чернівецькій області 29 листопада діятимуть графіки відключення електрики. Режим роботи графіків може змінюватися протягом доби залежно від ситуації в енергосистемі України, повідомляли раніше Суспільному в обленерго",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-28T19:27:47+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
+   "t": "У День пам'яті жертв голодоморів росіяни атакували склад зерна на Одещині, постраждалих немає – ОВА",
+   "s": "Інтерфакс-Україна",
+   "u": "https://interfax.com.ua/news/general/1243946.html",
+   "x": "Російські війська у День пам'яті жертв голодоморів завдали удару по складу із зерном в Одеській області, пошкоджено покрівлю приміщення та знищено більшу частину зерна, постраждалих немає, повідомив начальник Одеської…",
+   "i": "https://media.interfax.com.ua/media/thumbs/images/2026/11/ovpea/I3WhGiN5Warh.jpg",
+   "d": "2026-11-28T19:27:39+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "odesa"
+   ]
+  },
+  {
+   "t": "Німецька партія BSW відмовилася дистанціюватися від ультраправих",
+   "s": "Українська правда",
+   "u": "https://www.pravda.com.ua/news/2026/11/28/8065155/",
+   "i": "https://img.eurointegration.com.ua/images/doc/c/2/c2d78fa-------------------.jpg",
+   "d": "2026-11-28T19:27:00+00:00",
+   "c": [
+    "holovne",
+    "polityka"
+   ]
+  },
+  {
+   "t": "Албанію охопили сутички в День незалежності: протестувальники вимагають відставки прем'єра",
+   "s": "ZN.UA",
+   "u": "https://zn.ua/ukr/europe/albaniju-okhopili-sutichki-v-den-nezalezhnosti-protestuvalniki-vimahajut-vidstavki-premjera.html",
+   "x": "Постраждали кілька протестувальників і журналістів, а також поліцейські.",
+   "i": "https://zn.ua/img/article/7065/31_main.webp",
+   "d": "2026-11-28T19:25:47+00:00",
+   "c": [
+    "statti"
+   ]
+  },
+  {
+   "t": "⚡️Все ВИРІШУЄТЬСЯ ЗАРАЗ! ЕКСТРЕНЕ ЗВЕРНЕННЯ Путіна до ЗСУ. Росія ВІДВОДИТЬ БОМБАРДУВАЛЬНИКИ. СААКЯН",
+   "s": "24 Канал · відео",
+   "u": "https://www.youtube.com/watch?v=K3-1SA5Z9qs",
+   "x": "Політолог Олег Саакян @oleh_saakian прокоментував останні новини у світі. Зокрема, російський диктатор Володимир Путін звернувся до українців із цинічною пропозицією переходити на бік Росії. Тим часом РФ перемістила 47…",
+   "i": "https://i4.ytimg.com/vi/K3-1SA5Z9qs/hqdefault.jpg",
+   "d": "2026-11-28T19:20:03+00:00",
+   "c": [
+    "video"
+   ],
+   "v": 1
+  },
+  {
    "t": "\"Навіть Єрмаку сподобається\": журналіст Ткач на тлі тиску на УП анонсував новий матеріал",
    "s": "24 Канал",
    "u": "https://24tv.ua/mihaylo-tkach-zayaviv-pro-tisk-zhurnalistiv-up-shho-vidomo_n3216467",
    "x": "Керівник відділу журналістських розслідувань \"Української правди\" Михайло Ткач розповів про нові випадки тиску на свою команду під час роботи над матеріалами про голову фракції \"Слуга народу\" Давида Арахамію. За його…",
    "i": "https://24tv.ua/resources/photos/news/202611/3216467.jpg?v=1795893212000&q=100",
-   "d": "2026-11-28T19:20:33+00:00",
+   "d": "2026-11-28T19:20:00+00:00",
    "c": [
     "holovne"
    ]
@@ -449,8 +526,9 @@
    "t": "Сирецький струмок у Києві змінив колір: екологи шукають причину",
    "s": "ZN.UA",
    "u": "https://zn.ua/ukr/UKRAINE/siretskij-strumok-u-kijevi-zminiv-kolir-ekolohi-shukajut-prichinu.html",
+   "x": "На окремих ділянках водойми зафіксували білий осад протяжністю до 100 метрів.",
    "i": "https://zn.ua/img/article/7065/35_main.webp",
-   "d": "2026-11-28T19:17:27+00:00",
+   "d": "2026-11-28T19:17:00+00:00",
    "c": [
     "statti"
    ],
@@ -879,6 +957,20 @@
    "d": "2026-11-28T18:24:00+00:00",
    "c": [
     "holovne"
+   ]
+  },
+  {
+   "t": "Якою буде погода в Івано-Франківську та області 29 листопада",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/ivano-frankivsk/1458697-akou-bude-pogoda-v-ivano-frankivsku-ta-oblasti-29-listopada/",
+   "x": "29 листопада 2026 року на Прикарпатті похолодає — вночі температура повітря місцями знизиться до 12° морозу. Вдень у регіоні буде малохмарна погода, без опадів",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-28T18:23:12+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "ivanofrankivsk"
    ]
   },
   {
@@ -2088,20 +2180,6 @@
    ]
   },
   {
-   "t": "Якою буде погода в Івано-Франківську та області 29 листопада",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/ivano-frankivsk/1458697-akou-bude-pogoda-v-ivano-frankivsku-ta-oblasti-29-listopada/",
-   "x": "29 листопада 2026 року на Прикарпатті похолодає — вночі температура повітря місцями знизиться до 12° морозу. Вдень у регіоні буде малохмарна погода, без опадів",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-28T16:23:12+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "ivanofrankivsk"
-   ]
-  },
-  {
    "t": "Обіймав керівну посаду в штабі окупантів: на Тернопільщині судитимуть 54-річного чоловіка",
    "s": "Суспільне",
    "u": "https://suspilne.media/ternopil/1458458-obijmav-kerivnu-posadu-v-stabi-okupantiv-na-ternopilsini-suditimut-54-ricnogo-colovika/",
@@ -2409,15 +2487,6 @@
    ]
   },
   {
-   "t": "Мінфін попередив, що Україна може залишитися без \"фінансового безвізу\"",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/finances/minfin-poperediv-pro-rizik-uhvaliti-zakon-bez-priyednannya-do-sepa-828147/",
-   "d": "2026-11-28T16:00:00+00:00",
-   "c": [
-    "ekonomika"
-   ]
-  },
-  {
    "t": "Як допомогти дитині з РДУГ зібратися вранці й не розгубитися? 6 порад від психіатра",
    "s": "Українська правда. Життя",
    "u": "https://life.pravda.com.ua/health/yak-dopomogti-ditini-z-rdug-zibratisya-vranci-poradi-psihiatra-319387/",
@@ -2425,6 +2494,15 @@
    "d": "2026-11-28T16:00:00+00:00",
    "c": [
     "zhyttia"
+   ]
+  },
+  {
+   "t": "Мінфін попередив, що Україна може залишитися без \"фінансового безвізу\"",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/finances/minfin-poperediv-pro-rizik-uhvaliti-zakon-bez-priyednannya-do-sepa-828147/",
+   "d": "2026-11-28T16:00:00+00:00",
+   "c": [
+    "ekonomika"
    ]
   },
   {
@@ -4462,16 +4540,6 @@
    ]
   },
   {
-   "t": "Аеропорт на заході Німеччини припиняв роботу через дрон",
-   "s": "Українська правда",
-   "u": "https://www.pravda.com.ua/news/2026/11/28/8065117/",
-   "d": "2026-11-28T13:12:00+00:00",
-   "c": [
-    "holovne",
-    "polityka"
-   ]
-  },
-  {
    "t": "\"Завжди непросто грати\": півзахисник збірної України оцінив поразки у Лізі націй",
    "s": "24 Канал",
    "u": "https://sportnews.24tv.ua/gennadiy-sinchuk-zbirna-ukrayini-slova-futbolista-pro-prograshi_n3216351",
@@ -4496,6 +4564,16 @@
    "r": [
     "dnipro",
     "kherson"
+   ]
+  },
+  {
+   "t": "Аеропорт на заході Німеччини припиняв роботу через дрон",
+   "s": "Українська правда",
+   "u": "https://www.pravda.com.ua/news/2026/11/28/8065117/",
+   "d": "2026-11-28T13:12:00+00:00",
+   "c": [
+    "holovne",
+    "polityka"
    ]
   },
   {
@@ -9365,6 +9443,16 @@
    "v": 1
   },
   {
+   "t": "Через рекордну спеку 2023-2024 років у світі різко скоротилися обсяги поверхневих прісних вод – учені",
+   "s": "Українська правда. Життя",
+   "u": "https://life.pravda.com.ua/society/cherez-speku-u-sviti-rizko-skorotilisya-zapasi-prisnoji-vodi-319382/",
+   "i": "https://imglife.pravda.com.ua/life/images/doc/c/a/151231/cacf8dced3415c27a588eeab07e40997.jpeg?w=390&q=90&f=jpeg",
+   "d": "2026-11-28T07:00:00+00:00",
+   "c": [
+    "zhyttia"
+   ]
+  },
+  {
    "t": "Вино як мовчазний вибір залишитися. Як подружжя з Бердянська заснувало виноробню на київських дачах",
    "s": "Економічна правда",
    "u": "https://epravda.com.ua/biznes/vinorobnya-unat-rozvitok-kraftovogo-vinorobstva-v-kiyevi-828134/",
@@ -9374,16 +9462,6 @@
    ],
    "r": [
     "zaporizhzhia"
-   ]
-  },
-  {
-   "t": "Через рекордну спеку 2023-2024 років у світі різко скоротилися обсяги поверхневих прісних вод – учені",
-   "s": "Українська правда. Життя",
-   "u": "https://life.pravda.com.ua/society/cherez-speku-u-sviti-rizko-skorotilisya-zapasi-prisnoji-vodi-319382/",
-   "i": "https://imglife.pravda.com.ua/life/images/doc/c/a/151231/cacf8dced3415c27a588eeab07e40997.jpeg?w=390&q=90&f=jpeg",
-   "d": "2026-11-28T07:00:00+00:00",
-   "c": [
-    "zhyttia"
    ]
   },
   {
@@ -15148,80 +15226,6 @@
    "d": "2026-11-27T16:31:00+00:00",
    "c": [
     "holovne"
-   ]
-  },
-  {
-   "t": "«Не хочемо, щоб закривалася». Дитячу бібліотеку у Рівному планують об'єднати з дорослою: що зміниться",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/rivne/1458436-ne-hocemo-sob-zakrivalasa-ditacu-biblioteku-u-rivnomu-planuut-obednati-z-doroslou-so-zminitsa/",
-   "x": "Дитячу бібліотеку на вулиці Василя Червонія у Рівному планують об'єднати з міською бібліотекою-філією №10, яка розташована у сусідньому приміщенні. Це можуть зробити у рамках оптимізації бібліотечної мережі",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-27T16:30:43+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "rivne"
-   ]
-  },
-  {
-   "t": "МОСТ УПАЛ – рОССИЯНИН ПОПЛЫЛ",
-   "s": "5 канал · відео",
-   "u": "https://www.youtube.com/watch?v=Sl2cl0imPm8",
-   "x": "Відео надано каналом @Військовий_Екстрасенс Патреон: https://patreon.com/projects5 Долучайтеся до збору на рації для ЗСУ: 🔗https://send.monobank.ua/jar/5AEPyNCvkG Номер карти: 5375411204592088 PayPal…",
-   "i": "https://i4.ytimg.com/vi/Sl2cl0imPm8/hqdefault.jpg",
-   "d": "2026-11-27T16:30:31+00:00",
-   "c": [
-    "video"
-   ],
-   "v": 1
-  },
-  {
-   "t": "💥СКАНДАЛЬНЫЙ ОПРОС россиян по войне взорвал сеть! ПЕРЕОБУЛИСЬ в миг. Ошарашили ответами",
-   "s": "24 Канал · відео",
-   "u": "https://www.youtube.com/watch?v=8EudyhKrWHA",
-   "x": "Жителей России спросили по поводу войны. Россияне резко изменили свою позицию и удивили неожиданными ответами. Что они ответили, детальнее об этом и не только – смотрите в видео. В видео использованы кадры…",
-   "i": "https://i1.ytimg.com/vi/8EudyhKrWHA/hqdefault.jpg",
-   "d": "2026-11-27T16:30:30+00:00",
-   "c": [
-    "video"
-   ],
-   "v": 1
-  },
-  {
-   "t": "Науковці розробили розумні навушники, які допомагають відновлювати рівновагу",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/tech/evrt-navushniki-dlya-likuvannya-zapamorochennya-vid-naukovtsiv_n3215978",
-   "x": "Науковці Кембриджського університету розробили пристрій eVRT у формі навушників, який відстежує рухи голови та рівновагу людини. Він допомагає контролювати виконання терапевтичних вправ удома та передавати результати…",
-   "i": "https://24tv.ua/resources/photos/news/202611/3215978.jpg?v=1795790087000&q=100",
-   "d": "2026-11-27T16:30:00+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
-   "t": "Науковці розробили розумні навушники, які допомагають відновлювати рівновагу",
-   "s": "24 Канал",
-   "u": "https://24tv.ua/tech/ru/evrt-naushniki-dlja-lechenija-golovokruzhenija-razrabotannye_n3215981",
-   "x": "Науковці Кембриджського університету розробили пристрій eVRT у формі навушників, який відстежує рухи голови та рівновагу людини. Він допомагає контролювати виконання терапевтичних вправ удома та передавати результати…",
-   "i": "https://24tv.ua/resources/photos/news/202611/3215978.jpg?v=1795790087000&q=100",
-   "d": "2026-11-27T16:30:00+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
-   "t": "«Про вагітність дізналася на позиції»: як операторка РЕБ Плещеєва готується до материнства на Буковині",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/chernivtsi/1458184-pro-vagitnist-diznalasa-na-pozicii-ak-operatorka-reb-pleseeva-gotuetsa-do-materinstva-na-bukovini/",
-   "x": "Військова Марина Плещеєва з позивним Мавка дізналася про вагітність на позиції. Вона розповіла про службу в 93 бригаді, підтримку побратимів, стосунки з чоловіком-військовим та підготовку до материнства",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-27T16:30:00+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "chernivtsi"
    ]
   }
  ]
