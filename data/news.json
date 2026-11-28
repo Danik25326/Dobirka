@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T02:09:36+00:00",
+ "updated": "2026-11-28T02:10:49+00:00",
  "topics": [
   {
    "id": "holovne",
@@ -241,15 +241,11 @@
    "d": "2026-11-27T21:51:15+00:00"
   },
   {
-   "t": "У Кременчуці внаслідок обстрілу постраждали люди та заклади освіти",
-   "u": "https://suspilne.media/poltava/1458561-u-kremencuci-vnaslidok-obstrilu-postrazdali-ludi-ta-zakladi-osviti/",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "t": "Росіяни атакували два заклади освіти в центрі Кременчука: поранені діти",
+   "u": "https://www.pravda.com.ua/news/2026/11/27/8065058/",
+   "i": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/a/f/966540/aff3a026049c8950c367b6f6ec57e485.jpeg",
    "n": 3,
    "l": [
-    {
-     "s": "Суспільне",
-     "u": "https://suspilne.media/poltava/1458561-u-kremencuci-vnaslidok-obstrilu-postrazdali-ludi-ta-zakladi-osviti/"
-    },
     {
      "s": "Українська правда",
      "u": "https://www.pravda.com.ua/news/2026/11/27/8065058/"
@@ -257,9 +253,13 @@
     {
      "s": "Інтерфакс-Україна",
      "u": "https://interfax.com.ua/news/general/1243801.html"
+    },
+    {
+     "s": "Суспільне",
+     "u": "https://suspilne.media/poltava/1458561-u-kremencuci-vnaslidok-obstrilu-postrazdali-ludi-ta-zakladi-osviti/"
     }
    ],
-   "d": "2026-11-27T20:40:37+00:00"
+   "d": "2026-11-27T20:31:00+00:00"
   },
   {
    "t": "Міноборони оновило критерії для підприємств ОПК: що змінилося для бронювання працівників",
@@ -389,6 +389,17 @@
   }
  ],
  "items": [
+  {
+   "t": "Угорщина зняла заборону на в'їзд для Роберта «Мадяра» Бровді, запроваджену після атак на нафтопровід «Дружба»",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1458581-ugorsina-znala-zaboronu-na-vizd-dla-roberta-madara-brovdi-zaprovadzenu-pisla-atak-na-naftoprovid-druzba/",
+   "x": "Як пише Magyar Hang, заборону для Роберта Бровді зняли до зустрічі прем'єра Угорщини із Зеленським. Її запровадили після атак на нафтопровід Дружба",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-28T02:03:48+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
   {
    "t": "€1,6 трлн за поразку України: скільки Європі доведеться заплатити в разі перемоги Росії",
    "s": "ZN.UA",
@@ -1169,20 +1180,6 @@
    ]
   },
   {
-   "t": "У Кременчуці внаслідок обстрілу постраждали люди та заклади освіти",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/poltava/1458561-u-kremencuci-vnaslidok-obstrilu-postrazdali-ludi-ta-zakladi-osviti/",
-   "x": "Про пошкодження закладів повідомили о 21:47. Спочатку було відомо про двох травмованих дітей віком 12 та 13 років. Їм надавали необхідну медичну допомогу",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-27T20:40:37+00:00",
-   "c": [
-    "holovne"
-   ],
-   "r": [
-    "poltava"
-   ]
-  },
-  {
    "t": "⚡️Лукашенко РАЗОРВАЛ ОБРАЩЕНИЕМ к Киеву! Удар В СПИНУ Путину. Ответ Зеленского ДОБИЛ Минск",
    "s": "24 Канал · відео",
    "u": "https://www.youtube.com/watch?v=83wSfo6SrLI",
@@ -1368,6 +1365,17 @@
    ]
   },
   {
+   "t": "Путін заявив про необхідність готувати підводні човни ВМС РФ до «вирішення бойових завдань» у Світовому океані",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/1458554-putin-zaaviv-pro-neobhidnist-gotuvati-pidvodni-covni-vms-rf-do-virisenna-bojovih-zavdan-u-svitovomu-okeani/",
+   "x": "Ця заява Путіна пролунала на тлі розширення географії атак на російські судна. Зокрема 21 листопада у Фінській затоці було атаковано вантажний корабель Sparta II, а 22 листопада біля берегів Лівії — корвет «Меркурій» і…",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-27T20:14:00+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "Директор НАБУ заявив, що перед відрядженням йому не надходило запрошення на ТСК",
    "s": "Українська правда",
    "u": "https://www.pravda.com.ua/news/2026/11/27/8065051/",
@@ -1377,17 +1385,6 @@
    "c": [
     "holovne",
     "vazhlyve"
-   ]
-  },
-  {
-   "t": "Путін заявив про необхідність готувати підводні човни ВМС РФ до «вирішення бойових завдань» у Світовому океані",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/1458554-putin-zaaviv-pro-neobhidnist-gotuvati-pidvodni-covni-vms-rf-do-virisenna-bojovih-zavdan-u-svitovomu-okeani/",
-   "x": "Ця заява Путіна пролунала на тлі розширення географії атак на російські судна. Зокрема 21 листопада у Фінській затоці було атаковано вантажний корабель Sparta II, а 22 листопада біля берегів Лівії — корвет «Меркурій» і…",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-27T20:14:00+00:00",
-   "c": [
-    "holovne"
    ]
   },
   {
@@ -2274,17 +2271,6 @@
    ]
   },
   {
-   "t": "Збірна України відкрила сезон Кубка світу з лижних перегонів: результати",
-   "s": "Суспільне",
-   "u": "https://suspilne.media/sport/1458484-zbirna-ukraini-vidkrila-sezon-kubka-svitu-z-liznih-peregoniv-rezultati/",
-   "x": "Лижники України взяли участь у першому етапі Кубка світу нового сезону — у фінській Руці. У гонках з роздільним стартом на 10 кілометрів взяли участь сім українців: результати",
-   "i": "https://cdn4.suspilne.media/images/default.jpg",
-   "d": "2026-11-27T18:44:41+00:00",
-   "c": [
-    "holovne"
-   ]
-  },
-  {
    "t": "Росія атакує Україну ударними та реактивними дронами: де вже оголосили тривогу",
    "s": "24 Канал",
    "u": "https://24tv.ua/ru/ataka-dronov-28-nojabrja-kuda-letjat-reaktivnye-bpla-i-kakie-oblasti-nahodjatsja-pod-ugrozoj_n3216133",
@@ -2335,6 +2321,20 @@
    ],
    "r": [
     "kyiv"
+   ]
+  },
+  {
+   "t": "У Кременчуці внаслідок обстрілу постраждали люди та заклади освіти",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/poltava/1458561-u-kremencuci-vnaslidok-obstrilu-postrazdali-ludi-ta-zakladi-osviti/",
+   "x": "Про пошкодження закладів повідомили о 21:47. Спочатку було відомо про двох травмованих дітей віком 12 та 13 років. Їм надавали необхідну медичну допомогу",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-27T18:40:37+00:00",
+   "c": [
+    "holovne"
+   ],
+   "r": [
+    "poltava"
    ]
   },
   {
@@ -4467,6 +4467,17 @@
    ]
   },
   {
+   "t": "Збірна України відкрила сезон Кубка світу з лижних перегонів: результати",
+   "s": "Суспільне",
+   "u": "https://suspilne.media/sport/1458484-zbirna-ukraini-vidkrila-sezon-kubka-svitu-z-liznih-peregoniv-rezultati/",
+   "x": "Лижники України взяли участь у першому етапі Кубка світу нового сезону — у фінській Руці. У гонках з роздільним стартом на 10 кілометрів взяли участь сім українців: результати",
+   "i": "https://cdn4.suspilne.media/images/default.jpg",
+   "d": "2026-11-27T16:44:41+00:00",
+   "c": [
+    "holovne"
+   ]
+  },
+  {
    "t": "Війська РФ завдали понад 20 ударів по Дніпру та області: поранено жінку",
    "s": "Суспільне",
    "u": "https://suspilne.media/dnipro/1458517-vijska-rf-zavdali-ponad-20-udariv-po-dnipru-ta-oblasti-poraneno-ludinu/",
@@ -6480,6 +6491,16 @@
    ]
   },
   {
+   "t": "БТА Банк змінив назву на NovaBank",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/biznes/bta-bank-zminiv-nazvu-na-novabank-828127/",
+   "x": "БТА Банк офіційно змінив назву і розпочинає роботу під брендом NovaBank.",
+   "d": "2026-11-27T15:00:00+00:00",
+   "c": [
+    "ekonomika"
+   ]
+  },
+  {
    "t": "У Києві відкрили меморіал журналісту Ґарету Джонсу, який розповів світові про Голодомор",
    "s": "Українська правда. Життя",
    "u": "https://life.pravda.com.ua/culture/u-kiyevi-vidkrili-pam-yatniy-znak-zhurnalistu-garetu-dzhonsu-319372/",
@@ -6490,16 +6511,6 @@
    ],
    "r": [
     "kyiv"
-   ]
-  },
-  {
-   "t": "БТА Банк змінив назву на NovaBank",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/biznes/bta-bank-zminiv-nazvu-na-novabank-828127/",
-   "x": "БТА Банк офіційно змінив назву і розпочинає роботу під брендом NovaBank.",
-   "d": "2026-11-27T15:00:00+00:00",
-   "c": [
-    "ekonomika"
    ]
   },
   {
@@ -7703,6 +7714,16 @@
    ]
   },
   {
+   "t": "Зонд на рекордній відстані від Землі припинив надсилати дані",
+   "s": "Економічна правда",
+   "u": "https://epravda.com.ua/biznes/zond-na-rekordniy-vidstani-vid-zemli-pripiniv-nadsilati-dani-828123/",
+   "x": "Космічний апарат NASA, Voyager, який знаходиться за 26 мільярдів кілометрів від Землі, припинив надсилати дані.",
+   "d": "2026-11-27T14:00:00+00:00",
+   "c": [
+    "ekonomika"
+   ]
+  },
+  {
    "t": "У Британії ухвалили важливе рішення щодо Ф'юрі після зізнання про шизофренію",
    "s": "24 Канал",
    "u": "https://sportnews.24tv.ua/tayson-fyuri-vidomo-zmozhe-vin-bitisya-proti-entoni-dzhoshua_n3215917",
@@ -7722,16 +7743,6 @@
    "d": "2026-11-27T14:00:00+00:00",
    "c": [
     "zhyttia"
-   ]
-  },
-  {
-   "t": "Зонд на рекордній відстані від Землі припинив надсилати дані",
-   "s": "Економічна правда",
-   "u": "https://epravda.com.ua/biznes/zond-na-rekordniy-vidstani-vid-zemli-pripiniv-nadsilati-dani-828123/",
-   "x": "Космічний апарат NASA, Voyager, який знаходиться за 26 мільярдів кілометрів від Землі, припинив надсилати дані.",
-   "d": "2026-11-27T14:00:00+00:00",
-   "c": [
-    "ekonomika"
    ]
   },
   {
@@ -15071,17 +15082,6 @@
     "video"
    ],
    "v": 1
-  },
-  {
-   "t": "Нідерланди виступили проти нових обмежень США на експорт обладнання ASML до Китаю",
-   "s": "ZN.UA",
-   "u": "https://zn.ua/ukr/TECHNOLOGIES/niderlandi-vistupili-proti-novikh-obmezhen-ssha-na-eksport-obladnannja-asml-do-kitaju.html",
-   "x": "Гаага закликає ЄС координувати відповідь, побоюючись втручання Вашингтона в експортну політику.",
-   "i": "https://zn.ua/img/article/7062/9_main.webp",
-   "d": "2026-11-27T08:37:00+00:00",
-   "c": [
-    "statti"
-   ]
   }
  ]
 }
